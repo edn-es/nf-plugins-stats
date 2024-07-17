@@ -1,0 +1,1371 @@
+[
+    {
+        "id": "nf-amazon",
+        "releases": [
+            {
+                "name": "Version 2.6.0",
+                "count": 3409
+            },
+            {
+                "name": "Version 2.5.2",
+                "count": 13924
+            },
+            {
+                "name": "Version 2.5.1",
+                "count": 30
+            },
+            {
+                "name": "Version 2.5.0",
+                "count": 587
+            },
+            {
+                "name": "Version 2.4.2",
+                "count": 4551
+            },
+            {
+                "name": "Version 2.4.1",
+                "count": 5717
+            },
+            {
+                "name": "Version 2.4.0",
+                "count": 7553
+            },
+            {
+                "name": "Version 2.3.0",
+                "count": 3074
+            },
+            {
+                "name": "Version 2.2.0",
+                "count": 2276
+            },
+            {
+                "name": "Version 2.1.4-patch2",
+                "count": 33
+            },
+            {
+                "name": "Version 2.1.4-patch1",
+                "count": 25
+            },
+            {
+                "name": "Version 2.1.4",
+                "count": 72949
+            },
+            {
+                "name": "Version 2.1.3",
+                "count": 2217
+            },
+            {
+                "name": "Version 2.1.2",
+                "count": 2617
+            },
+            {
+                "name": "Version 2.1.1",
+                "count": 7959
+            },
+            {
+                "name": "Version 2.1.0",
+                "count": 864
+            },
+            {
+                "name": "Version 2.0.1",
+                "count": 3784
+            },
+            {
+                "name": "Version 2.0.0",
+                "count": 1910
+            },
+            {
+                "name": "Version 1.16.2",
+                "count": 107454
+            },
+            {
+                "name": "Version 1.16.1",
+                "count": 26092
+            },
+            {
+                "name": "Version 1.16.0",
+                "count": 851
+            },
+            {
+                "name": "Version 1.15.0",
+                "count": 1516
+            },
+            {
+                "name": "Version 1.14.0",
+                "count": 217
+            },
+            {
+                "name": "Version 1.13.0",
+                "count": 1649
+            },
+            {
+                "name": "Version 1.12.0",
+                "count": 2365
+            },
+            {
+                "name": "Version 1.11.5",
+                "count": 9694
+            },
+            {
+                "name": "Version 1.11.4",
+                "count": 82252
+            },
+            {
+                "name": "Version 1.11.3",
+                "count": 28212
+            },
+            {
+                "name": "Version 1.11.2",
+                "count": 18532
+            },
+            {
+                "name": "Version 1.11.1",
+                "count": 7496
+            }
+        ]
+    },
+    {
+        "id": "nf-console",
+        "releases": [
+            {
+                "name": "Version 1.1.3",
+                "count": 153
+            },
+            {
+                "name": "Version 1.1.2",
+                "count": 4
+            },
+            {
+                "name": "Version 1.1.1",
+                "count": 17
+            },
+            {
+                "name": "Version 1.1.0",
+                "count": 8
+            },
+            {
+                "name": "Version 1.0.7",
+                "count": 9
+            },
+            {
+                "name": "Version 1.0.6-patch1",
+                "count": 1
+            },
+            {
+                "name": "Version 1.0.6",
+                "count": 696
+            },
+            {
+                "name": "Version 1.0.5",
+                "count": 826
+            },
+            {
+                "name": "Version 1.0.4",
+                "count": 770
+            },
+            {
+                "name": "Version 1.0.3",
+                "count": 1395
+            },
+            {
+                "name": "Version 1.0.2",
+                "count": 614
+            },
+            {
+                "name": "Version 1.0.1",
+                "count": 39
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "id": "nf-google",
+        "releases": [
+            {
+                "name": "Version 1.13.4",
+                "count": 53
+            },
+            {
+                "name": "Version 1.13.3",
+                "count": 163
+            },
+            {
+                "name": "Version 1.13.2-patch1",
+                "count": 191
+            },
+            {
+                "name": "Version 1.13.2",
+                "count": 1198
+            },
+            {
+                "name": "Version 1.13.1",
+                "count": 3
+            },
+            {
+                "name": "Version 1.13.0",
+                "count": 124
+            },
+            {
+                "name": "Version 1.12.0",
+                "count": 409
+            },
+            {
+                "name": "Version 1.11.0",
+                "count": 920
+            },
+            {
+                "name": "Version 1.10.0",
+                "count": 352
+            },
+            {
+                "name": "Version 1.9.0",
+                "count": 212
+            },
+            {
+                "name": "Version 1.8.3-patch2",
+                "count": 15
+            },
+            {
+                "name": "Version 1.8.3-patch1",
+                "count": 17
+            },
+            {
+                "name": "Version 1.8.3",
+                "count": 7840
+            },
+            {
+                "name": "Version 1.8.2",
+                "count": 57
+            },
+            {
+                "name": "Version 1.8.1",
+                "count": 4169
+            },
+            {
+                "name": "Version 1.8.0",
+                "count": 337
+            },
+            {
+                "name": "Version 1.7.4",
+                "count": 131
+            },
+            {
+                "name": "Version 1.7.3-patch1",
+                "count": 479
+            },
+            {
+                "name": "Version 1.7.3",
+                "count": 4664
+            },
+            {
+                "name": "Version 1.7.2",
+                "count": 1009
+            },
+            {
+                "name": "Version 1.7.1",
+                "count": 43
+            },
+            {
+                "name": "Version 1.7.0",
+                "count": 66
+            },
+            {
+                "name": "Version 1.6.0",
+                "count": 57
+            },
+            {
+                "name": "Version 1.5.0",
+                "count": 106
+            },
+            {
+                "name": "Version 1.4.6",
+                "count": 167
+            },
+            {
+                "name": "Version 1.4.5",
+                "count": 6086
+            },
+            {
+                "name": "Version 1.4.4",
+                "count": 18044
+            },
+            {
+                "name": "Version 1.4.3",
+                "count": 74
+            },
+            {
+                "name": "Version 1.4.2",
+                "count": 110
+            },
+            {
+                "name": "Version 1.4.1",
+                "count": 102
+            }
+        ]
+    },
+    {
+        "id": "nf-ignite",
+        "releases": [
+            {
+                "name": "Version 1.2.3",
+                "count": 876
+            },
+            {
+                "name": "Version 1.2.2",
+                "count": 131
+            },
+            {
+                "name": "Version 1.2.1",
+                "count": 94
+            },
+            {
+                "name": "Version 1.2.0",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "id": "nf-tower",
+        "releases": [
+            {
+                "name": "Version 1.9.1",
+                "count": 2709
+            },
+            {
+                "name": "Version 1.9.0",
+                "count": 848
+            },
+            {
+                "name": "Version 1.8.1",
+                "count": 640
+            },
+            {
+                "name": "Version 1.8.0",
+                "count": 2777
+            },
+            {
+                "name": "Version 1.7.0",
+                "count": 3497
+            },
+            {
+                "name": "Version 1.6.3-patch1",
+                "count": 62
+            },
+            {
+                "name": "Version 1.6.3",
+                "count": 13235
+            },
+            {
+                "name": "Version 1.6.2",
+                "count": 306
+            },
+            {
+                "name": "Version 1.6.1",
+                "count": 3854
+            },
+            {
+                "name": "Version 1.6.0",
+                "count": 875
+            },
+            {
+                "name": "Version 1.5.15",
+                "count": 127
+            },
+            {
+                "name": "Version 1.5.14",
+                "count": 1302
+            },
+            {
+                "name": "Version 1.5.13",
+                "count": 780
+            },
+            {
+                "name": "Version 1.5.12",
+                "count": 11152
+            },
+            {
+                "name": "Version 1.5.11",
+                "count": 644
+            },
+            {
+                "name": "Version 1.5.10",
+                "count": 713
+            },
+            {
+                "name": "Version 1.5.9",
+                "count": 78
+            },
+            {
+                "name": "Version 1.5.8",
+                "count": 371
+            },
+            {
+                "name": "Version 1.5.7-patch0",
+                "count": 623
+            },
+            {
+                "name": "Version 1.5.7",
+                "count": 36
+            },
+            {
+                "name": "Version 1.5.6.1",
+                "count": 2
+            },
+            {
+                "name": "Version 1.5.6",
+                "count": 9658
+            },
+            {
+                "name": "Version 1.5.5",
+                "count": 7888
+            },
+            {
+                "name": "Version 1.5.4",
+                "count": 556
+            },
+            {
+                "name": "Version 1.5.3",
+                "count": 43
+            },
+            {
+                "name": "Version 1.5.2",
+                "count": 246
+            },
+            {
+                "name": "Version 1.5.1",
+                "count": 472
+            },
+            {
+                "name": "Version 1.5.0",
+                "count": 330
+            },
+            {
+                "name": "Version 1.4.0",
+                "count": 8548
+            },
+            {
+                "name": "Version 1.3.0",
+                "count": 10619
+            }
+        ]
+    },
+    {
+        "id": "nf-ga4gh",
+        "releases": [
+            {
+                "name": "Version 1.3.0",
+                "count": 111
+            },
+            {
+                "name": "Version 1.2.0",
+                "count": 3
+            },
+            {
+                "name": "Version 1.1.1",
+                "count": 14
+            },
+            {
+                "name": "Version 1.1.0-patch1",
+                "count": 3
+            },
+            {
+                "name": "Version 1.1.0",
+                "count": 95
+            },
+            {
+                "name": "Version 1.0.6",
+                "count": 106
+            },
+            {
+                "name": "Version 1.0.5",
+                "count": 281
+            },
+            {
+                "name": "Version 1.0.4",
+                "count": 110
+            },
+            {
+                "name": "Version 1.0.3",
+                "count": 27
+            },
+            {
+                "name": "Version 1.0.2",
+                "count": 11
+            },
+            {
+                "name": "Version 1.0.1",
+                "count": 15
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "id": "xpack-amzn",
+        "releases": [
+            {
+                "name": "Version 1.6.0",
+                "count": 367
+            },
+            {
+                "name": "Version 1.5.0",
+                "count": 106
+            },
+            {
+                "name": "Version 1.4.0",
+                "count": 455
+            },
+            {
+                "name": "Version 1.3.1",
+                "count": 6157
+            },
+            {
+                "name": "Version 1.3.0",
+                "count": 1119
+            },
+            {
+                "name": "Version 1.2.1",
+                "count": 2039
+            },
+            {
+                "name": "Version 1.2.0",
+                "count": 28334
+            },
+            {
+                "name": "Version 1.2.0-rc.5",
+                "count": 3565
+            },
+            {
+                "name": "Version 1.2.0-rc.4",
+                "count": 580
+            },
+            {
+                "name": "Version 1.2.0-rc.3",
+                "count": 341
+            },
+            {
+                "name": "Version 1.2.0-rc.2",
+                "count": 130
+            },
+            {
+                "name": "Version 1.2.0-rc.1",
+                "count": 1010
+            },
+            {
+                "name": "Version 1.2.0-rc.0",
+                "count": 32
+            },
+            {
+                "name": "Version 1.1.0",
+                "count": 2395
+            },
+            {
+                "name": "Version 1.0.1",
+                "count": 4211
+            },
+            {
+                "name": "Version 1.0.0-rc1",
+                "count": 6
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 24
+            },
+            {
+                "name": "Version 1.0.0-rc0",
+                "count": 23
+            }
+        ]
+    },
+    {
+        "id": "nf-azure",
+        "releases": [
+            {
+                "name": "Version 1.8.0",
+                "count": 45
+            },
+            {
+                "name": "Version 1.7.0",
+                "count": 655
+            },
+            {
+                "name": "Version 1.6.0",
+                "count": 5064
+            },
+            {
+                "name": "Version 1.5.1",
+                "count": 726
+            },
+            {
+                "name": "Version 1.5.0",
+                "count": 441
+            },
+            {
+                "name": "Version 1.4.0",
+                "count": 275
+            },
+            {
+                "name": "Version 1.3.3-patch2",
+                "count": 12
+            },
+            {
+                "name": "Version 1.3.3-patch1",
+                "count": 4
+            },
+            {
+                "name": "Version 1.3.3",
+                "count": 3448
+            },
+            {
+                "name": "Version 1.3.2",
+                "count": 2213
+            },
+            {
+                "name": "Version 1.3.1",
+                "count": 93
+            },
+            {
+                "name": "Version 1.3.0",
+                "count": 190
+            },
+            {
+                "name": "Version 1.2.0",
+                "count": 54
+            },
+            {
+                "name": "Version 1.1.4",
+                "count": 56
+            },
+            {
+                "name": "Version 1.1.3",
+                "count": 191
+            },
+            {
+                "name": "Version 1.1.2",
+                "count": 7
+            },
+            {
+                "name": "Version 1.1.1",
+                "count": 1720
+            },
+            {
+                "name": "Version 1.1.0",
+                "count": 2052
+            },
+            {
+                "name": "Version 1.0.1",
+                "count": 2044
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 86
+            },
+            {
+                "name": "Version 0.16.0",
+                "count": 49
+            },
+            {
+                "name": "Version 0.15.1",
+                "count": 19
+            },
+            {
+                "name": "Version 0.15.0",
+                "count": 115
+            },
+            {
+                "name": "Version 0.14.3",
+                "count": 141
+            },
+            {
+                "name": "Version 0.14.2",
+                "count": 7043
+            },
+            {
+                "name": "Version 0.14.1",
+                "count": 70
+            },
+            {
+                "name": "Version 0.14.0",
+                "count": 65
+            },
+            {
+                "name": "Version 0.13.5",
+                "count": 64
+            },
+            {
+                "name": "Version 0.13.4",
+                "count": 82
+            },
+            {
+                "name": "Version 0.13.3",
+                "count": 64
+            }
+        ]
+    },
+    {
+        "id": "xpack-google",
+        "releases": [
+            {
+                "name": "Version 1.3.0",
+                "count": 11
+            },
+            {
+                "name": "Version 1.2.0",
+                "count": 16
+            },
+            {
+                "name": "Version 1.1.0",
+                "count": 4
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 69
+            },
+            {
+                "name": "Version 1.0.0-beta.3",
+                "count": 37
+            },
+            {
+                "name": "Version 1.0.0-beta.2",
+                "count": 28
+            },
+            {
+                "name": "Version 1.0.0-beta.1",
+                "count": 138
+            }
+        ]
+    },
+    {
+        "id": "nf-hello",
+        "releases": [
+            {
+                "name": "Version 0.5.0",
+                "count": 21
+            },
+            {
+                "name": "Version 0.3.0",
+                "count": 172
+            },
+            {
+                "name": "Version 0.2.0",
+                "count": 81
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 166
+            }
+        ]
+    },
+    {
+        "id": "nf-sqldb",
+        "releases": [
+            {
+                "name": "Version 0.5.0",
+                "count": 1315
+            },
+            {
+                "name": "Version 0.4.1",
+                "count": 620
+            },
+            {
+                "name": "Version 0.4.0",
+                "count": 204
+            },
+            {
+                "name": "Version 0.3.0",
+                "count": 115
+            },
+            {
+                "name": "Version 0.2.0",
+                "count": 234
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 255
+            }
+        ]
+    },
+    {
+        "id": "nf-wr",
+        "releases": [
+            {
+                "name": "Version 1.2.0-rc.2",
+                "count": 114
+            },
+            {
+                "name": "Version 1.2.0-rc.1",
+                "count": 78
+            },
+            {
+                "name": "Version 1.2.0-rc.0",
+                "count": 87
+            }
+        ]
+    },
+    {
+        "id": "nf-codecommit",
+        "releases": [
+            {
+                "name": "Version 0.2.0",
+                "count": 45
+            },
+            {
+                "name": "Version 0.1.6",
+                "count": 35
+            },
+            {
+                "name": "Version 0.1.5-patch1",
+                "count": 8
+            },
+            {
+                "name": "Version 0.1.5",
+                "count": 1591
+            },
+            {
+                "name": "Version 0.1.4",
+                "count": 4583
+            },
+            {
+                "name": "Version 0.1.3",
+                "count": 529
+            },
+            {
+                "name": "Version 0.1.2",
+                "count": 6275
+            },
+            {
+                "name": "Version 0.1.1",
+                "count": 1
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 76
+            }
+        ]
+    },
+    {
+        "id": "nf-wave",
+        "releases": [
+            {
+                "name": "Version 1.4.4",
+                "count": 26
+            },
+            {
+                "name": "Version 1.4.3",
+                "count": 267
+            },
+            {
+                "name": "Version 1.4.2",
+                "count": 1685
+            },
+            {
+                "name": "Version 1.4.1",
+                "count": 115
+            },
+            {
+                "name": "Version 1.4.0",
+                "count": 645
+            },
+            {
+                "name": "Version 1.3.1",
+                "count": 54
+            },
+            {
+                "name": "Version 1.3.0",
+                "count": 1018
+            },
+            {
+                "name": "Version 1.2.0",
+                "count": 1613
+            },
+            {
+                "name": "Version 1.1.0",
+                "count": 1343
+            },
+            {
+                "name": "Version 1.0.1-patch1",
+                "count": 34
+            },
+            {
+                "name": "Version 1.0.1",
+                "count": 8437
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 3847
+            },
+            {
+                "name": "Version 0.14.0",
+                "count": 90
+            },
+            {
+                "name": "Version 0.13.0",
+                "count": 258
+            },
+            {
+                "name": "Version 0.12.0",
+                "count": 515
+            },
+            {
+                "name": "Version 0.11.2",
+                "count": 1806
+            },
+            {
+                "name": "Version 0.11.1",
+                "count": 863
+            },
+            {
+                "name": "Version 0.11.0",
+                "count": 76
+            },
+            {
+                "name": "Version 0.10.0",
+                "count": 847
+            },
+            {
+                "name": "Version 0.9.0",
+                "count": 533
+            },
+            {
+                "name": "Version 0.8.4",
+                "count": 3612
+            },
+            {
+                "name": "Version 0.8.3",
+                "count": 439
+            },
+            {
+                "name": "Version 0.8.2",
+                "count": 1137
+            },
+            {
+                "name": "Version 0.8.1",
+                "count": 140
+            },
+            {
+                "name": "Version 0.8.0",
+                "count": 538
+            },
+            {
+                "name": "Version 0.7.2",
+                "count": 46
+            },
+            {
+                "name": "Version 0.7.1",
+                "count": 102
+            },
+            {
+                "name": "Version 0.7.0",
+                "count": 156
+            },
+            {
+                "name": "Version 0.6.3",
+                "count": 172
+            },
+            {
+                "name": "Version 0.6.2",
+                "count": 78
+            }
+        ]
+    },
+    {
+        "id": "nf-quilt",
+        "releases": [
+            {
+                "name": "Version 0.2.0",
+                "count": 106
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 79
+            }
+        ]
+    },
+    {
+        "id": "nf-synapse",
+        "releases": [
+            
+        ]
+    },
+    {
+        "id": "nf-prov",
+        "releases": [
+            {
+                "name": "Version 1.2.3",
+                "count": 1537
+            },
+            {
+                "name": "Version 1.2.2",
+                "count": 19412
+            },
+            {
+                "name": "Version 1.2.1",
+                "count": 15567
+            },
+            {
+                "name": "Version 1.2.0",
+                "count": 20
+            },
+            {
+                "name": "Version 1.1.0",
+                "count": 1542
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 375
+            }
+        ]
+    },
+    {
+        "id": "nf-cws",
+        "releases": [
+            {
+                "name": "Version 1.0.4",
+                "count": 32
+            },
+            {
+                "name": "Version 1.0.3",
+                "count": 19
+            },
+            {
+                "name": "Version 1.0.2",
+                "count": 143
+            },
+            {
+                "name": "Version 1.0.1",
+                "count": 68
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 76
+            }
+        ]
+    },
+    {
+        "id": "nf-jarvice",
+        "releases": [
+            {
+                "name": "0.7.0",
+                "count": 10
+            },
+            {
+                "name": "0.6.0",
+                "count": 11
+            },
+            {
+                "name": "0.5.0",
+                "count": 9
+            }
+        ]
+    },
+    {
+        "id": "nf-validation",
+        "releases": [
+            {
+                "name": "Version 1.1.3 - Asahikawa",
+                "count": 197970
+            },
+            {
+                "name": "Version 1.1.2 - Wakayama",
+                "count": 3029
+            },
+            {
+                "name": "Version 1.1.1 - Shoyu",
+                "count": 13087
+            },
+            {
+                "name": "Version 1.1.0 - Miso",
+                "count": 1726
+            },
+            {
+                "name": "Version 1.0.0 - Tonkotsu",
+                "count": 2708
+            },
+            {
+                "name": "Version 0.3.4",
+                "count": 58
+            },
+            {
+                "name": "Version 0.3.3",
+                "count": 1173
+            },
+            {
+                "name": "Version 0.3.2",
+                "count": 10127
+            },
+            {
+                "name": "Version 0.3.1",
+                "count": 16602
+            },
+            {
+                "name": "Version 0.3.0",
+                "count": 511
+            },
+            {
+                "name": "Version 0.2.1",
+                "count": 5144
+            },
+            {
+                "name": "Version 0.2.0",
+                "count": 86
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 1194
+            }
+        ]
+    },
+    {
+        "id": "nf-float",
+        "releases": [
+            {
+                "name": "Version 0.4.1",
+                "count": 1136
+            },
+            {
+                "name": "Version 0.4.0",
+                "count": 290
+            },
+            {
+                "name": "Version 0.3.1",
+                "count": 96
+            },
+            {
+                "name": "Version 0.3.0",
+                "count": 39
+            },
+            {
+                "name": "Version 0.2.0",
+                "count": 34
+            },
+            {
+                "name": "Version 0.1.8",
+                "count": 111
+            },
+            {
+                "name": "Version 0.1.7",
+                "count": 120
+            },
+            {
+                "name": "Release 0.1.6",
+                "count": 7
+            },
+            {
+                "name": "Release 0.1.5",
+                "count": 8
+            },
+            {
+                "name": "Release 0.1.4",
+                "count": 6
+            }
+        ]
+    },
+    {
+        "id": "nf-cloudcache",
+        "releases": [
+            {
+                "name": "Version 0.4.1",
+                "count": 3788
+            },
+            {
+                "name": "Version 0.4.0",
+                "count": 51
+            },
+            {
+                "name": "Version 0.3.1",
+                "count": 1181
+            },
+            {
+                "name": "Version 0.3.0-patch1",
+                "count": 64
+            },
+            {
+                "name": "Version 0.3.0",
+                "count": 6735
+            },
+            {
+                "name": "Version 0.2.0",
+                "count": 1190
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 21
+            }
+        ]
+    },
+    {
+        "id": "nf-weblog",
+        "releases": [
+            {
+                "name": "Version 1.1.2",
+                "count": 11521
+            },
+            {
+                "name": "Version 1.1.1",
+                "count": 972
+            },
+            {
+                "name": "Version 1.1.0",
+                "count": 523
+            },
+            {
+                "name": "Version 1.0.0",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "id": "nf-dotenv",
+        "releases": [
+            {
+                "name": "Version 1.0.0",
+                "count": 816
+            }
+        ]
+    },
+    {
+        "id": "nf-iridanext",
+        "releases": [
+            {
+                "name": "Version 0.2.0",
+                "count": 3257
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 84
+            }
+        ]
+    },
+    {
+        "id": "nf-co2footprint",
+        "releases": [
+            {
+                "name": "Version 1.0.0-beta",
+                "count": 297
+            }
+        ]
+    },
+    {
+        "id": "yellowdog",
+        "releases": [
+            {
+                "name": "1.0.1",
+                "count": 13
+            },
+            {
+                "name": "1.0.0",
+                "count": 12
+            },
+            {
+                "name": "0.1.0",
+                "count": 0
+            }
+        ]
+    },
+    {
+        "id": "nf-ffq",
+        "releases": [
+            {
+                "name": "Version 0.2.0",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": "nf-gpt",
+        "releases": [
+            {
+                "name": "Version 0.4.0",
+                "count": 4
+            },
+            {
+                "name": "Version 0.3.0",
+                "count": 1
+            },
+            {
+                "name": "Version 0.2.0",
+                "count": 0
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 3
+            }
+        ]
+    },
+    {
+        "id": "nf-boost",
+        "releases": [
+            {
+                "name": "Version 0.3.2",
+                "count": 219
+            },
+            {
+                "name": "Version 0.3.1",
+                "count": 33
+            },
+            {
+                "name": "Version 0.3.0",
+                "count": 3
+            },
+            {
+                "name": "Version 0.2.0",
+                "count": 5
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "nf-schema",
+        "releases": [
+            {
+                "name": "Version 2.0.1",
+                "count": 54
+            },
+            {
+                "name": "Version 2.0.0 - Kagoshima",
+                "count": 4438
+            }
+        ]
+    },
+    {
+        "id": "nf-nomad",
+        "releases": [
+            {
+                "name": "0.1.2-edge3",
+                "count": 2
+            },
+            {
+                "name": "0.1.2-beta2",
+                "count": 1
+            },
+            {
+                "name": "0.1.2-beta1",
+                "count": 2
+            },
+            {
+                "name": "0.1.1",
+                "count": 4
+            },
+            {
+                "name": "Version 0.1.0",
+                "count": 4
+            },
+            {
+                "name": "Version 0.0.2",
+                "count": 7
+            },
+            {
+                "name": "Version 0.0.1",
+                "count": 27
+            }
+        ]
+    }
+]
