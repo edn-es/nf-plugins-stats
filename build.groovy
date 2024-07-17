@@ -11,11 +11,11 @@ def plugins = jsonSlurper.parse("https://raw.githubusercontent.com/nextflow-io/p
 def stats = plugins.collect{ plugin ->
 	println plugin.id
 
-	def ret = [id: plugin.id, releases:[]]
-	
 	def parts = plugin.releases.first().url.split("/")
 	def org = parts[3]
 	def repo= parts[4]
+
+	def ret = [id: plugin.id, url: "https://github.com/$org/$repo", releases:[]]
 
 	def request = HttpRequest.newBuilder()
 		.uri(new URI("https://api.github.com/repos/$org/$repo/releases".toString()))

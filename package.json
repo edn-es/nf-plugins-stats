@@ -11,6 +11,10 @@
   },
   "dependencies": {
     "@primevue/themes": "^4.0.0",
+    "chart.js": "^4.4.3",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "date-fns": "^3.6.0",
+    "primeicons": "^7.0.0",
     "primevue": "^4.0.0",
     "tailwindcss-primeui": "^0.3.4",
     "vue": "^3.4.31"
