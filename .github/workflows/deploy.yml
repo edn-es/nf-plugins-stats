@@ -20,7 +20,7 @@ jobs:
       - name: Install Groovy
         run: sudo apt-get update && sudo apt-get install -y groovy
       - name: Run Groovy script
-        run: groovy build.groovy ${{ secrets.GITHUB_TOKEN }} public/test.json
+        run: groovy build.groovy ${{ secrets.GITHUB_TOKEN }} public/last.json
       - name: Installing project dependencies
         run: npm install
       - name: Building the project
