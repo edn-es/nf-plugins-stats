@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
+    "build-github": "vite build --base=/nf-plugins-stats/",
     "preview": "vite preview"
   },
   "dependencies": {
