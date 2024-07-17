@@ -21,7 +21,7 @@ const updateJson = ()=>{
 }
 
 const formatNumber= (n)=>{
-  return new Intl.NumberFormat('en-IN').format(n);
+  return new Intl.NumberFormat('en-EN').format(n);
 }
 
 const totalDownload = (plugin)=>{
