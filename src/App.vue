@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import PluginsChart from './components/PluginsChart.vue';
 </script>
 
 <template>
-  <HelloWorld msg="Nextflow Plugins Statistics" />
+  <PluginsChart msg="Nextflow Plugins Statistics" />
 </template>
 
 <style scoped>
