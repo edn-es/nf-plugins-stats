@@ -5,21 +5,21 @@
         "releases": [
             {
                 "name": "Version 2.6.0",
-                "count": 3422,
+                "count": 3581,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-17T20:45:25Z"
             },
             {
                 "name": "Version 2.5.2",
-                "count": 13949,
+                "count": 18858,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T10:03:27Z"
             },
             {
                 "name": "Version 2.5.1",
-                "count": 30,
+                "count": 31,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-14T08:17:18Z"
@@ -33,7 +33,7 @@
             },
             {
                 "name": "Version 2.4.2",
-                "count": 4551,
+                "count": 4582,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:37:55Z"
@@ -47,21 +47,21 @@
             },
             {
                 "name": "Version 2.4.0",
-                "count": 7553,
+                "count": 7608,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:26:49Z"
             },
             {
                 "name": "Version 2.3.0",
-                "count": 3074,
+                "count": 3094,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-26T10:48:24Z"
             },
             {
                 "name": "Version 2.2.0",
-                "count": 2277,
+                "count": 2281,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:39:48Z"
@@ -75,14 +75,14 @@
             },
             {
                 "name": "Version 2.1.4-patch1",
-                "count": 25,
+                "count": 26,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:03Z"
             },
             {
                 "name": "Version 2.1.4",
-                "count": 73085,
+                "count": 73705,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:00Z"
@@ -103,7 +103,7 @@
             },
             {
                 "name": "Version 2.1.1",
-                "count": 7959,
+                "count": 7960,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-05T15:04:14Z"
@@ -124,35 +124,35 @@
             },
             {
                 "name": "Version 2.0.0",
-                "count": 1912,
+                "count": 1913,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-05-15T03:54:49Z"
             },
             {
                 "name": "Version 1.16.2",
-                "count": 107518,
+                "count": 108011,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:16:38Z"
             },
             {
                 "name": "Version 1.16.1",
-                "count": 26099,
+                "count": 26123,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-01T21:35:15Z"
             },
             {
                 "name": "Version 1.16.0",
-                "count": 851,
+                "count": 852,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-03-19T18:20:12Z"
             },
             {
                 "name": "Version 1.15.0",
-                "count": 1516,
+                "count": 1519,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-02-21T18:22:05Z"
@@ -180,35 +180,35 @@
             },
             {
                 "name": "Version 1.11.5",
-                "count": 9695,
+                "count": 9710,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-13T14:32:16Z"
             },
             {
                 "name": "Version 1.11.4",
-                "count": 82253,
+                "count": 83472,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-02-18T19:23:03Z"
             },
             {
                 "name": "Version 1.11.3",
-                "count": 28213,
+                "count": 28257,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T13:49:13Z"
             },
             {
                 "name": "Version 1.11.2",
-                "count": 18532,
+                "count": 18538,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-12-09T11:12:59Z"
             },
             {
                 "name": "Version 1.11.1",
-                "count": 7496,
+                "count": 7497,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-11-21T21:43:54Z"
@@ -221,7 +221,7 @@
         "releases": [
             {
                 "name": "Version 1.1.3",
-                "count": 155,
+                "count": 164,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T09:05:48Z"
@@ -263,7 +263,7 @@
             },
             {
                 "name": "Version 1.0.6",
-                "count": 696,
+                "count": 699,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-05-15T03:56:53Z"
@@ -318,7 +318,7 @@
         "releases": [
             {
                 "name": "Version 1.13.4",
-                "count": 53,
+                "count": 149,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-08T20:32:36Z"
@@ -332,14 +332,14 @@
             },
             {
                 "name": "Version 1.13.2-patch1",
-                "count": 201,
+                "count": 249,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-09T21:09:11Z"
             },
             {
                 "name": "Version 1.13.2",
-                "count": 1201,
+                "count": 1243,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T10:03:16Z"
@@ -367,14 +367,14 @@
             },
             {
                 "name": "Version 1.11.0",
-                "count": 925,
+                "count": 947,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:28:13Z"
             },
             {
                 "name": "Version 1.10.0",
-                "count": 352,
+                "count": 369,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-26T10:48:51Z"
@@ -402,7 +402,7 @@
             },
             {
                 "name": "Version 1.8.3",
-                "count": 7842,
+                "count": 7951,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:34Z"
@@ -416,7 +416,7 @@
             },
             {
                 "name": "Version 1.8.1",
-                "count": 4169,
+                "count": 4399,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-07-22T16:07:46Z"
@@ -437,14 +437,14 @@
             },
             {
                 "name": "Version 1.7.3-patch1",
-                "count": 479,
+                "count": 480,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-25T15:47:22Z"
             },
             {
                 "name": "Version 1.7.3",
-                "count": 4665,
+                "count": 4670,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:31:56Z"
@@ -486,21 +486,21 @@
             },
             {
                 "name": "Version 1.4.6",
-                "count": 168,
+                "count": 170,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-13T16:17:49Z"
             },
             {
                 "name": "Version 1.4.5",
-                "count": 6086,
+                "count": 6087,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-11-13T19:09:59Z"
             },
             {
                 "name": "Version 1.4.4",
-                "count": 18044,
+                "count": 18154,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-09-26T15:28:21Z"
@@ -568,35 +568,35 @@
         "releases": [
             {
                 "name": "Version 1.9.1",
-                "count": 2720,
+                "count": 2871,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-13T09:49:36Z"
             },
             {
                 "name": "Version 1.9.0",
-                "count": 848,
+                "count": 878,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:39:32Z"
             },
             {
                 "name": "Version 1.8.1",
-                "count": 641,
+                "count": 657,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-10T20:05:14Z"
             },
             {
                 "name": "Version 1.8.0",
-                "count": 2777,
+                "count": 2830,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:31:27Z"
             },
             {
                 "name": "Version 1.7.0",
-                "count": 3498,
+                "count": 3515,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:36Z"
@@ -610,7 +610,7 @@
             },
             {
                 "name": "Version 1.6.3",
-                "count": 13265,
+                "count": 13590,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:46Z"
@@ -624,7 +624,7 @@
             },
             {
                 "name": "Version 1.6.1",
-                "count": 3854,
+                "count": 3856,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:33:01Z"
@@ -659,7 +659,7 @@
             },
             {
                 "name": "Version 1.5.12",
-                "count": 11152,
+                "count": 11157,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:34:42Z"
@@ -673,7 +673,7 @@
             },
             {
                 "name": "Version 1.5.10",
-                "count": 713,
+                "count": 714,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-02-21T18:22:34Z"
@@ -694,7 +694,7 @@
             },
             {
                 "name": "Version 1.5.7-patch0",
-                "count": 624,
+                "count": 625,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-13T15:14:42Z"
@@ -715,7 +715,7 @@
             },
             {
                 "name": "Version 1.5.6",
-                "count": 9658,
+                "count": 9671,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-11-13T19:10:14Z"
@@ -764,7 +764,7 @@
             },
             {
                 "name": "Version 1.4.0",
-                "count": 8559,
+                "count": 8584,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-02-07T11:17:54Z"
@@ -874,7 +874,7 @@
         "releases": [
             {
                 "name": "Version 1.6.0",
-                "count": 368,
+                "count": 405,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-14T08:26:05Z"
@@ -888,35 +888,35 @@
             },
             {
                 "name": "Version 1.4.0",
-                "count": 455,
+                "count": 456,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-26T12:51:36Z"
             },
             {
                 "name": "Version 1.3.1",
-                "count": 6162,
+                "count": 6202,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-09T19:34:24Z"
             },
             {
                 "name": "Version 1.3.0",
-                "count": 1119,
+                "count": 1120,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-05-19T08:11:20Z"
             },
             {
                 "name": "Version 1.2.1",
-                "count": 2039,
+                "count": 2040,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T19:03:04Z"
             },
             {
                 "name": "Version 1.2.0",
-                "count": 28334,
+                "count": 28335,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-07-25T16:29:35Z"
@@ -972,7 +972,7 @@
             },
             {
                 "name": "Version 1.0.1",
-                "count": 4217,
+                "count": 4225,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-03-09T14:00:54Z"
@@ -1006,7 +1006,7 @@
         "releases": [
             {
                 "name": "Version 1.8.0",
-                "count": 45,
+                "count": 80,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-08T20:32:22Z"
@@ -1020,7 +1020,7 @@
             },
             {
                 "name": "Version 1.6.0",
-                "count": 5077,
+                "count": 5235,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:38:09Z"
@@ -1062,14 +1062,14 @@
             },
             {
                 "name": "Version 1.3.3",
-                "count": 3448,
+                "count": 3456,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-01-12T23:26:07Z"
             },
             {
                 "name": "Version 1.3.2",
-                "count": 2217,
+                "count": 2265,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-27T22:22:10Z"
@@ -1118,7 +1118,7 @@
             },
             {
                 "name": "Version 1.1.1",
-                "count": 1720,
+                "count": 1721,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-06-14T20:45:07Z"
@@ -1132,7 +1132,7 @@
             },
             {
                 "name": "Version 1.0.1",
-                "count": 2044,
+                "count": 2045,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:18:29Z"
@@ -1174,7 +1174,7 @@
             },
             {
                 "name": "Version 0.14.2",
-                "count": 7043,
+                "count": 7047,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-09-19T21:14:50Z"
@@ -1188,7 +1188,7 @@
             },
             {
                 "name": "Version 0.14.0",
-                "count": 65,
+                "count": 66,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-09-07T20:06:02Z"
@@ -1202,7 +1202,7 @@
             },
             {
                 "name": "Version 0.13.4",
-                "count": 82,
+                "count": 83,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-08-01T16:54:20Z"
@@ -1311,7 +1311,7 @@
         "releases": [
             {
                 "name": "Version 0.5.0",
-                "count": 1315,
+                "count": 1319,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-08-30T19:40:03Z"
@@ -1386,14 +1386,14 @@
         "releases": [
             {
                 "name": "Version 0.2.0",
-                "count": 45,
+                "count": 46,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:27:54Z"
             },
             {
                 "name": "Version 0.1.6",
-                "count": 35,
+                "count": 40,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:10Z"
@@ -1414,14 +1414,14 @@
             },
             {
                 "name": "Version 0.1.4",
-                "count": 4585,
+                "count": 4592,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:23:34Z"
             },
             {
                 "name": "Version 0.1.3",
-                "count": 529,
+                "count": 532,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T17:46:15Z"
@@ -1455,21 +1455,21 @@
         "releases": [
             {
                 "name": "Version 1.4.4",
-                "count": 26,
+                "count": 28,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-08T20:32:47Z"
             },
             {
                 "name": "Version 1.4.3",
-                "count": 267,
+                "count": 277,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-17T20:47:09Z"
             },
             {
                 "name": "Version 1.4.2",
-                "count": 1688,
+                "count": 1767,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T09:06:12Z"
@@ -1504,14 +1504,14 @@
             },
             {
                 "name": "Version 1.2.0",
-                "count": 1613,
+                "count": 1631,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-20T11:10:40Z"
             },
             {
                 "name": "Version 1.1.0",
-                "count": 1344,
+                "count": 1347,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:42Z"
@@ -1525,14 +1525,14 @@
             },
             {
                 "name": "Version 1.0.1",
-                "count": 8467,
+                "count": 8776,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-01-12T23:25:55Z"
             },
             {
                 "name": "Version 1.0.0",
-                "count": 3850,
+                "count": 3859,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-15T15:15:33Z"
@@ -1560,7 +1560,7 @@
             },
             {
                 "name": "Version 0.11.2",
-                "count": 1806,
+                "count": 1808,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:33:25Z"
@@ -1581,7 +1581,7 @@
             },
             {
                 "name": "Version 0.10.0",
-                "count": 847,
+                "count": 848,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-06-14T20:46:36Z"
@@ -1595,7 +1595,7 @@
             },
             {
                 "name": "Version 0.8.4",
-                "count": 3613,
+                "count": 3614,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-11T18:26:35Z"
@@ -1623,7 +1623,7 @@
             },
             {
                 "name": "Version 0.8.0",
-                "count": 538,
+                "count": 539,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-03-19T18:19:33Z"
@@ -1644,7 +1644,7 @@
             },
             {
                 "name": "Version 0.7.0",
-                "count": 156,
+                "count": 157,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T17:45:30Z"
@@ -1698,21 +1698,21 @@
         "releases": [
             {
                 "name": "Version 1.2.3",
-                "count": 1574,
+                "count": 1776,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-07-03T16:32:45Z"
             },
             {
                 "name": "Version 1.2.2",
-                "count": 19418,
+                "count": 19558,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-03-27T20:36:32Z"
             },
             {
                 "name": "Version 1.2.1",
-                "count": 15567,
+                "count": 15574,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-10-27T19:32:54Z"
@@ -1814,7 +1814,7 @@
         "releases": [
             {
                 "name": "Version 1.1.3 - Asahikawa",
-                "count": 198220,
+                "count": 201702,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-11-21T10:34:50Z"
@@ -1828,7 +1828,7 @@
             },
             {
                 "name": "Version 1.1.1 - Shoyu",
-                "count": 13087,
+                "count": 13095,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-10-23T11:36:49Z"
@@ -1870,7 +1870,7 @@
             },
             {
                 "name": "Version 0.3.1",
-                "count": 16602,
+                "count": 16650,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-07-12T09:10:39Z"
@@ -1884,7 +1884,7 @@
             },
             {
                 "name": "Version 0.2.1",
-                "count": 5146,
+                "count": 5585,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-06-06T12:54:51Z"
@@ -1911,7 +1911,7 @@
         "releases": [
             {
                 "name": "Version 0.4.1",
-                "count": 1136,
+                "count": 1180,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-01-11T21:55:45Z"
@@ -1960,21 +1960,21 @@
             },
             {
                 "name": "Release 0.1.6",
-                "count": 7,
+                "count": 0,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-05-21T04:38:36Z"
             },
             {
                 "name": "Release 0.1.5",
-                "count": 8,
+                "count": 0,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-05-19T03:14:37Z"
             },
             {
                 "name": "Release 0.1.4",
-                "count": 6,
+                "count": 0,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-05-18T09:22:42Z"
@@ -1987,7 +1987,7 @@
         "releases": [
             {
                 "name": "Version 0.4.1",
-                "count": 3796,
+                "count": 3972,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-10T20:04:52Z"
@@ -2001,7 +2001,7 @@
             },
             {
                 "name": "Version 0.3.1",
-                "count": 1182,
+                "count": 1185,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:04Z"
@@ -2015,14 +2015,14 @@
             },
             {
                 "name": "Version 0.3.0",
-                "count": 6738,
+                "count": 6862,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:24Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 1191,
+                "count": 1192,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:31:51Z"
@@ -2042,7 +2042,7 @@
         "releases": [
             {
                 "name": "Version 1.1.2",
-                "count": 11547,
+                "count": 11827,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-11-22T15:27:47Z"
@@ -2076,7 +2076,7 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 816,
+                "count": 830,
                 "author": "clintval",
                 "avatar": "https://avatars.githubusercontent.com/u/4634699?v=4",
                 "published_at": "2023-11-22T05:56:19Z"
@@ -2089,7 +2089,7 @@
         "releases": [
             {
                 "name": "Version 0.2.0",
-                "count": 3259,
+                "count": 3263,
                 "author": "apetkau",
                 "avatar": "https://avatars.githubusercontent.com/u/200517?v=4",
                 "published_at": "2024-01-22T14:54:28Z"
@@ -2196,7 +2196,7 @@
         "releases": [
             {
                 "name": "Version 0.3.2",
-                "count": 221,
+                "count": 224,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-04-19T20:25:58Z"
@@ -2237,14 +2237,14 @@
         "releases": [
             {
                 "name": "Version 2.0.1",
-                "count": 55,
+                "count": 69,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-07-04T09:26:11Z"
             },
             {
                 "name": "Version 2.0.0 - Kagoshima",
-                "count": 4454,
+                "count": 4583,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-04-22T11:19:38Z"

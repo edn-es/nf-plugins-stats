@@ -30,7 +30,7 @@ def stats = plugins.collect{ plugin ->
 
 	def json = jsonSlurper.parseText(response.body())
 	json.each{ details->
-		def count = details.assets?.find{ it.browser_download_url.endsWith("meta.json") }?.download_count ?: 0
+		def count = details.assets?.find{it.browser_download_url.endsWith("${plugin.id}-${details.tag_name}.zip") }?.download_count ?: 0
 		ret.releases << [
 				name: details.name,
 				count: count,
