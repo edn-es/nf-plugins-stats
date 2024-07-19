@@ -9,11 +9,11 @@ import Chart from 'primevue/chart';
 import 'chartjs-adapter-date-fns';
 import { enUS } from 'date-fns/locale';
 
-defineProps<{ msg: string }>()
+const all = ref()
 const stats = ref()
 const selectedRelease = ref();
 const visible = ref(false);
-
+const filter = ref("")
 
 const formatNumber= (n)=>{
   return new Intl.NumberFormat('en-EN').format(n);
@@ -104,12 +104,23 @@ const updateJson = ()=>{
         item.totalDownload = totalDownload(item);
         item.releases = item.releases.sort( (a,b)=> a.published_at.localeCompare(b.published_at)).reverse()
       })
+      json = json.sort( (a,b) => a.id.localeCompare(b.id))
+      all.value = json
       stats.value = json
-      console.log(stats.value)
     })
   })
 }
 updateJson()
+
+const filterBy = ()=>{
+  console.log(filter.value)
+  if( filter.value && filter.value.length){
+    stats.value = all.value.filter( i=> i.id.indexOf(filter.value)!=-1)
+    console.log(stats.value)
+    return
+  }
+  stats.value = all.value
+}
 
 const updateChart = (plugin)=>{
   chartData.value = setChartData(plugin);
@@ -118,7 +129,6 @@ const updateChart = (plugin)=>{
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
   <div class="card">
       <Toolbar>
         <template #start>
@@ -127,9 +137,12 @@ const updateChart = (plugin)=>{
           <Button icon="pi pi-sort-numeric-down" severity="secondary" text @click="sortByCounter(true)"/>
           <Button icon="pi pi-sort-numeric-up" severity="secondary" text @click="sortByCounter(false)"/>
         </template>
+        <template #end>
+          <InputText placeholder="Filter" type="text" v-model="filter" @keyup="filterBy"/>
+        </template>
       </Toolbar>
   </div>
-  <div class="grid grid-cols-3 gap-4">
+  <div class="grid grid-cols-4 gap-2">
     <div v-for="item in stats">
       <Card>
         <template #title>
@@ -145,7 +158,7 @@ const updateChart = (plugin)=>{
   </div>
 
   <Dialog v-model:visible="visible" modal :header="selectedRelease?.id" :style="{ width: '50rem', height: '50rem' }">
-    <!--ScrollPanel style="width: 100%; height: 30rem">
+    <ScrollPanel style="width: 100%; height: 30rem">
       <table class="w-full table-auto">
         <thead>
           <tr>
@@ -156,19 +169,13 @@ const updateChart = (plugin)=>{
         </thead>
         <tbody>
           <tr v-for="r in selectedRelease.releases">
-            <td><Badge :value="formatNumber(r.count)"></Badge>{{r.name}} </td>
-            <td>{{r.author}}<Avatar :image="r.avatar" class="mr-2" size="normal" shape="circle" /></td>
+            <td>{{r.name}} </td>
+            <td><Avatar :image="r.avatar" class="mr-2" size="normal" shape="circle" /></td>
             <td>{{r.published_at}}</td>
           </tr>
         </tbody>
       </table>
-    </ScrollPanel-->
-    <!--div class="flex justify-end gap-2">
-      <Button type="button" label="Close" @click="visible = false"></Button>
-    </div-->
-    <div class="card">
-      <Chart type="line" :data="chartData" :options="chartOptions" class="h-[30rem]" />
-    </div>
+    </ScrollPanel>
   </Dialog>
 </template>
 
