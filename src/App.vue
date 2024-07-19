@@ -4,7 +4,7 @@
     <AppNavbar />
 
     <!-- Content -->
-    <div class="container mx-auto md:p-8">
+    <div class="container mx-auto md:p-1">
       <RouterView />
     </div>
   </div>
