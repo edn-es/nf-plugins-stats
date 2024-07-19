@@ -165,6 +165,7 @@ const updateChart = (plugin)=>{
             <th>Version</th>
             <th>Author</th>
             <th>Published</th>
+            <th>Downloads</th>
           </tr>
         </thead>
         <tbody>
@@ -172,6 +173,7 @@ const updateChart = (plugin)=>{
             <td>{{r.name}} </td>
             <td><Avatar :image="r.avatar" class="mr-2" size="normal" shape="circle" /></td>
             <td>{{r.published_at}}</td>
+            <td>{{r.count}}</td>
           </tr>
         </tbody>
       </table>

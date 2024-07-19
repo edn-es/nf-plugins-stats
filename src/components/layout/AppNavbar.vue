@@ -3,7 +3,7 @@
   <header>
     <!-- Navbar -->
     <nav
-        class="flex-no-wrap fixed top-0 flex w-full items-center justify-between bg-[#FBFBFB] py-2 shadow-md shadow-black/5 dark:bg-neutral-600 dark:shadow-black/10 lg:flex-wrap lg:justify-start lg:py-4">
+        class="flex-no-wrap sticky top-0 flex w-full items-center justify-between bg-[#FBFBFB] py-2 shadow-md shadow-black/5 dark:bg-neutral-600 dark:shadow-black/10 lg:flex-wrap lg:justify-start lg:py-4">
       <div class="flex flex-wrap items-center justify-between px-3">
         <!-- Hamburger button for mobile view -->
         <button
@@ -39,7 +39,7 @@
               class="mb-4 me-5 ms-2 mt-3 flex items-center text-neutral-900 hover:text-neutral-900 focus:text-neutral-900 dark:text-neutral-200 dark:hover:text-neutral-400 dark:focus:text-neutral-400 lg:mb-0 lg:mt-0"
               href="#">
             <img alt="logo" src="https://avatars.githubusercontent.com/u/6698688?s=200&v=4" class="h-10">
-            Stats
+            NF-Stats
           </a>
           <!-- Left navigation links -->
           <ul v-for="item in items"
@@ -49,7 +49,7 @@
               <!-- Dashboard link -->
               <RouterLink :to="item.to" custom v-slot="{ href, navigate, isActive, isExactActive }">
                 <a :href="href" @click="navigate" class="text-neutral-500 transition duration-200 hover:text-neutral-700 hover:ease-in-out focus:text-neutral-700 disabled:text-black/30 motion-reduce:transition-none dark:text-neutral-200 dark:hover:text-neutral-300 dark:focus:text-neutral-300 lg:px-2 [&.active]:text-black/90 dark:[&.active]:text-zinc-400"
-                   :class="[{ 'active-link': isActive, 'active-link-exact': isExactActive }, isActive ? 'underline decoration-2 underline-offset-4 decoration-primary' : 'text-white/60']">{{ item.label }}</a>
+                   :class="[{ 'active-link': isActive, 'active-link-exact': isExactActive }, isActive ? 'underline decoration-2 underline-offset-4 decoration-primary' : 'text-black/60']">{{ item.label }}</a>
               </RouterLink>
             </li>
           </ul>
