@@ -73,6 +73,10 @@ const setChartOptions = (plugin) => {
             const elem = plugin.releases[items[0].dataIndex];
             return elem ? `${elem.name} (${elem.author})` : '';
           },
+          afterBody: (items)=>{
+            const elem = plugin.releases[items[0].dataIndex];
+            return elem ? `Published ${elem.published_at.substring(0,10)}` : '';
+          }
         }
       }
     },
