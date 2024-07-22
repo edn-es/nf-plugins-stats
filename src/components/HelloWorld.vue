@@ -94,7 +94,7 @@ const updateJson = ()=>{
     res.json().then(json=>{
       json.forEach( item=>{
         item.totalDownload = totalDownload(item);
-        item.releases = item.releases.sort( (a,b)=> a.published_at.localeCompare(b.published_at)).reverse()
+        item.releases = item.releases.sort( (a,b)=> a.published_at.localeCompare(b.published_at))
       })
       json = json.sort( (a,b) => a.id.localeCompare(b.id))
       all.value = json
