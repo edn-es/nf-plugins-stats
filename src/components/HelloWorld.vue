@@ -38,7 +38,7 @@ const chartOptions = ref();
 const setChartData = (plugin) => {
   const documentStyle = getComputedStyle(document.documentElement);
   const data = plugin.releases.map( r=> r.count)
-  const labels = plugin.releases.map( r=> r.published_at)
+  const labels = plugin.releases.map( r=> r.name)
   return {
     labels: labels,
     datasets: [
@@ -77,14 +77,6 @@ const setChartOptions = (plugin) => {
       }
     },
     scales: {
-      x:{
-        type: 'time',
-        adapters: {
-          date: {
-            locale: enUS,
-          },
-        },
-      },
       y: {
         ticks: {
           color: textColorSecondary,
@@ -113,10 +105,8 @@ const updateJson = ()=>{
 updateJson()
 
 const filterBy = ()=>{
-  console.log(filter.value)
   if( filter.value && filter.value.length){
     stats.value = all.value.filter( i=> i.id.indexOf(filter.value)!=-1)
-    console.log(stats.value)
     return
   }
   stats.value = all.value
@@ -158,26 +148,7 @@ const updateChart = (plugin)=>{
   </div>
 
   <Dialog v-model:visible="visible" modal :header="selectedRelease?.id" :style="{ width: '50rem', height: '50rem' }">
-    <ScrollPanel style="width: 100%; height: 30rem">
-      <table class="w-full table-auto">
-        <thead>
-          <tr>
-            <th>Version</th>
-            <th>Author</th>
-            <th>Published</th>
-            <th>Downloads</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr v-for="r in selectedRelease.releases">
-            <td>{{r.name}} </td>
-            <td><Avatar :image="r.avatar" class="mr-2" size="normal" shape="circle" /></td>
-            <td>{{r.published_at}}</td>
-            <td>{{r.count}}</td>
-          </tr>
-        </tbody>
-      </table>
-    </ScrollPanel>
+    <Chart type="bar" :data="chartData" :options="chartOptions" class="h-[30rem]" />
   </Dialog>
 </template>
 
