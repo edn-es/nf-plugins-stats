@@ -12,17 +12,4 @@
     <body class="text-gray-900 font-sans antialiased">
         @yield('body')
     </body>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        fetch('https://jorge-aguilera.blog/ping.php', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body:JSON.stringify({
-                url:window.location.href
-            })
-        })
-    }, false);
-</script>
 </html>
