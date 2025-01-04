@@ -1,0 +1,24 @@
+
+(async function() {
+    const data = [
+
+        { date: `2024-10-13`, count: 63 },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.date),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data.map(row => row.count)
+                    }
+                ]
+            }
+        }
+    );
+})();

@@ -5,8 +5,6 @@ on:
     branches:
       - main
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 1 * *"
 
 jobs:
   build:
@@ -14,24 +12,17 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: actions/setup-node@master
-      - name: Set up JDK 11
-        uses: actions/setup-java@v3
-        with:
-          java-version: '11'
-          distribution: 'adopt'
-      - name: Install Groovy
-        run: sudo apt-get update && sudo apt-get install -y groovy
-      - name: Run Groovy script
-        run: groovy build.groovy ${{ secrets.GITHUB_TOKEN }} public/last.json
+      - uses: php-actions/composer@v6
+        run: composer require tightenco/jigsaw
       - name: Installing project dependencies
         run: npm install
       - name: Building the project
-        run: npm run build-github
+        run: npm run prod
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           name: 'github-pages'
-          path: ./dist
+          path: ./build_production
 
   publish-ghpages:
     needs: build
