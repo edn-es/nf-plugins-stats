@@ -10,19 +10,13 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-snowflake.js"></script>
+<script type="module" src="docs/nf-snowflake/nf-snowflake.js"></script>
 
 # nf-snowflake
         
 
-## Releases Detail
+## Detail
 
-
-### Version 0.6.0
-
-Published: 2024-10-13T18:07:43Z
-
-Downloads: 63
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/65315747?v=4 "sfc-gh-hyu"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.6.0 | 2024-10-13 | 63 | sfc-gh-hyu |

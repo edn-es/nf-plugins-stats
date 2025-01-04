@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-schema.js"></script>
+<script type="module" src="docs/nf-schema/nf-schema.js"></script>
 
 # ![nf-schema](docs/images/nf-schema.png)
 
@@ -99,68 +99,14 @@ We would like to thank the key contributors who include (but are not limited to)
 - Arthur ([@awgymer](https://github.com/awgymer))
 
 
-## Releases Detail
+## Detail
 
-
-### Version 2.0.0 - Kagoshima
-
-Published: 2024-04-22T11:19:38Z
-
-Downloads: 11798
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 2.0.1
-
-Published: 2024-07-04T09:26:11Z
-
-Downloads: 971
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 2.1.0 - Tantanmen
-
-Published: 2024-08-20T12:37:31Z
-
-Downloads: 7361
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 2.1.1
-
-Published: 2024-09-19T09:03:46Z
-
-Downloads: 55064
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 2.1.2
-
-Published: 2024-10-18T09:53:06Z
-
-Downloads: 5809
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 2.2.0 - Kitakata
-
-Published: 2024-10-30T10:22:33Z
-
-Downloads: 5033
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 2.2.1
-
-Published: 2024-12-03T12:04:09Z
-
-Downloads: 806
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | Kagoshima | 2024-04-22 | 11798 | nvnieuwk |
+ | 2.0.1 | 2024-07-04 | 971 | nvnieuwk |
+ | Tantanmen | 2024-08-20 | 7361 | nvnieuwk |
+ | 2.1.1 | 2024-09-19 | 55064 | nvnieuwk |
+ | 2.1.2 | 2024-10-18 | 5809 | nvnieuwk |
+ | Kitakata | 2024-10-30 | 5033 | nvnieuwk |
+ | 2.2.1 | 2024-12-03 | 806 | nvnieuwk |

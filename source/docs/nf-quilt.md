@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-quilt.js"></script>
+<script type="module" src="docs/nf-quilt/nf-quilt.js"></script>
 
 # nf-quilt
 
@@ -80,23 +80,9 @@ pip3 install git+https://github.com/nextflow-io/nf-quilt.git#subdirectory=quilt-
 Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for instructions on how to build, test, and publish Nextflow plugins.
 
 
-## Releases Detail
+## Detail
 
-
-### Version 0.1.0
-
-Published: 2022-08-12T08:38:46Z
-
-Downloads: 145
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.2.0
-
-Published: 2022-08-23T16:35:08Z
-
-Downloads: 174
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.1.0 | 2022-08-12 | 145 | pditommaso |
+ | 0.2.0 | 2022-08-23 | 174 | pditommaso |

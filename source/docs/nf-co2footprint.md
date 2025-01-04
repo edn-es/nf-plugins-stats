@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-co2footprint.js"></script>
+<script type="module" src="docs/nf-co2footprint/nf-co2footprint.js"></script>
 
 # nf-co2footprint plugin [WIP]
 
@@ -61,14 +61,8 @@ We thank the following people for their extensive assistance in the development 
 - [Phil Ewels](https://github.com/ewels)
 - [Paolo Di Tommaso](https://github.com/pditommaso)
 
-## Releases Detail
+## Detail
 
-
-### Version 1.0.0-beta
-
-Published: 2024-01-19T13:13:19Z
-
-Downloads: 694
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1982769?v=4 "skrakau"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.0.0-beta | 2024-01-19 | 694 | skrakau |

@@ -8,14 +8,18 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: "ubuntu-24.04"
     steps:
       - uses: actions/checkout@master
       - uses: actions/setup-node@master
       - uses: php-actions/composer@v6
-        run: composer require tightenco/jigsaw
+        with:
+          php_version: "8.3.15"
+          version: "2.2.6"
       - name: Installing project dependencies
-        run: npm install
+        run: npm install && npm run dev
+      - name: Building site
+        run: vendor/bin/jigsaw build production
       - name: Building the project
         run: npm run prod
       - name: Upload artifact

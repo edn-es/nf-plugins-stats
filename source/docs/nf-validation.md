@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-validation.js"></script>
+<script type="module" src="docs/nf-validation/nf-validation.js"></script>
 
 # ![nf-validation](docs/images/nf-validation.svg)
 
@@ -103,131 +103,21 @@ We would like to thank the key contributors who include (but are not limited to)
 - Phil Ewels ([@ewels](https://github.com/ewels))
 
 
-## Releases Detail
-
-
-### Version 0.1.0
-
-Published: 2023-05-05T13:07:30Z
-
-Downloads: 1314
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/8224255?v=4 "mirpedrol"){width=50 height=50}
-
-
-### Version 0.2.0
-
-Published: 2023-06-06T08:07:48Z
-
-Downloads: 204
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 0.2.1
-
-Published: 2023-06-06T12:54:51Z
-
-Downloads: 9134
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 0.3.0
-
-Published: 2023-07-10T12:53:39Z
-
-Downloads: 623
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/8224255?v=4 "mirpedrol"){width=50 height=50}
-
-
-### Version 0.3.1
-
-Published: 2023-07-12T09:10:39Z
-
-Downloads: 17168
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/8224255?v=4 "mirpedrol"){width=50 height=50}
-
-
-### Version 0.3.2
-
-Published: 2023-09-19T08:38:34Z
-
-Downloads: 10248
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 0.3.3
-
-Published: 2023-10-10T10:36:55Z
-
-Downloads: 1296
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/8224255?v=4 "mirpedrol"){width=50 height=50}
-
-
-### Version 0.3.4
-
-Published: 2023-10-10T13:58:35Z
-
-Downloads: 60
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/8224255?v=4 "mirpedrol"){width=50 height=50}
-
-
-### Version 1.0.0 - Tonkotsu
-
-Published: 2023-10-12T09:03:58Z
-
-Downloads: 2832
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/8224255?v=4 "mirpedrol"){width=50 height=50}
-
-
-### Version 1.1.0 - Miso
-
-Published: 2023-10-18T09:42:22Z
-
-Downloads: 1847
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 1.1.1 - Shoyu
-
-Published: 2023-10-23T11:36:49Z
-
-Downloads: 13982
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 1.1.2 - Wakayama
-
-Published: 2023-11-16T12:24:26Z
-
-Downloads: 3179
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 1.1.3 - Asahikawa
-
-Published: 2023-11-21T10:34:50Z
-
-Downloads: 319371
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/101190534?v=4 "nvnieuwk"){width=50 height=50}
-
-
-### Version 1.1.4 - Kushiro
-
-Published: 2024-08-07T15:51:09Z
-
-Downloads: 29675
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/12817534?v=4 "adamrtalbot"){width=50 height=50}
-
+## Detail
+
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.1.0 | 2023-05-05 | 1314 | mirpedrol |
+ | 0.2.0 | 2023-06-06 | 204 | nvnieuwk |
+ | 0.2.1 | 2023-06-06 | 9134 | nvnieuwk |
+ | 0.3.0 | 2023-07-10 | 623 | mirpedrol |
+ | 0.3.1 | 2023-07-12 | 17168 | mirpedrol |
+ | 0.3.2 | 2023-09-19 | 10248 | nvnieuwk |
+ | 0.3.3 | 2023-10-10 | 1296 | mirpedrol |
+ | 0.3.4 | 2023-10-10 | 60 | mirpedrol |
+ | Tonkotsu | 2023-10-12 | 2832 | mirpedrol |
+ | Miso | 2023-10-18 | 1847 | nvnieuwk |
+ | Shoyu | 2023-10-23 | 13982 | nvnieuwk |
+ | Wakayama | 2023-11-16 | 3179 | nvnieuwk |
+ | Asahikawa | 2023-11-21 | 319371 | nvnieuwk |
+ | Kushiro | 2024-08-07 | 29675 | adamrtalbot |

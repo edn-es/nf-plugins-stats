@@ -13,12 +13,14 @@ template = new StreamingTemplateEngine().createTemplate(new File("groovy/templat
 jstemplate = new StreamingTemplateEngine().createTemplate(new File("groovy/template.js").text)
 stats.each{ plugin->
     def md = new File("source/docs/${plugin.id}.md")
+    md.parentFile.mkdirs()
     def binding = [
             plugin: plugin
     ]
     md.text = template.make(binding)
 
-    def js = new File("source/docs/${plugin.id}.js")
+    def js = new File("source/docs/${plugin.id}/${plugin.id}.js")
+    js.parentFile.mkdirs()
     def jsbinding = [
             plugin: plugin
     ]
@@ -34,7 +36,7 @@ return [
         'children' => [
 """
 stats.each{ plugin->
-    navigation << "'$plugin.id' => 'docs/$plugin.id' ,"
+    navigation << "'$plugin.id' => 'docs/$plugin.id' ,\n"
 }
 navigation << """
         ],

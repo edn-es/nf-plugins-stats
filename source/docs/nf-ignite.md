@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-ignite.js"></script>
+<script type="module" src="docs/nf-ignite/nf-ignite.js"></script>
 
 # nf-ignite
 
@@ -210,41 +210,11 @@ For development include the nextflow build in the `settings.gradle` file, then u
 command line options.
 
 
-## Releases Detail
+## Detail
 
-
-### Version 1.2.0
-
-Published: 2021-01-04T16:49:23Z
-
-Downloads: 25
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.2.1
-
-Published: 2021-01-15T10:47:29Z
-
-Downloads: 196
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.2.2
-
-Published: 2021-03-05T10:54:36Z
-
-Downloads: 237
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.2.3
-
-Published: 2021-05-28T14:25:40Z
-
-Downloads: 988
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.2.0 | 2021-01-04 | 25 | pditommaso |
+ | 1.2.1 | 2021-01-15 | 196 | pditommaso |
+ | 1.2.2 | 2021-03-05 | 237 | pditommaso |
+ | 1.2.3 | 2021-05-28 | 988 | pditommaso |

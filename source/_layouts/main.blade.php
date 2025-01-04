@@ -6,10 +6,23 @@
         <link rel="canonical" href="{{ $page->getUrl() }}">
         <meta name="description" content="{{ $page->description }}">
         <title>{{ $page->title }}</title>
-        <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
-        <script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <link rel="stylesheet" href="{{ $page->baseUrl }}{{ mix('css/main.css', 'assets/build') }}">
+        <script defer src="{{ $page->baseUrl }}{{ mix('js/main.js', 'assets/build') }}"></script>
     </head>
     <body class="text-gray-900 font-sans antialiased">
         @yield('body')
     </body>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        fetch('https://jorge-aguilera.blog/ping.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body:JSON.stringify({
+                url:window.location.href
+            })
+        })
+    }, false);
+</script>
 </html>

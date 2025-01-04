@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-wr.js"></script>
+<script type="module" src="docs/nf-wr/nf-wr.js"></script>
 
 # Nextflow WR 
 
@@ -66,32 +66,10 @@ for the s3cmd tool).
 * `src/test`: Module unit test sources
 
 
-## Releases Detail
+## Detail
 
-
-### Version 1.2.0-rc.0
-
-Published: 2022-01-13T18:41:35Z
-
-Downloads: 159
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.2.0-rc.1
-
-Published: 2022-02-15T22:06:11Z
-
-Downloads: 150
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.2.0-rc.2
-
-Published: 2022-02-28T12:12:30Z
-
-Downloads: 192
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.2.0-rc.0 | 2022-01-13 | 159 | pditommaso |
+ | 1.2.0-rc.1 | 2022-02-15 | 150 | pditommaso |
+ | 1.2.0-rc.2 | 2022-02-28 | 192 | pditommaso |

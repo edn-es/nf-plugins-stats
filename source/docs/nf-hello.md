@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-hello.js"></script>
+<script type="module" src="docs/nf-hello/nf-hello.js"></script>
 
 # nf-hello plugin 
  
@@ -128,41 +128,11 @@ Follow these steps to package, upload and publish the plugin:
 3. Create a pull request against [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) to make the plugin accessible to Nextflow.
 
 
-## Releases Detail
+## Detail
 
-
-### Version 0.1.0
-
-Published: 2021-07-25T09:54:18Z
-
-Downloads: 291
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.2.0
-
-Published: 2022-05-03T17:25:06Z
-
-Downloads: 192
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.3.0
-
-Published: 2022-08-30T20:09:47Z
-
-Downloads: 294
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.5.0
-
-Published: 2024-03-06T16:51:54Z
-
-Downloads: 150
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.1.0 | 2021-07-25 | 291 | pditommaso |
+ | 0.2.0 | 2022-05-03 | 192 | pditommaso |
+ | 0.3.0 | 2022-08-30 | 294 | pditommaso |
+ | 0.5.0 | 2024-03-06 | 150 | pditommaso |

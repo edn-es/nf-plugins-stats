@@ -10,19 +10,13 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-dotenv.js"></script>
+<script type="module" src="docs/nf-dotenv/nf-dotenv.js"></script>
 
 # nf-dotenv
         
 
-## Releases Detail
+## Detail
 
-
-### Version 1.0.0
-
-Published: 2023-11-22T05:56:19Z
-
-Downloads: 1848
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/4634699?v=4 "clintval"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.0.0 | 2023-11-22 | 1848 | clintval |

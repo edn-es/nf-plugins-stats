@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-gpt.js"></script>
+<script type="module" src="docs/nf-gpt/nf-gpt.js"></script>
 
 # nf-gpt plugin
  
@@ -182,41 +182,11 @@ Follow these steps to package, upload and publish the plugin:
 3. Create a pull request against [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) to make the plugin accessible to Nextflow.
 
 
-## Releases Detail
+## Detail
 
-
-### Version 0.1.0
-
-Published: 2024-03-19T16:33:41Z
-
-Downloads: 96
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.2.0
-
-Published: 2024-03-20T15:21:32Z
-
-Downloads: 1
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.3.0
-
-Published: 2024-04-05T08:55:11Z
-
-Downloads: 95
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.4.0
-
-Published: 2024-04-15T15:42:42Z
-
-Downloads: 223
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.1.0 | 2024-03-19 | 96 | pditommaso |
+ | 0.2.0 | 2024-03-20 | 1 | pditommaso |
+ | 0.3.0 | 2024-04-05 | 95 | pditommaso |
+ | 0.4.0 | 2024-04-15 | 223 | pditommaso |

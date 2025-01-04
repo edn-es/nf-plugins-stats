@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-weblog.js"></script>
+<script type="module" src="docs/nf-weblog/nf-weblog.js"></script>
 
 # nf-weblog plugin 
    
@@ -299,41 +299,11 @@ Follow these steps to package, upload and publish the plugin:
 3. Create a pull request against [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) to make the plugin accessible to Nextflow.
 
 
-## Releases Detail
+## Detail
 
-
-### Version 1.0.0
-
-Published: 2023-08-17T10:44:14Z
-
-Downloads: 112
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.1.0
-
-Published: 2023-08-29T13:12:49Z
-
-Downloads: 617
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
-
-### Version 1.1.1
-
-Published: 2023-11-08T23:08:17Z
-
-Downloads: 1435
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
-
-### Version 1.1.2
-
-Published: 2023-11-22T15:27:47Z
-
-Downloads: 35506
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.0.0 | 2023-08-17 | 112 | pditommaso |
+ | 1.1.0 | 2023-08-29 | 617 | bentsherman |
+ | 1.1.1 | 2023-11-08 | 1435 | bentsherman |
+ | 1.1.2 | 2023-11-22 | 35506 | bentsherman |

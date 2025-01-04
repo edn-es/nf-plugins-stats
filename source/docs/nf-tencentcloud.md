@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-tencentcloud.js"></script>
+<script type="module" src="docs/nf-tencentcloud/nf-tencentcloud.js"></script>
 
 English | [简体中文](./README_ZH.md)
 
@@ -122,59 +122,13 @@ This plugin is developed by Tencent Healthcare Omics Platform team and can be us
 For inquiries about product testing and usage, please contact via email: omics@tencent.com
 
 
-## Releases Detail
+## Detail
 
-
-### Version 1.0.0
-
-Published: 2024-09-04T03:56:38Z
-
-Downloads: 89
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/9199202?v=4 "lalalacampanella"){width=50 height=50}
-
-
-### Version 2.0.0
-
-Published: 2024-09-04T03:57:06Z
-
-Downloads: 110
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/9199202?v=4 "lalalacampanella"){width=50 height=50}
-
-
-### Version 1.0.1
-
-Published: 2024-12-04T09:27:23Z
-
-Downloads: 5
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/9199202?v=4 "lalalacampanella"){width=50 height=50}
-
-
-### Version 2.0.1
-
-Published: 2024-12-04T09:29:20Z
-
-Downloads: 7
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/9199202?v=4 "lalalacampanella"){width=50 height=50}
-
-
-### Version 1.0.2
-
-Published: 2024-12-12T03:43:07Z
-
-Downloads: 0
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/9199202?v=4 "lalalacampanella"){width=50 height=50}
-
-
-### Version 2.0.2
-
-Published: 2024-12-12T03:43:34Z
-
-Downloads: 0
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/9199202?v=4 "lalalacampanella"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.0.0 | 2024-09-04 | 89 | lalalacampanella |
+ | 2.0.0 | 2024-09-04 | 110 | lalalacampanella |
+ | 1.0.1 | 2024-12-04 | 5 | lalalacampanella |
+ | 2.0.1 | 2024-12-04 | 7 | lalalacampanella |
+ | 1.0.2 | 2024-12-12 | 0 | lalalacampanella |
+ | 2.0.2 | 2024-12-12 | 0 | lalalacampanella |

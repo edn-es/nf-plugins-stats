@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-float.js"></script>
+<script type="module" src="docs/nf-float/nf-float.js"></script>
 
 # nf-float plugin
 
@@ -520,140 +520,22 @@ Run following command to create the plugin zip.
 The output is available at `./plugins/nf-float/build/libs/`
 
 
-## Releases Detail
-
-
-### Release 0.1.4
-
-Published: 2023-05-18T09:22:42Z
-
-Downloads: 0
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Release 0.1.5
-
-Published: 2023-05-19T03:14:37Z
-
-Downloads: 0
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Release 0.1.6
-
-Published: 2023-05-21T04:38:36Z
-
-Downloads: 0
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.1.7
-
-Published: 2023-05-25T09:25:06Z
-
-Downloads: 231
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.1.8
-
-Published: 2023-07-17T02:58:31Z
-
-Downloads: 222
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.2.0
-
-Published: 2023-07-26T03:08:53Z
-
-Downloads: 128
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.3.0
-
-Published: 2023-08-09T05:47:24Z
-
-Downloads: 135
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.3.1
-
-Published: 2023-08-21T08:57:52Z
-
-Downloads: 191
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.4.0
-
-Published: 2023-10-12T03:52:55Z
-
-Downloads: 386
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.4.1
-
-Published: 2024-01-11T21:55:45Z
-
-Downloads: 1303
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.4.2
-
-Published: 2024-07-24T05:04:58Z
-
-Downloads: 308
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.4.3
-
-Published: 2024-08-15T21:42:52Z
-
-Downloads: 292
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.4.4
-
-Published: 2024-09-12T00:01:24Z
-
-Downloads: 146
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.4.5
-
-Published: 2024-09-19T00:05:26Z
-
-Downloads: 206
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
-
-### Version 0.4.6
-
-Published: 2024-09-26T18:50:04Z
-
-Downloads: 1000
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/1789979?v=4 "jealous"){width=50 height=50}
-
+## Detail
+
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.1.4 | 2023-05-18 | 0 | jealous |
+ | 0.1.5 | 2023-05-19 | 0 | jealous |
+ | 0.1.6 | 2023-05-21 | 0 | jealous |
+ | 0.1.7 | 2023-05-25 | 231 | jealous |
+ | 0.1.8 | 2023-07-17 | 222 | jealous |
+ | 0.2.0 | 2023-07-26 | 128 | jealous |
+ | 0.3.0 | 2023-08-09 | 135 | jealous |
+ | 0.3.1 | 2023-08-21 | 191 | jealous |
+ | 0.4.0 | 2023-10-12 | 386 | jealous |
+ | 0.4.1 | 2024-01-11 | 1303 | jealous |
+ | 0.4.2 | 2024-07-24 | 308 | jealous |
+ | 0.4.3 | 2024-08-15 | 292 | jealous |
+ | 0.4.4 | 2024-09-12 | 146 | jealous |
+ | 0.4.5 | 2024-09-19 | 206 | jealous |
+ | 0.4.6 | 2024-09-26 | 1000 | jealous |

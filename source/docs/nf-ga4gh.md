@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-ga4gh.js"></script>
+<script type="module" src="docs/nf-ga4gh/nf-ga4gh.js"></script>
 
 # nf-ga4gh plugin 
  
@@ -157,113 +157,19 @@ Follow these steps to package, upload and publish the plugin:
 3. Create a pull request against [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) to make the plugin accessible to Nextflow.
 
 
-## Releases Detail
+## Detail
 
-
-### Version 1.0.0
-
-Published: 2021-01-04T16:49:15Z
-
-Downloads: 19
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.1
-
-Published: 2021-01-15T10:47:13Z
-
-Downloads: 32
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.2
-
-Published: 2021-03-05T10:54:20Z
-
-Downloads: 26
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.3
-
-Published: 2021-05-28T14:25:25Z
-
-Downloads: 113
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.4
-
-Published: 2022-09-19T21:15:30Z
-
-Downloads: 131
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.5
-
-Published: 2023-04-13T14:32:44Z
-
-Downloads: 300
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.6
-
-Published: 2023-05-15T03:57:20Z
-
-Downloads: 123
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.1.0
-
-Published: 2023-07-22T16:07:34Z
-
-Downloads: 109
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.1.1
-
-Published: 2023-11-24T21:40:21Z
-
-Downloads: 30
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.2.0
-
-Published: 2024-02-05T23:28:05Z
-
-Downloads: 18
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.3.0
-
-Published: 2024-05-13T09:49:11Z
-
-Downloads: 390
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.1.0-patch1
-
-Published: 2024-05-28T14:11:00Z
-
-Downloads: 24
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.0.0 | 2021-01-04 | 19 | pditommaso |
+ | 1.0.1 | 2021-01-15 | 32 | pditommaso |
+ | 1.0.2 | 2021-03-05 | 26 | pditommaso |
+ | 1.0.3 | 2021-05-28 | 113 | pditommaso |
+ | 1.0.4 | 2022-09-19 | 131 | pditommaso |
+ | 1.0.5 | 2023-04-13 | 300 | pditommaso |
+ | 1.0.6 | 2023-05-15 | 123 | pditommaso |
+ | 1.1.0 | 2023-07-22 | 109 | pditommaso |
+ | 1.1.1 | 2023-11-24 | 30 | pditommaso |
+ | 1.2.0 | 2024-02-05 | 18 | pditommaso |
+ | 1.3.0 | 2024-05-13 | 390 | pditommaso |
+ | 1.1.0-patch1 | 2024-05-28 | 24 | pditommaso |

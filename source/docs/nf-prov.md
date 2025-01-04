@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-prov.js"></script>
+<script type="module" src="docs/nf-prov/nf-prov.js"></script>
 
 # nf-prov
 
@@ -143,77 +143,15 @@ Following these step to package, upload and publish the plugin:
 
 
 
-## Releases Detail
+## Detail
 
-
-### Version 1.0.0
-
-Published: 2022-12-19T22:05:11Z
-
-Downloads: 470
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/740725?v=4 "BrunoGrandePhD"){width=50 height=50}
-
-
-### Version 1.1.0
-
-Published: 2023-09-28T13:27:47Z
-
-Downloads: 1650
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
-
-### Version 1.2.0
-
-Published: 2023-10-27T17:40:06Z
-
-Downloads: 115
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
-
-### Version 1.2.1
-
-Published: 2023-10-27T19:32:54Z
-
-Downloads: 16429
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
-
-### Version 1.2.2
-
-Published: 2024-03-27T20:36:32Z
-
-Downloads: 74032
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
-
-### Version 1.2.3
-
-Published: 2024-07-03T16:32:45Z
-
-Downloads: 2735
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
-
-### Version 1.2.4
-
-Published: 2024-08-01T15:20:35Z
-
-Downloads: 8461
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
-
-### Version 1.3.0
-
-Published: 2024-11-05T18:18:39Z
-
-Downloads: 583
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/7884825?v=4 "bentsherman"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.0.0 | 2022-12-19 | 470 | BrunoGrandePhD |
+ | 1.1.0 | 2023-09-28 | 1650 | bentsherman |
+ | 1.2.0 | 2023-10-27 | 115 | bentsherman |
+ | 1.2.1 | 2023-10-27 | 16429 | bentsherman |
+ | 1.2.2 | 2024-03-27 | 74032 | bentsherman |
+ | 1.2.3 | 2024-07-03 | 2735 | bentsherman |
+ | 1.2.4 | 2024-08-01 | 8461 | bentsherman |
+ | 1.3.0 | 2024-11-05 | 583 | bentsherman |

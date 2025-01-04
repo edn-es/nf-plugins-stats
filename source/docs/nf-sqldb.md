@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-sqldb.js"></script>
+<script type="module" src="docs/nf-sqldb/nf-sqldb.js"></script>
 
 # SQL DB plugin for Nextflow
 
@@ -184,59 +184,13 @@ Like all dataflow operators in Nextflow, the operators provided by this plugin a
 In particular, data inserted using the `sqlInsert` operator is *not* guaranteed to be available to any subsequent queries using the `fromQuery` operator, as it is not possible to make a channel factory operation dependent on some upstream operation.
 
 
-## Releases Detail
+## Detail
 
-
-### Version 0.1.0
-
-Published: 2021-09-01T15:36:29Z
-
-Downloads: 406
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.2.0
-
-Published: 2021-10-10T16:52:13Z
-
-Downloads: 308
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.3.0
-
-Published: 2022-02-07T11:17:23Z
-
-Downloads: 182
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.4.0
-
-Published: 2022-04-11T19:10:41Z
-
-Downloads: 269
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.4.1
-
-Published: 2022-05-25T17:57:10Z
-
-Downloads: 704
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 0.5.0
-
-Published: 2022-08-30T19:40:03Z
-
-Downloads: 1857
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.1.0 | 2021-09-01 | 406 | pditommaso |
+ | 0.2.0 | 2021-10-10 | 308 | pditommaso |
+ | 0.3.0 | 2022-02-07 | 182 | pditommaso |
+ | 0.4.0 | 2022-04-11 | 269 | pditommaso |
+ | 0.4.1 | 2022-05-25 | 704 | pditommaso |
+ | 0.5.0 | 2022-08-30 | 1857 | pditommaso |

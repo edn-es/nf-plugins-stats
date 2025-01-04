@@ -22,8 +22,9 @@
 
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
 
+        <base href="{{ $page->baseUrl }}">
         <link rel="home" href="{{ $page->baseUrl }}">
-        <link rel="icon" href="/favicon.ico">
+        <link rel="icon" href="{{ $page->baseUrl }}favicon.ico">
 
         @stack('meta')
 
@@ -32,21 +33,21 @@
         @endif
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
-        <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+        <link rel="stylesheet" href="{{ $page->baseUrl }}{{ mix('css/main.css', 'assets/build') }}">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
         @endif
 
-        <script src="/assets/build/js/chart.umd.js"></script>
+        <script src="{{ $page->baseUrl }}assets/build/js/chart.umd.js"></script>
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
         <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
-                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <img class="h-8 md:h-10 mr-3" src="/assets/img/nextflow.svg" alt="{{ $page->siteName }} logo" />
+                    <a href="{{ $page->baseUrl }}" title="{{ $page->siteName }} home" class="inline-flex items-center">
+                        <img class="h-8 md:h-10 mr-3" src="{{ $page->baseUrl }}assets/img/nextflow.svg" alt="{{ $page->siteName }} logo" />
 
                         <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 pr-4">{{ $page->siteName }}</h1>
                     </a>
@@ -66,14 +67,14 @@
             @yield('body')
         </main>
 
-        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <script src="{{ $page->baseUrl }}{{ mix('js/main.js', 'assets/build') }}"></script>
 
         @stack('scripts')
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center">
                 <li class="md:mr-2">
-                    &copy; <a href="https://tighten.co" title="Tighten website">Tighten</a> {{ date('Y') }}.
+                    &copy; <a href="https://jorge-aguilera.blog" title="Jorge Blog">Jorge Aguilera</a> {{ date('Y') }}.
                 </li>
 
                 <li>

@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-ffq.js"></script>
+<script type="module" src="docs/nf-ffq/nf-ffq.js"></script>
 
 # nf-ffq
 
@@ -138,14 +138,8 @@ Following these step to package, upload and publish the plugin:
   project to make the plugin public accessible to Nextflow app. 
 
 
-## Releases Detail
+## Detail
 
-
-### Version 0.2.0
-
-Published: 2024-03-06T18:30:05Z
-
-Downloads: 100
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.2.0 | 2024-03-06 | 100 | pditommaso |

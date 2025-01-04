@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-nomad.js"></script>
+<script type="module" src="docs/nf-nomad/nf-nomad.js"></script>
 
 # nf-nomad plugin
 
@@ -122,176 +122,26 @@ Follow these steps to package, upload and publish the plugin:
     Use the `json` file created in previous steps
 
 
-## Releases Detail
-
-
-### Version 0.0.1
-
-Published: 2024-02-20T14:53:50Z
-
-Downloads: 28
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/12799326?v=4 "abhi18av"){width=50 height=50}
-
-
-### Version 0.0.2
-
-Published: 2024-03-08T12:15:43Z
-
-Downloads: 10
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/12799326?v=4 "abhi18av"){width=50 height=50}
-
-
-### Version 0.1.0
-
-Published: 2024-06-26T11:22:26Z
-
-Downloads: 100
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/12799326?v=4 "abhi18av"){width=50 height=50}
-
-
-### 0.1.1
-
-Published: 2024-07-02T17:45:10Z
-
-Downloads: 106
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
-
-### 0.1.2-beta1
-
-Published: 2024-07-08T14:42:32Z
-
-Downloads: 5
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/2102730?v=4 "jagedn"){width=50 height=50}
-
-
-### 0.1.2-beta2
-
-Published: 2024-07-09T08:36:49Z
-
-Downloads: 2
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/2102730?v=4 "jagedn"){width=50 height=50}
-
-
-### 0.1.2-edge3
-
-Published: 2024-07-16T14:17:28Z
-
-Downloads: 3
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/2102730?v=4 "jagedn"){width=50 height=50}
-
-
-### 0.1.2
-
-Published: 2024-07-29T09:15:12Z
-
-Downloads: 100
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/12799326?v=4 "abhi18av"){width=50 height=50}
-
-
-### 0.2.0-edge1
-
-Published: 2024-07-29T16:04:21Z
-
-Downloads: 1
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
-
-### 0.2.0-edge2
-
-Published: 2024-08-28T09:13:48Z
-
-Downloads: 2
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/2102730?v=4 "jagedn"){width=50 height=50}
-
-
-### 0.2.0-edge3
-
-Published: 2024-08-28T16:07:57Z
-
-Downloads: 1
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
-
-### 0.2.0
-
-Published: 2024-08-28T16:24:26Z
-
-Downloads: 106
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
-
-### 0.3.0-edge1
-
-Published: 2024-09-18T08:52:01Z
-
-Downloads: 0
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/2102730?v=4 "jagedn"){width=50 height=50}
-
-
-### 0.3.0-edge2
-
-Published: 2024-09-18T10:21:25Z
-
-Downloads: 0
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
-
-### 0.3.0
-
-Published: 2024-09-20T12:00:03Z
-
-Downloads: 80
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
-
-### 0.3.1-edge1
-
-Published: 2024-09-23T13:24:41Z
-
-Downloads: 1
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
-
-### 0.3.2-edge2
-
-Published: 2024-11-18T18:33:19Z
-
-Downloads: 0
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/2102730?v=4 "jagedn"){width=50 height=50}
-
-
-### 0.3.1
-
-Published: 2024-12-08T19:12:15Z
-
-Downloads: 12
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
-
-### 0.3.2-edge1
-
-Published: 2024-12-10T18:40:34Z
-
-Downloads: 1
-
-Author: ![avatar](https://avatars.githubusercontent.com/in/15368?v=4 "github-actions[bot]"){width=50 height=50}
-
+## Detail
+
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.0.1 | 2024-02-20 | 28 | abhi18av |
+ | 0.0.2 | 2024-03-08 | 10 | abhi18av |
+ | 0.1.0 | 2024-06-26 | 100 | abhi18av |
+ | 0.1.1 | 2024-07-02 | 106 | github-actions[bot] |
+ | 0.1.2-beta1 | 2024-07-08 | 5 | jagedn |
+ | 0.1.2-beta2 | 2024-07-09 | 2 | jagedn |
+ | 0.1.2-edge3 | 2024-07-16 | 3 | jagedn |
+ | 0.1.2 | 2024-07-29 | 100 | abhi18av |
+ | 0.2.0-edge1 | 2024-07-29 | 1 | github-actions[bot] |
+ | 0.2.0-edge2 | 2024-08-28 | 2 | jagedn |
+ | 0.2.0-edge3 | 2024-08-28 | 1 | github-actions[bot] |
+ | 0.2.0 | 2024-08-28 | 106 | github-actions[bot] |
+ | 0.3.0-edge1 | 2024-09-18 | 0 | jagedn |
+ | 0.3.0-edge2 | 2024-09-18 | 0 | github-actions[bot] |
+ | 0.3.0 | 2024-09-20 | 80 | github-actions[bot] |
+ | 0.3.1-edge1 | 2024-09-23 | 1 | github-actions[bot] |
+ | 0.3.2-edge2 | 2024-11-18 | 0 | jagedn |
+ | 0.3.1 | 2024-12-08 | 12 | github-actions[bot] |
+ | 0.3.2-edge1 | 2024-12-10 | 1 | github-actions[bot] |

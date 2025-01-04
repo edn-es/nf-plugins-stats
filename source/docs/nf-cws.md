@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-cws.js"></script>
+<script type="module" src="docs/nf-cws/nf-cws.js"></script>
 
 # nf-cws plugin 
 
@@ -122,59 +122,13 @@ The following fields can be used:
 | input_size                             |                                   The sum of the input size of all task inputs                                    |
 
 
-## Releases Detail
+## Detail
 
-
-### Version 1.0.0
-
-Published: 2023-03-20T15:21:00Z
-
-Downloads: 172
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/46564585?v=4 "Lehmann-Fabian"){width=50 height=50}
-
-
-### Version 1.0.1
-
-Published: 2023-06-09T12:38:52Z
-
-Downloads: 160
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/46564585?v=4 "Lehmann-Fabian"){width=50 height=50}
-
-
-### Version 1.0.2
-
-Published: 2023-07-25T13:07:43Z
-
-Downloads: 238
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/46564585?v=4 "Lehmann-Fabian"){width=50 height=50}
-
-
-### Version 1.0.3
-
-Published: 2023-10-02T08:28:51Z
-
-Downloads: 115
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/46564585?v=4 "Lehmann-Fabian"){width=50 height=50}
-
-
-### Version 1.0.4
-
-Published: 2023-11-02T17:31:11Z
-
-Downloads: 132
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/46564585?v=4 "Lehmann-Fabian"){width=50 height=50}
-
-
-### Version 1.0.5
-
-Published: 2024-07-22T12:36:11Z
-
-Downloads: 153
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/46564585?v=4 "Lehmann-Fabian"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.0.0 | 2023-03-20 | 172 | Lehmann-Fabian |
+ | 1.0.1 | 2023-06-09 | 160 | Lehmann-Fabian |
+ | 1.0.2 | 2023-07-25 | 238 | Lehmann-Fabian |
+ | 1.0.3 | 2023-10-02 | 115 | Lehmann-Fabian |
+ | 1.0.4 | 2023-11-02 | 132 | Lehmann-Fabian |
+ | 1.0.5 | 2024-07-22 | 153 | Lehmann-Fabian |

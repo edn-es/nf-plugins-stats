@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="xpack-google.js"></script>
+<script type="module" src="docs/xpack-google/xpack-google.js"></script>
 
 # Nextflow extension package for Google Cloud (XPACK-GOOGLE)
 
@@ -142,68 +142,14 @@ path in the shared file system, e.g.:
 Copyright 2021-2023, Seqera Labs, S.L. All Rights Reserved.
 
 
-## Releases Detail
+## Detail
 
-
-### Version 1.0.0-beta.1
-
-Published: 2021-07-08T14:05:00Z
-
-Downloads: 153
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.0-beta.2
-
-Published: 2023-01-14T19:17:29Z
-
-Downloads: 41
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.0-beta.3
-
-Published: 2023-04-09T08:01:04Z
-
-Downloads: 51
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.0.0
-
-Published: 2023-08-09T20:02:20Z
-
-Downloads: 93
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.1.0
-
-Published: 2023-12-26T12:54:20Z
-
-Downloads: 18
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.2.0
-
-Published: 2024-02-05T23:46:56Z
-
-Downloads: 161
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
-
-### Version 1.3.0
-
-Published: 2024-05-14T08:26:13Z
-
-Downloads: 109
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/816968?v=4 "pditommaso"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 1.0.0-beta.1 | 2021-07-08 | 153 | pditommaso |
+ | 1.0.0-beta.2 | 2023-01-14 | 41 | pditommaso |
+ | 1.0.0-beta.3 | 2023-04-09 | 51 | pditommaso |
+ | 1.0.0 | 2023-08-09 | 93 | pditommaso |
+ | 1.1.0 | 2023-12-26 | 18 | pditommaso |
+ | 1.2.0 | 2024-02-05 | 161 | pditommaso |
+ | 1.3.0 | 2024-05-14 | 109 | pditommaso |

@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-jarvice.js"></script>
+<script type="module" src="docs/nf-jarvice/nf-jarvice.js"></script>
 
 # nf-jarvice
 
@@ -118,32 +118,10 @@ nextflow run test.nf
 
 Jarvice plugin will automatically be downloaded and used as executor. Jobs can be seen in Jarvice portal, like any other jobs.
 
-## Releases Detail
+## Detail
 
-
-### 0.5.0
-
-Published: 2023-04-05T17:57:42Z
-
-Downloads: 10
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/15154435?v=4 "oxedions"){width=50 height=50}
-
-
-### 0.6.0
-
-Published: 2023-04-19T12:46:04Z
-
-Downloads: 108
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/15154435?v=4 "oxedions"){width=50 height=50}
-
-
-### 0.7.0
-
-Published: 2023-05-09T17:27:27Z
-
-Downloads: 111
-
-Author: ![avatar](https://avatars.githubusercontent.com/u/15154435?v=4 "oxedions"){width=50 height=50}
-
+| Release                               | Date | Downloads                        | Author |
+| :------------ | :---------: | ------: | -----------: |
+ | 0.5.0 | 2023-04-05 | 10 | oxedions |
+ | 0.6.0 | 2023-04-19 | 108 | oxedions |
+ | 0.7.0 | 2023-05-09 | 111 | oxedions |

@@ -1,10 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://jigsaw-docs-template.tighten.co',
+    'baseUrl' => 'https://edn-es.github.io/nf-plugins-stats/',
     'production' => true,
-
-    // DocSearch credentials
-    'docsearchApiKey' => env('DOCSEARCH_KEY'),
-    'docsearchIndexName' => env('DOCSEARCH_INDEX'),
+    'subdomain' => '/nf-plugins-stats'
 ];
