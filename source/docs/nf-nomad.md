@@ -128,20 +128,20 @@ Follow these steps to package, upload and publish the plugin:
 | :------------ | :---------: | ------: | -----------: |
  | 0.0.1 | 2024-02-20 | 28 | abhi18av |
  | 0.0.2 | 2024-03-08 | 10 | abhi18av |
- | 0.1.0 | 2024-06-26 | 100 | abhi18av |
- | 0.1.1 | 2024-07-02 | 106 | github-actions[bot] |
+ | 0.1.0 | 2024-06-26 | 112 | abhi18av |
+ | 0.1.1 | 2024-07-02 | 118 | github-actions[bot] |
  | 0.1.2-beta1 | 2024-07-08 | 5 | jagedn |
  | 0.1.2-beta2 | 2024-07-09 | 2 | jagedn |
  | 0.1.2-edge3 | 2024-07-16 | 3 | jagedn |
- | 0.1.2 | 2024-07-29 | 100 | abhi18av |
+ | 0.1.2 | 2024-07-29 | 112 | abhi18av |
  | 0.2.0-edge1 | 2024-07-29 | 1 | github-actions[bot] |
  | 0.2.0-edge2 | 2024-08-28 | 2 | jagedn |
  | 0.2.0-edge3 | 2024-08-28 | 1 | github-actions[bot] |
- | 0.2.0 | 2024-08-28 | 106 | github-actions[bot] |
+ | 0.2.0 | 2024-08-28 | 118 | github-actions[bot] |
  | 0.3.0-edge1 | 2024-09-18 | 0 | jagedn |
  | 0.3.0-edge2 | 2024-09-18 | 0 | github-actions[bot] |
- | 0.3.0 | 2024-09-20 | 80 | github-actions[bot] |
+ | 0.3.0 | 2024-09-20 | 92 | github-actions[bot] |
  | 0.3.1-edge1 | 2024-09-23 | 1 | github-actions[bot] |
  | 0.3.2-edge2 | 2024-11-18 | 0 | jagedn |
- | 0.3.1 | 2024-12-08 | 12 | github-actions[bot] |
+ | 0.3.1 | 2024-12-08 | 24 | github-actions[bot] |
  | 0.3.2-edge1 | 2024-12-10 | 1 | github-actions[bot] |

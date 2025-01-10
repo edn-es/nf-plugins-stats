@@ -85,4 +85,4 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for inst
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
  | 0.1.0 | 2022-08-12 | 145 | pditommaso |
- | 0.2.0 | 2022-08-23 | 174 | pditommaso |
+ | 0.2.0 | 2022-08-23 | 175 | pditommaso |

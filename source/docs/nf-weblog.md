@@ -303,7 +303,7 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2023-08-17 | 112 | pditommaso |
- | 1.1.0 | 2023-08-29 | 617 | bentsherman |
- | 1.1.1 | 2023-11-08 | 1435 | bentsherman |
- | 1.1.2 | 2023-11-22 | 35506 | bentsherman |
+ | 1.0.0 | 2023-08-17 | 124 | pditommaso |
+ | 1.1.0 | 2023-08-29 | 629 | bentsherman |
+ | 1.1.1 | 2023-11-08 | 1448 | bentsherman |
+ | 1.1.2 | 2023-11-22 | 36098 | bentsherman |

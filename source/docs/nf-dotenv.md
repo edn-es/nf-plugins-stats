@@ -13,10 +13,10 @@ section: content
 <script type="module" src="docs/nf-dotenv/nf-dotenv.js"></script>
 
 # nf-dotenv
-        
+            
 
 ## Detail
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2023-11-22 | 1848 | clintval |
+ | 1.0.0 | 2023-11-22 | 1886 | clintval |

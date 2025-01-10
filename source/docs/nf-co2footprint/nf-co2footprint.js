@@ -2,7 +2,9 @@
 (async function() {
     const data = [
 
-        { date: `2024-01-19`, count: 694 },
+        { date: `2024-01-19`, count: 708 },
+
+        { date: `2025-01-09`, count: 2 },
 
     ];
 

@@ -13,10 +13,10 @@ section: content
 <script type="module" src="docs/nf-snowflake/nf-snowflake.js"></script>
 
 # nf-snowflake
-        
+            
 
 ## Detail
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 0.6.0 | 2024-10-13 | 63 | sfc-gh-hyu |
+ | 0.6.0 | 2024-10-13 | 75 | sfc-gh-hyu |

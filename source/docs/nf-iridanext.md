@@ -13,11 +13,11 @@ section: content
 <script type="module" src="docs/nf-iridanext/nf-iridanext.js"></script>
 
 # nf-iridanext
-        
+            
 
 ## Detail
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 0.1.0 | 2023-12-15 | 195 | apetkau |
- | 0.2.0 | 2024-01-22 | 5028 | apetkau |
+ | 0.1.0 | 2023-12-15 | 207 | apetkau |
+ | 0.2.0 | 2024-01-22 | 5137 | apetkau |

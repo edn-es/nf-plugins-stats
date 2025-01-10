@@ -147,11 +147,11 @@ Following these step to package, upload and publish the plugin:
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2022-12-19 | 470 | BrunoGrandePhD |
- | 1.1.0 | 2023-09-28 | 1650 | bentsherman |
- | 1.2.0 | 2023-10-27 | 115 | bentsherman |
- | 1.2.1 | 2023-10-27 | 16429 | bentsherman |
- | 1.2.2 | 2024-03-27 | 74032 | bentsherman |
- | 1.2.3 | 2024-07-03 | 2735 | bentsherman |
- | 1.2.4 | 2024-08-01 | 8461 | bentsherman |
- | 1.3.0 | 2024-11-05 | 583 | bentsherman |
+ | 1.0.0 | 2022-12-19 | 482 | BrunoGrandePhD |
+ | 1.1.0 | 2023-09-28 | 1662 | bentsherman |
+ | 1.2.0 | 2023-10-27 | 127 | bentsherman |
+ | 1.2.1 | 2023-10-27 | 16452 | bentsherman |
+ | 1.2.2 | 2024-03-27 | 74996 | bentsherman |
+ | 1.2.3 | 2024-07-03 | 2767 | bentsherman |
+ | 1.2.4 | 2024-08-01 | 8693 | bentsherman |
+ | 1.3.0 | 2024-11-05 | 651 | bentsherman |

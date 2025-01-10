@@ -126,9 +126,9 @@ For inquiries about product testing and usage, please contact via email: omics@t
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2024-09-04 | 89 | lalalacampanella |
- | 2.0.0 | 2024-09-04 | 110 | lalalacampanella |
- | 1.0.1 | 2024-12-04 | 5 | lalalacampanella |
- | 2.0.1 | 2024-12-04 | 7 | lalalacampanella |
+ | 1.0.0 | 2024-09-04 | 99 | lalalacampanella |
+ | 2.0.0 | 2024-09-04 | 120 | lalalacampanella |
+ | 1.0.1 | 2024-12-04 | 15 | lalalacampanella |
+ | 2.0.1 | 2024-12-04 | 17 | lalalacampanella |
  | 1.0.2 | 2024-12-12 | 0 | lalalacampanella |
  | 2.0.2 | 2024-12-12 | 0 | lalalacampanella |

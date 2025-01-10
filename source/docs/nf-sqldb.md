@@ -193,4 +193,4 @@ In particular, data inserted using the `sqlInsert` operator is *not* guaranteed 
  | 0.3.0 | 2022-02-07 | 182 | pditommaso |
  | 0.4.0 | 2022-04-11 | 269 | pditommaso |
  | 0.4.1 | 2022-05-25 | 704 | pditommaso |
- | 0.5.0 | 2022-08-30 | 1857 | pditommaso |
+ | 0.5.0 | 2022-08-30 | 1863 | pditommaso |

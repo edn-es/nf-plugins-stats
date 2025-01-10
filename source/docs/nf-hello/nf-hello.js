@@ -2,13 +2,13 @@
 (async function() {
     const data = [
 
-        { date: `2021-07-25`, count: 291 },
+        { date: `2021-07-25`, count: 303 },
 
-        { date: `2022-05-03`, count: 192 },
+        { date: `2022-05-03`, count: 204 },
 
-        { date: `2022-08-30`, count: 294 },
+        { date: `2022-08-30`, count: 306 },
 
-        { date: `2024-03-06`, count: 150 },
+        { date: `2024-03-06`, count: 163 },
 
     ];
 

@@ -20,11 +20,11 @@ Plugin implementing a cache metadata DB over cloud object storage
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 0.1.0 | 2023-07-22 | 114 | pditommaso |
- | 0.2.0 | 2023-08-17 | 1569 | pditommaso |
- | 0.3.0 | 2023-10-10 | 12334 | pditommaso |
- | 0.3.1 | 2023-11-24 | 1390 | pditommaso |
- | 0.4.0 | 2024-02-05 | 143 | pditommaso |
- | 0.4.1 | 2024-03-10 | 13563 | pditommaso |
- | 0.3.0-patch1 | 2024-05-28 | 863 | pditommaso |
- | 0.4.2 | 2024-08-05 | 2860 | pditommaso |
+ | 0.1.0 | 2023-07-22 | 126 | pditommaso |
+ | 0.2.0 | 2023-08-17 | 1594 | pditommaso |
+ | 0.3.0 | 2023-10-10 | 12513 | pditommaso |
+ | 0.3.1 | 2023-11-24 | 1402 | pditommaso |
+ | 0.4.0 | 2024-02-05 | 155 | pditommaso |
+ | 0.4.1 | 2024-03-10 | 13761 | pditommaso |
+ | 0.3.0-patch1 | 2024-05-28 | 898 | pditommaso |
+ | 0.4.2 | 2024-08-05 | 3032 | pditommaso |

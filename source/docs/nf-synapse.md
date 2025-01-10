@@ -13,7 +13,7 @@ section: content
 <script type="module" src="docs/nf-synapse/nf-synapse.js"></script>
 
 # nf-synapse
-        
+            
 
 ## Detail
 
