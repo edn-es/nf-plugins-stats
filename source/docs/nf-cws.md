@@ -126,9 +126,9 @@ The following fields can be used:
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2023-03-20 | 188 | Lehmann-Fabian |
- | 1.0.1 | 2023-06-09 | 176 | Lehmann-Fabian |
- | 1.0.2 | 2023-07-25 | 254 | Lehmann-Fabian |
- | 1.0.3 | 2023-10-02 | 131 | Lehmann-Fabian |
- | 1.0.4 | 2023-11-02 | 148 | Lehmann-Fabian |
- | 1.0.5 | 2024-07-22 | 170 | Lehmann-Fabian |
+ | 1.0.0 | 2023-03-20 | 190 | Lehmann-Fabian |
+ | 1.0.1 | 2023-06-09 | 178 | Lehmann-Fabian |
+ | 1.0.2 | 2023-07-25 | 256 | Lehmann-Fabian |
+ | 1.0.3 | 2023-10-02 | 133 | Lehmann-Fabian |
+ | 1.0.4 | 2023-11-02 | 150 | Lehmann-Fabian |
+ | 1.0.5 | 2024-07-22 | 172 | Lehmann-Fabian |

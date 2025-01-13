@@ -4,37 +4,37 @@
 
         {
             date: `2022-12-19`,
-            count: 486,
+            count: 488,
             name: '1.0.0' },
 
         {
             date: `2023-09-28`,
-            count: 1666,
+            count: 1668,
             name: '1.1.0' },
 
         {
             date: `2023-10-27`,
-            count: 131,
+            count: 133,
             name: '1.2.0' },
 
         {
             date: `2023-10-27`,
-            count: 16456,
+            count: 16458,
             name: '1.2.1' },
 
         {
             date: `2024-03-27`,
-            count: 75727,
+            count: 75773,
             name: '1.2.2' },
 
         {
             date: `2024-07-03`,
-            count: 2782,
+            count: 2784,
             name: '1.2.3' },
 
         {
             date: `2024-08-01`,
-            count: 8738,
+            count: 8742,
             name: '1.2.4' },
 
         {

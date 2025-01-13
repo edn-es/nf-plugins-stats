@@ -28,7 +28,7 @@ This repository only holds plugin artefacts. Source code is available at [this l
  | 1.5.2 | 2022-09-01 | 264 | pditommaso |
  | 1.5.3 | 2022-09-19 | 62 | pditommaso |
  | 1.5.4 | 2022-09-20 | 576 | pditommaso |
- | 1.5.5 | 2022-10-03 | 9008 | pditommaso |
+ | 1.5.5 | 2022-10-03 | 9009 | pditommaso |
  | 1.5.6 | 2022-11-13 | 10409 | pditommaso |
  | 1.5.7 | 2022-11-29 | 53 | pditommaso |
  | 1.5.8 | 2022-12-13 | 402 | pditommaso |
@@ -44,12 +44,12 @@ This repository only holds plugin artefacts. Source code is available at [this l
  | 1.6.0 | 2023-08-05 | 903 | pditommaso |
  | 1.6.1 | 2023-08-17 | 4402 | pditommaso |
  | 1.6.2 | 2023-09-27 | 327 | pditommaso |
- | 1.6.3 | 2023-10-10 | 20129 | pditommaso |
+ | 1.6.3 | 2023-10-10 | 20140 | pditommaso |
  | 1.7.0 | 2023-11-24 | 3834 | pditommaso |
  | 1.8.0 | 2024-02-05 | 3450 | pditommaso |
  | 1.8.1 | 2024-03-10 | 837 | pditommaso |
  | 1.9.0 | 2024-04-15 | 1388 | pditommaso |
- | 1.9.1 | 2024-05-13 | 15710 | pditommaso |
+ | 1.9.1 | 2024-05-13 | 15724 | pditommaso |
  | 1.6.3-patch1 | 2024-05-28 | 775 | pditommaso |
  | 1.9.2 | 2024-08-05 | 3032 | pditommaso |
- | 1.9.3 | 2024-10-27 | 4336 | pditommaso |
+ | 1.9.3 | 2024-10-27 | 4345 | pditommaso |

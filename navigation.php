@@ -42,6 +42,7 @@ return [
 
             'Data and Analysis Tools' => [
                 'children' => [
+'nf-sqldb' => 'docs/nf-sqldb' ,
 'nf-ffq' => 'docs/nf-ffq' ,
 'nf-schema' => 'docs/nf-schema' ,
 'nf-validation' => 'docs/nf-validation' ,

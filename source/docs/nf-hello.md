@@ -132,7 +132,7 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 0.1.0 | 2021-07-25 | 307 | pditommaso |
- | 0.2.0 | 2022-05-03 | 208 | pditommaso |
- | 0.3.0 | 2022-08-30 | 310 | pditommaso |
- | 0.5.0 | 2024-03-06 | 170 | pditommaso |
+ | 0.1.0 | 2021-07-25 | 309 | pditommaso |
+ | 0.2.0 | 2022-05-03 | 210 | pditommaso |
+ | 0.3.0 | 2022-08-30 | 312 | pditommaso |
+ | 0.5.0 | 2024-03-06 | 172 | pditommaso |

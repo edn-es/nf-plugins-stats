@@ -4,32 +4,32 @@
 
         {
             date: `2023-03-20`,
-            count: 188,
+            count: 190,
             name: '1.0.0' },
 
         {
             date: `2023-06-09`,
-            count: 176,
+            count: 178,
             name: '1.0.1' },
 
         {
             date: `2023-07-25`,
-            count: 254,
+            count: 256,
             name: '1.0.2' },
 
         {
             date: `2023-10-02`,
-            count: 131,
+            count: 133,
             name: '1.0.3' },
 
         {
             date: `2023-11-02`,
-            count: 148,
+            count: 150,
             name: '1.0.4' },
 
         {
             date: `2024-07-22`,
-            count: 170,
+            count: 172,
             name: '1.0.5' },
 
     ];

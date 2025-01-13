@@ -85,5 +85,5 @@ Copyright 2021-2024, Seqera Labs, S.L. All Rights Reserved.
  | 1.3.1 | 2023-08-09 | 6423 | pditommaso |
  | 1.4.0 | 2023-12-26 | 505 | pditommaso |
  | 1.5.0 | 2024-02-05 | 190 | pditommaso |
- | 1.6.0 | 2024-05-14 | 4360 | pditommaso |
- | 1.3.2 | 2024-07-30 | 30326 | pditommaso |
+ | 1.6.0 | 2024-05-14 | 4369 | pditommaso |
+ | 1.3.2 | 2024-07-30 | 30330 | pditommaso |

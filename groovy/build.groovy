@@ -26,6 +26,7 @@ groups = [
                 "nf-parquet"
         ],
         "Data and Analysis Tools"               : [
+                "nf-sqldb",
                 "nf-ffq",
                 "nf-schema",
                 "nf-validation",

@@ -19,4 +19,4 @@ section: content
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 0.6.0 | 2024-10-13 | 80 | sfc-gh-hyu |
+ | 0.6.0 | 2024-10-13 | 82 | sfc-gh-hyu |

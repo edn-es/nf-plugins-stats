@@ -45,22 +45,22 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
  | 1.0.0 | 2023-10-15 | 4871 | pditommaso |
  | 1.1.0 | 2023-11-24 | 1627 | pditommaso |
  | 1.2.0 | 2023-12-20 | 1798 | pditommaso |
- | 1.0.1 | 2024-01-12 | 14878 | pditommaso |
+ | 1.0.1 | 2024-01-12 | 14888 | pditommaso |
  | 1.3.0 | 2024-02-05 | 1145 | pditommaso |
  | 1.3.1 | 2024-03-10 | 157 | pditommaso |
  | 1.4.0 | 2024-04-15 | 779 | pditommaso |
  | 1.4.1 | 2024-05-13 | 220 | pditommaso |
- | 1.4.2 | 2024-05-20 | 4300 | pditommaso |
+ | 1.4.2 | 2024-05-20 | 4302 | pditommaso |
  | 1.0.1-patch1 | 2024-05-28 | 826 | pditommaso |
- | 1.4.3 | 2024-06-17 | 1383 | pditommaso |
+ | 1.4.3 | 2024-06-17 | 1384 | pditommaso |
  | 1.4.4 | 2024-07-08 | 452 | pditommaso |
- | 1.4.2-patch1 | 2024-08-01 | 5659 | pditommaso |
+ | 1.4.2-patch1 | 2024-08-01 | 5674 | pditommaso |
  | 1.5.0 | 2024-08-05 | 146 | pditommaso |
  | 1.5.1 | 2024-09-04 | 155 | pditommaso |
- | 1.6.0 | 2024-10-02 | 1229 | pditommaso |
+ | 1.6.0 | 2024-10-02 | 1231 | pditommaso |
  | 1.7.0 | 2024-10-13 | 77 | pditommaso |
  | 1.7.1 | 2024-10-14 | 184 | pditommaso |
  | 1.7.2 | 2024-10-27 | 1496 | pditommaso |
  | 1.7.3 | 2024-11-18 | 247 | pditommaso |
- | 1.7.4 | 2024-11-27 | 3364 | pditommaso |
+ | 1.7.4 | 2024-11-27 | 3365 | pditommaso |
  | 1.8.0 | 2024-12-03 | 209 | pditommaso |

@@ -46,10 +46,10 @@ This repository only holds plugin artefacts. Source code is available at [this l
  | 1.7.0 | 2024-06-17 | 771 | pditommaso |
  | 1.8.0 | 2024-07-08 | 609 | pditommaso |
  | 1.3.3-patch3 | 2024-07-31 | 137 | pditommaso |
- | 1.6.1 | 2024-08-01 | 5466 | pditommaso |
+ | 1.6.1 | 2024-08-01 | 5474 | pditommaso |
  | 1.8.1 | 2024-08-05 | 772 | pditommaso |
  | 1.9.0 | 2024-09-04 | 294 | pditommaso |
  | 1.10.0 | 2024-10-02 | 209 | pditommaso |
  | 1.10.1 | 2024-10-27 | 389 | pditommaso |
- | 1.10.2 | 2024-11-18 | 483 | pditommaso |
- | 1.11.0 | 2024-12-03 | 114 | pditommaso |
+ | 1.10.2 | 2024-11-18 | 484 | pditommaso |
+ | 1.11.0 | 2024-12-03 | 116 | pditommaso |

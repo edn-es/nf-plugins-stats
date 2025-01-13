@@ -186,7 +186,7 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 0.1.0 | 2024-03-19 | 112 | pditommaso |
+ | 0.1.0 | 2024-03-19 | 114 | pditommaso |
  | 0.2.0 | 2024-03-20 | 1 | pditommaso |
- | 0.3.0 | 2024-04-05 | 111 | pditommaso |
- | 0.4.0 | 2024-04-15 | 239 | pditommaso |
+ | 0.3.0 | 2024-04-05 | 113 | pditommaso |
+ | 0.4.0 | 2024-04-15 | 241 | pditommaso |

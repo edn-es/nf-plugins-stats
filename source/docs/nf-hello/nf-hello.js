@@ -4,22 +4,22 @@
 
         {
             date: `2021-07-25`,
-            count: 307,
+            count: 309,
             name: '0.1.0' },
 
         {
             date: `2022-05-03`,
-            count: 208,
+            count: 210,
             name: '0.2.0' },
 
         {
             date: `2022-08-30`,
-            count: 310,
+            count: 312,
             name: '0.3.0' },
 
         {
             date: `2024-03-06`,
-            count: 170,
+            count: 172,
             name: '0.5.0' },
 
     ];
