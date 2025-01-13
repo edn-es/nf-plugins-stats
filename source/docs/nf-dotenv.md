@@ -19,4 +19,4 @@ section: content
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2023-11-22 | 1886 | clintval |
+ | 1.0.0 | 2023-11-22 | 1891 | clintval |

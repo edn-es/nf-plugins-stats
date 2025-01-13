@@ -103,10 +103,10 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | Kagoshima | 2024-04-22 | 11894 | nvnieuwk |
- | 2.0.1 | 2024-07-04 | 1000 | nvnieuwk |
- | Tantanmen | 2024-08-20 | 7522 | nvnieuwk |
- | 2.1.1 | 2024-09-19 | 57761 | nvnieuwk |
- | 2.1.2 | 2024-10-18 | 6097 | nvnieuwk |
- | Kitakata | 2024-10-30 | 5527 | nvnieuwk |
- | 2.2.1 | 2024-12-03 | 1270 | nvnieuwk |
+ | Kagoshima | 2024-04-22 | 11916 | nvnieuwk |
+ | 2.0.1 | 2024-07-04 | 1018 | nvnieuwk |
+ | Tantanmen | 2024-08-20 | 7539 | nvnieuwk |
+ | 2.1.1 | 2024-09-19 | 58445 | nvnieuwk |
+ | 2.1.2 | 2024-10-18 | 6209 | nvnieuwk |
+ | Kitakata | 2024-10-30 | 5561 | nvnieuwk |
+ | 2.2.1 | 2024-12-03 | 1380 | nvnieuwk |

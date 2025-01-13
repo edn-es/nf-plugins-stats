@@ -2,7 +2,10 @@
 (async function() {
     const data = [
 <% plugin.releases.each{ release -> %>
-        { date: `${release.published_at.take(10)}`, count: ${release.count} },
+        {
+            date: `${release.published_at.take(10)}`,
+            count: ${release.count},
+            name: '${release.name.split(" ").last()}' },
 <% } %>
     ];
 
@@ -11,14 +14,17 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.date),
+                labels: data.map(row => row.name),
                 datasets: [
                     {
                         label: 'Donwloads',
                         data: data.map(row => row.count)
                     }
                 ]
-            }
+            },
+            options: {
+                indexAxis: 'y'
+            },
         }
     );
 })();

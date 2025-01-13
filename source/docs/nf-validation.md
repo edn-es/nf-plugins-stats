@@ -107,17 +107,17 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
- | 0.1.0 | 2023-05-05 | 1326 | mirpedrol |
- | 0.2.0 | 2023-06-06 | 216 | nvnieuwk |
- | 0.2.1 | 2023-06-06 | 9308 | nvnieuwk |
- | 0.3.0 | 2023-07-10 | 635 | mirpedrol |
- | 0.3.1 | 2023-07-12 | 17184 | mirpedrol |
- | 0.3.2 | 2023-09-19 | 10260 | nvnieuwk |
- | 0.3.3 | 2023-10-10 | 1308 | mirpedrol |
+ | 0.1.0 | 2023-05-05 | 1330 | mirpedrol |
+ | 0.2.0 | 2023-06-06 | 220 | nvnieuwk |
+ | 0.2.1 | 2023-06-06 | 9330 | nvnieuwk |
+ | 0.3.0 | 2023-07-10 | 639 | mirpedrol |
+ | 0.3.1 | 2023-07-12 | 17190 | mirpedrol |
+ | 0.3.2 | 2023-09-19 | 10264 | nvnieuwk |
+ | 0.3.3 | 2023-10-10 | 1312 | mirpedrol |
  | 0.3.4 | 2023-10-10 | 60 | mirpedrol |
- | Tonkotsu | 2023-10-12 | 2844 | mirpedrol |
- | Miso | 2023-10-18 | 1859 | nvnieuwk |
- | Shoyu | 2023-10-23 | 13994 | nvnieuwk |
- | Wakayama | 2023-11-16 | 3202 | nvnieuwk |
- | Asahikawa | 2023-11-21 | 320998 | nvnieuwk |
- | Kushiro | 2024-08-07 | 30617 | adamrtalbot |
+ | Tonkotsu | 2023-10-12 | 2848 | mirpedrol |
+ | Miso | 2023-10-18 | 1863 | nvnieuwk |
+ | Shoyu | 2023-10-23 | 13998 | nvnieuwk |
+ | Wakayama | 2023-11-16 | 3206 | nvnieuwk |
+ | Asahikawa | 2023-11-21 | 321923 | nvnieuwk |
+ | Kushiro | 2024-08-07 | 30868 | adamrtalbot |

@@ -2,11 +2,20 @@
 (async function() {
     const data = [
 
-        { date: `2023-04-05`, count: 10 },
+        {
+            date: `2023-04-05`,
+            count: 10,
+            name: '0.5.0' },
 
-        { date: `2023-04-19`, count: 120 },
+        {
+            date: `2023-04-19`,
+            count: 124,
+            name: '0.6.0' },
 
-        { date: `2023-05-09`, count: 123 },
+        {
+            date: `2023-05-09`,
+            count: 127,
+            name: '0.7.0' },
 
     ];
 
@@ -15,14 +24,17 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.date),
+                labels: data.map(row => row.name),
                 datasets: [
                     {
                         label: 'Donwloads',
                         data: data.map(row => row.count)
                     }
                 ]
-            }
+            },
+            options: {
+                indexAxis: 'y'
+            },
         }
     );
 })();

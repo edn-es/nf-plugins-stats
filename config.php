@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://localhost:8000/',
     'production' => false,
     'siteName' => 'Nexflow Plugin Stats',
     'siteDescription' => 'A static site with Nextflow plugin stats',

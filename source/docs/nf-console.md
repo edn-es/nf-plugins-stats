@@ -33,4 +33,4 @@ Console plugin for Nextflow
  | 1.1.2 | 2024-05-13 | 18 | pditommaso |
  | 1.1.3 | 2024-05-20 | 480 | pditommaso |
  | 1.0.6-patch1 | 2024-05-28 | 16 | pditommaso |
- | 1.1.4 | 2024-08-05 | 196 | pditommaso |
+ | 1.1.4 | 2024-08-05 | 207 | pditommaso |

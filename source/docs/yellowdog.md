@@ -20,5 +20,5 @@ section: content
 | Release                               | Date | Downloads                        | Author |
 | :------------ | :---------: | ------: | -----------: |
  | 0.1.0 | 2024-02-08 | 1 | YellowDogMachine |
- | 1.0.0 | 2024-02-08 | 118 | YellowDogMachine |
- | 1.0.1 | 2024-03-15 | 135 | YellowDogMachine |
+ | 1.0.0 | 2024-02-08 | 122 | YellowDogMachine |
+ | 1.0.1 | 2024-03-15 | 139 | YellowDogMachine |

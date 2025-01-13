@@ -1,11 +1,53 @@
-import groovy.json.*
+import groovy.json.JsonSlurper
 import groovy.text.StreamingTemplateEngine
 
-import java.net.http.*
-import static java.net.http.HttpResponse.BodyHandlers
+groups = [
+        "Cloud Integration"                     : [
+                "nf-amazon",
+                "nf-azure",
+                "nf-google",
+                "nf-tencentcloud",
+                "nf-snowflake",
+                "nf-codecommit",
+                "nf-quilt",
+                "nf-cloudcache"
+        ],
+        "Executors and Orchestration"           : [
+                "nf-ignite",
+                "nf-nomad",
+                "nf-jarvice",
+                "nf-wr",
+                "yellowdog"
+        ],
+        "Optimization and Performance Utilities": [
+                "nf-boost",
+                "nf-cloudcache",
+                "nf-pgcache",
+                "nf-parquet"
+        ],
+        "Data and Analysis Tools"               : [
+                "nf-ffq",
+                "nf-schema",
+                "nf-validation",
+                "nf-prov",
+                "nf-ga4gh"
+        ],
+        "Development and Debugging Support"     : [
+                "nf-console",
+                "nf-dotenv",
+                "nf-hello"
+        ],
+        "Sustainability and Environment"        : [
+                "nf-co2footprint"
+        ],
+        "Specialized Integrations"              : [
+                "nf-cws",
+                "nf-iridanext",
+                "nf-wave",
+                "nf-weblog"
+        ]
 
-def jsonSlurper = new JsonSlurper()
-def plugins = jsonSlurper.parse("https://raw.githubusercontent.com/nextflow-io/plugins/main/plugins.json".toURL())
+]
 
 stats = new JsonSlurper().parse(new File("groovy/last.json"))
 
@@ -35,11 +77,22 @@ return [
         'url' => 'docs/getting-started',
         'children' => [
 """
-stats.each{ plugin->
-    navigation << "'$plugin.id' => 'docs/$plugin.id' ,\n"
+groups.each{ group ->
+    navigation << """
+            '${group.key}' => [
+                'children' => [
+"""
+    group.value.each{ id ->
+        plugin = stats.find{ it.id == id }
+        navigation << "'$plugin.id' => 'docs/$plugin.id' ,\n"
+    }
+    navigation << """
+                ],
+            ],
+"""
 }
 navigation << """
         ],
-    ],    
+    ],
 ];
 """

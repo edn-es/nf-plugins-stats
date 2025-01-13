@@ -2,7 +2,10 @@
 (async function() {
     const data = [
 
-        { date: `2023-11-22`, count: 1886 },
+        {
+            date: `2023-11-22`,
+            count: 1891,
+            name: '1.0.0' },
 
     ];
 
@@ -11,14 +14,17 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.date),
+                labels: data.map(row => row.name),
                 datasets: [
                     {
                         label: 'Donwloads',
                         data: data.map(row => row.count)
                     }
                 ]
-            }
+            },
+            options: {
+                indexAxis: 'y'
+            },
         }
     );
 })();

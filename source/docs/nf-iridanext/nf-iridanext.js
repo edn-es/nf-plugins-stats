@@ -2,9 +2,15 @@
 (async function() {
     const data = [
 
-        { date: `2023-12-15`, count: 207 },
+        {
+            date: `2023-12-15`,
+            count: 211,
+            name: '0.1.0' },
 
-        { date: `2024-01-22`, count: 5137 },
+        {
+            date: `2024-01-22`,
+            count: 5169,
+            name: '0.2.0' },
 
     ];
 
@@ -13,14 +19,17 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.date),
+                labels: data.map(row => row.name),
                 datasets: [
                     {
                         label: 'Donwloads',
                         data: data.map(row => row.count)
                     }
                 ]
-            }
+            },
+            options: {
+                indexAxis: 'y'
+            },
         }
     );
 })();

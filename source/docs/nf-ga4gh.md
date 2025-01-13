@@ -171,5 +171,5 @@ Follow these steps to package, upload and publish the plugin:
  | 1.1.0 | 2023-07-22 | 109 | pditommaso |
  | 1.1.1 | 2023-11-24 | 30 | pditommaso |
  | 1.2.0 | 2024-02-05 | 18 | pditommaso |
- | 1.3.0 | 2024-05-13 | 401 | pditommaso |
+ | 1.3.0 | 2024-05-13 | 403 | pditommaso |
  | 1.1.0-patch1 | 2024-05-28 | 24 | pditommaso |

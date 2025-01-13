@@ -2,21 +2,45 @@
 (async function() {
     const data = [
 
-        { date: `2022-12-19`, count: 482 },
+        {
+            date: `2022-12-19`,
+            count: 486,
+            name: '1.0.0' },
 
-        { date: `2023-09-28`, count: 1662 },
+        {
+            date: `2023-09-28`,
+            count: 1666,
+            name: '1.1.0' },
 
-        { date: `2023-10-27`, count: 127 },
+        {
+            date: `2023-10-27`,
+            count: 131,
+            name: '1.2.0' },
 
-        { date: `2023-10-27`, count: 16452 },
+        {
+            date: `2023-10-27`,
+            count: 16456,
+            name: '1.2.1' },
 
-        { date: `2024-03-27`, count: 74996 },
+        {
+            date: `2024-03-27`,
+            count: 75727,
+            name: '1.2.2' },
 
-        { date: `2024-07-03`, count: 2767 },
+        {
+            date: `2024-07-03`,
+            count: 2782,
+            name: '1.2.3' },
 
-        { date: `2024-08-01`, count: 8693 },
+        {
+            date: `2024-08-01`,
+            count: 8738,
+            name: '1.2.4' },
 
-        { date: `2024-11-05`, count: 651 },
+        {
+            date: `2024-11-05`,
+            count: 668,
+            name: '1.3.0' },
 
     ];
 
@@ -25,14 +49,17 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.date),
+                labels: data.map(row => row.name),
                 datasets: [
                     {
                         label: 'Donwloads',
                         data: data.map(row => row.count)
                     }
                 ]
-            }
+            },
+            options: {
+                indexAxis: 'y'
+            },
         }
     );
 })();

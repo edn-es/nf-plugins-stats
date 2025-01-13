@@ -2,13 +2,25 @@
 (async function() {
     const data = [
 
-        { date: `2021-07-25`, count: 303 },
+        {
+            date: `2021-07-25`,
+            count: 307,
+            name: '0.1.0' },
 
-        { date: `2022-05-03`, count: 204 },
+        {
+            date: `2022-05-03`,
+            count: 208,
+            name: '0.2.0' },
 
-        { date: `2022-08-30`, count: 306 },
+        {
+            date: `2022-08-30`,
+            count: 310,
+            name: '0.3.0' },
 
-        { date: `2024-03-06`, count: 163 },
+        {
+            date: `2024-03-06`,
+            count: 170,
+            name: '0.5.0' },
 
     ];
 
@@ -17,14 +29,17 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.date),
+                labels: data.map(row => row.name),
                 datasets: [
                     {
                         label: 'Donwloads',
                         data: data.map(row => row.count)
                     }
                 ]
-            }
+            },
+            options: {
+                indexAxis: 'y'
+            },
         }
     );
 })();
