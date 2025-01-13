@@ -18,7 +18,7 @@ this platform provides all the insights you need in one place.
 This site uses a static site generator (Jigsaw) to create an up-to-date markdown
 file per plugin including public information about everyone
 
-The code of this repository is available at [https://github.com/edn-es/nf-plugins-stats](Github of EDN)
+The code of this repository is available at [Github of EDN](https://github.com/edn-es/nf-plugins-stats)
 
 ### Adding Plugin {#getting-started-adding-plugin}
 
