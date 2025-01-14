@@ -23,6 +23,26 @@
 
                 <a href="https://jorge-aguilera.blog" title="My Blog" class="bg-gray-300 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">About Jorge</a>
             </div>
+            <div class="flex my-10">
+                <style>
+                    .libutton {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        padding: 7px;
+                        text-align: center;
+                        outline: none;
+                        text-decoration: none !important;
+                        color: #ffffff !important;
+                        width: 200px;
+                        height: 32px;
+                        border-radius: 16px;
+                        background-color: #0A66C2;
+                        font-family: "SF Pro Text", Helvetica, sans-serif;
+                    }
+                </style>
+                <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jagedn" target="_blank">Follow me on LinkedIn</a>
+            </div>
         </div>
 
     </div>

@@ -24,7 +24,7 @@
 
         <base href="{{ $page->baseUrl }}">
         <link rel="home" href="{{ $page->baseUrl }}">
-        <link rel="icon" href="{{ $page->baseUrl }}favicon.ico">
+        <link rel="icon" href="{{ $page->baseUrl }}favicon.svg">
 
         @stack('meta')
 
