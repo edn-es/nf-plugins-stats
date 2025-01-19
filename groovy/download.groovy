@@ -30,7 +30,7 @@ stats = plugins.collect { plugin ->
     }
 
     def request = HttpRequest.newBuilder()
-            .uri(new URI("https://api.github.com/repos/$org/$repo/releases".toString()))
+            .uri(new URI("https://api.github.com/repos/$org/$repo/releases?per_page=100".toString()))
             .headers("Authorization", "Bearer $token")
             .GET()
             .build()

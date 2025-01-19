@@ -23,6 +23,14 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.0.0                                               | 2021-01-04                                          | 72                                                 | pditommaso                                         |
+ |  1.0.1                                               | 2021-01-15                                          | 343                                                | pditommaso                                         |
+ |  1.0.2                                               | 2021-03-05                                          | 126                                                | pditommaso                                         |
+ |  1.1.0                                               | 2021-03-24                                          | 9423                                               | pditommaso                                         |
+ |  1.1.1                                               | 2021-05-28                                          | 112                                                | pditommaso                                         |
+ |  1.2.0                                               | 2021-08-06                                          | 420                                                | pditommaso                                         |
+ |  1.3.0                                               | 2021-10-28                                          | 10676                                              | pditommaso                                         |
+ |  1.4.0                                               | 2022-02-07                                          | 11958                                              | pditommaso                                         |
  |  1.5.0                                               | 2022-08-01                                          | 347                                                | pditommaso                                         |
  |  1.5.1                                               | 2022-08-11                                          | 487                                                | pditommaso                                         |
  |  1.5.2                                               | 2022-09-01                                          | 264                                                | pditommaso                                         |
