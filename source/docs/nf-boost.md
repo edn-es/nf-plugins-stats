@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="docs/nf-boost/nf-boost.js"></script>
+<script type="module" src="nf-plugins-stats/docs/nf-boost/nf-boost.js"></script>
 
 # nf-boost
 

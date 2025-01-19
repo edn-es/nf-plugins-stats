@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="docs/nf-cloudcache/nf-cloudcache.js"></script>
+<script type="module" src="nf-plugins-stats/docs/nf-cloudcache/nf-cloudcache.js"></script>
 
 # nf-cloudcache
 Plugin implementing a cache metadata DB over cloud object storage 

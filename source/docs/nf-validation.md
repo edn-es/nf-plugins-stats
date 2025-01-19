@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="docs/nf-validation/nf-validation.js"></script>
+<script type="module" src="nf-plugins-stats/docs/nf-validation/nf-validation.js"></script>
 
 # ![nf-validation](docs/images/nf-validation.svg)
 
@@ -109,7 +109,7 @@ We would like to thank the key contributors who include (but are not limited to)
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  0.1.0                                               | 2023-05-05                                          | 1334                                               | mirpedrol                                          |
  |  0.2.0                                               | 2023-06-06                                          | 224                                                | nvnieuwk                                           |
- |  0.2.1                                               | 2023-06-06                                          | 10101                                              | nvnieuwk                                           |
+ |  0.2.1                                               | 2023-06-06                                          | 10102                                              | nvnieuwk                                           |
  |  0.3.0                                               | 2023-07-10                                          | 643                                                | mirpedrol                                          |
  |  0.3.1                                               | 2023-07-12                                          | 17212                                              | mirpedrol                                          |
  |  0.3.2                                               | 2023-09-19                                          | 10268                                              | nvnieuwk                                           |

@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="docs/nf-google/nf-google.js"></script>
+<script type="module" src="nf-plugins-stats/docs/nf-google/nf-google.js"></script>
 
 # nf-google plugin 
 
@@ -52,4 +52,4 @@ This repository only holds plugin artefacts. Source code is available at [this l
  |  1.15.1                                              | 2024-10-13                                          | 74                                                 | pditommaso                                         |
  |  1.15.2                                              | 2024-10-14                                          | 4368                                               | pditommaso                                         |
  |  1.16.0                                              | 2024-12-03                                          | 1139                                               | pditommaso                                         |
- |  1.15.3                                              | 2024-12-16                                          | 5218                                               | pditommaso                                         |
+ |  1.15.3                                              | 2024-12-16                                          | 5220                                               | pditommaso                                         |

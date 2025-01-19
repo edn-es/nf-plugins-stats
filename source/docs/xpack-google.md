@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="docs/xpack-google/xpack-google.js"></script>
+<script type="module" src="nf-plugins-stats/docs/xpack-google/xpack-google.js"></script>
 
 # Nextflow extension package for Google Cloud (XPACK-GOOGLE)
 
