@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -143,15 +143,15 @@ Following these step to package, upload and publish the plugin:
 
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2022-12-19 | 488 | BrunoGrandePhD |
- | 1.1.0 | 2023-09-28 | 1668 | bentsherman |
- | 1.2.0 | 2023-10-27 | 133 | bentsherman |
- | 1.2.1 | 2023-10-27 | 16458 | bentsherman |
- | 1.2.2 | 2024-03-27 | 75773 | bentsherman |
- | 1.2.3 | 2024-07-03 | 2784 | bentsherman |
- | 1.2.4 | 2024-08-01 | 8742 | bentsherman |
- | 1.3.0 | 2024-11-05 | 668 | bentsherman |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.0.0                                               | 2022-12-19                                          | 491                                                | BrunoGrandePhD                                     |
+ |  1.1.0                                               | 2023-09-28                                          | 1670                                               | bentsherman                                        |
+ |  1.2.0                                               | 2023-10-27                                          | 135                                                | bentsherman                                        |
+ |  1.2.1                                               | 2023-10-27                                          | 16462                                              | bentsherman                                        |
+ |  1.2.2                                               | 2024-03-27                                          | 77164                                              | bentsherman                                        |
+ |  1.2.3                                               | 2024-07-03                                          | 2802                                               | bentsherman                                        |
+ |  1.2.4                                               | 2024-08-01                                          | 9001                                               | bentsherman                                        |
+ |  1.3.0                                               | 2024-11-05                                          | 955                                                | bentsherman                                        |

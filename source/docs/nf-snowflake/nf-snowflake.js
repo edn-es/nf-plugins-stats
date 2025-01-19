@@ -4,8 +4,8 @@
 
         {
             date: `2024-10-13`,
-            count: 82,
-            name: '0.6.0' },
+            count: 84,
+            y: '0.6.0' },
 
     ];
 
@@ -14,16 +14,42 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.name),
+                labels: data.map(row => row.y),
                 datasets: [
                     {
                         label: 'Donwloads',
-                        data: data.map(row => row.count)
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
                     }
                 ]
             },
             options: {
-                indexAxis: 'y'
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
             },
         }
     );

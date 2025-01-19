@@ -5,210 +5,210 @@
         "releases": [
             {
                 "name": "Version 1.15.0",
-                "count": 1875,
+                "count": 1878,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-02-21T18:22:05Z"
             },
             {
                 "name": "Version 1.16.0",
-                "count": 967,
+                "count": 969,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-03-19T18:20:12Z"
             },
             {
                 "name": "Version 1.16.1",
-                "count": 30707,
+                "count": 30752,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-01T21:35:15Z"
             },
             {
                 "name": "Version 1.16.2",
-                "count": 141507,
+                "count": 142214,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:16:38Z"
             },
             {
                 "name": "Version 2.0.0",
-                "count": 2054,
+                "count": 2056,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-05-15T03:54:49Z"
             },
             {
                 "name": "Version 2.0.1",
-                "count": 4026,
+                "count": 4028,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-06-14T20:44:07Z"
             },
             {
                 "name": "Version 2.1.0",
-                "count": 983,
+                "count": 985,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-07-22T16:04:18Z"
             },
             {
                 "name": "Version 2.1.1",
-                "count": 8195,
+                "count": 8204,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-05T15:04:14Z"
             },
             {
                 "name": "Version 2.1.2",
-                "count": 2769,
+                "count": 2773,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-10T22:18:52Z"
             },
             {
                 "name": "Version 2.1.3",
-                "count": 2460,
+                "count": 2488,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-27T22:21:59Z"
             },
             {
                 "name": "Version 2.1.4",
-                "count": 104377,
+                "count": 105576,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:00Z"
             },
             {
                 "name": "Version 2.2.0",
-                "count": 3108,
+                "count": 3130,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:39:48Z"
             },
             {
                 "name": "Version 2.3.0",
-                "count": 3321,
+                "count": 3361,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-26T10:48:24Z"
             },
             {
                 "name": "Version 2.4.0",
-                "count": 8334,
+                "count": 8351,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:26:49Z"
             },
             {
                 "name": "Version 2.4.1",
-                "count": 6028,
+                "count": 6034,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-10T20:04:20Z"
             },
             {
                 "name": "Version 2.4.2",
-                "count": 5752,
+                "count": 5786,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:37:55Z"
             },
             {
                 "name": "Version 2.5.0",
-                "count": 711,
+                "count": 713,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-13T09:48:39Z"
             },
             {
                 "name": "Version 2.5.1",
-                "count": 171,
+                "count": 173,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-14T08:17:18Z"
             },
             {
                 "name": "Version 2.5.2",
-                "count": 51344,
+                "count": 51880,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T10:03:27Z"
             },
             {
                 "name": "Version 2.1.4-patch1",
-                "count": 149,
+                "count": 151,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:03Z"
             },
             {
                 "name": "Version 2.1.4-patch2",
-                "count": 325,
+                "count": 327,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-11T20:00:47Z"
             },
             {
                 "name": "Version 2.6.0",
-                "count": 6115,
+                "count": 6170,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-17T20:45:25Z"
             },
             {
                 "name": "Version 2.1.4-patch3",
-                "count": 1142,
+                "count": 1175,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-30T20:07:34Z"
             },
             {
                 "name": "Version 2.5.3",
-                "count": 22040,
+                "count": 23020,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-01T08:44:44Z"
             },
             {
                 "name": "Version 2.7.0",
-                "count": 9556,
+                "count": 9641,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-05T21:15:48Z"
             },
             {
                 "name": "Version 2.8.0",
-                "count": 2266,
+                "count": 2268,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-09-04T15:30:24Z"
             },
             {
                 "name": "Version 2.9.0",
-                "count": 8839,
+                "count": 8951,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-02T13:36:56Z"
             },
             {
                 "name": "Version 2.9.1",
-                "count": 1859,
+                "count": 1912,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-18T14:12:25Z"
             },
             {
                 "name": "Version 2.9.2",
-                "count": 5662,
+                "count": 7017,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-27T21:36:53Z"
             },
             {
                 "name": "Version 2.10.0",
-                "count": 1990,
+                "count": 2305,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-03T10:38:00Z"
@@ -243,7 +243,7 @@
             },
             {
                 "name": "Version 1.0.1",
-                "count": 2346,
+                "count": 2362,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:18:29Z"
@@ -257,7 +257,7 @@
             },
             {
                 "name": "Version 1.1.1",
-                "count": 2152,
+                "count": 2181,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-06-14T20:45:07Z"
@@ -306,7 +306,7 @@
             },
             {
                 "name": "Version 1.3.2",
-                "count": 3864,
+                "count": 3959,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-27T22:22:10Z"
@@ -320,7 +320,7 @@
             },
             {
                 "name": "Version 1.3.3",
-                "count": 4014,
+                "count": 4025,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-01-12T23:26:07Z"
@@ -341,14 +341,14 @@
             },
             {
                 "name": "Version 1.6.0",
-                "count": 9985,
+                "count": 10000,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:38:09Z"
             },
             {
                 "name": "Version 1.3.3-patch1",
-                "count": 153,
+                "count": 156,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:20Z"
@@ -369,7 +369,7 @@
             },
             {
                 "name": "Version 1.8.0",
-                "count": 609,
+                "count": 636,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-08T20:32:22Z"
@@ -383,7 +383,7 @@
             },
             {
                 "name": "Version 1.6.1",
-                "count": 5474,
+                "count": 5670,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-01T08:44:58Z"
@@ -404,28 +404,28 @@
             },
             {
                 "name": "Version 1.10.0",
-                "count": 209,
+                "count": 210,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-02T13:37:10Z"
             },
             {
                 "name": "Version 1.10.1",
-                "count": 389,
+                "count": 394,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-27T20:20:31Z"
             },
             {
                 "name": "Version 1.10.2",
-                "count": 484,
+                "count": 658,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-18T14:12:40Z"
             },
             {
                 "name": "Version 1.11.0",
-                "count": 116,
+                "count": 150,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-03T10:38:12Z"
@@ -439,48 +439,48 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 112,
+                "count": 114,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-03-24T02:16:49Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 115,
+                "count": 117,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-03-26T17:57:00Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 115,
+                "count": 117,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-04-09T15:02:32Z"
             },
             {
                 "name": "Version 0.3.1",
-                "count": 144,
+                "count": 146,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-04-14T01:49:10Z"
             },
             {
                 "name": "Version 0.3.2",
-                "count": 898,
+                "count": 900,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-04-19T20:25:58Z"
             },
             {
                 "name": "Version 0.4.0",
-                "count": 1766,
+                "count": 1976,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-10-08T13:08:09Z"
             }
         ],
-        "readme": "# nf-boost\n            "
+        "readme": "# nf-boost\n\n<p align=\"center\">\n  <em>while we wait for <a href=\"https://github.com/nextflow-io/nextflow/issues/452\">four five two</a></em>\n  <br>\n  <em>a very special plugin, just for you</em>\n</p>\n\nNextflow plugin for experimental features that want to become core features!\n\nCurrently includes the following features:\n\n- automatic deletion of temporary files (`boost.cleanup`)\n\n- `fromJson` and `toJson` functions to read and write JSON\n\n- `fromYaml` and `toYaml` functions to read and write YAML\n\n- `mergeCsv` function for saving records to a CSV file\n\n- `mergeText` function for saving items to a text file (similar to `collectFile` operator)\n\n- `request` function for making HTTP requests\n\n- `template` function for rendering templates\n\n- `exec` operator for creating an inline native (i.e. `exec`) process\n\n- `scan` operator for, well, scan operations\n\n- `then` operator for defining custom operators in your pipeline\n\n## Getting Started\n\nTo use `nf-boost`, include it in your Nextflow config and add any desired settings:\n\n```groovy\nplugins {\n  id 'nf-boost'\n}\n\nboost {\n  cleanup = true\n}\n```\n\nThe plugin requires Nextflow version `23.10.0` or later.\n\n*New in version `0.4.0`: requires Nextflow `24.04.0` or later.*\n\nIf a release hasn't been published to the main registry yet, you can still use it by specifying the following environment variable so that Nextflow can find the plugin:\n\n```bash\nexport NXF_PLUGINS_TEST_REPOSITORY=\"https://github.com/bentsherman/nf-boost/releases/download/0.3.2/nf-boost-0.3.2-meta.json\"\n```\n\n## Examples\n\nCheck out the `examples` directory for example pipelines that demonstrate how to use the features in this plugin.\n\n## Reference\n\n### Configuration\n\n**`boost.cleanup`**\n\nSet to `true` to enable automatic cleanup (default: `false`). Temporary files will be automatically deleted as soon as they are no longer needed.\n\nThe default cleanup observer uses `publishDir` directives to determine whether a file should be published before it is deleted. Setting `boost.cleanup = 'v2'` will use an alternate cleanup observer which uses the new workflow publish definition instead of `publishDir` to track publishing.\n\nLimitations:\n\n- Resume is not supported with automatic cleanup at this time. Deleted tasks will be re-executed on a resumed run. Resume will be supported when this feature is finalized in Nextflow.\n\n- Helper files and log files created by Nextflow (e.g. `.command.run`, `.command.log`) are not deleted. Consider using a cleanup policy on the underlying filesystem or object storage to delete these files automatically over time.\n\n- Input files that are staged into the work directory (e.g. from an HTTP/FTP server or S3 bucket) are not deleted.\n\n- Files created by operators (e.g. `collectFile`, `splitFastq`) cannot be tracked and so are not deleted. For optimal performance, consider refactoring such operators into processes:\n\n  - Splitter operators such as `splitFastq` can also be used as functions in a native process:\n\n    ```groovy\n    process SPLIT_FASTQ {\n      input:\n      val(fastq)\n\n      output:\n      path(chunks)\n\n      exec:\n      chunks = splitFastq(fastq, file: true)\n    }\n    ```\n\n  - The `collectFile` operator can be replaced with `mergeText` (in this plugin) in a native process. See the `examples` directory for example usage.\n\n**`boost.cleanupInterval`**\n\nSpecify how often to scan for cleanup (default: `'60s'`).\n\n### Functions\n\n**`fromJson( source: Path | String )`**\n\nLoad a value from JSON.\n\n**`toJson( value, pretty = false ) -> String`**\n\nConvert a value to JSON.\n\n**`fromYaml( source: Path | String )`**\n\nLoad a value from YAML.\n\n**`toYaml( value ) -> String`**\n\nConvert a value to YAML.\n\n**`mergeCsv( records, path, [opts] )`**\n\nSave a list of records (i.e. tuples or maps) to a CSV file.\n\nAvailable options:\n\n- `header`: When `true`, the keys of the first record are used as the column names (default: `false`). Can also be a list of column names.\n\n- `sep`: The character used to separate values (default: `','`).\n\n**`mergeText( items, path, [opts] )`**\n\nSave a list of items (i.e. files or strings) to a text file.\n\nAvailable options:\n\n- `keepHeader`: Prepend the resulting file with the header of the first file (default: `false`). The number of header lines can be specified using the `skip` option, to determine how many lines to remove from each file.\n\n- `newLine`: Append a newline character after each entry (default: `false`).\n\n- `skip`: The number of lines to skip at the beginning of each entry (default: `1` when `keepHeader` is true, `0` otherwise).\n\n**`request( url: String, [opts] )`**\n\nMake an HTTP request. Returns the underlying [HttpURLConnection](https://docs.oracle.com/javase/8/docs/api/java/net/HttpURLConnection.html).\n\nAvailable options:\n\n- `body: String`\n\n  The request body.\n\n- `headers: Map<String,String>`\n\n  Map of request headers.\n\n- `method: String`\n\n  The request method, can be `'get'`, `'post'`, `'head'`, `'options'`, `'put'`, `'delete'`, or `'trace'` (default: `'get'`).\n\n**`template( source: Path | String, binding: Map ) -> String`**\n\nRender a template with the given binding.\n\n### Operators\n\n**`exec( name, body )`**\n\nThe `exec` operator creates and invokes an inline native (i.e. `exec`) process with the given name, as well as a closure which corresponds to the `exec:` section of a native process.\n\nThe inline process can be configured from the config file like any other process, including the use of process selectors (i.e. `withName`).\n\nLimitations:\n\n- Inline process directives are not supported yet.\n\n- The inline exec body should accept a single value and return a single value. Multiple inputs/outputs are not supported yet.\n\n**`scan( [seed], accumulator )`**\n\nThe `scan` operator is similar to `reduce` -- it applies an accumulator function sequentially to each value in a channel -- however, whereas `reduce` only emits the final result, `scan` emits each partially accumulated value.\n\n**`then( onNext, [opts] )`**\n\n**`then( [others...], opts )`**\n\nThe `then` operator is a generic operator that can be used to implement nearly any operator you can imagine.\n\nIt accepts any of three event handlers: `onNext`, `onComplete`, and `onError` (similar to `subscribe`). Each event handler has access to the following methods:\n\n- `emit( value )`: emit a value to the output channel\n\n- `done()`: signal that no more values will be emitted\n\nWhen there is only one source channel, the `done()` method will be called automatically when the source channel sends the `onComplete` event. You can still call it manually, e.g. to finalize the output earlier. When there are multiple source channels, you are responsible for calling `done()` at the appropriate time -- if you don't call it, your operator will wait forever.\n\nWhen there are multiple source channels, `onNext` and `onComplete` events are *synchronized*. This way, you don't need to worry about making your event handlers thread-safe, because they will be invoked on one event at a time.\n\nAvailable options:\n\n- `onNext( value, [i] )`: Closure that is invoked when a value is emitted by a source channel. Equivalent to providing a closure as the first argument. When there are multiple source channels, the closure is invoked with a second argument corresponding to the index of the source channel.\n\n- `onComplete( [i] )`: Closure that is invoked after the last value is emitted by a source channel. When there are multiple source channels, the closure is invoked with the index of the source channel.\n\n- `onError( error )`: Closure that is invoked when an exception is raised while handling an `onNext` event. It is invoked the exception that caused the error. No further calls will be made to `onNext` or `onComplete` after this event. By default, the error is logged and the workflow is terminated.\n\n- `singleton`: Whether the output channel should be a value (i.e. *singleton*) channel. By default, it is determined by the source channel, i.e. if the source is a value channel then the output will also be a value channel and vice versa.\n\n## Development\n\nThe easiest way to build and test nf-boost locally is to run `make install`. This will build the plugin and install it to your Nextflow plugins directory (e.g. `~/.nextflow/plugins`), using the version defined in `MANIFEST.MF`. Finally, specify the plugin in your Nextflow config with this exact version. You can then use it locally like a regular plugin.\n\nRefer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for more information about building and publishing Nextflow plugins.\n"
     },
     {
         "id": "nf-cloudcache",
@@ -488,56 +488,56 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 132,
+                "count": 134,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-07-22T16:06:53Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 1602,
+                "count": 1638,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:31:51Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 12585,
+                "count": 12807,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:24Z"
             },
             {
                 "name": "Version 0.3.1",
-                "count": 1408,
+                "count": 1410,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:04Z"
             },
             {
                 "name": "Version 0.4.0",
-                "count": 161,
+                "count": 163,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:27:49Z"
             },
             {
                 "name": "Version 0.4.1",
-                "count": 13863,
+                "count": 14138,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-10T20:04:52Z"
             },
             {
                 "name": "Version 0.3.0-patch1",
-                "count": 905,
+                "count": 922,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:40Z"
             },
             {
                 "name": "Version 0.4.2",
-                "count": 3083,
+                "count": 3882,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-05T21:16:04Z"
@@ -551,17 +551,10 @@
         "releases": [
             {
                 "name": "Version 1.0.0-beta",
-                "count": 715,
+                "count": 729,
                 "author": "skrakau",
                 "avatar": "https://avatars.githubusercontent.com/u/1982769?v=4",
                 "published_at": "2024-01-19T13:13:19Z"
-            },
-            {
-                "name": "Version 1.0.0-beta.1",
-                "count": 2,
-                "author": "Bastian-Eisenmann",
-                "avatar": "https://avatars.githubusercontent.com/u/188207636?v=4",
-                "published_at": "2025-01-09T14:15:34Z"
             }
         ],
         "readme": "# nf-co2footprint plugin [WIP]\n\nA Nextflow plugin to estimate the CO<sub>2</sub> footprint of pipeline runs.\n\n## \ud83d\udcda Docs \ud83d\udc49\ud83c\udffb <https://nextflow-io.github.io/nf-co2footprint>\n\n## Introduction\n\nThe nf-co2footprint plugin estimates the energy consumption for each pipeline task based on the Nextflow resource usage metrics and information about the power consumption of the underlying compute system.\nThe carbon intensity of the energy production is then used to estimate the respective CO<sub>2</sub> emission.\n\nThe calculation is based on the carbon footprint computation method\ndeveloped in the Green Algorithms project: www.green-algorithms.org\n\n> **Green Algorithms: Quantifying the Carbon Footprint of Computation.**\n> \n> Lannelongue, L., Grealey, J., Inouye, M.,\n> \n> Adv. Sci. 2021, 2100707. https://doi.org/10.1002/advs.202100707\n\nThe nf-co2footprint plugin generates a detailed TXT carbon footprint report containing the energy consumption, the estimated CO<sub>2</sub> emission and other relevant metrics for each task.\nAdditionally, an HTML report is generated with information about the carbon footprint of the whole pipeline run and containing plots showing, for instance, an overview of the CO<sub>2</sub> emissions for the different processes.\n\n## Quick Start\n\nDeclare the plugin in your Nextflow pipeline configuration file:\n\n```groovy title=\"nextflow.config\"\nplugins {\n  id 'nf-co2footprint@1.0.0-beta'\n}\n```\n\nThis is all that is needed. Run your pipeline with the usual command.\n\nYou can find more information on plugins in the [Nextflow documentation](https://www.nextflow.io/docs/latest/plugins.html#plugins).\n\n> [!NOTE]\n> To test the plugin prior to its first release, refer to the [contributing documentation](contributing/setup.md).\n\n## Credits\n\nThe nf-co2footprint plugin is mainly developed and maintained by [Sabrina Krakau](https://github.com/skrakau) and [J\u00falia Mir-Pedrol](https://github.com/mirpedrol) at [QBiC](https://www.qbic.uni-tuebingen.de/).\n\nWe thank the following people for their extensive assistance in the development of this pipeline:\n\n- [Phil Ewels](https://github.com/ewels)\n- [Paolo Di Tommaso](https://github.com/pditommaso)"
@@ -572,7 +565,7 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 210,
+                "count": 212,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-06-09T15:27:07Z"
@@ -586,70 +579,70 @@
             },
             {
                 "name": "Version 0.1.2",
-                "count": 6582,
+                "count": 6584,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-06-17T13:07:23Z"
             },
             {
                 "name": "Version 0.1.3",
-                "count": 908,
+                "count": 910,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T17:46:15Z"
             },
             {
                 "name": "Version 0.1.4",
-                "count": 5499,
+                "count": 5520,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:23:34Z"
             },
             {
                 "name": "Version 0.1.5",
-                "count": 5328,
+                "count": 5332,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-05-15T03:55:22Z"
             },
             {
                 "name": "Version 0.1.6",
-                "count": 162,
+                "count": 164,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:10Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 168,
+                "count": 170,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:27:54Z"
             },
             {
                 "name": "Version 0.1.5-patch1",
-                "count": 126,
+                "count": 128,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:45Z"
             },
             {
                 "name": "Version 0.1.5-patch2",
-                "count": 119,
+                "count": 121,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-30T20:07:45Z"
             },
             {
                 "name": "Version 0.2.1",
-                "count": 161,
+                "count": 163,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-01T08:45:14Z"
             },
             {
                 "name": "Version 0.2.2",
-                "count": 198,
+                "count": 307,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-05T21:16:09Z"
@@ -754,7 +747,7 @@
             },
             {
                 "name": "Version 1.1.4",
-                "count": 207,
+                "count": 227,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-05T21:16:15Z"
@@ -768,42 +761,42 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 190,
+                "count": 192,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-03-20T15:21:00Z"
             },
             {
                 "name": "Version 1.0.1",
-                "count": 178,
+                "count": 180,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-06-09T12:38:52Z"
             },
             {
                 "name": "Version 1.0.2",
-                "count": 256,
+                "count": 258,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-07-25T13:07:43Z"
             },
             {
                 "name": "Version 1.0.3",
-                "count": 133,
+                "count": 135,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-10-02T08:28:51Z"
             },
             {
                 "name": "Version 1.0.4",
-                "count": 150,
+                "count": 152,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-11-02T17:31:11Z"
             },
             {
                 "name": "Version 1.0.5",
-                "count": 172,
+                "count": 174,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2024-07-22T12:36:11Z"
@@ -817,13 +810,13 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 1893,
+                "count": 1921,
                 "author": "clintval",
                 "avatar": "https://avatars.githubusercontent.com/u/4634699?v=4",
                 "published_at": "2023-11-22T05:56:19Z"
             }
         ],
-        "readme": "# nf-dotenv\n            "
+        "readme": "# nf-dotenv\n\n[![CI](https://github.com/fulcrumgenomics/nf-dotenv/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/fulcrumgenomics/nf-dotenv/actions/workflows/test.yml?query=branch%3Amain)\n[![Nextflow](https://img.shields.io/badge/Nextflow%20DSL2-%E2%89%A522.10.2-blue.svg)](https://www.nextflow.io/)\n[![Java Versions](https://img.shields.io/badge/java-8_|_11_|_17_|_21-blue)](https://github.com/fulcrumgenomics/nf-dotenv)\n\nAutomatically source [dotenv](https://hexdocs.pm/dotenvy/dotenv-file-format.html) files into your Nextflow scope.\n\n## Quickstart\n\nAdd the plugin to your Nextflow config:\n\n```nextflow\nplugins { id 'nf-dotenv' }\n```\n\nAnd add the following import statement into your processes and workflow files:\n\n```nextflow\ninclude { dotenv } from \"plugin/nf-dotenv\"\n```\n\nNow you're ready to source environmental file variables in Nextflow contexts!\n\n```nextflow\ndotenv(\"KeyFromEnvironment\")\n```\n\n## Configuration\n\nThis plugin support the following Nextflow configuration:\n\n```nextflow\ndotenv.filename = \".env\" // Filename of the dotenv file\ndotenv.relative = \".\"    // Relative path of the dotenv file to the main script\n```\n\n## A Real World Example\n\nLet's say you have the following Nextflow project:\n\n#### Dotenv (`.env`)\n\n```ini\nSAMTOOLS_VERSION=1.17\n```\n#### Docker Image (`Dockerfile`)\n\n```dockerfile\nFROM alpine:3.18\n\nRUN apk add --update --no-cache \\\n      bash=5.2.15-r5 \\\n      build-base=0.5-r3 \\\n      bzip2-dev=1.0.8-r5 \\\n      xz-dev=5.4.3-r0 \\\n      zlib-dev=1.2.13-r1\n\nARG SAMTOOLS_VERSION\n\nRUN wget https://github.com/samtools/samtools/releases/download/${SAMTOOLS_VERSION}/samtools-${SAMTOOLS_VERSION}.tar.bz2 \\\n    && tar -xjvf samtools-${SAMTOOLS_VERSION}.tar.bz2 \\\n    && cd samtools-${SAMTOOLS_VERSION} \\\n    && ./configure --without-curses --enable-configure-htslib \\\n    && make all all-htslib -j 8 \\\n    && make install install-htslib \\\n    && rm -r ../samtools-${SAMTOOLS_VERSION}\n```\n\n#### Docker Compose (`docker-compose.yaml`)\n\n```yaml\nservices:\n  samtools:\n    build:\n      args:\n        SAMTOOLS_VERSION: ${SAMTOOLS_VERSION}\n      tags: ['samtools:${SAMTOOLS_VERSION}']\n```\n\n#### Nextflow Script (`main.nf`)\n\n```nextflow\ninclude { dotenv } from \"plugin/nf-dotenv\"\n\nprocess emit_samtools_version {\n    container \"samtools:${dotenv('SAMTOOLS_VERSION')}\"\n    output: stdout\n\n    \"\"\"\n    samtools --version | head -n1\n    \"\"\"\n}\n\nworkflow { emit_samtools_version() | view }\n```\n\nAfter building the Docker image with `docker compose build`, and after [enabling Docker for Nextflow](https://www.nextflow.io/docs/latest/docker.html#how-it-works), you will be able to use `nf-dotenv` to source the version tag of the container to use in your Nextflow process.\nWhen the main Nextflow script is run with `nextflow run main.nf`, you will get the following output:\n\n```console\n\u276f nextflow -quiet run main.nf\nsamtools 1.17\n```\n\nHowever, upgrade the dotenv variable `SAMTOOLS_VERSION` to `1.18` and you'll see:\n\n```console\n\u276f nextflow -quiet run main.nf\nsamtools 1.18\n```\n\nConveniently for debugging, local environment variables take precedence over dotenv variables:\n\n```console\n\u276f SAMTOOLS_VERSION=1.16 nextflow -quiet run main.nf\nsamtools 1.16\n```\n\n## Testing the Plugin Locally\n\nExecute the following to compile and run unit tests for the plugin:\n\n```\nmake compile\nmake test\n```\n\nTo install the plugin for use in local workflows (_e.g._ not internet connected), execute the following:\n\n```\nmake install-local\n```\n\n## Developing the Plugin Locally\n\n\nExecute the following to build the plugin along with Nextflow source files:\n\n```\nmake compile-with-nextflow\n```\n\nTest your changes to the plugin on a Nextflow script like:\n\n```bash\nNXF_PLUGINS_DEV=\"${PWD}/plugins\" nextflow/launch.sh run <script.nf> -plugins nf-dotenv\n```\n\n## Publishing to GitHub\n\nAfter bumping the version of the plugin in the file [`MANIFEST.MF`](./plugins/nf-dotenv/src/resources/META-INF/MANIFEST.MF), execute the following:\n\n```\nGITHUB_TOKEN=... GITHUB_USERNAME=... GITHUB_COMMIT_EMAIL=... make publish-to-github\n```\n"
     },
     {
         "id": "nf-ffq",
@@ -831,7 +824,7 @@
         "releases": [
             {
                 "name": "Version 0.2.0",
-                "count": 118,
+                "count": 120,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-06T18:30:05Z"
@@ -866,84 +859,84 @@
             },
             {
                 "name": "Version 0.1.7",
-                "count": 249,
+                "count": 251,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-05-25T09:25:06Z"
             },
             {
                 "name": "Version 0.1.8",
-                "count": 240,
+                "count": 242,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-07-17T02:58:31Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 146,
+                "count": 148,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-07-26T03:08:53Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 153,
+                "count": 155,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-08-09T05:47:24Z"
             },
             {
                 "name": "Version 0.3.1",
-                "count": 209,
+                "count": 211,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-08-21T08:57:52Z"
             },
             {
                 "name": "Version 0.4.0",
-                "count": 404,
+                "count": 406,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-10-12T03:52:55Z"
             },
             {
                 "name": "Version 0.4.1",
-                "count": 1321,
+                "count": 1323,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-01-11T21:55:45Z"
             },
             {
                 "name": "Version 0.4.2",
-                "count": 326,
+                "count": 329,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-07-24T05:04:58Z"
             },
             {
                 "name": "Version 0.4.3",
-                "count": 310,
+                "count": 312,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-08-15T21:42:52Z"
             },
             {
                 "name": "Version 0.4.4",
-                "count": 164,
+                "count": 166,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-09-12T00:01:24Z"
             },
             {
                 "name": "Version 0.4.5",
-                "count": 224,
+                "count": 226,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-09-19T00:05:26Z"
             },
             {
                 "name": "Version 0.4.6",
-                "count": 1031,
+                "count": 1087,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-09-26T18:50:04Z"
@@ -978,7 +971,7 @@
             },
             {
                 "name": "Version 1.0.3",
-                "count": 113,
+                "count": 114,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-05-28T14:25:25Z"
@@ -1027,7 +1020,7 @@
             },
             {
                 "name": "Version 1.3.0",
-                "count": 403,
+                "count": 408,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-13T09:49:11Z"
@@ -1076,14 +1069,14 @@
             },
             {
                 "name": "Version 1.7.2",
-                "count": 1336,
+                "count": 1349,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-01T21:34:49Z"
             },
             {
                 "name": "Version 1.7.3",
-                "count": 4905,
+                "count": 4907,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:31:56Z"
@@ -1104,7 +1097,7 @@
             },
             {
                 "name": "Version 1.8.1",
-                "count": 8396,
+                "count": 9194,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-07-22T16:07:46Z"
@@ -1125,7 +1118,7 @@
             },
             {
                 "name": "Version 1.8.3",
-                "count": 9285,
+                "count": 9287,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:34Z"
@@ -1139,21 +1132,21 @@
             },
             {
                 "name": "Version 1.10.0",
-                "count": 1726,
+                "count": 1792,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-26T10:48:51Z"
             },
             {
                 "name": "Version 1.11.0",
-                "count": 1697,
+                "count": 1709,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:28:13Z"
             },
             {
                 "name": "Version 1.12.0",
-                "count": 511,
+                "count": 512,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:38:45Z"
@@ -1174,7 +1167,7 @@
             },
             {
                 "name": "Version 1.13.2",
-                "count": 8258,
+                "count": 8895,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T10:03:16Z"
@@ -1195,7 +1188,7 @@
             },
             {
                 "name": "Version 1.13.3",
-                "count": 395,
+                "count": 398,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-17T20:46:59Z"
@@ -1209,7 +1202,7 @@
             },
             {
                 "name": "Version 1.13.2-patch1",
-                "count": 2652,
+                "count": 2678,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-09T21:09:11Z"
@@ -1237,21 +1230,21 @@
             },
             {
                 "name": "Version 1.15.2",
-                "count": 4095,
+                "count": 4368,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-14T21:35:17Z"
             },
             {
                 "name": "Version 1.16.0",
-                "count": 604,
+                "count": 1139,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-03T10:38:23Z"
             },
             {
                 "name": "Version 1.15.3",
-                "count": 3837,
+                "count": 5218,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-16T16:39:13Z"
@@ -1265,7 +1258,7 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 114,
+                "count": 116,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-19T16:33:41Z"
@@ -1279,14 +1272,14 @@
             },
             {
                 "name": "Version 0.3.0",
-                "count": 113,
+                "count": 115,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-05T08:55:11Z"
             },
             {
                 "name": "Version 0.4.0",
-                "count": 241,
+                "count": 243,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T15:42:42Z"
@@ -1300,28 +1293,28 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 309,
+                "count": 311,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-07-25T09:54:18Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 210,
+                "count": 212,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-05-03T17:25:06Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 312,
+                "count": 314,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-08-30T20:09:47Z"
             },
             {
                 "name": "Version 0.5.0",
-                "count": 172,
+                "count": 174,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-06T16:51:54Z"
@@ -1370,20 +1363,20 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 213,
+                "count": 215,
                 "author": "apetkau",
                 "avatar": "https://avatars.githubusercontent.com/u/200517?v=4",
                 "published_at": "2023-12-15T05:15:36Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 5171,
+                "count": 5333,
                 "author": "apetkau",
                 "avatar": "https://avatars.githubusercontent.com/u/200517?v=4",
                 "published_at": "2024-01-22T14:54:28Z"
             }
         ],
-        "readme": "# nf-iridanext\n            "
+        "readme": "# nf-iridanext plugin\n\nThis project contains a plugin for integrating Nextflow pipelines with [IRIDA Next][irida-next]. In particular, it will enable a pipeline to produce output consistent with the IRIDA Next [pipeline standards][].\n\n# Getting started\n\n## Scenario 1: Minimal configuration\n\nThe following is the minimal configuration needed for this plugin.\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n    }\n}\n```\n\nWhen run with a pipeline (e.g., the [IRIDA Next Example pipeline][iridanextexample]), the configuration will produce the following JSON output in a file `${params.outdir}/iridanext.output.json.gz`.\n\n_Note: `${params.outdir}` is optional and is used in the case where the file should be written to the output directory specified by `--outdir`._\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {}\n  }\n}\n```\n\nThis file conforms to the standards as defined in the [IRIDA Next Pipeline Standards][iridanext-pipeline-standards] document.\n\n## Scenario 2: Including files\n\nTo include files to be saved within IRIDA Next, you can define path match expressions under the `iridanext.output.files` section. The **global** section is used for global output files for the pipeline while the **samples** is used for output files associated with particular samples (matching to sample identifiers is automatically performed).\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        files {\n            global = [\"**/summary/summary.txt.gz\"]\n            samples = [\"**/assembly/*.assembly.fa.gz\"]\n        }\n    }\n}\n```\n\nThis configuration will produce the following example JSON output:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [{ \"path\": \"summary/summary.txt.gz\" }],\n    \"samples\": {\n      \"SAMPLE1\": [{ \"path\": \"assembly/SAMPLE1.assembly.fa.gz\" }],\n      \"SAMPLE3\": [{ \"path\": \"assembly/SAMPLE3.assembly.fa.gz\" }],\n      \"SAMPLE2\": [{ \"path\": \"assembly/SAMPLE2.assembly.fa.gz\" }]\n    }\n  },\n  \"metadata\": {\n    \"samples\": {}\n  }\n}\n```\n\nFiles are matched to samples using the `meta.id` map used by [nf-core formatted modules][nf-core-meta-map]. The matching key (`id` in `meta.id`) can be overridden by setting:\n\n```conf\niridanext.output.files.idkey = \"newkey\"\n```\n\n## Scenario 3: Including metadata\n\nMetadata associated with samples can be included by filling in the the `iridanext.output.metadata.samples` section, like below:\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\nThis will parse a CSV file for metadata. The `csv.path` keyword specifies the file to parse. The `csv.idcol` defines the column that should match to the sample identifiers.\n\nIf there exists an example CSV file like the following:\n\n**output.csv**\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 | 2 | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\nThen running the pipeline will produce an output like the following:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b\": \"2\", \"c\": \"3\" },\n      \"SAMPLE2\": { \"b\": \"4\", \"c\": \"5\" },\n      \"SAMPLE3\": { \"b\": \"6\", \"c\": \"7\" }\n    }\n  }\n}\n```\n\nThe CSV parser will only include metadata in the final output JSON for sample identifiers in the CSV file (defined in the column specified by `csv.idcol`) that match to sample identifiers in the pipeline [meta map][nf-core-meta-map] (the key in the meta map defined using `iridanext.output.files.idkey`).\n\n### JSON metadata\n\nIf, instead of parsing a CSV file, you wish to parse metadata from a JSON file, then you can replace the `csv {}` configuration section above with:\n\n```conf\njson {\n    path = \"**/output.json\"\n}\n```\n\nFor example, a JSON file like the following:\n\n**output.json**\n\n```json\n{\n  \"SAMPLE1\": {\n    \"key1\": \"value1\",\n    \"key2\": [\"a\", \"b\"]\n  },\n  \"SAMPLE2\": {\n    \"key1\": \"value2\"\n  }\n}\n```\n\nWould result in the following output:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"key1\": \"value1\" },\n      \"SAMPLE2\": { \"key2\": [\"a\", \"b\"] }\n    }\n  }\n}\n```\n\n### Flatten metadata\n\nSetting the configuration value `iridanext.output.metadata.samples.flatten = true` will flatten the metadata JSON to a single level of key/value pairs (using dot `.` notation for keys).\n\nThe two scenarios show the difference between `flatten = false` (default) and `flatten = true`.\n\n#### flatten = false\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": {\n        \"key1\": {\n          \"subkey1\": \"value1\",\n          \"subkey2\": \"value2\"\n        }\n      },\n      \"SAMPLE2\": {\n        \"key2\": [\"a\", \"b\"]\n      }\n    }\n  }\n}\n```\n\n#### flatten = true\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": {\n        \"key1.subkey1\": \"value1\",\n        \"key1.subkey2\": \"value2\"\n      },\n      \"SAMPLE2\": {\n        \"key2.1\": \"a\",\n        \"key2.2\": \"b\"\n      }\n    }\n  }\n}\n```\n\n### Adjust saved metadata\n\nThe `iridanext.output.metadata.samples.{ignore,keep,rename}` configuration options can be used to adjust what is stored within the metadata JSON structure.\n\n_Note: If `flatten=true` is enabled, then the metadata key names here refer to the flattened names._\n\n#### ignore\n\nSetting `iridanext.output.metadata.samples.ignore = [\"b\"]` in the config (like below) will cause the metadata with the key _b_ to be ignored in the final IRIDA Next output JSON file.\n\nFor example, in the config below:\n\n**nextflow.config**\n\n```config\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                ignore = [\"b\"]\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\nIf this used to load the below CSV file.\n\n**output.csv**\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 | 2 | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\nThen an output like below is produced (that is, the _b_ column is ignored).\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"c\": \"3\" },\n      \"SAMPLE2\": { \"c\": \"5\" },\n      \"SAMPLE3\": { \"c\": \"7\" }\n    }\n  }\n}\n```\n\n#### keep\n\nSetting `iridanext.output.metadata.samples.keep = [\"b\"]` is similar to the ignore case, except the listed columns will be kept.\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b\": \"2\" },\n      \"SAMPLE2\": { \"b\": \"4\" },\n      \"SAMPLE3\": { \"b\": \"6\" }\n    }\n  }\n}\n```\n\n#### rename\n\nSetting `iridanext.output.metadata.samples.rename` will rename the listed keys to new key names (specified as a Map). For example:\n\n**nextflow.config**\n\n```config\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                rename = [\"b\": \"b_col\"]\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b_col\": \"2\", \"c\": \"3\" },\n      \"SAMPLE2\": { \"b_col\": \"4\", \"c\": \"5\" },\n      \"SAMPLE3\": { \"b_col\": \"6\", \"c\": \"7\" }\n    }\n  }\n}\n```\n\n### Missing values in metadata\n\nThere are two different scenarios where metadata key/value pairs could be missing for a sample, which result in different behaviours in IRIDA Next.\n\n1. **Ignore key**: If the `key` is left out of the samples metadata in the IRIDA Next JSON, then nothing is written for that `key` for the sample. Any existing metadata under that `key` will remain in IRIDA Next.\n\n2. **Delete key**: If a metadata value is an empty string (`\"key\": \"\"`) or null (`\"key\": null`), then IRIDA Next will remove that particular metadata key/value pair from the sample metadata if it exists. This is the expected scenario if pipeline results contain missing (or N/A) values (deleting older metadata keys prevents mixing up old and new pipeline analysis results in the metadata table).\n\nThe following are the expectations for writing missing values in the final IRIDA Next JSON file (in order to delete the key/value pairs in IRIDA Next).\n\n#### Encoding missing metadata values using JSON\n\nIf the metadata key `b` for **SAMPLE1** is encoded as an empty string `\"\"` or `null` in the JSON file like the below example:\n\n**output.json**\n```json\n{\n  \"SAMPLE1\": {\n    \"a\": \"value1\",\n    \"b\": \"\"\n  }\n}\n```\n\nThen the final IRIDA Next JSON file will preserve the empty string/null value in the samples metadata section:\n\n**iridanext.output.json.gz**\n```json\n\"metadata\": {\n  \"samples\": {\n    \"SAMPLE1\": { \"a\": \"value1\", \"b\": \"\" }\n  }\n}\n```\n\n#### Encoding missing metadata values using CSV\n\nIf the metadata key `b` for **SAMPLE1** is left empty in the CSV file like the below two examples:\n\n**output.csv** as table\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 |  | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\n**output.csv** as CSV\n```\ncolumn1,b,c\nSAMPLE1,,3\nSAMPLE2,4,5\nSample3,6,7\n```\n\nThen the value for `b` for **SAMPLE1** will be written as an empty string in the IRIDA Next JSON file:\n\n**iridanext.output.json.gz**\n```json\n\"metadata\": {\n  \"samples\": {\n    \"SAMPLE1\": { \"b\": \"\", \"c\": \"3\" },\n    \"SAMPLE2\": { \"b\": \"4\", \"c\": \"5\" },\n    \"SAMPLE3\": { \"b\": \"6\", \"c\": \"7\" }\n  }\n}\n```\n\n# Development\n\nIn order to build this plugin you will need a Java Development Kit (such as [OpenJDK](https://openjdk.org/)) and [Groovy](https://groovy-lang.org/index.html). For Ubuntu, this can be installed with:\n\n```bash\nsudo apt install default-jdk groovy\n```\n\n## Build and install from source\n\nIn order to build and install the plugin from source, please do the following:\n\n### 1. Build\n\n```bash\ngit clone https://github.com/phac-nml/nf-iridanext.git\ncd nf-iridanext\nmake buildPlugins\n```\n\nPlease see the [Nextflow plugins documentation][nextflow-develop-plugins] and the [nf-hello][] example plugin for more details.\n\n### 2. Install\n\n```bash\ncp -r build/plugins/nf-iridanext-0.2.0 ~/.nextflow/plugins\n```\n\nThis copies the compiled plugin files into the Nextflow plugin cache (default `~/.nextflow/plugins`). Please change the version `0.2.0` to the version of the plugin built from source.\n\n### 3. Use\n\nIn order to use the built plugin, you have to specify the exact version in the Nextflow configuration so that Nextflow does not try to update the plugin. That is, in the configuration use:\n\n```conf\nplugins {\n    id 'nf-iridanext@0.2.0'\n}\n```\n\n## Run unit/integration tests\n\nIn order to run the test cases, please clone this repository and run the following command:\n\n```bash\n./gradlew check\n```\n\nTo get more information for any failed tests, please run:\n\n```bash\n./gradlew check --info\n```\n\n# Example: nf-core/fetchngs\n\nOne use case of this plugin is to structure reads and metadata downloaded from NCBI/ENA for storage in IRIDA Next by making use of the [nf-core/fetchngs][nf-core/fetchngs] pipeline. The example configuration [fetchngs.conf][] can be used for this purpose. To test, please run the following (using [ids.csv][fetchngs-ids.csv] as example data accessions):\n\n```bash\n# Download config and SRA accessions\nwget https://raw.githubusercontent.com/phac-nml/nf-iridanext/main/docs/examples/fetchngs/fetchngs.conf\nwget https://raw.githubusercontent.com/phac-nml/nf-iridanext/main/docs/examples/fetchngs/ids.csv\n\nnextflow run nf-core/fetchngs -profile singularity --outdir results --input ids.csv -c fetchngs.conf\n```\n\nThis will produce the following output: [iridanext.output.json][fetchngs-out].\n\n# Credits\n\nThis plugin was developed based on the `nf-hello` Nextflow plugin template <https://github.com/nextflow-io/nf-hello>. Other sources of information for development include the [nf-prov][] and [nf-validation][] Nextflow plugins, as well as the [Nextflow documentation][nextflow-docs].\n\n# Legal\n\nCopyright 2023 Government of Canada\n\nOriginal nf-hello project Copyright to respective authors\n\nLicensed under the Apache License, Version 2.0 (the \"License\"); you may not use\nthis work except in compliance with the License. You may obtain a copy of the\nLicense at:\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed\nunder the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR\nCONDITIONS OF ANY KIND, either express or implied. See the License for the\nspecific language governing permissions and limitations under the License.\n\n[irida-next]: https://github.com/phac-nml/irida-next\n[pipeline standards]: https://github.com/phac-nml/pipeline-standards\n[nf-prov]: https://github.com/nextflow-io/nf-prov\n[nf-validation]: https://github.com/nextflow-io/nf-validation\n[nextflow-docs]: https://www.nextflow.io/docs/latest/index.html\n[iridanext-pipeline-standards]: https://github.com/phac-nml/pipeline-standards?tab=readme-ov-file#4-output\n[iridanextexample]: https://github.com/phac-nml/iridanextexample\n[nf-core-meta-map]: https://nf-co.re/docs/contributing/modules#what-is-the-meta-map\n[nf-core/fetchngs]: https://nf-co.re/fetchngs\n[fetchngs.conf]: docs/examples/fetchngs/fetchngs.conf\n[fetchngs-ids.csv]: docs/examples/fetchngs/ids.csv\n[fetchngs-out]: docs/examples/fetchngs/iridanext.output.json\n[nextflow-develop-plugins]: https://www.nextflow.io/docs/latest/developer/plugins.html\n[nf-hello]: https://github.com/nextflow-io/nf-hello\n"
     },
     {
         "id": "nf-jarvice",
@@ -1398,14 +1391,14 @@
             },
             {
                 "name": "0.6.0",
-                "count": 126,
+                "count": 128,
                 "author": "oxedions",
                 "avatar": "https://avatars.githubusercontent.com/u/15154435?v=4",
                 "published_at": "2023-04-19T12:46:04Z"
             },
             {
                 "name": "0.7.0",
-                "count": 129,
+                "count": 131,
                 "author": "oxedions",
                 "avatar": "https://avatars.githubusercontent.com/u/15154435?v=4",
                 "published_at": "2023-05-09T17:27:27Z"
@@ -1433,14 +1426,14 @@
             },
             {
                 "name": "Version 0.1.0",
-                "count": 118,
+                "count": 120,
                 "author": "abhi18av",
                 "avatar": "https://avatars.githubusercontent.com/u/12799326?v=4",
                 "published_at": "2024-06-26T11:22:26Z"
             },
             {
                 "name": "0.1.1",
-                "count": 124,
+                "count": 126,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2024-07-02T17:45:10Z"
@@ -1468,7 +1461,7 @@
             },
             {
                 "name": "0.1.2",
-                "count": 118,
+                "count": 120,
                 "author": "abhi18av",
                 "avatar": "https://avatars.githubusercontent.com/u/12799326?v=4",
                 "published_at": "2024-07-29T09:15:12Z"
@@ -1496,7 +1489,7 @@
             },
             {
                 "name": "0.2.0",
-                "count": 124,
+                "count": 126,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2024-08-28T16:24:26Z"
@@ -1517,7 +1510,7 @@
             },
             {
                 "name": "0.3.0",
-                "count": 98,
+                "count": 100,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2024-09-20T12:00:03Z"
@@ -1538,7 +1531,7 @@
             },
             {
                 "name": "0.3.1",
-                "count": 32,
+                "count": 34,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2024-12-08T19:12:15Z"
@@ -1559,7 +1552,7 @@
         "releases": [
             {
                 "name": "Version 0.2.0",
-                "count": 32,
+                "count": 34,
                 "author": "jagedn",
                 "avatar": "https://avatars.githubusercontent.com/u/2102730?v=4",
                 "published_at": "2024-12-11T07:42:17Z"
@@ -1579,7 +1572,7 @@
                 "published_at": "2025-01-01T10:09:35Z"
             }
         ],
-        "readme": "# nf-pgcache\n            "
+        "readme": "# Nextflow PostgreSQL cache\n\nNextflow's PostgreSQL Cache Plugin enables the storage of task execution metadata in a PostgreSQL database, ensuring data persistence and scalability. This plugin is particularly useful for workflows that require robust, centralized caching mechanisms across distributed environments.\n\nAdd the plugin to your `nextflow.config` , configure it to connect with a postgre database and ... this is all.\nThe plugin will create required tables and will store tasks context when you run your pipeline\n\nAmong a way to *Centralized Cache Storage*, using this plugin, you're able to see log executions in real time\n\n## License\n\nThis plugin is licensed under the MIT License.\n\n## Contributing\n\nContributions are welcome! Please submit issues or pull requests to the project's GitHub repository.\n\n## Contact\n\nFor commercial support, contact the EDN team at contacto@edn.es or refer to the plugin documentation at\nhttps://edn-es.github.io/ng-pgcache/index.html\n"
     },
     {
         "id": "nf-prov",
@@ -1587,56 +1580,56 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 488,
+                "count": 491,
                 "author": "BrunoGrandePhD",
                 "avatar": "https://avatars.githubusercontent.com/u/740725?v=4",
                 "published_at": "2022-12-19T22:05:11Z"
             },
             {
                 "name": "Version 1.1.0",
-                "count": 1668,
+                "count": 1670,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-09-28T13:27:47Z"
             },
             {
                 "name": "Version 1.2.0",
-                "count": 133,
+                "count": 135,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-10-27T17:40:06Z"
             },
             {
                 "name": "Version 1.2.1",
-                "count": 16458,
+                "count": 16462,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-10-27T19:32:54Z"
             },
             {
                 "name": "Version 1.2.2",
-                "count": 75773,
+                "count": 77164,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-03-27T20:36:32Z"
             },
             {
                 "name": "Version 1.2.3",
-                "count": 2784,
+                "count": 2802,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-07-03T16:32:45Z"
             },
             {
                 "name": "Version 1.2.4",
-                "count": 8742,
+                "count": 9001,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-08-01T15:20:35Z"
             },
             {
                 "name": "Version 1.3.0",
-                "count": 668,
+                "count": 955,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-11-05T18:18:39Z"
@@ -1671,52 +1664,59 @@
         "releases": [
             {
                 "name": "Version 2.0.0 - Kagoshima",
-                "count": 11931,
+                "count": 12112,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-04-22T11:19:38Z"
             },
             {
                 "name": "Version 2.0.1",
-                "count": 1020,
+                "count": 1038,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-07-04T09:26:11Z"
             },
             {
                 "name": "Version 2.1.0 - Tantanmen",
-                "count": 7548,
+                "count": 7796,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-08-20T12:37:31Z"
             },
             {
                 "name": "Version 2.1.1",
-                "count": 58533,
+                "count": 62336,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-09-19T09:03:46Z"
             },
             {
                 "name": "Version 2.1.2",
-                "count": 6214,
+                "count": 6658,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-10-18T09:53:06Z"
             },
             {
                 "name": "Version 2.2.0 - Kitakata",
-                "count": 5626,
+                "count": 6092,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-10-30T10:22:33Z"
             },
             {
                 "name": "Version 2.2.1",
-                "count": 1409,
+                "count": 1643,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-12-03T12:04:09Z"
+            },
+            {
+                "name": "Version 2.3.0 - Hakodate",
+                "count": 290,
+                "author": "nvnieuwk",
+                "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
+                "published_at": "2025-01-13T15:33:34Z"
             }
         ],
         "readme": "# ![nf-schema](docs/images/nf-schema.png)\n\n## \ud83d\udcda Docs \ud83d\udc49\ud83c\udffb <https://nextflow-io.github.io/nf-schema>\n\n**A Nextflow plugin to work with validation of pipeline parameters and sample sheets.**\n\n## Introduction\n\n> [!IMPORTANT]\n> nf-schema is the new version of the now deprecated [nf-validation](https://github.com/nextflow-io/nf-validation). Please follow the [migration guide](https://nextflow-io.github.io/nf-schema/latest/migration_guide/) to migrate your code to this new version.\n\nThis [Nextflow plugin](https://www.nextflow.io/docs/latest/plugins.html#plugins) provides functionality that can be used in a Nextflow pipeline to work with parameter and sample sheet schema. The added functionality is:\n\n- \ud83d\udcd6 Print usage instructions to the terminal (for use with `--help`)\n- \u270d\ufe0f Print log output showing parameters with non-default values\n- \u2705 Validate supplied parameters against the pipeline schema\n- \ud83d\udccb Validate the contents of supplied sample sheet files\n- \ud83d\udee0\ufe0f Create a type-casted list from a parsed sample sheet\n\nSupported sample sheet formats are CSV, TSV, JSON and YAML.\n\n## Quick Start\n\nDeclare the plugin in your Nextflow pipeline configuration file:\n\n```groovy title=\"nextflow.config\"\nplugins {\n  id 'nf-schema@2.2.0'\n}\n```\n\nThis is all that is needed - Nextflow will automatically fetch the plugin code at run time.\n\n> [!NOTE]\n> The snippet above will always try to install the specified version. We encourage always pinning the\n> plugin version to make sure the used pipeline will keep working when a new version of `nf-schema`\n> with breaking changes has been released.\n\nYou can now include the plugin helper functions into your Nextflow pipeline:\n\n```groovy title=\"main.nf\"\ninclude { validateParameters; paramsSummaryLog; samplesheetToList } from 'plugin/nf-schema'\n\n// Validate input parameters\nvalidateParameters()\n\n// Print summary of supplied parameters\nlog.info paramsSummaryLog(workflow)\n\n// Create a new channel of metadata from a sample sheet passed to the pipeline through the --input parameter\nch_input = Channel.fromList(samplesheetToList(params.input, \"assets/schema_input.json\"))\n```\n\nOr enable the creation of the help message (using `--help`) in the configuration file:\n\n```groovy title=\"nextflow.config\"\nvalidation {\n  help {\n    enabled: true\n  }\n}\n```\n\n## Dependencies\n\n- Java 11 or later\n- <https://github.com/harrel56/json-schema>\n- Nextflow 23.10.0 or later\n\n## Slack channel\n\nThere is a dedicated [nf-schema Slack channel](https://nfcore.slack.com/archives/C056RQB10LU) in the [Nextflow Slack workspace](https://nextflow.slack.com).\n\n## Credits\n\nThis plugin was written based on code initially written within the nf-core community,\nas part of the nf-core pipeline template.\n\nWe would like to thank the key contributors who include (but are not limited to):\n\n- J\u00falia Mir Pedrol ([@mirpedrol](https://github.com/mirpedrol))\n- Nicolas Vannieuwkerke ([@nvnieuwk](https://github.com/nvnieuwk))\n- Kevin Menden ([@KevinMenden](https://github.com/KevinMenden))\n- Phil Ewels ([@ewels](https://github.com/ewels))\n- Arthur ([@awgymer](https://github.com/awgymer))\n"
@@ -1727,13 +1727,13 @@
         "releases": [
             {
                 "name": "Version 0.6.0",
-                "count": 82,
+                "count": 84,
                 "author": "sfc-gh-hyu",
                 "avatar": "https://avatars.githubusercontent.com/u/65315747?v=4",
                 "published_at": "2024-10-13T18:07:43Z"
             }
         ],
-        "readme": "# nf-snowflake\n            "
+        "readme": "# nf-snowflake plugin\n\n## Overview \nnf-snowflake is a [Nextflow](https://www.nextflow.io/docs/latest/overview.html) plugin which allows Nextflow pipeline to be run inside [Snowpark Container Service](https://docs.snowflake.com/en/developer-guide/snowpark-container-services/overview).\n\nThis plugin requires both Nextflow main process and worker process being run as a container job inside Snowflake. Each process/task in Nextflow will be translated to a [Snowflake Job Service](https://docs.snowflake.com/en/sql-reference/sql/execute-job-service). The main process can be a job service or a long-running service. Intermediate result between different Nextflow processes will be shared via [stage mount](https://docs.snowflake.com/en/developer-guide/snowpark-container-services/snowflake-stage-volume), so the same stage mount configuration needs to be applied to both main process container and worker process container.\n\n## QuickStart\n\nThis quick start guide assumes you are familiar with both Nextflow and Snowpark Container Service.\n\n1. Create a compute pool\n```\nCREATE COMPUTE POOL cp\nMIN_NODES = 2\nMAX_NODES = 2\nINSTANCE_FAMILY = CPU_X64_M\nauto_suspend_secs=3600\n;\n```\n2. Create External Access Integration to allow cloud blob storage service access. You can follow the steps [here](https://docs.snowflake.com/en/developer-guide/snowpark-container-services/additional-considerations-services-jobs#network-egress).\n3. Create Snowflake Internal Stage for working directory and publish directory\n```\ncreate or replace stage nxf_runtime encryption=(type = 'SNOWFLAKE_SSE');\ncreate or replace stage results_st encryption=(type = 'SNOWFLAKE_SSE');\n```\n4. Build the container image for each Nextflow [process](https://www.nextflow.io/docs/latest/process.html), upload the image to [Snowflake Image Registry](https://docs.snowflake.com/en/developer-guide/snowpark-container-services/working-with-registry-repository) and update the each process's [container](https://www.nextflow.io/docs/latest/reference/process.html#process-container) field.\ne.g.\n```\nprocess INDEX {\n    tag \"$transcriptome.simpleName\"\n    container '/db/schema/repo/image_name:1.0'\n\n    input:\n    path transcriptome\n\n    output:\n    path 'index'\n\n    script:\n    \"\"\"\n    salmon index --threads $task.cpus -t $transcriptome -i index\n    \"\"\"\n}\n```\n5. Add a snowflake profile to the nextflow.config file and enable nf-snowflake plugin e.g.\n```\n...\nplugins {\n  id 'nf-snowflake@0.6.0'\n}\n...\n  snowflake {\n    process.executor = 'snowflake'\n    snowflake {\n      computePool = 'CP'\n      stageMounts = '@nxf_runtime:/config/runtime,@results_st:/config/results'\n      externalAccessIntegrations='EAI'\n    }\n  }\n...\n```\n6. Build the container image for Nextflow main process, you will need to include nf-snowflake plugin. You might consider include your Nextflow pipeline code as well. Here is a sample Dockerfile:\n```\nFROM nextflow/nextflow:24.04.1\n\nRUN nextflow plugin install nf-snowflake\nCOPY . /rnaseq-nf\nWORKDIR /rnaseq-nf\n```\n7. Start the container service to trigger the pipeline:\n```\nexecute job service\nin compute pool CP\nname = NXF_MAIN\nEXTERNAL_ACCESS_INTEGRATIONS=(EAI)\nfrom specification '\nspec:\n  container:\n  - name: main\n    image: /db/schena/repo/nf-main:1.0\n    command:\n    - nextflow\n    - run\n    - .\n    - -profile\n    - snowflake\n    - -work-dir\n    - /config/runtime\n    volumeMounts:\n    - name: runtime\n      mountPath: /config/runtime\n    - name: results\n      mountPath: /config/results\n  volumes:\n  - name: runtime\n    source: \"@nxf_runtime\"\n  - name: results\n    source: \"@results_st\"\n'\n;\n```\n"
     },
     {
         "id": "nf-sqldb",
@@ -1776,13 +1776,13 @@
             },
             {
                 "name": "Version 0.5.0",
-                "count": 1864,
+                "count": 1869,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-08-30T19:40:03Z"
             }
         ],
-        "readme": "# SQL DB plugin for Nextflow\n\nThis plugin provides support for interacting with SQL databases in Nextflow scripts.\n\nThe following databases are currently supported:\n\n* [AWS Athena](https://aws.amazon.com/athena/) (Setup guide [here](docs/aws-athena.md))\n* [DuckDB](https://duckdb.org/)\n* [Google BigQuery](https://cloud.google.com/bigquery) (Setup guide [here](docs/google-bigquery.md))\n* [H2](https://www.h2database.com)\n* [MySQL](https://www.mysql.com/)\n* [MariaDB](https://mariadb.org/)\n* [PostgreSQL](https://www.postgresql.org/)\n* [SQLite](https://www.sqlite.org/index.html)\n\nNOTE: THIS IS A PREVIEW TECHNOLOGY, FEATURES AND CONFIGURATION SETTINGS CAN CHANGE IN FUTURE RELEASES.\n\n## Getting started\n\nThis plugin requires Nextflow `22.08.1-edge` or later. You can enable the plugin by adding the following snippet to your `nextflow.config` file:\n\n```groovy\nplugins {\n    id 'nf-sqldb'\n}\n```\n\nSupport for BigQuery is provided in a separate plugin:\n\n```groovy\nplugins {\n    id 'nf-bigquery'\n}\n```\n\n## Configuration\n\nYou can configure any number of databases under the `sql.db` configuration scope. For example:\n\n```groovy\nsql {\n    db {\n        foo {\n            url = 'jdbc:mysql://localhost:3306/demo'\n            user = 'my-user'\n            password = 'my-password'\n        }\n    }\n}\n```\n\nThe above example defines a database named `foo` that connects to a MySQL server running locally at port 3306 and\nusing the `demo` schema, with `my-name` and `my-password` as credentials.\n\nThe following options are available:\n\n`sql.db.'<DB-NAME>'.url`\n: The database connection URL based on the [JDBC standard](https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html#db_connection_url).\n\n`sql.db.'<DB-NAME>'.driver`\n: The database driver class name (optional).\n\n`sql.db.'<DB-NAME>'.user`\n: The database connection user name.\n\n`sql.db.'<DB-NAME>'.password`\n: The database connection password.\n\n## Dataflow Operators\n\nThis plugin provides the following dataflow operators for querying from and inserting into database tables.\n\n### fromQuery\n\nThe `fromQuery` factory method queries a SQL database and creates a channel that emits a tuple for each row in the corresponding result set. For example:\n\n```nextflow\ninclude { fromQuery } from 'plugin/nf-sqldb'\n\nchannel.fromQuery('select alpha, delta, omega from SAMPLE', db: 'foo').view()\n```\n\nThe following options are available:\n\n`db`\n: The database handle. It must be defined under `sql.db` in the Nextflow configuration.\n\n`batchSize`\n: Query the data in batches of the given size. This option is recommended for queries that may return large a large result set, so that the entire result set is not loaded into memory at once.\n: *NOTE:* this feature requires that the underlying SQL database supports `LIMIT` and `OFFSET`.\n\n`emitColumns`\n: When `true`, the column names in the `SELECT` statement are emitted as the first tuple in the resulting channel.\n\n### sqlInsert\n\nThe `sqlInsert` operator collects the items in a source channel and inserts them into a SQL database. For example:\n\n```nextflow\ninclude { sqlInsert } from 'plugin/nf-sqldb'\n\nchannel\n    .of('Hello','world!')\n    .map( it -> tuple(it, it.length) )\n    .sqlInsert( into: 'SAMPLE', columns: 'NAME, LEN', db: 'foo' )\n```\n\nThe above example executes the following SQL statements into the database `foo` (as defined in the Nextflow configuration).\n\n```sql\nINSERT INTO SAMPLE (NAME, LEN) VALUES ('HELLO', 5);\nINSERT INTO SAMPLE (NAME, LEN) VALUES ('WORLD!', 6);\n```\n\n*NOTE:* the target table (e.g. `SAMPLE` in the above example) must be created beforehand.\n\nThe following options are available:\n\n`db`\n: The database handle. It must be defined under `sql.db` in the Nextflow configuration.\n\n`into`\n: The target table for inserting the data.\n\n`columns`\n: The database table column names to be filled with the channel data. The column names order and cardinality must match the tuple values emitted by the channel. The columns can be specified as a list or as a string of comma-separated values.\n\n`statement`\n: The SQL `INSERT` statement to execute, using `?` as a placeholder for the actual values, for example: `insert into SAMPLE(X,Y) values (?,?)`. The `into` and `columns` options are ignored when this option is provided.\n\n`batchSize`\n: Insert the data in batches of the given size (default: `10`).\n\n`setup`\n: A SQL statement that is executed before inserting the data, e.g. to create the target table.\n: *NOTE:* the underlying database should support the *create table if not exist* idiom, as the plugin will execute this statement every time the script is run.\n\n## Querying CSV files\n\nThis plugin supports the [H2](https://www.h2database.com/html/main.html) database engine, which can query CSV files like database tables using SQL statements.\n\nFor example, create a CSV file using the snippet below:\n\n```bash\ncat <<EOF > test.csv\nfoo,bar\n1,hello\n2,ciao\n3,hola\n4,bonjour\nEOF\n```\n\nThen query it in a Nextflow script:\n\n```nextflow\ninclude { fromQuery } from 'plugin/nf-sqldb'\n\nchannel\n    .fromQuery(\"SELECT * FROM CSVREAD('test.csv') where foo>=2;\")\n    .view()\n```\n\nThe `CSVREAD` function provided by the H2 database engine allows you to query any CSV file in your filesystem. As shown in the example, you can use standard SQL clauses like `SELECT` and `WHERE` to define your query.\n\n## Caveats\n\nLike all dataflow operators in Nextflow, the operators provided by this plugin are executed asynchronously.\n\nIn particular, data inserted using the `sqlInsert` operator is *not* guaranteed to be available to any subsequent queries using the `fromQuery` operator, as it is not possible to make a channel factory operation dependent on some upstream operation.\n"
+        "readme": "# SQL DB plugin for Nextflow\n\nThis plugin provides support for interacting with SQL databases in Nextflow scripts.\n\nThe following databases are currently supported:\n\n* [AWS Athena](https://aws.amazon.com/athena/) (Setup guide [here](docs/aws-athena.md))\n* [DuckDB](https://duckdb.org/)\n* [H2](https://www.h2database.com)\n* [MySQL](https://www.mysql.com/)\n* [MariaDB](https://mariadb.org/)\n* [PostgreSQL](https://www.postgresql.org/)\n* [SQLite](https://www.sqlite.org/index.html)\n\nNOTE: THIS IS A PREVIEW TECHNOLOGY, FEATURES AND CONFIGURATION SETTINGS CAN CHANGE IN FUTURE RELEASES.\n\n## Getting started\n\nThis plugin requires Nextflow `22.08.1-edge` or later. You can enable the plugin by adding the following snippet to your `nextflow.config` file:\n\n```groovy\nplugins {\n    id 'nf-sqldb'\n}\n```\n\n\n## Configuration\n\nYou can configure any number of databases under the `sql.db` configuration scope. For example:\n\n```groovy\nsql {\n    db {\n        foo {\n            url = 'jdbc:mysql://localhost:3306/demo'\n            user = 'my-user'\n            password = 'my-password'\n        }\n    }\n}\n```\n\nThe above example defines a database named `foo` that connects to a MySQL server running locally at port 3306 and\nusing the `demo` schema, with `my-name` and `my-password` as credentials.\n\nThe following options are available:\n\n`sql.db.'<DB-NAME>'.url`\n: The database connection URL based on the [JDBC standard](https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html#db_connection_url).\n\n`sql.db.'<DB-NAME>'.driver`\n: The database driver class name (optional).\n\n`sql.db.'<DB-NAME>'.user`\n: The database connection user name.\n\n`sql.db.'<DB-NAME>'.password`\n: The database connection password.\n\n## Dataflow Operators\n\nThis plugin provides the following dataflow operators for querying from and inserting into database tables.\n\n### fromQuery\n\nThe `fromQuery` factory method queries a SQL database and creates a channel that emits a tuple for each row in the corresponding result set. For example:\n\n```nextflow\ninclude { fromQuery } from 'plugin/nf-sqldb'\n\nchannel.fromQuery('select alpha, delta, omega from SAMPLE', db: 'foo').view()\n```\n\nThe following options are available:\n\n`db`\n: The database handle. It must be defined under `sql.db` in the Nextflow configuration.\n\n`batchSize`\n: Query the data in batches of the given size. This option is recommended for queries that may return large a large result set, so that the entire result set is not loaded into memory at once.\n: *NOTE:* this feature requires that the underlying SQL database supports `LIMIT` and `OFFSET`.\n\n`emitColumns`\n: When `true`, the column names in the `SELECT` statement are emitted as the first tuple in the resulting channel.\n\n### sqlInsert\n\nThe `sqlInsert` operator collects the items in a source channel and inserts them into a SQL database. For example:\n\n```nextflow\ninclude { sqlInsert } from 'plugin/nf-sqldb'\n\nchannel\n    .of('Hello','world!')\n    .map( it -> tuple(it, it.length) )\n    .sqlInsert( into: 'SAMPLE', columns: 'NAME, LEN', db: 'foo' )\n```\n\nThe above example executes the following SQL statements into the database `foo` (as defined in the Nextflow configuration).\n\n```sql\nINSERT INTO SAMPLE (NAME, LEN) VALUES ('HELLO', 5);\nINSERT INTO SAMPLE (NAME, LEN) VALUES ('WORLD!', 6);\n```\n\n*NOTE:* the target table (e.g. `SAMPLE` in the above example) must be created beforehand.\n\nThe following options are available:\n\n`db`\n: The database handle. It must be defined under `sql.db` in the Nextflow configuration.\n\n`into`\n: The target table for inserting the data.\n\n`columns`\n: The database table column names to be filled with the channel data. The column names order and cardinality must match the tuple values emitted by the channel. The columns can be specified as a list or as a string of comma-separated values.\n\n`statement`\n: The SQL `INSERT` statement to execute, using `?` as a placeholder for the actual values, for example: `insert into SAMPLE(X,Y) values (?,?)`. The `into` and `columns` options are ignored when this option is provided.\n\n`batchSize`\n: Insert the data in batches of the given size (default: `10`).\n\n`setup`\n: A SQL statement that is executed before inserting the data, e.g. to create the target table.\n: *NOTE:* the underlying database should support the *create table if not exist* idiom, as the plugin will execute this statement every time the script is run.\n\n## Querying CSV files\n\nThis plugin supports the [H2](https://www.h2database.com/html/main.html) database engine, which can query CSV files like database tables using SQL statements.\n\nFor example, create a CSV file using the snippet below:\n\n```bash\ncat <<EOF > test.csv\nfoo,bar\n1,hello\n2,ciao\n3,hola\n4,bonjour\nEOF\n```\n\nThen query it in a Nextflow script:\n\n```nextflow\ninclude { fromQuery } from 'plugin/nf-sqldb'\n\nchannel\n    .fromQuery(\"SELECT * FROM CSVREAD('test.csv') where foo>=2;\")\n    .view()\n```\n\nThe `CSVREAD` function provided by the H2 database engine allows you to query any CSV file in your filesystem. As shown in the example, you can use standard SQL clauses like `SELECT` and `WHERE` to define your query.\n\n## Caveats\n\nLike all dataflow operators in Nextflow, the operators provided by this plugin are executed asynchronously.\n\nIn particular, data inserted using the `sqlInsert` operator is *not* guaranteed to be available to any subsequent queries using the `fromQuery` operator, as it is not possible to make a channel factory operation dependent on some upstream operation.\n"
     },
     {
         "id": "nf-synapse",
@@ -1790,7 +1790,7 @@
         "releases": [
             
         ],
-        "readme": "# nf-synapse\n            "
+        "readme": "# nf-synapse\n\nA centralized repository of Nextflow workflows that interact with [Synapse](https://www.synapse.org/).\n\n## Purpose\n\nThe purpose of this repository is to provide a collection of Nextflow workflows that interact with Synapse by leveraging the [Synapse Python Client](https://github.com/Sage-Bionetworks/synapsePythonClient). These workflows are intended to be used in a [Nextflow Tower](https://help.tower.nf/latest/) environment primarily, but they can also be executed using the [Nextflow CLI](https://nextflow.io/docs/latest/cli.html#run) on your local machine.\n\n## Structure\n\nThis repository is organized as follows:\n1. Individual process definitions, or modules, are stored in the `modules/` directory.\n1. Modules are then combined into workflows, stored in the `workflows/` directory. These workflows are intended to capture the entire process of an interaction with Synapse.\n1. Workflows are then represented in the `main.nf` script, which provides an entrypoint for each workflow.\n\n## Usage\n\nOnly one workflow can be used per `nf-synapse` run. The configuration for a workflow run will need to include which workflow you intend to use (indicated by specifying `entry`), along with all of the parameters required for that workflow.\n\nIn the example below, we provide the `entry` parameter `NF_SYNSTAGE` to indicate that we want to run the `NF_SYNSTAGE` workflow. We also provide the `input` parameter, which is required for `NF_SYNSTAGE`.\n\n```\nnextflow run main.nf -profile docker -entry NF_SYNSTAGE --input path/to/input.csv\n```\n\n## Meta-Usage\n\n`NF_SYNAPSE` is designed to be used on either side of a general-purpose Nextflow Workflow to stage input files from Synapse/SevenBridges to an S3 bucket, run a workflow of your choosing, and then index the output files from the S3 bucket back into Synapse. \n\n```mermaid\nflowchart LR;\n   A[NF_SYNAPSE:NF_SYNSTAGE]-->B[WORKFLOW];\n   B-->C[NF_SYNAPSE:NF_SYNINDEX];\n```\n\nSee [`demo.py`](https://github.com/Sage-Bionetworks-Workflows/py-orca/blob/main/demo.py) in `Sage-Bionetworks-Workflows/py-orca` for an example of accomplishing this goal with Python code.\n\n## Authentication\n\nFor Nextflow Tower runs, you can configure your secrets using the [Tower CLI](https://help.tower.nf/23.2/cli/cli/) or the [Tower Web UI](https://help.tower.nf/23.2/). If you are running the workflow locally, you can configure your secrets within the [Nextflow CLI](https://nextflow.io/docs/latest/secrets.html).\n\n### Synapse\n\nAll included workflows require a `SYNAPSE_AUTH_TOKEN` secret. You can generate a Synapse personal access token using [this dashboard](https://www.synapse.org/#!PersonalAccessTokens:). \n\n### Profiles\n\nCurrent `profiles` included in this repository are:\n1. `docker`: Indicates that you want to run the workflow using Docker for running process containers.\n2. `conda`: Indicates that you want to use a `conda` environment for running process containers.\n\n# Included Workflows\n\n## `NF_SYNSTAGE`: Stage Synapse Files To AWS S3\n\n### Purpose\n\nThe purpose of this workflow is to automate the process of staging Synapse and SevenBridges files to a Nextflow Tower-accessible location (_e.g._ an S3 bucket). In turn, these staged files can be used as input for a general-purpose (_e.g._ nf-core) workflow that doesn't contain platform-specific steps for staging data. This workflow is intended to be run first in preparation for other data processing workflows.\n\n### Overview\n\n`NF_SYNSTAGE` performs the following steps:\n\n1. Extract all Synapse and SevenBridges URIs (_e.g._ `syn://syn28521174` or `sbg://63b717559fd1ad5d228550a0`) from a given text file.\n1. Download the corresponding files from both platforms in parallel.\n1. Replace the URIs in the text file with their staged locations.\n1. Output the updated text file so it can serve as input for another workflow.\n\n### Quickstart:SYNSTAGE\n\nThe examples below demonstrate how you would stage Synapse files in an S3 bucket called `example-bucket`, but they can be adapted for other storage backends.\n\n1. Prepare your input file containing the Synapse URIs. For example, the following CSV file follows the format required for running the [`nf-core/rnaseq`](https://nf-co.re/rnaseq/latest/usage) workflow.\n\n    **Example:** Uploaded to `s3://example-bucket/input.csv`\n\n    ```text\n    sample,fastq_1,fastq_2,strandedness\n    foobar,syn://syn28521174,syn://syn28521175,unstranded\n    ```\n\n1. Launch workflow using the [Nextflow CLI](https://nextflow.io/docs/latest/cli.html#run), the [Tower CLI](https://help.tower.nf/latest/cli/), or the [Tower web UI](https://help.tower.nf/latest/launch/launchpad/).\n\n    **Example:** Launched using the Nextflow CLI\n\n    ```console\n    nextflow run main.nf -profile docker -entry NF_SYNSTAGE --input path/to/input.csv\n    ```\n\n1. Retrieve the output file, which by default is stored in a `synstage/` subfolder within the parent directory of the input file. The Synapse and/or Seven Bridges URIs have been replaced with their staged locations. This file can now be used as the input for other workflows.\n\n    **Example:** Downloaded from `s3://example-bucket/synstage/input.csv`\n\n    ```text\n    sample,fastq_1,fastq_2,strandedness\n    foobar,s3://example-scratch/synstage/syn28521174/foobar.R1.fastq.gz,s3://example-scratch/synstage/syn28521175/foobar.R2.fastq.gz,unstranded\n    ```\n\n### Special Considerations for Staging Seven Bridges Files\n\nIf you are staging Seven Bridges files, there are a few differences that you will want to incorporate in your Nextflow run. \n\n1. You will need to configure `SB_AUTH_TOKEN` and `SB_API_ENDPOINT` secrets.\n  - You can generate an authenication token and retrieve your API endpoint by logging in to the Seven Bridges portal you intend to stage files from, such as [Seven Bridges CGC](https://cgc-accounts.sbgenomics.com/auth/login). From there, click on the \"Developer\" dropdown and then click \"Authentication Token\". A full list of Seven Bridges API endpoints can be found [here](https://sevenbridges-python.readthedocs.io/en/latest/quickstart/#authentication-and-configuration)\n1. When adding your URIs to your input file, SevenBridges file URIs should have the prefix `sbg://`. \n1. There are two ways to get the ID of a file in SevenBridges:\n   - The first way involves logging into a SevenBridges portal, such as [SevenBridges CGC](https://cgc-accounts.sbgenomics.com/auth/login), navigating to the file and copying the ID from the URL. For example, your URL might look like this: \"https://cgc.sbgenomics.com/u/user_name/project/63b717559fd1ad5d228550a0/\". From this url, you would copy the \"63b717559fd1ad5d228550a0\" piece and combine it with the `sbg://` prefix to have the complete URI `sbg://63b717559fd1ad5d228550a0`.\n   - The second way involves using the [SBG CLI](https://docs.sevenbridges.com/docs/files-and-metadata). To get the ID numbers that you need, run the `sb files list` command and specify the project that you are downloading files from. A list of all files in the project will be returned, and you will combine the ID number with the prefix for each file that you want to stage.\n\nNote: `NF_SYNSTAGE` can handle either or both types of URIs in a single input file.\n\n### Parameters\n\nCheck out the [Quickstart](#Quickstart:SYNSTAGE) section for example parameter values.\n\n- **`input`**: (Required) A text file containing Synapse URIs (_e.g._ `syn://syn28521174`). The text file can have any format (_e.g._ a single column of Synapse URIs, a CSV/TSV sample sheet for an nf-core workflow).\n\n- **`outdir`**: (Optional) An output location where the Synapse files will be staged. Currently, this location must be an S3 prefix for Nextflow Tower runs. If not provided, this will default to the parent directory of the input file.\n\n- **`save_strategy`**: (Optional) A string indicating where to stage the files within the `outdir`. Options include:\n    - `id_folders`: Files will be staged in child folders named after the Synapse or Seven Bridges ID of the file. This is the default behavior.\n    - `flat`: Files will be staged in top level of the `outdir`.\n\n### Known Limitations\n\n- The only way for the workflow to download Synapse files is by listing Synapse URIs in a file. You cannot provide a list of Synapse IDs or URIs to a parameter.\n- The workflow doesn't check if newer versions exist for the files associated with the Synapse URIs. If you need to force-download a newer version, you should manually delete the staged version.\n\n## `NF_SYNINDEX`: Index S3 Objects Into Synapse\n\n### Purpose\n\nThe purpose of this workflow is to automate the process of indexing files in an S3 bucket into Synapse. `NF_SYNINDEX` is intended to be used after a general-purpose (_e.g._ nf-core) workflow that doesn't contain platform-specific steps for uploading/indexing data. \n\n### Overview\n\n`NF_SYNINDEX` performs the following steps:\n\n1. Gets the Synapse user ID for the account that provided the `SYNAPSE_AUTH_TOKEN` secret.\n1. Updates or creates the `owner.txt` file in the S3 bucket to make the current user an owner.\n1. Registers the S3 bucket as an external storage location for Synapse.\n1. Generates a list of all of the objects in the S3 bucket to be indexed.\n1. Recreates the folder structure of the S3 bucket in the Synapse project.\n1. Indexes the files in the S3 bucket into the Synapse project.\n\n### Quickstart:SYNINDEX\n\nThe examples below demonstrate how you would index files from an S3 bucket called `example-bucket` into Synapse.\n\n1. Prepare your S3 bucket by setting the output directory of your general-purpose workflow to a Nextflow Tower S3 bucket. Ideally, you want this S3 bucket to be persistent (not a `scratch` bucket) so that your files will remain accessible indefinitely.\n\n    **Example:** `s3://example-bucket` file structure:\n    ```\n    example-dev-project-tower-bucket\n    \u251c\u2500\u2500 child_folder\n    \u251c\u2500\u2500 test.txt\n    \u2502   \u251c\u2500\u2500 child_child_folder\n    \u2502   \u2502   \u2514\u2500\u2500 test2.txt\n    \u2502   \u251c\u2500\u2500 test1.txt\n    ```\n\n1. Launch workflow using the [Nextflow CLI](https://nextflow.io/docs/latest/cli.html#run), the [Tower CLI](https://help.tower.nf/latest/cli/), or the [Tower web UI](https://help.tower.nf/latest/launch/launchpad/).\n\n    **Example:** Launched using the Nextflow CLI\n\n    ```console\n    nextflow run main.nf -profile docker -entry NF_SYNINDEX --s3_prefix s3://example-bucket --parent_id syn12345678\n    ```\n\n1. Retrieve the output file, which by default is stored in a `S3://example-bucket/synindex/under-syn12345678/` in our example. This folder will contain a mapping of Synapse URIs to their indexed Synapse IDs.\n\n### Parameters\n\nCheck out the [Quickstart](#Quickstart:SYNINDEX) section for example parameter values.\n\n- **`s3_prefix`**: (Required) The S3 URI of the S3 bucket that contains the files to be indexed.\n- **`parent_id`**: (Required) The Synapse ID of the Synapse project or folder that the files will be indexed into.\n- **`filename_string`**: (Optional) A string that will be matched against the names of the files in the S3 bucket. If provided, only files that contain the string will be indexed.\n\n### Known Limitations\n\nAt present, it is not possible for `NF_SYNINDEX` to be run outside of Nextflow Tower. This is due to AWS permissions complications. [Future work](https://sagebionetworks.jira.com/browse/IBCDPE-910) will include enabling the workflow to run on local machines/in virtual machines. \n"
     },
     {
         "id": "nf-tencentcloud",
@@ -1882,14 +1882,14 @@
             },
             {
                 "name": "Version 1.5.5",
-                "count": 9009,
+                "count": 9016,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-10-03T14:41:50Z"
             },
             {
                 "name": "Version 1.5.6",
-                "count": 10409,
+                "count": 10422,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-11-13T19:10:14Z"
@@ -1938,14 +1938,14 @@
             },
             {
                 "name": "Version 1.5.7-patch0",
-                "count": 682,
+                "count": 684,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-13T15:14:42Z"
             },
             {
                 "name": "Version 1.5.12",
-                "count": 11738,
+                "count": 11773,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:34:42Z"
@@ -1973,14 +1973,14 @@
             },
             {
                 "name": "Version 1.6.0",
-                "count": 903,
+                "count": 906,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-05T15:04:43Z"
             },
             {
                 "name": "Version 1.6.1",
-                "count": 4402,
+                "count": 4436,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:33:01Z"
@@ -1994,21 +1994,21 @@
             },
             {
                 "name": "Version 1.6.3",
-                "count": 20140,
+                "count": 20475,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:46Z"
             },
             {
                 "name": "Version 1.7.0",
-                "count": 3834,
+                "count": 3845,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:36Z"
             },
             {
                 "name": "Version 1.8.0",
-                "count": 3450,
+                "count": 3464,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:31:27Z"
@@ -2022,21 +2022,21 @@
             },
             {
                 "name": "Version 1.9.0",
-                "count": 1388,
+                "count": 1392,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:39:32Z"
             },
             {
                 "name": "Version 1.9.1",
-                "count": 15724,
+                "count": 16363,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-13T09:49:36Z"
             },
             {
                 "name": "Version 1.6.3-patch1",
-                "count": 775,
+                "count": 787,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:11:44Z"
@@ -2050,7 +2050,7 @@
             },
             {
                 "name": "Version 1.9.3",
-                "count": 4345,
+                "count": 5107,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-27T20:20:45Z"
@@ -2064,49 +2064,49 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 1332,
+                "count": 1334,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-05-05T13:07:30Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 222,
+                "count": 224,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-06-06T08:07:48Z"
             },
             {
                 "name": "Version 0.2.1",
-                "count": 9334,
+                "count": 10101,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-06-06T12:54:51Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 641,
+                "count": 643,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-07-10T12:53:39Z"
             },
             {
                 "name": "Version 0.3.1",
-                "count": 17192,
+                "count": 17212,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-07-12T09:10:39Z"
             },
             {
                 "name": "Version 0.3.2",
-                "count": 10266,
+                "count": 10268,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-09-19T08:38:34Z"
             },
             {
                 "name": "Version 0.3.3",
-                "count": 1314,
+                "count": 1316,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-10-10T10:36:55Z"
@@ -2120,42 +2120,42 @@
             },
             {
                 "name": "Version 1.0.0 - Tonkotsu",
-                "count": 2850,
+                "count": 2852,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-10-12T09:03:58Z"
             },
             {
                 "name": "Version 1.1.0 - Miso",
-                "count": 1865,
+                "count": 1867,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-10-18T09:42:22Z"
             },
             {
                 "name": "Version 1.1.1 - Shoyu",
-                "count": 14000,
+                "count": 14002,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-10-23T11:36:49Z"
             },
             {
                 "name": "Version 1.1.2 - Wakayama",
-                "count": 3208,
+                "count": 3212,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-11-16T12:24:26Z"
             },
             {
                 "name": "Version 1.1.3 - Asahikawa",
-                "count": 321952,
+                "count": 324267,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-11-21T10:34:50Z"
             },
             {
                 "name": "Version 1.1.4 - Kushiro",
-                "count": 30892,
+                "count": 32383,
                 "author": "adamrtalbot",
                 "avatar": "https://avatars.githubusercontent.com/u/12817534?v=4",
                 "published_at": "2024-08-07T15:51:09Z"
@@ -2190,21 +2190,21 @@
             },
             {
                 "name": "Version 0.11.1",
-                "count": 975,
+                "count": 978,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-05T15:04:54Z"
             },
             {
                 "name": "Version 0.11.2",
-                "count": 2455,
+                "count": 2487,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:33:25Z"
             },
             {
                 "name": "Version 0.12.0",
-                "count": 645,
+                "count": 647,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-10T22:19:18Z"
@@ -2225,14 +2225,14 @@
             },
             {
                 "name": "Version 1.0.0",
-                "count": 4871,
+                "count": 4916,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-15T15:15:33Z"
             },
             {
                 "name": "Version 1.1.0",
-                "count": 1627,
+                "count": 1638,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:42Z"
@@ -2246,14 +2246,14 @@
             },
             {
                 "name": "Version 1.0.1",
-                "count": 14888,
+                "count": 15046,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-01-12T23:25:55Z"
             },
             {
                 "name": "Version 1.3.0",
-                "count": 1145,
+                "count": 1146,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:32:16Z"
@@ -2267,7 +2267,7 @@
             },
             {
                 "name": "Version 1.4.0",
-                "count": 779,
+                "count": 786,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:39:39Z"
@@ -2281,21 +2281,21 @@
             },
             {
                 "name": "Version 1.4.2",
-                "count": 4302,
+                "count": 4373,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T09:06:12Z"
             },
             {
                 "name": "Version 1.0.1-patch1",
-                "count": 826,
+                "count": 855,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:11:50Z"
             },
             {
                 "name": "Version 1.4.3",
-                "count": 1384,
+                "count": 1437,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-17T20:47:09Z"
@@ -2309,7 +2309,7 @@
             },
             {
                 "name": "Version 1.4.2-patch1",
-                "count": 5674,
+                "count": 6081,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-01T08:45:23Z"
@@ -2330,7 +2330,7 @@
             },
             {
                 "name": "Version 1.6.0",
-                "count": 1231,
+                "count": 1271,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-02T13:37:49Z"
@@ -2351,7 +2351,7 @@
             },
             {
                 "name": "Version 1.7.2",
-                "count": 1496,
+                "count": 1544,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-27T20:20:56Z"
@@ -2365,14 +2365,14 @@
             },
             {
                 "name": "Version 1.7.4",
-                "count": 3365,
+                "count": 3999,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-27T21:37:15Z"
             },
             {
                 "name": "Version 1.8.0",
-                "count": 209,
+                "count": 543,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-03T10:38:36Z"
@@ -2386,28 +2386,28 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 130,
+                "count": 132,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T10:44:14Z"
             },
             {
                 "name": "Version 1.1.0",
-                "count": 635,
+                "count": 637,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-08-29T13:12:49Z"
             },
             {
                 "name": "Version 1.1.1",
-                "count": 1466,
+                "count": 1492,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-11-08T23:08:17Z"
             },
             {
                 "name": "Version 1.1.2",
-                "count": 36285,
+                "count": 36776,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-11-22T15:27:47Z"
@@ -2526,14 +2526,14 @@
             },
             {
                 "name": "Version 1.2.0",
-                "count": 28993,
+                "count": 29009,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-07-25T16:29:35Z"
             },
             {
                 "name": "Version 1.2.1",
-                "count": 2220,
+                "count": 2224,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T19:03:04Z"
@@ -2561,21 +2561,21 @@
             },
             {
                 "name": "Version 1.5.0",
-                "count": 190,
+                "count": 222,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:46:53Z"
             },
             {
                 "name": "Version 1.6.0",
-                "count": 4369,
+                "count": 4683,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-14T08:26:05Z"
             },
             {
                 "name": "Version 1.3.2",
-                "count": 30330,
+                "count": 31295,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-30T20:41:12Z"
@@ -2624,14 +2624,14 @@
             },
             {
                 "name": "Version 1.2.0",
-                "count": 162,
+                "count": 166,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:46:56Z"
             },
             {
                 "name": "Version 1.3.0",
-                "count": 109,
+                "count": 112,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-14T08:26:13Z"
@@ -2652,19 +2652,19 @@
             },
             {
                 "name": "1.0.0",
-                "count": 124,
+                "count": 126,
                 "author": "YellowDogMachine",
                 "avatar": "https://avatars.githubusercontent.com/u/33691422?v=4",
                 "published_at": "2024-02-08T14:36:11Z"
             },
             {
                 "name": "1.0.1",
-                "count": 141,
+                "count": 143,
                 "author": "YellowDogMachine",
                 "avatar": "https://avatars.githubusercontent.com/u/33691422?v=4",
                 "published_at": "2024-03-15T17:39:24Z"
             }
         ],
-        "readme": "# yellowdog\n            "
+        "readme": "# YellowDog NextFlow plugin"
     }
 ]

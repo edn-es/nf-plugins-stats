@@ -15,16 +15,18 @@ stats = plugins.collect { plugin ->
     def repo = parts[4]
     def ret = [id: plugin.id, url: "https://github.com/$org/$repo", releases: []]
 
-    try{
-        ret.readme = "https://raw.githubusercontent.com/$org/$repo/refs/heads/master/README.md".toURL().text
-    }catch(e1){
+    ['master/README.md','master/readme.md','main/README.md','main/readme.md'].find{
         try{
-            ret.readme = "https://raw.githubusercontent.com/$org/$repo/refs/heads/master/readme.md".toURL().text
-        }catch(e2) {
-            println "$plugin.id without readme"
-            ret.readme = """# $plugin.id
-            """
+            ret.readme = "https://raw.githubusercontent.com/$org/$repo/refs/heads/$it".toURL().text
+            true
+        }catch(e){
+            false
         }
+    }
+    if(!ret.readme){
+        println "$plugin.id without readme"
+        ret.readme = """# $plugin.id
+        """
     }
 
     def request = HttpRequest.newBuilder()

@@ -17,7 +17,8 @@ groups = [
                 "nf-nomad",
                 "nf-jarvice",
                 "nf-wr",
-                "yellowdog"
+                "yellowdog",
+                "nf-float"
         ],
         "Optimization and Performance Utilities": [
                 "nf-boost",
@@ -42,12 +43,15 @@ groups = [
                 "nf-co2footprint"
         ],
         "Specialized Integrations"              : [
+                "nf-tower",
                 "nf-cws",
                 "nf-iridanext",
                 "nf-wave",
-                "nf-weblog"
+                "nf-weblog",
+                "nf-gpt",
+        ],
+        "Others"                                : [
         ]
-
 ]
 
 stats = new JsonSlurper().parse(new File("groovy/last.json"))
@@ -68,6 +72,12 @@ stats.each{ plugin->
             plugin: plugin
     ]
     js.text = jstemplate.make(jsbinding)
+
+    def founded = groups.find { it.value.contains(plugin.id) }
+    if( !founded ){
+        println "Plugin ${plugin.id} not found in any group"
+        groups."Others".add(plugin.id)
+    }
 }
 
 navigation = new File("navigation.php")

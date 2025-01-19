@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -66,10 +66,10 @@ for the s3cmd tool).
 * `src/test`: Module unit test sources
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.2.0-rc.0 | 2022-01-13 | 159 | pditommaso |
- | 1.2.0-rc.1 | 2022-02-15 | 150 | pditommaso |
- | 1.2.0-rc.2 | 2022-02-28 | 192 | pditommaso |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.2.0-rc.0                                          | 2022-01-13                                          | 159                                                | pditommaso                                         |
+ |  1.2.0-rc.1                                          | 2022-02-15                                          | 150                                                | pditommaso                                         |
+ |  1.2.0-rc.2                                          | 2022-02-28                                          | 192                                                | pditommaso                                         |

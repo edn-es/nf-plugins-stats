@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -122,13 +122,13 @@ This plugin is developed by Tencent Healthcare Omics Platform team and can be us
 For inquiries about product testing and usage, please contact via email: omics@tencent.com
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2024-09-04 | 99 | lalalacampanella |
- | 2.0.0 | 2024-09-04 | 120 | lalalacampanella |
- | 1.0.1 | 2024-12-04 | 15 | lalalacampanella |
- | 2.0.1 | 2024-12-04 | 17 | lalalacampanella |
- | 1.0.2 | 2024-12-12 | 0 | lalalacampanella |
- | 2.0.2 | 2024-12-12 | 0 | lalalacampanella |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.0.0                                               | 2024-09-04                                          | 99                                                 | lalalacampanella                                   |
+ |  2.0.0                                               | 2024-09-04                                          | 120                                                | lalalacampanella                                   |
+ |  1.0.1                                               | 2024-12-04                                          | 15                                                 | lalalacampanella                                   |
+ |  2.0.1                                               | 2024-12-04                                          | 17                                                 | lalalacampanella                                   |
+ |  1.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |
+ |  2.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |

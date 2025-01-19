@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -80,9 +80,9 @@ pip3 install git+https://github.com/nextflow-io/nf-quilt.git#subdirectory=quilt-
 Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for instructions on how to build, test, and publish Nextflow plugins.
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 0.1.0 | 2022-08-12 | 145 | pditommaso |
- | 0.2.0 | 2022-08-23 | 175 | pditommaso |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  0.1.0                                               | 2022-08-12                                          | 145                                                | pditommaso                                         |
+ |  0.2.0                                               | 2022-08-23                                          | 175                                                | pditommaso                                         |

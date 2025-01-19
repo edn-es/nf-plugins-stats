@@ -4,38 +4,43 @@
 
         {
             date: `2024-04-22`,
-            count: 11931,
-            name: 'Kagoshima' },
+            count: 12112,
+            y: 'Kagoshima' },
 
         {
             date: `2024-07-04`,
-            count: 1020,
-            name: '2.0.1' },
+            count: 1038,
+            y: '2.0.1' },
 
         {
             date: `2024-08-20`,
-            count: 7548,
-            name: 'Tantanmen' },
+            count: 7796,
+            y: 'Tantanmen' },
 
         {
             date: `2024-09-19`,
-            count: 58533,
-            name: '2.1.1' },
+            count: 62336,
+            y: '2.1.1' },
 
         {
             date: `2024-10-18`,
-            count: 6214,
-            name: '2.1.2' },
+            count: 6658,
+            y: '2.1.2' },
 
         {
             date: `2024-10-30`,
-            count: 5626,
-            name: 'Kitakata' },
+            count: 6092,
+            y: 'Kitakata' },
 
         {
             date: `2024-12-03`,
-            count: 1409,
-            name: '2.2.1' },
+            count: 1643,
+            y: '2.2.1' },
+
+        {
+            date: `2025-01-13`,
+            count: 290,
+            y: 'Hakodate' },
 
     ];
 
@@ -44,16 +49,42 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.name),
+                labels: data.map(row => row.y),
                 datasets: [
                     {
                         label: 'Donwloads',
-                        data: data.map(row => row.count)
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
                     }
                 ]
             },
             options: {
-                indexAxis: 'y'
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
             },
         }
     );

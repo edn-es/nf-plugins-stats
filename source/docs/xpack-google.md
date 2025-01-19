@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -142,14 +142,14 @@ path in the shared file system, e.g.:
 Copyright 2021-2023, Seqera Labs, S.L. All Rights Reserved.
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.0.0-beta.1 | 2021-07-08 | 153 | pditommaso |
- | 1.0.0-beta.2 | 2023-01-14 | 41 | pditommaso |
- | 1.0.0-beta.3 | 2023-04-09 | 51 | pditommaso |
- | 1.0.0 | 2023-08-09 | 93 | pditommaso |
- | 1.1.0 | 2023-12-26 | 18 | pditommaso |
- | 1.2.0 | 2024-02-05 | 162 | pditommaso |
- | 1.3.0 | 2024-05-14 | 109 | pditommaso |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.0.0-beta.1                                        | 2021-07-08                                          | 153                                                | pditommaso                                         |
+ |  1.0.0-beta.2                                        | 2023-01-14                                          | 41                                                 | pditommaso                                         |
+ |  1.0.0-beta.3                                        | 2023-04-09                                          | 51                                                 | pditommaso                                         |
+ |  1.0.0                                               | 2023-08-09                                          | 93                                                 | pditommaso                                         |
+ |  1.1.0                                               | 2023-12-26                                          | 18                                                 | pditommaso                                         |
+ |  1.2.0                                               | 2024-02-05                                          | 166                                                | pditommaso                                         |
+ |  1.3.0                                               | 2024-05-14                                          | 112                                                | pditommaso                                         |

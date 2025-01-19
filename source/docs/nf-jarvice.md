@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -118,10 +118,10 @@ nextflow run test.nf
 
 Jarvice plugin will automatically be downloaded and used as executor. Jobs can be seen in Jarvice portal, like any other jobs.
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 0.5.0 | 2023-04-05 | 10 | oxedions |
- | 0.6.0 | 2023-04-19 | 126 | oxedions |
- | 0.7.0 | 2023-05-09 | 129 | oxedions |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  0.5.0                                               | 2023-04-05                                          | 10                                                 | oxedions                                           |
+ |  0.6.0                                               | 2023-04-19                                          | 128                                                | oxedions                                           |
+ |  0.7.0                                               | 2023-05-09                                          | 131                                                | oxedions                                           |

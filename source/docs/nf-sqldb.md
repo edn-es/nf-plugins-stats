@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -20,7 +20,6 @@ The following databases are currently supported:
 
 * [AWS Athena](https://aws.amazon.com/athena/) (Setup guide [here](docs/aws-athena.md))
 * [DuckDB](https://duckdb.org/)
-* [Google BigQuery](https://cloud.google.com/bigquery) (Setup guide [here](docs/google-bigquery.md))
 * [H2](https://www.h2database.com)
 * [MySQL](https://www.mysql.com/)
 * [MariaDB](https://mariadb.org/)
@@ -39,13 +38,6 @@ plugins {
 }
 ```
 
-Support for BigQuery is provided in a separate plugin:
-
-```groovy
-plugins {
-    id 'nf-bigquery'
-}
-```
 
 ## Configuration
 
@@ -184,13 +176,13 @@ Like all dataflow operators in Nextflow, the operators provided by this plugin a
 In particular, data inserted using the `sqlInsert` operator is *not* guaranteed to be available to any subsequent queries using the `fromQuery` operator, as it is not possible to make a channel factory operation dependent on some upstream operation.
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 0.1.0 | 2021-09-01 | 406 | pditommaso |
- | 0.2.0 | 2021-10-10 | 308 | pditommaso |
- | 0.3.0 | 2022-02-07 | 182 | pditommaso |
- | 0.4.0 | 2022-04-11 | 269 | pditommaso |
- | 0.4.1 | 2022-05-25 | 704 | pditommaso |
- | 0.5.0 | 2022-08-30 | 1864 | pditommaso |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  0.1.0                                               | 2021-09-01                                          | 406                                                | pditommaso                                         |
+ |  0.2.0                                               | 2021-10-10                                          | 308                                                | pditommaso                                         |
+ |  0.3.0                                               | 2022-02-07                                          | 182                                                | pditommaso                                         |
+ |  0.4.0                                               | 2022-04-11                                          | 269                                                | pditommaso                                         |
+ |  0.4.1                                               | 2022-05-25                                          | 704                                                | pditommaso                                         |
+ |  0.5.0                                               | 2022-08-30                                          | 1869                                               | pditommaso                                         |

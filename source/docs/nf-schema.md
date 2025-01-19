@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -99,14 +99,15 @@ We would like to thank the key contributors who include (but are not limited to)
 - Arthur ([@awgymer](https://github.com/awgymer))
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | Kagoshima | 2024-04-22 | 11931 | nvnieuwk |
- | 2.0.1 | 2024-07-04 | 1020 | nvnieuwk |
- | Tantanmen | 2024-08-20 | 7548 | nvnieuwk |
- | 2.1.1 | 2024-09-19 | 58533 | nvnieuwk |
- | 2.1.2 | 2024-10-18 | 6214 | nvnieuwk |
- | Kitakata | 2024-10-30 | 5626 | nvnieuwk |
- | 2.2.1 | 2024-12-03 | 1409 | nvnieuwk |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  Kagoshima                                           | 2024-04-22                                          | 12112                                              | nvnieuwk                                           |
+ |  2.0.1                                               | 2024-07-04                                          | 1038                                               | nvnieuwk                                           |
+ |  Tantanmen                                           | 2024-08-20                                          | 7796                                               | nvnieuwk                                           |
+ |  2.1.1                                               | 2024-09-19                                          | 62336                                              | nvnieuwk                                           |
+ |  2.1.2                                               | 2024-10-18                                          | 6658                                               | nvnieuwk                                           |
+ |  Kitakata                                            | 2024-10-30                                          | 6092                                               | nvnieuwk                                           |
+ |  2.2.1                                               | 2024-12-03                                          | 1643                                               | nvnieuwk                                           |
+ |  Hakodate                                            | 2025-01-13                                          | 290                                                | nvnieuwk                                           |

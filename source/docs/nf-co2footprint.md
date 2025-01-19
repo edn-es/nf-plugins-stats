@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -61,9 +61,8 @@ We thank the following people for their extensive assistance in the development 
 - [Phil Ewels](https://github.com/ewels)
 - [Paolo Di Tommaso](https://github.com/pditommaso)
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.0.0-beta | 2024-01-19 | 715 | skrakau |
- | 1.0.0-beta.1 | 2025-01-09 | 2 | Bastian-Eisenmann |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.0.0-beta                                          | 2024-01-19                                          | 729                                                | skrakau                                            |

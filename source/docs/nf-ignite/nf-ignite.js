@@ -5,22 +5,22 @@
         {
             date: `2021-01-04`,
             count: 25,
-            name: '1.2.0' },
+            y: '1.2.0' },
 
         {
             date: `2021-01-15`,
             count: 196,
-            name: '1.2.1' },
+            y: '1.2.1' },
 
         {
             date: `2021-03-05`,
             count: 237,
-            name: '1.2.2' },
+            y: '1.2.2' },
 
         {
             date: `2021-05-28`,
             count: 988,
-            name: '1.2.3' },
+            y: '1.2.3' },
 
     ];
 
@@ -29,16 +29,42 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.name),
+                labels: data.map(row => row.y),
                 datasets: [
                     {
                         label: 'Donwloads',
-                        data: data.map(row => row.count)
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
                     }
                 ]
             },
             options: {
-                indexAxis: 'y'
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
             },
         }
     );

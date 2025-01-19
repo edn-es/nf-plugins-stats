@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -299,11 +299,11 @@ Follow these steps to package, upload and publish the plugin:
 3. Create a pull request against [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) to make the plugin accessible to Nextflow.
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2023-08-17 | 130 | pditommaso |
- | 1.1.0 | 2023-08-29 | 635 | bentsherman |
- | 1.1.1 | 2023-11-08 | 1466 | bentsherman |
- | 1.1.2 | 2023-11-22 | 36285 | bentsherman |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.0.0                                               | 2023-08-17                                          | 132                                                | pditommaso                                         |
+ |  1.1.0                                               | 2023-08-29                                          | 637                                                | bentsherman                                        |
+ |  1.1.1                                               | 2023-11-08                                          | 1492                                               | bentsherman                                        |
+ |  1.1.2                                               | 2023-11-22                                          | 36776                                              | bentsherman                                        |

@@ -5,17 +5,17 @@
         {
             date: `2023-04-05`,
             count: 10,
-            name: '0.5.0' },
+            y: '0.5.0' },
 
         {
             date: `2023-04-19`,
-            count: 126,
-            name: '0.6.0' },
+            count: 128,
+            y: '0.6.0' },
 
         {
             date: `2023-05-09`,
-            count: 129,
-            name: '0.7.0' },
+            count: 131,
+            y: '0.7.0' },
 
     ];
 
@@ -24,16 +24,42 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.name),
+                labels: data.map(row => row.y),
                 datasets: [
                     {
                         label: 'Donwloads',
-                        data: data.map(row => row.count)
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
                     }
                 ]
             },
             options: {
-                indexAxis: 'y'
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
             },
         }
     );

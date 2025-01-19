@@ -26,6 +26,7 @@ return [
 'nf-jarvice' => 'docs/nf-jarvice' ,
 'nf-wr' => 'docs/nf-wr' ,
 'yellowdog' => 'docs/yellowdog' ,
+'nf-float' => 'docs/nf-float' ,
 
                 ],
             ],
@@ -70,10 +71,21 @@ return [
 
             'Specialized Integrations' => [
                 'children' => [
+'nf-tower' => 'docs/nf-tower' ,
 'nf-cws' => 'docs/nf-cws' ,
 'nf-iridanext' => 'docs/nf-iridanext' ,
 'nf-wave' => 'docs/nf-wave' ,
 'nf-weblog' => 'docs/nf-weblog' ,
+'nf-gpt' => 'docs/nf-gpt' ,
+
+                ],
+            ],
+
+            'Others' => [
+                'children' => [
+'nf-synapse' => 'docs/nf-synapse' ,
+'xpack-amzn' => 'docs/xpack-amzn' ,
+'xpack-google' => 'docs/xpack-google' ,
 
                 ],
             ],

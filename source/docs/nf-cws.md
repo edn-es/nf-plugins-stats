@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -122,13 +122,13 @@ The following fields can be used:
 | input_size                             |                                   The sum of the input size of all task inputs                                    |
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2023-03-20 | 190 | Lehmann-Fabian |
- | 1.0.1 | 2023-06-09 | 178 | Lehmann-Fabian |
- | 1.0.2 | 2023-07-25 | 256 | Lehmann-Fabian |
- | 1.0.3 | 2023-10-02 | 133 | Lehmann-Fabian |
- | 1.0.4 | 2023-11-02 | 150 | Lehmann-Fabian |
- | 1.0.5 | 2024-07-22 | 172 | Lehmann-Fabian |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.0.0                                               | 2023-03-20                                          | 192                                                | Lehmann-Fabian                                     |
+ |  1.0.1                                               | 2023-06-09                                          | 180                                                | Lehmann-Fabian                                     |
+ |  1.0.2                                               | 2023-07-25                                          | 258                                                | Lehmann-Fabian                                     |
+ |  1.0.3                                               | 2023-10-02                                          | 135                                                | Lehmann-Fabian                                     |
+ |  1.0.4                                               | 2023-11-02                                          | 152                                                | Lehmann-Fabian                                     |
+ |  1.0.5                                               | 2024-07-22                                          | 174                                                | Lehmann-Fabian                                     |

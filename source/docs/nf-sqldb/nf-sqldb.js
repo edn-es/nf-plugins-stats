@@ -5,32 +5,32 @@
         {
             date: `2021-09-01`,
             count: 406,
-            name: '0.1.0' },
+            y: '0.1.0' },
 
         {
             date: `2021-10-10`,
             count: 308,
-            name: '0.2.0' },
+            y: '0.2.0' },
 
         {
             date: `2022-02-07`,
             count: 182,
-            name: '0.3.0' },
+            y: '0.3.0' },
 
         {
             date: `2022-04-11`,
             count: 269,
-            name: '0.4.0' },
+            y: '0.4.0' },
 
         {
             date: `2022-05-25`,
             count: 704,
-            name: '0.4.1' },
+            y: '0.4.1' },
 
         {
             date: `2022-08-30`,
-            count: 1864,
-            name: '0.5.0' },
+            count: 1869,
+            y: '0.5.0' },
 
     ];
 
@@ -39,16 +39,42 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.name),
+                labels: data.map(row => row.y),
                 datasets: [
                     {
                         label: 'Donwloads',
-                        data: data.map(row => row.count)
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
                     }
                 ]
             },
             options: {
-                indexAxis: 'y'
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
             },
         }
     );

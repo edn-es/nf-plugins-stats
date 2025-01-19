@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -122,26 +122,26 @@ Follow these steps to package, upload and publish the plugin:
     Use the `json` file created in previous steps
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 0.0.1 | 2024-02-20 | 28 | abhi18av |
- | 0.0.2 | 2024-03-08 | 10 | abhi18av |
- | 0.1.0 | 2024-06-26 | 118 | abhi18av |
- | 0.1.1 | 2024-07-02 | 124 | github-actions[bot] |
- | 0.1.2-beta1 | 2024-07-08 | 5 | jagedn |
- | 0.1.2-beta2 | 2024-07-09 | 2 | jagedn |
- | 0.1.2-edge3 | 2024-07-16 | 3 | jagedn |
- | 0.1.2 | 2024-07-29 | 118 | abhi18av |
- | 0.2.0-edge1 | 2024-07-29 | 1 | github-actions[bot] |
- | 0.2.0-edge2 | 2024-08-28 | 2 | jagedn |
- | 0.2.0-edge3 | 2024-08-28 | 1 | github-actions[bot] |
- | 0.2.0 | 2024-08-28 | 124 | github-actions[bot] |
- | 0.3.0-edge1 | 2024-09-18 | 0 | jagedn |
- | 0.3.0-edge2 | 2024-09-18 | 0 | github-actions[bot] |
- | 0.3.0 | 2024-09-20 | 98 | github-actions[bot] |
- | 0.3.1-edge1 | 2024-09-23 | 1 | github-actions[bot] |
- | 0.3.2-edge2 | 2024-11-18 | 0 | jagedn |
- | 0.3.1 | 2024-12-08 | 32 | github-actions[bot] |
- | 0.3.2-edge1 | 2024-12-10 | 1 | github-actions[bot] |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  0.0.1                                               | 2024-02-20                                          | 28                                                 | abhi18av                                           |
+ |  0.0.2                                               | 2024-03-08                                          | 10                                                 | abhi18av                                           |
+ |  0.1.0                                               | 2024-06-26                                          | 120                                                | abhi18av                                           |
+ |  0.1.1                                               | 2024-07-02                                          | 126                                                | github-actions[bot]                                |
+ |  0.1.2-beta1                                         | 2024-07-08                                          | 5                                                  | jagedn                                             |
+ |  0.1.2-beta2                                         | 2024-07-09                                          | 2                                                  | jagedn                                             |
+ |  0.1.2-edge3                                         | 2024-07-16                                          | 3                                                  | jagedn                                             |
+ |  0.1.2                                               | 2024-07-29                                          | 120                                                | abhi18av                                           |
+ |  0.2.0-edge1                                         | 2024-07-29                                          | 1                                                  | github-actions[bot]                                |
+ |  0.2.0-edge2                                         | 2024-08-28                                          | 2                                                  | jagedn                                             |
+ |  0.2.0-edge3                                         | 2024-08-28                                          | 1                                                  | github-actions[bot]                                |
+ |  0.2.0                                               | 2024-08-28                                          | 126                                                | github-actions[bot]                                |
+ |  0.3.0-edge1                                         | 2024-09-18                                          | 0                                                  | jagedn                                             |
+ |  0.3.0-edge2                                         | 2024-09-18                                          | 0                                                  | github-actions[bot]                                |
+ |  0.3.0                                               | 2024-09-20                                          | 100                                                | github-actions[bot]                                |
+ |  0.3.1-edge1                                         | 2024-09-23                                          | 1                                                  | github-actions[bot]                                |
+ |  0.3.2-edge2                                         | 2024-11-18                                          | 0                                                  | jagedn                                             |
+ |  0.3.1                                               | 2024-12-08                                          | 34                                                 | github-actions[bot]                                |
+ |  0.3.2-edge1                                         | 2024-12-10                                          | 1                                                  | github-actions[bot]                                |

@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -520,22 +520,22 @@ Run following command to create the plugin zip.
 The output is available at `./plugins/nf-float/build/libs/`
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 0.1.4 | 2023-05-18 | 0 | jealous |
- | 0.1.5 | 2023-05-19 | 0 | jealous |
- | 0.1.6 | 2023-05-21 | 0 | jealous |
- | 0.1.7 | 2023-05-25 | 249 | jealous |
- | 0.1.8 | 2023-07-17 | 240 | jealous |
- | 0.2.0 | 2023-07-26 | 146 | jealous |
- | 0.3.0 | 2023-08-09 | 153 | jealous |
- | 0.3.1 | 2023-08-21 | 209 | jealous |
- | 0.4.0 | 2023-10-12 | 404 | jealous |
- | 0.4.1 | 2024-01-11 | 1321 | jealous |
- | 0.4.2 | 2024-07-24 | 326 | jealous |
- | 0.4.3 | 2024-08-15 | 310 | jealous |
- | 0.4.4 | 2024-09-12 | 164 | jealous |
- | 0.4.5 | 2024-09-19 | 224 | jealous |
- | 0.4.6 | 2024-09-26 | 1031 | jealous |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  0.1.4                                               | 2023-05-18                                          | 0                                                  | jealous                                            |
+ |  0.1.5                                               | 2023-05-19                                          | 0                                                  | jealous                                            |
+ |  0.1.6                                               | 2023-05-21                                          | 0                                                  | jealous                                            |
+ |  0.1.7                                               | 2023-05-25                                          | 251                                                | jealous                                            |
+ |  0.1.8                                               | 2023-07-17                                          | 242                                                | jealous                                            |
+ |  0.2.0                                               | 2023-07-26                                          | 148                                                | jealous                                            |
+ |  0.3.0                                               | 2023-08-09                                          | 155                                                | jealous                                            |
+ |  0.3.1                                               | 2023-08-21                                          | 211                                                | jealous                                            |
+ |  0.4.0                                               | 2023-10-12                                          | 406                                                | jealous                                            |
+ |  0.4.1                                               | 2024-01-11                                          | 1323                                               | jealous                                            |
+ |  0.4.2                                               | 2024-07-24                                          | 329                                                | jealous                                            |
+ |  0.4.3                                               | 2024-08-15                                          | 312                                                | jealous                                            |
+ |  0.4.4                                               | 2024-09-12                                          | 166                                                | jealous                                            |
+ |  0.4.5                                               | 2024-09-19                                          | 226                                                | jealous                                            |
+ |  0.4.6                                               | 2024-09-26                                          | 1087                                               | jealous                                            |

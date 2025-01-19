@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -157,19 +157,19 @@ Follow these steps to package, upload and publish the plugin:
 3. Create a pull request against [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) to make the plugin accessible to Nextflow.
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.0.0 | 2021-01-04 | 19 | pditommaso |
- | 1.0.1 | 2021-01-15 | 32 | pditommaso |
- | 1.0.2 | 2021-03-05 | 26 | pditommaso |
- | 1.0.3 | 2021-05-28 | 113 | pditommaso |
- | 1.0.4 | 2022-09-19 | 131 | pditommaso |
- | 1.0.5 | 2023-04-13 | 300 | pditommaso |
- | 1.0.6 | 2023-05-15 | 123 | pditommaso |
- | 1.1.0 | 2023-07-22 | 109 | pditommaso |
- | 1.1.1 | 2023-11-24 | 30 | pditommaso |
- | 1.2.0 | 2024-02-05 | 18 | pditommaso |
- | 1.3.0 | 2024-05-13 | 403 | pditommaso |
- | 1.1.0-patch1 | 2024-05-28 | 24 | pditommaso |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.0.0                                               | 2021-01-04                                          | 19                                                 | pditommaso                                         |
+ |  1.0.1                                               | 2021-01-15                                          | 32                                                 | pditommaso                                         |
+ |  1.0.2                                               | 2021-03-05                                          | 26                                                 | pditommaso                                         |
+ |  1.0.3                                               | 2021-05-28                                          | 114                                                | pditommaso                                         |
+ |  1.0.4                                               | 2022-09-19                                          | 131                                                | pditommaso                                         |
+ |  1.0.5                                               | 2023-04-13                                          | 300                                                | pditommaso                                         |
+ |  1.0.6                                               | 2023-05-15                                          | 123                                                | pditommaso                                         |
+ |  1.1.0                                               | 2023-07-22                                          | 109                                                | pditommaso                                         |
+ |  1.1.1                                               | 2023-11-24                                          | 30                                                 | pditommaso                                         |
+ |  1.2.0                                               | 2024-02-05                                          | 18                                                 | pditommaso                                         |
+ |  1.3.0                                               | 2024-05-13                                          | 408                                                | pditommaso                                         |
+ |  1.1.0-patch1                                        | 2024-05-28                                          | 24                                                 | pditommaso                                         |

@@ -4,33 +4,33 @@
 
         {
             date: `2024-03-24`,
-            count: 112,
-            name: '0.1.0' },
+            count: 114,
+            y: '0.1.0' },
 
         {
             date: `2024-03-26`,
-            count: 115,
-            name: '0.2.0' },
+            count: 117,
+            y: '0.2.0' },
 
         {
             date: `2024-04-09`,
-            count: 115,
-            name: '0.3.0' },
+            count: 117,
+            y: '0.3.0' },
 
         {
             date: `2024-04-14`,
-            count: 144,
-            name: '0.3.1' },
+            count: 146,
+            y: '0.3.1' },
 
         {
             date: `2024-04-19`,
-            count: 898,
-            name: '0.3.2' },
+            count: 900,
+            y: '0.3.2' },
 
         {
             date: `2024-10-08`,
-            count: 1766,
-            name: '0.4.0' },
+            count: 1976,
+            y: '0.4.0' },
 
     ];
 
@@ -39,16 +39,42 @@
         {
             type: 'bar',
             data: {
-                labels: data.map(row => row.name),
+                labels: data.map(row => row.y),
                 datasets: [
                     {
                         label: 'Donwloads',
-                        data: data.map(row => row.count)
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
                     }
                 ]
             },
             options: {
-                indexAxis: 'y'
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
             },
         }
     );

@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Activity
+# Downloads
 
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
@@ -210,11 +210,11 @@ For development include the nextflow build in the `settings.gradle` file, then u
 command line options.
 
 
-## Detail
+## Releases
 
-| Release                               | Date | Downloads                        | Author |
-| :------------ | :---------: | ------: | -----------: |
- | 1.2.0 | 2021-01-04 | 25 | pditommaso |
- | 1.2.1 | 2021-01-15 | 196 | pditommaso |
- | 1.2.2 | 2021-03-05 | 237 | pditommaso |
- | 1.2.3 | 2021-05-28 | 988 | pditommaso |
+| Release                               |                       Date                       |                   Downloads                    |                           Author |
+| :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  1.2.0                                               | 2021-01-04                                          | 25                                                 | pditommaso                                         |
+ |  1.2.1                                               | 2021-01-15                                          | 196                                                | pditommaso                                         |
+ |  1.2.2                                               | 2021-03-05                                          | 237                                                | pditommaso                                         |
+ |  1.2.3                                               | 2021-05-28                                          | 988                                                | pditommaso                                         |
