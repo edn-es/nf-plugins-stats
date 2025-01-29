@@ -1,0 +1,33 @@
+name: nf-plugin-stats build
+on:
+  workflow_dispatch:
+
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        java_version: [19]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+          submodules: true
+      - name: Install Groovy
+        run: sudo apt-get update && sudo apt-get install -y groovy
+      - name: Run Groovy script
+        run: groovy groovy/download.groovy ${{ secrets.GITHUB_TOKEN }}
+      - name: upload
+        id: vars
+        shell: bash
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Action"
+          git commit -a -m "Update stats $(date)"
+          git push origin main
