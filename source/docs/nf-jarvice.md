@@ -123,5 +123,5 @@ Jarvice plugin will automatically be downloaded and used as executor. Jobs can b
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  0.5.0                                               | 2023-04-05                                          | 10                                                 | oxedions                                           |
- |  0.6.0                                               | 2023-04-19                                          | 128                                                | oxedions                                           |
- |  0.7.0                                               | 2023-05-09                                          | 131                                                | oxedions                                           |
+ |  0.6.0                                               | 2023-04-19                                          | 139                                                | oxedions                                           |
+ |  0.7.0                                               | 2023-05-09                                          | 142                                                | oxedions                                           |

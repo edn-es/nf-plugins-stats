@@ -142,4 +142,4 @@ Following these step to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.2.0                                               | 2024-03-06                                          | 120                                                | pditommaso                                         |
+ |  0.2.0                                               | 2024-03-06                                          | 131                                                | pditommaso                                         |

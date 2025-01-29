@@ -103,11 +103,11 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  Kagoshima                                           | 2024-04-22                                          | 12112                                              | nvnieuwk                                           |
- |  2.0.1                                               | 2024-07-04                                          | 1038                                               | nvnieuwk                                           |
- |  Tantanmen                                           | 2024-08-20                                          | 7796                                               | nvnieuwk                                           |
- |  2.1.1                                               | 2024-09-19                                          | 62336                                              | nvnieuwk                                           |
- |  2.1.2                                               | 2024-10-18                                          | 6658                                               | nvnieuwk                                           |
- |  Kitakata                                            | 2024-10-30                                          | 6092                                               | nvnieuwk                                           |
- |  2.2.1                                               | 2024-12-03                                          | 1643                                               | nvnieuwk                                           |
- |  Hakodate                                            | 2025-01-13                                          | 290                                                | nvnieuwk                                           |
+ |  Kagoshima                                           | 2024-04-22                                          | 12369                                              | nvnieuwk                                           |
+ |  2.0.1                                               | 2024-07-04                                          | 1093                                               | nvnieuwk                                           |
+ |  Tantanmen                                           | 2024-08-20                                          | 8181                                               | nvnieuwk                                           |
+ |  2.1.1                                               | 2024-09-19                                          | 67117                                              | nvnieuwk                                           |
+ |  2.1.2                                               | 2024-10-18                                          | 7089                                               | nvnieuwk                                           |
+ |  Kitakata                                            | 2024-10-30                                          | 6900                                               | nvnieuwk                                           |
+ |  2.2.1                                               | 2024-12-03                                          | 2355                                               | nvnieuwk                                           |
+ |  Hakodate                                            | 2025-01-13                                          | 3728                                               | nvnieuwk                                           |

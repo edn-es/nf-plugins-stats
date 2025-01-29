@@ -577,5 +577,5 @@ specific language governing permissions and limitations under the License.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2023-12-15                                          | 215                                                | apetkau                                            |
- |  0.2.0                                               | 2024-01-22                                          | 5333                                               | apetkau                                            |
+ |  0.1.0                                               | 2023-12-15                                          | 226                                                | apetkau                                            |
+ |  0.2.0                                               | 2024-01-22                                          | 5461                                               | apetkau                                            |

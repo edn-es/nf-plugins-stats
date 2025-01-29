@@ -126,9 +126,9 @@ The following fields can be used:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2023-03-20                                          | 192                                                | Lehmann-Fabian                                     |
- |  1.0.1                                               | 2023-06-09                                          | 180                                                | Lehmann-Fabian                                     |
- |  1.0.2                                               | 2023-07-25                                          | 258                                                | Lehmann-Fabian                                     |
- |  1.0.3                                               | 2023-10-02                                          | 135                                                | Lehmann-Fabian                                     |
- |  1.0.4                                               | 2023-11-02                                          | 152                                                | Lehmann-Fabian                                     |
- |  1.0.5                                               | 2024-07-22                                          | 174                                                | Lehmann-Fabian                                     |
+ |  1.0.0                                               | 2023-03-20                                          | 203                                                | Lehmann-Fabian                                     |
+ |  1.0.1                                               | 2023-06-09                                          | 191                                                | Lehmann-Fabian                                     |
+ |  1.0.2                                               | 2023-07-25                                          | 269                                                | Lehmann-Fabian                                     |
+ |  1.0.3                                               | 2023-10-02                                          | 146                                                | Lehmann-Fabian                                     |
+ |  1.0.4                                               | 2023-11-02                                          | 163                                                | Lehmann-Fabian                                     |
+ |  1.0.5                                               | 2024-07-22                                          | 191                                                | Lehmann-Fabian                                     |

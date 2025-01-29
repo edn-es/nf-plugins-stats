@@ -40,3 +40,5 @@ https://edn-es.github.io/ng-pgcache/index.html
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  v0.0.1-rc3                                          | 2025-01-01                                          | 3                                                  | github-actions[bot]                                |
+ |  v0.0.1                                              | 2025-01-28                                          | 1                                                  | github-actions[bot]                                |
+ |  v1.0.0                                              | 2025-01-28                                          | 1                                                  | github-actions[bot]                                |
