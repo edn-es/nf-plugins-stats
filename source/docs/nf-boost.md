@@ -230,9 +230,9 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for more
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2024-03-24                                          | 125                                                | bentsherman                                        |
- |  0.2.0                                               | 2024-03-26                                          | 128                                                | bentsherman                                        |
- |  0.3.0                                               | 2024-04-09                                          | 128                                                | bentsherman                                        |
- |  0.3.1                                               | 2024-04-14                                          | 157                                                | bentsherman                                        |
- |  0.3.2                                               | 2024-04-19                                          | 911                                                | bentsherman                                        |
- |  0.4.0                                               | 2024-10-08                                          | 2828                                               | bentsherman                                        |
+ |  0.1.0                                               | 2024-03-24                                          | 126                                                | bentsherman                                        |
+ |  0.2.0                                               | 2024-03-26                                          | 129                                                | bentsherman                                        |
+ |  0.3.0                                               | 2024-04-09                                          | 129                                                | bentsherman                                        |
+ |  0.3.1                                               | 2024-04-14                                          | 158                                                | bentsherman                                        |
+ |  0.3.2                                               | 2024-04-19                                          | 913                                                | bentsherman                                        |
+ |  0.4.0                                               | 2024-10-08                                          | 3429                                               | bentsherman                                        |

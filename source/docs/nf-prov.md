@@ -147,11 +147,11 @@ Following these step to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2022-12-19                                          | 502                                                | BrunoGrandePhD                                     |
- |  1.1.0                                               | 2023-09-28                                          | 1681                                               | bentsherman                                        |
- |  1.2.0                                               | 2023-10-27                                          | 146                                                | bentsherman                                        |
- |  1.2.1                                               | 2023-10-27                                          | 16475                                              | bentsherman                                        |
- |  1.2.2                                               | 2024-03-27                                          | 80951                                              | bentsherman                                        |
- |  1.2.3                                               | 2024-07-03                                          | 2824                                               | bentsherman                                        |
- |  1.2.4                                               | 2024-08-01                                          | 9318                                               | bentsherman                                        |
- |  1.3.0                                               | 2024-11-05                                          | 1169                                               | bentsherman                                        |
+ |  1.0.0                                               | 2022-12-19                                          | 503                                                | BrunoGrandePhD                                     |
+ |  1.1.0                                               | 2023-09-28                                          | 1682                                               | bentsherman                                        |
+ |  1.2.0                                               | 2023-10-27                                          | 147                                                | bentsherman                                        |
+ |  1.2.1                                               | 2023-10-27                                          | 16476                                              | bentsherman                                        |
+ |  1.2.2                                               | 2024-03-27                                          | 82412                                              | bentsherman                                        |
+ |  1.2.3                                               | 2024-07-03                                          | 2837                                               | bentsherman                                        |
+ |  1.2.4                                               | 2024-08-01                                          | 9379                                               | bentsherman                                        |
+ |  1.3.0                                               | 2024-11-05                                          | 1221                                               | bentsherman                                        |
