@@ -135,4 +135,4 @@ Follow these steps to package, upload and publish the plugin:
  |  0.1.0                                               | 2021-07-25                                          | 323                                                | pditommaso                                         |
  |  0.2.0                                               | 2022-05-03                                          | 224                                                | pditommaso                                         |
  |  0.3.0                                               | 2022-08-30                                          | 326                                                | pditommaso                                         |
- |  0.5.0                                               | 2024-03-06                                          | 186                                                | pditommaso                                         |
+ |  0.5.0                                               | 2024-03-06                                          | 188                                                | pditommaso                                         |

@@ -578,4 +578,4 @@ specific language governing permissions and limitations under the License.
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  0.1.0                                               | 2023-12-15                                          | 227                                                | apetkau                                            |
- |  0.2.0                                               | 2024-01-22                                          | 5521                                               | apetkau                                            |
+ |  0.2.0                                               | 2024-01-22                                          | 5584                                               | apetkau                                            |

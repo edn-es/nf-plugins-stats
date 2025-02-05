@@ -538,4 +538,4 @@ The output is available at `./plugins/nf-float/build/libs/`
  |  0.4.3                                               | 2024-08-15                                          | 324                                                | jealous                                            |
  |  0.4.4                                               | 2024-09-12                                          | 178                                                | jealous                                            |
  |  0.4.5                                               | 2024-09-19                                          | 238                                                | jealous                                            |
- |  0.4.6                                               | 2024-09-26                                          | 1134                                               | jealous                                            |
+ |  0.4.6                                               | 2024-09-26                                          | 1144                                               | jealous                                            |

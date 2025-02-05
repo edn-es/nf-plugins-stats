@@ -65,5 +65,5 @@ We thank the following people for their extensive assistance in the development 
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0-beta                                          | 2024-01-19                                          | 880                                                | skrakau                                            |
+ |  1.0.0-beta                                          | 2024-01-19                                          | 987                                                | skrakau                                            |
  |  1.0.0-beta1                                         | 2025-01-23                                          | 25                                                 | Bastian-Eisenmann                                  |
