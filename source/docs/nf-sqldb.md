@@ -180,9 +180,9 @@ In particular, data inserted using the `sqlInsert` operator is *not* guaranteed 
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2021-09-01                                          | 408                                                | pditommaso                                         |
+ |  0.1.0                                               | 2021-09-01                                          | 409                                                | pditommaso                                         |
  |  0.2.0                                               | 2021-10-10                                          | 308                                                | pditommaso                                         |
  |  0.3.0                                               | 2022-02-07                                          | 182                                                | pditommaso                                         |
  |  0.4.0                                               | 2022-04-11                                          | 269                                                | pditommaso                                         |
- |  0.4.1                                               | 2022-05-25                                          | 705                                                | pditommaso                                         |
- |  0.5.0                                               | 2022-08-30                                          | 1882                                               | pditommaso                                         |
+ |  0.4.1                                               | 2022-05-25                                          | 707                                                | pditommaso                                         |
+ |  0.5.0                                               | 2022-08-30                                          | 1922                                               | pditommaso                                         |

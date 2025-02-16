@@ -5,7 +5,7 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 507,
+                "count": 509,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-01-04T16:49:07Z"
@@ -40,7 +40,7 @@
             },
             {
                 "name": "Version 1.0.5",
-                "count": 31221,
+                "count": 31292,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-05-02T16:15:45Z"
@@ -75,7 +75,7 @@
             },
             {
                 "name": "Version 1.2.0",
-                "count": 1636,
+                "count": 1637,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-08-06T11:07:57Z"
@@ -117,21 +117,21 @@
             },
             {
                 "name": "Version 1.3.3",
-                "count": 7286,
+                "count": 7288,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-11-22T11:42:32Z"
             },
             {
                 "name": "Version 1.3.4",
-                "count": 74255,
+                "count": 74266,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-11-29T14:51:38Z"
             },
             {
                 "name": "Version 1.4.0",
-                "count": 22685,
+                "count": 22688,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-12-22T05:14:13Z"
@@ -173,14 +173,14 @@
             },
             {
                 "name": "Version 1.7.1",
-                "count": 7202,
+                "count": 7203,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-04-23T18:21:43Z"
             },
             {
                 "name": "Version 1.7.2",
-                "count": 95088,
+                "count": 95271,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-05-15T12:11:35Z"
@@ -264,283 +264,290 @@
             },
             {
                 "name": "Version 1.11.0",
-                "count": 38852,
+                "count": 39420,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-10-03T14:41:09Z"
             },
             {
                 "name": "Version 1.12.0",
-                "count": 2513,
+                "count": 2516,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-11-21T12:55:16Z"
             },
             {
                 "name": "Version 1.11.1",
-                "count": 7648,
+                "count": 7650,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-11-21T21:43:54Z"
             },
             {
                 "name": "Version 1.11.2",
-                "count": 19322,
+                "count": 19328,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-12-09T11:12:59Z"
             },
             {
                 "name": "Version 1.13.0",
-                "count": 1839,
+                "count": 1841,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-12-13T21:59:06Z"
             },
             {
                 "name": "Version 1.11.3",
-                "count": 31210,
+                "count": 31322,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T13:49:13Z"
             },
             {
                 "name": "Version 1.14.0",
-                "count": 347,
+                "count": 349,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T17:44:54Z"
             },
             {
                 "name": "Version 1.11.4",
-                "count": 112704,
+                "count": 114083,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-02-18T19:23:03Z"
             },
             {
                 "name": "Version 1.15.0",
-                "count": 1890,
+                "count": 1892,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-02-21T18:22:05Z"
             },
             {
                 "name": "Version 1.16.0",
-                "count": 981,
+                "count": 983,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-03-19T18:20:12Z"
             },
             {
                 "name": "Version 1.16.1",
-                "count": 31302,
+                "count": 31658,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-01T21:35:15Z"
             },
             {
                 "name": "Version 1.11.5",
-                "count": 10211,
+                "count": 10285,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-13T14:32:16Z"
             },
             {
                 "name": "Version 1.16.2",
-                "count": 144215,
+                "count": 145290,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:16:38Z"
             },
             {
                 "name": "Version 2.0.0",
-                "count": 2069,
+                "count": 2072,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-05-15T03:54:49Z"
             },
             {
                 "name": "Version 2.0.1",
-                "count": 4044,
+                "count": 4046,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-06-14T20:44:07Z"
             },
             {
                 "name": "Version 2.1.0",
-                "count": 997,
+                "count": 999,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-07-22T16:04:18Z"
             },
             {
                 "name": "Version 2.1.1",
-                "count": 8222,
+                "count": 8230,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-05T15:04:14Z"
             },
             {
                 "name": "Version 2.1.2",
-                "count": 2792,
+                "count": 2794,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-10T22:18:52Z"
             },
             {
                 "name": "Version 2.1.3",
-                "count": 2517,
+                "count": 2526,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-27T22:21:59Z"
             },
             {
                 "name": "Version 2.1.4",
-                "count": 109371,
+                "count": 115132,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:00Z"
             },
             {
                 "name": "Version 2.2.0",
-                "count": 3195,
+                "count": 3224,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:39:48Z"
             },
             {
                 "name": "Version 2.3.0",
-                "count": 3393,
+                "count": 3411,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-26T10:48:24Z"
             },
             {
                 "name": "Version 2.4.0",
-                "count": 8427,
+                "count": 8436,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:26:49Z"
             },
             {
                 "name": "Version 2.4.1",
-                "count": 6077,
+                "count": 6087,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-10T20:04:20Z"
             },
             {
                 "name": "Version 2.4.2",
-                "count": 5829,
+                "count": 5860,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:37:55Z"
             },
             {
                 "name": "Version 2.5.0",
-                "count": 725,
+                "count": 727,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-13T09:48:39Z"
             },
             {
                 "name": "Version 2.5.1",
-                "count": 185,
+                "count": 187,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-14T08:17:18Z"
             },
             {
                 "name": "Version 2.5.2",
-                "count": 54282,
+                "count": 54869,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T10:03:27Z"
             },
             {
                 "name": "Version 2.1.4-patch1",
-                "count": 163,
+                "count": 165,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:03Z"
             },
             {
                 "name": "Version 2.1.4-patch2",
-                "count": 340,
+                "count": 342,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-11T20:00:47Z"
             },
             {
                 "name": "Version 2.6.0",
-                "count": 6234,
+                "count": 6274,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-17T20:45:25Z"
             },
             {
                 "name": "Version 2.1.4-patch3",
-                "count": 1640,
+                "count": 1679,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-30T20:07:34Z"
             },
             {
                 "name": "Version 2.5.3",
-                "count": 25606,
+                "count": 26895,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-01T08:44:44Z"
             },
             {
                 "name": "Version 2.7.0",
-                "count": 9917,
+                "count": 10103,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-05T21:15:48Z"
             },
             {
                 "name": "Version 2.8.0",
-                "count": 2280,
+                "count": 2282,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-09-04T15:30:24Z"
             },
             {
                 "name": "Version 2.9.0",
-                "count": 9463,
+                "count": 9693,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-02T13:36:56Z"
             },
             {
                 "name": "Version 2.9.1",
-                "count": 2019,
+                "count": 2106,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-18T14:12:25Z"
             },
             {
                 "name": "Version 2.9.2",
-                "count": 11246,
+                "count": 13517,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-27T21:36:53Z"
             },
             {
                 "name": "Version 2.10.0",
-                "count": 2412,
+                "count": 2446,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-03T10:38:00Z"
             },
             {
                 "name": "Version 2.11.0",
-                "count": 1026,
+                "count": 1400,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2025-01-20T16:14:20Z"
+            },
+            {
+                "name": "Version 2.12.0",
+                "count": 112,
+                "author": "pditommaso",
+                "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
+                "published_at": "2025-02-12T14:07:16Z"
             }
         ],
         "readme": "# nf-amazon plugin\n\nNextflow plugin implementing the support for AWS computing service and storage. \n\nThis repository only holds plugin artefacts. Source code is available at [this link](https://github.com/nextflow-io/nextflow/tree/master/plugins/nf-amazon). \n"
@@ -747,7 +754,7 @@
             },
             {
                 "name": "Version 1.0.1",
-                "count": 2520,
+                "count": 2559,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:18:29Z"
@@ -810,7 +817,7 @@
             },
             {
                 "name": "Version 1.3.2",
-                "count": 4055,
+                "count": 4075,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-09-27T22:22:10Z"
@@ -824,7 +831,7 @@
             },
             {
                 "name": "Version 1.3.3",
-                "count": 4038,
+                "count": 4045,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-01-12T23:26:07Z"
@@ -845,14 +852,14 @@
             },
             {
                 "name": "Version 1.6.0",
-                "count": 10074,
+                "count": 10116,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:38:09Z"
             },
             {
                 "name": "Version 1.3.3-patch1",
-                "count": 163,
+                "count": 166,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:20Z"
@@ -873,7 +880,7 @@
             },
             {
                 "name": "Version 1.8.0",
-                "count": 751,
+                "count": 810,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-08T20:32:22Z"
@@ -887,7 +894,7 @@
             },
             {
                 "name": "Version 1.6.1",
-                "count": 6066,
+                "count": 6368,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-01T08:44:58Z"
@@ -908,21 +915,21 @@
             },
             {
                 "name": "Version 1.10.0",
-                "count": 221,
+                "count": 240,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-02T13:37:10Z"
             },
             {
                 "name": "Version 1.10.1",
-                "count": 405,
+                "count": 410,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-27T20:20:31Z"
             },
             {
                 "name": "Version 1.10.2",
-                "count": 928,
+                "count": 1067,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-18T14:12:40Z"
@@ -936,10 +943,17 @@
             },
             {
                 "name": "Version 1.12.0",
-                "count": 67,
+                "count": 75,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2025-01-20T16:14:34Z"
+            },
+            {
+                "name": "Version 1.13.0",
+                "count": 4,
+                "author": "pditommaso",
+                "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
+                "published_at": "2025-02-12T14:07:25Z"
             }
         ],
         "readme": "# nf-azure plugin\n\nNextflow plugin implementing the support for Azure computing service and storage. \n\nThis repository only holds plugin artefacts. Source code is available at [this link](https://github.com/nextflow-io/nextflow/tree/master/plugins/nf-azure). \n"
@@ -950,42 +964,42 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 126,
+                "count": 128,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-03-24T02:16:49Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 129,
+                "count": 131,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-03-26T17:57:00Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 129,
+                "count": 131,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-04-09T15:02:32Z"
             },
             {
                 "name": "Version 0.3.1",
-                "count": 158,
+                "count": 160,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-04-14T01:49:10Z"
             },
             {
                 "name": "Version 0.3.2",
-                "count": 914,
+                "count": 917,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-04-19T20:25:58Z"
             },
             {
                 "name": "Version 0.4.0",
-                "count": 3461,
+                "count": 3612,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-10-08T13:08:09Z"
@@ -999,63 +1013,63 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 146,
+                "count": 148,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-07-22T16:06:53Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 1683,
+                "count": 1698,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:31:51Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 13131,
+                "count": 13385,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:24Z"
             },
             {
                 "name": "Version 0.3.1",
-                "count": 1423,
+                "count": 1426,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:04Z"
             },
             {
                 "name": "Version 0.4.0",
-                "count": 175,
+                "count": 177,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:27:49Z"
             },
             {
                 "name": "Version 0.4.1",
-                "count": 14716,
+                "count": 15153,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-10T20:04:52Z"
             },
             {
                 "name": "Version 0.3.0-patch1",
-                "count": 950,
+                "count": 970,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:40Z"
             },
             {
                 "name": "Version 0.4.2",
-                "count": 6323,
+                "count": 7339,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-05T21:16:04Z"
             },
             {
                 "name": "Version 0.4.3",
-                "count": 13,
+                "count": 17,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2025-01-20T16:14:45Z"
@@ -1069,14 +1083,14 @@
         "releases": [
             {
                 "name": "Version 1.0.0-beta",
-                "count": 987,
+                "count": 1381,
                 "author": "skrakau",
                 "avatar": "https://avatars.githubusercontent.com/u/1982769?v=4",
                 "published_at": "2024-01-19T13:13:19Z"
             },
             {
                 "name": "Version 1.0.0-beta1",
-                "count": 25,
+                "count": 40,
                 "author": "Bastian-Eisenmann",
                 "avatar": "https://avatars.githubusercontent.com/u/188207636?v=4",
                 "published_at": "2025-01-23T09:48:40Z"
@@ -1090,7 +1104,7 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 224,
+                "count": 226,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-06-09T15:27:07Z"
@@ -1104,77 +1118,77 @@
             },
             {
                 "name": "Version 0.1.2",
-                "count": 6596,
+                "count": 6598,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-06-17T13:07:23Z"
             },
             {
                 "name": "Version 0.1.3",
-                "count": 922,
+                "count": 924,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T17:46:15Z"
             },
             {
                 "name": "Version 0.1.4",
-                "count": 5619,
+                "count": 5635,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:23:34Z"
             },
             {
                 "name": "Version 0.1.5",
-                "count": 5355,
+                "count": 5357,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-05-15T03:55:22Z"
             },
             {
                 "name": "Version 0.1.6",
-                "count": 176,
+                "count": 178,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:10Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 183,
+                "count": 185,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:27:54Z"
             },
             {
                 "name": "Version 0.1.5-patch1",
-                "count": 140,
+                "count": 145,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:10:45Z"
             },
             {
                 "name": "Version 0.1.5-patch2",
-                "count": 133,
+                "count": 135,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-30T20:07:45Z"
             },
             {
                 "name": "Version 0.2.1",
-                "count": 175,
+                "count": 177,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-01T08:45:14Z"
             },
             {
                 "name": "Version 0.2.2",
-                "count": 479,
+                "count": 609,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-05T21:16:09Z"
             },
             {
                 "name": "Version 0.2.3",
-                "count": 7,
+                "count": 9,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2025-01-20T16:14:56Z"
@@ -1209,7 +1223,7 @@
             },
             {
                 "name": "Version 1.0.3",
-                "count": 1430,
+                "count": 1431,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-05-28T14:18:20Z"
@@ -1223,14 +1237,14 @@
             },
             {
                 "name": "Version 1.0.5",
-                "count": 864,
+                "count": 865,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T17:46:04Z"
             },
             {
                 "name": "Version 1.0.6",
-                "count": 766,
+                "count": 768,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-05-15T03:56:53Z"
@@ -1265,7 +1279,7 @@
             },
             {
                 "name": "Version 1.1.3",
-                "count": 486,
+                "count": 496,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T09:05:48Z"
@@ -1279,14 +1293,14 @@
             },
             {
                 "name": "Version 1.1.4",
-                "count": 288,
+                "count": 328,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-05T21:16:15Z"
             },
             {
                 "name": "Version 1.1.5",
-                "count": 3,
+                "count": 5,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2025-01-20T16:15:05Z"
@@ -1300,42 +1314,42 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 204,
+                "count": 206,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-03-20T15:21:00Z"
             },
             {
                 "name": "Version 1.0.1",
-                "count": 192,
+                "count": 194,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-06-09T12:38:52Z"
             },
             {
                 "name": "Version 1.0.2",
-                "count": 270,
+                "count": 272,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-07-25T13:07:43Z"
             },
             {
                 "name": "Version 1.0.3",
-                "count": 147,
+                "count": 149,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-10-02T08:28:51Z"
             },
             {
                 "name": "Version 1.0.4",
-                "count": 164,
+                "count": 166,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2023-11-02T17:31:11Z"
             },
             {
                 "name": "Version 1.0.5",
-                "count": 197,
+                "count": 208,
                 "author": "Lehmann-Fabian",
                 "avatar": "https://avatars.githubusercontent.com/u/46564585?v=4",
                 "published_at": "2024-07-22T12:36:11Z"
@@ -1349,7 +1363,7 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 1948,
+                "count": 1981,
                 "author": "clintval",
                 "avatar": "https://avatars.githubusercontent.com/u/4634699?v=4",
                 "published_at": "2023-11-22T05:56:19Z"
@@ -1363,7 +1377,7 @@
         "releases": [
             {
                 "name": "Version 0.2.0",
-                "count": 132,
+                "count": 134,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-06T18:30:05Z"
@@ -1398,84 +1412,84 @@
             },
             {
                 "name": "Version 0.1.7",
-                "count": 263,
+                "count": 265,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-05-25T09:25:06Z"
             },
             {
                 "name": "Version 0.1.8",
-                "count": 254,
+                "count": 256,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-07-17T02:58:31Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 160,
+                "count": 162,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-07-26T03:08:53Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 167,
+                "count": 169,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-08-09T05:47:24Z"
             },
             {
                 "name": "Version 0.3.1",
-                "count": 223,
+                "count": 225,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-08-21T08:57:52Z"
             },
             {
                 "name": "Version 0.4.0",
-                "count": 418,
+                "count": 420,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2023-10-12T03:52:55Z"
             },
             {
                 "name": "Version 0.4.1",
-                "count": 1335,
+                "count": 1337,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-01-11T21:55:45Z"
             },
             {
                 "name": "Version 0.4.2",
-                "count": 341,
+                "count": 343,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-07-24T05:04:58Z"
             },
             {
                 "name": "Version 0.4.3",
-                "count": 324,
+                "count": 326,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-08-15T21:42:52Z"
             },
             {
                 "name": "Version 0.4.4",
-                "count": 178,
+                "count": 180,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-09-12T00:01:24Z"
             },
             {
                 "name": "Version 0.4.5",
-                "count": 238,
+                "count": 240,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-09-19T00:05:26Z"
             },
             {
                 "name": "Version 0.4.6",
-                "count": 1144,
+                "count": 1269,
                 "author": "jealous",
                 "avatar": "https://avatars.githubusercontent.com/u/1789979?v=4",
                 "published_at": "2024-09-26T18:50:04Z"
@@ -1559,7 +1573,7 @@
             },
             {
                 "name": "Version 1.3.0",
-                "count": 430,
+                "count": 444,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-13T09:49:11Z"
@@ -1580,7 +1594,7 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 42,
+                "count": 43,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-01-04T16:49:19Z"
@@ -1608,7 +1622,7 @@
             },
             {
                 "name": "Version 1.0.4",
-                "count": 3664,
+                "count": 3683,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-05-28T14:25:32Z"
@@ -1636,14 +1650,14 @@
             },
             {
                 "name": "Version 1.1.3",
-                "count": 15132,
+                "count": 15315,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-11-22T11:42:47Z"
             },
             {
                 "name": "Version 1.1.4",
-                "count": 2216,
+                "count": 2219,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-12-22T05:13:54Z"
@@ -1706,7 +1720,7 @@
             },
             {
                 "name": "Version 1.4.5",
-                "count": 6365,
+                "count": 6366,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-11-13T19:09:59Z"
@@ -1741,21 +1755,21 @@
             },
             {
                 "name": "Version 1.7.2",
-                "count": 1384,
+                "count": 1410,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-01T21:34:49Z"
             },
             {
                 "name": "Version 1.4.6",
-                "count": 322,
+                "count": 326,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-13T16:17:49Z"
             },
             {
                 "name": "Version 1.7.3",
-                "count": 4915,
+                "count": 4917,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:31:56Z"
@@ -1776,7 +1790,7 @@
             },
             {
                 "name": "Version 1.8.1",
-                "count": 9729,
+                "count": 10131,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-07-22T16:07:46Z"
@@ -1797,28 +1811,28 @@
             },
             {
                 "name": "Version 1.8.3",
-                "count": 9308,
+                "count": 9323,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:34Z"
             },
             {
                 "name": "Version 1.9.0",
-                "count": 326,
+                "count": 328,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:28Z"
             },
             {
                 "name": "Version 1.10.0",
-                "count": 1984,
+                "count": 2097,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-26T10:48:51Z"
             },
             {
                 "name": "Version 1.11.0",
-                "count": 1817,
+                "count": 1831,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:28:13Z"
@@ -1846,7 +1860,7 @@
             },
             {
                 "name": "Version 1.13.2",
-                "count": 11127,
+                "count": 11657,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T10:03:16Z"
@@ -1860,14 +1874,14 @@
             },
             {
                 "name": "Version 1.8.3-patch2",
-                "count": 278,
+                "count": 280,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-11T20:01:29Z"
             },
             {
                 "name": "Version 1.13.3",
-                "count": 429,
+                "count": 468,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-17T20:46:59Z"
@@ -1881,7 +1895,7 @@
             },
             {
                 "name": "Version 1.13.2-patch1",
-                "count": 2877,
+                "count": 2959,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-09T21:09:11Z"
@@ -1909,31 +1923,38 @@
             },
             {
                 "name": "Version 1.15.2",
-                "count": 5882,
+                "count": 6739,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-14T21:35:17Z"
             },
             {
                 "name": "Version 1.16.0",
-                "count": 1291,
+                "count": 1426,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-03T10:38:23Z"
             },
             {
                 "name": "Version 1.15.3",
-                "count": 11508,
+                "count": 16782,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-16T16:39:13Z"
             },
             {
                 "name": "Version 1.17.0",
-                "count": 405,
+                "count": 460,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2025-01-20T16:15:15Z"
+            },
+            {
+                "name": "Version 1.18.0",
+                "count": 52,
+                "author": "pditommaso",
+                "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
+                "published_at": "2025-02-12T14:07:47Z"
             }
         ],
         "readme": "# nf-google plugin \n\nNextflow plugin implementing the support for Google Cloud computing service and storage. \n\nThis repository only holds plugin artefacts. Source code is available at [this link](https://github.com/nextflow-io/nextflow/tree/master/plugins/nf-google). \n"
@@ -1944,7 +1965,7 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 128,
+                "count": 130,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-19T16:33:41Z"
@@ -1958,14 +1979,14 @@
             },
             {
                 "name": "Version 0.3.0",
-                "count": 127,
+                "count": 129,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-05T08:55:11Z"
             },
             {
                 "name": "Version 0.4.0",
-                "count": 255,
+                "count": 257,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T15:42:42Z"
@@ -1979,28 +2000,28 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 323,
+                "count": 326,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-07-25T09:54:18Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 224,
+                "count": 226,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-05-03T17:25:06Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 326,
+                "count": 328,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-08-30T20:09:47Z"
             },
             {
                 "name": "Version 0.5.0",
-                "count": 188,
+                "count": 202,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-03-06T16:51:54Z"
@@ -2049,20 +2070,27 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 227,
+                "count": 229,
                 "author": "apetkau",
                 "avatar": "https://avatars.githubusercontent.com/u/200517?v=4",
                 "published_at": "2023-12-15T05:15:36Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 5584,
+                "count": 5767,
                 "author": "apetkau",
                 "avatar": "https://avatars.githubusercontent.com/u/200517?v=4",
                 "published_at": "2024-01-22T14:54:28Z"
+            },
+            {
+                "name": "Version 0.3.0",
+                "count": 0,
+                "author": "emarinier",
+                "avatar": "https://avatars.githubusercontent.com/u/3323791?v=4",
+                "published_at": "2025-02-13T19:39:33Z"
             }
         ],
-        "readme": "# nf-iridanext plugin\n\nThis project contains a plugin for integrating Nextflow pipelines with [IRIDA Next][irida-next]. In particular, it will enable a pipeline to produce output consistent with the IRIDA Next [pipeline standards][].\n\n# Getting started\n\n## Scenario 1: Minimal configuration\n\nThe following is the minimal configuration needed for this plugin.\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n    }\n}\n```\n\nWhen run with a pipeline (e.g., the [IRIDA Next Example pipeline][iridanextexample]), the configuration will produce the following JSON output in a file `${params.outdir}/iridanext.output.json.gz`.\n\n_Note: `${params.outdir}` is optional and is used in the case where the file should be written to the output directory specified by `--outdir`._\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {}\n  }\n}\n```\n\nThis file conforms to the standards as defined in the [IRIDA Next Pipeline Standards][iridanext-pipeline-standards] document.\n\n## Scenario 2: Including files\n\nTo include files to be saved within IRIDA Next, you can define path match expressions under the `iridanext.output.files` section. The **global** section is used for global output files for the pipeline while the **samples** is used for output files associated with particular samples (matching to sample identifiers is automatically performed).\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        files {\n            global = [\"**/summary/summary.txt.gz\"]\n            samples = [\"**/assembly/*.assembly.fa.gz\"]\n        }\n    }\n}\n```\n\nThis configuration will produce the following example JSON output:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [{ \"path\": \"summary/summary.txt.gz\" }],\n    \"samples\": {\n      \"SAMPLE1\": [{ \"path\": \"assembly/SAMPLE1.assembly.fa.gz\" }],\n      \"SAMPLE3\": [{ \"path\": \"assembly/SAMPLE3.assembly.fa.gz\" }],\n      \"SAMPLE2\": [{ \"path\": \"assembly/SAMPLE2.assembly.fa.gz\" }]\n    }\n  },\n  \"metadata\": {\n    \"samples\": {}\n  }\n}\n```\n\nFiles are matched to samples using the `meta.id` map used by [nf-core formatted modules][nf-core-meta-map]. The matching key (`id` in `meta.id`) can be overridden by setting:\n\n```conf\niridanext.output.files.idkey = \"newkey\"\n```\n\n## Scenario 3: Including metadata\n\nMetadata associated with samples can be included by filling in the the `iridanext.output.metadata.samples` section, like below:\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\nThis will parse a CSV file for metadata. The `csv.path` keyword specifies the file to parse. The `csv.idcol` defines the column that should match to the sample identifiers.\n\nIf there exists an example CSV file like the following:\n\n**output.csv**\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 | 2 | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\nThen running the pipeline will produce an output like the following:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b\": \"2\", \"c\": \"3\" },\n      \"SAMPLE2\": { \"b\": \"4\", \"c\": \"5\" },\n      \"SAMPLE3\": { \"b\": \"6\", \"c\": \"7\" }\n    }\n  }\n}\n```\n\nThe CSV parser will only include metadata in the final output JSON for sample identifiers in the CSV file (defined in the column specified by `csv.idcol`) that match to sample identifiers in the pipeline [meta map][nf-core-meta-map] (the key in the meta map defined using `iridanext.output.files.idkey`).\n\n### JSON metadata\n\nIf, instead of parsing a CSV file, you wish to parse metadata from a JSON file, then you can replace the `csv {}` configuration section above with:\n\n```conf\njson {\n    path = \"**/output.json\"\n}\n```\n\nFor example, a JSON file like the following:\n\n**output.json**\n\n```json\n{\n  \"SAMPLE1\": {\n    \"key1\": \"value1\",\n    \"key2\": [\"a\", \"b\"]\n  },\n  \"SAMPLE2\": {\n    \"key1\": \"value2\"\n  }\n}\n```\n\nWould result in the following output:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"key1\": \"value1\" },\n      \"SAMPLE2\": { \"key2\": [\"a\", \"b\"] }\n    }\n  }\n}\n```\n\n### Flatten metadata\n\nSetting the configuration value `iridanext.output.metadata.samples.flatten = true` will flatten the metadata JSON to a single level of key/value pairs (using dot `.` notation for keys).\n\nThe two scenarios show the difference between `flatten = false` (default) and `flatten = true`.\n\n#### flatten = false\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": {\n        \"key1\": {\n          \"subkey1\": \"value1\",\n          \"subkey2\": \"value2\"\n        }\n      },\n      \"SAMPLE2\": {\n        \"key2\": [\"a\", \"b\"]\n      }\n    }\n  }\n}\n```\n\n#### flatten = true\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": {\n        \"key1.subkey1\": \"value1\",\n        \"key1.subkey2\": \"value2\"\n      },\n      \"SAMPLE2\": {\n        \"key2.1\": \"a\",\n        \"key2.2\": \"b\"\n      }\n    }\n  }\n}\n```\n\n### Adjust saved metadata\n\nThe `iridanext.output.metadata.samples.{ignore,keep,rename}` configuration options can be used to adjust what is stored within the metadata JSON structure.\n\n_Note: If `flatten=true` is enabled, then the metadata key names here refer to the flattened names._\n\n#### ignore\n\nSetting `iridanext.output.metadata.samples.ignore = [\"b\"]` in the config (like below) will cause the metadata with the key _b_ to be ignored in the final IRIDA Next output JSON file.\n\nFor example, in the config below:\n\n**nextflow.config**\n\n```config\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                ignore = [\"b\"]\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\nIf this used to load the below CSV file.\n\n**output.csv**\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 | 2 | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\nThen an output like below is produced (that is, the _b_ column is ignored).\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"c\": \"3\" },\n      \"SAMPLE2\": { \"c\": \"5\" },\n      \"SAMPLE3\": { \"c\": \"7\" }\n    }\n  }\n}\n```\n\n#### keep\n\nSetting `iridanext.output.metadata.samples.keep = [\"b\"]` is similar to the ignore case, except the listed columns will be kept.\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b\": \"2\" },\n      \"SAMPLE2\": { \"b\": \"4\" },\n      \"SAMPLE3\": { \"b\": \"6\" }\n    }\n  }\n}\n```\n\n#### rename\n\nSetting `iridanext.output.metadata.samples.rename` will rename the listed keys to new key names (specified as a Map). For example:\n\n**nextflow.config**\n\n```config\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                rename = [\"b\": \"b_col\"]\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b_col\": \"2\", \"c\": \"3\" },\n      \"SAMPLE2\": { \"b_col\": \"4\", \"c\": \"5\" },\n      \"SAMPLE3\": { \"b_col\": \"6\", \"c\": \"7\" }\n    }\n  }\n}\n```\n\n### Missing values in metadata\n\nThere are two different scenarios where metadata key/value pairs could be missing for a sample, which result in different behaviours in IRIDA Next.\n\n1. **Ignore key**: If the `key` is left out of the samples metadata in the IRIDA Next JSON, then nothing is written for that `key` for the sample. Any existing metadata under that `key` will remain in IRIDA Next.\n\n2. **Delete key**: If a metadata value is an empty string (`\"key\": \"\"`) or null (`\"key\": null`), then IRIDA Next will remove that particular metadata key/value pair from the sample metadata if it exists. This is the expected scenario if pipeline results contain missing (or N/A) values (deleting older metadata keys prevents mixing up old and new pipeline analysis results in the metadata table).\n\nThe following are the expectations for writing missing values in the final IRIDA Next JSON file (in order to delete the key/value pairs in IRIDA Next).\n\n#### Encoding missing metadata values using JSON\n\nIf the metadata key `b` for **SAMPLE1** is encoded as an empty string `\"\"` or `null` in the JSON file like the below example:\n\n**output.json**\n```json\n{\n  \"SAMPLE1\": {\n    \"a\": \"value1\",\n    \"b\": \"\"\n  }\n}\n```\n\nThen the final IRIDA Next JSON file will preserve the empty string/null value in the samples metadata section:\n\n**iridanext.output.json.gz**\n```json\n\"metadata\": {\n  \"samples\": {\n    \"SAMPLE1\": { \"a\": \"value1\", \"b\": \"\" }\n  }\n}\n```\n\n#### Encoding missing metadata values using CSV\n\nIf the metadata key `b` for **SAMPLE1** is left empty in the CSV file like the below two examples:\n\n**output.csv** as table\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 |  | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\n**output.csv** as CSV\n```\ncolumn1,b,c\nSAMPLE1,,3\nSAMPLE2,4,5\nSample3,6,7\n```\n\nThen the value for `b` for **SAMPLE1** will be written as an empty string in the IRIDA Next JSON file:\n\n**iridanext.output.json.gz**\n```json\n\"metadata\": {\n  \"samples\": {\n    \"SAMPLE1\": { \"b\": \"\", \"c\": \"3\" },\n    \"SAMPLE2\": { \"b\": \"4\", \"c\": \"5\" },\n    \"SAMPLE3\": { \"b\": \"6\", \"c\": \"7\" }\n  }\n}\n```\n\n# Development\n\nIn order to build this plugin you will need a Java Development Kit (such as [OpenJDK](https://openjdk.org/)) and [Groovy](https://groovy-lang.org/index.html). For Ubuntu, this can be installed with:\n\n```bash\nsudo apt install default-jdk groovy\n```\n\n## Build and install from source\n\nIn order to build and install the plugin from source, please do the following:\n\n### 1. Build\n\n```bash\ngit clone https://github.com/phac-nml/nf-iridanext.git\ncd nf-iridanext\nmake buildPlugins\n```\n\nPlease see the [Nextflow plugins documentation][nextflow-develop-plugins] and the [nf-hello][] example plugin for more details.\n\n### 2. Install\n\n```bash\ncp -r build/plugins/nf-iridanext-0.2.0 ~/.nextflow/plugins\n```\n\nThis copies the compiled plugin files into the Nextflow plugin cache (default `~/.nextflow/plugins`). Please change the version `0.2.0` to the version of the plugin built from source.\n\n### 3. Use\n\nIn order to use the built plugin, you have to specify the exact version in the Nextflow configuration so that Nextflow does not try to update the plugin. That is, in the configuration use:\n\n```conf\nplugins {\n    id 'nf-iridanext@0.2.0'\n}\n```\n\n## Run unit/integration tests\n\nIn order to run the test cases, please clone this repository and run the following command:\n\n```bash\n./gradlew check\n```\n\nTo get more information for any failed tests, please run:\n\n```bash\n./gradlew check --info\n```\n\n# Example: nf-core/fetchngs\n\nOne use case of this plugin is to structure reads and metadata downloaded from NCBI/ENA for storage in IRIDA Next by making use of the [nf-core/fetchngs][nf-core/fetchngs] pipeline. The example configuration [fetchngs.conf][] can be used for this purpose. To test, please run the following (using [ids.csv][fetchngs-ids.csv] as example data accessions):\n\n```bash\n# Download config and SRA accessions\nwget https://raw.githubusercontent.com/phac-nml/nf-iridanext/main/docs/examples/fetchngs/fetchngs.conf\nwget https://raw.githubusercontent.com/phac-nml/nf-iridanext/main/docs/examples/fetchngs/ids.csv\n\nnextflow run nf-core/fetchngs -profile singularity --outdir results --input ids.csv -c fetchngs.conf\n```\n\nThis will produce the following output: [iridanext.output.json][fetchngs-out].\n\n# Credits\n\nThis plugin was developed based on the `nf-hello` Nextflow plugin template <https://github.com/nextflow-io/nf-hello>. Other sources of information for development include the [nf-prov][] and [nf-validation][] Nextflow plugins, as well as the [Nextflow documentation][nextflow-docs].\n\n# Legal\n\nCopyright 2023 Government of Canada\n\nOriginal nf-hello project Copyright to respective authors\n\nLicensed under the Apache License, Version 2.0 (the \"License\"); you may not use\nthis work except in compliance with the License. You may obtain a copy of the\nLicense at:\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed\nunder the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR\nCONDITIONS OF ANY KIND, either express or implied. See the License for the\nspecific language governing permissions and limitations under the License.\n\n[irida-next]: https://github.com/phac-nml/irida-next\n[pipeline standards]: https://github.com/phac-nml/pipeline-standards\n[nf-prov]: https://github.com/nextflow-io/nf-prov\n[nf-validation]: https://github.com/nextflow-io/nf-validation\n[nextflow-docs]: https://www.nextflow.io/docs/latest/index.html\n[iridanext-pipeline-standards]: https://github.com/phac-nml/pipeline-standards?tab=readme-ov-file#4-output\n[iridanextexample]: https://github.com/phac-nml/iridanextexample\n[nf-core-meta-map]: https://nf-co.re/docs/contributing/modules#what-is-the-meta-map\n[nf-core/fetchngs]: https://nf-co.re/fetchngs\n[fetchngs.conf]: docs/examples/fetchngs/fetchngs.conf\n[fetchngs-ids.csv]: docs/examples/fetchngs/ids.csv\n[fetchngs-out]: docs/examples/fetchngs/iridanext.output.json\n[nextflow-develop-plugins]: https://www.nextflow.io/docs/latest/developer/plugins.html\n[nf-hello]: https://github.com/nextflow-io/nf-hello\n"
+        "readme": "# nf-iridanext plugin\n\nThis project contains a plugin for integrating Nextflow pipelines with [IRIDA Next][irida-next]. In particular, it will enable a pipeline to produce output consistent with the IRIDA Next [pipeline standards][].\n\n# Getting started\n\n## Scenario 1: Minimal configuration\n\nThe following is the minimal configuration needed for this plugin.\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n    }\n}\n```\n\nWhen run with a pipeline (e.g., the [IRIDA Next Example pipeline][iridanextexample]), the configuration will produce the following JSON output in a file `${params.outdir}/iridanext.output.json.gz`.\n\n_Note: `${params.outdir}` is optional and is used in the case where the file should be written to the output directory specified by `--outdir`._\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {}\n  }\n}\n```\n\nThis file conforms to the standards as defined in the [IRIDA Next Pipeline Standards][iridanext-pipeline-standards] document.\n\n## Scenario 2: Including files\n\nTo include files to be saved within IRIDA Next, you can define path match expressions under the `iridanext.output.files` section. The **global** section is used for global output files for the pipeline while the **samples** is used for output files associated with particular samples (matching to sample identifiers is automatically performed).\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        files {\n            global = [\"**/summary/summary.txt.gz\"]\n            samples = [\"**/assembly/*.assembly.fa.gz\"]\n        }\n    }\n}\n```\n\nThis configuration will produce the following example JSON output:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [{ \"path\": \"summary/summary.txt.gz\" }],\n    \"samples\": {\n      \"SAMPLE1\": [{ \"path\": \"assembly/SAMPLE1.assembly.fa.gz\" }],\n      \"SAMPLE3\": [{ \"path\": \"assembly/SAMPLE3.assembly.fa.gz\" }],\n      \"SAMPLE2\": [{ \"path\": \"assembly/SAMPLE2.assembly.fa.gz\" }]\n    }\n  },\n  \"metadata\": {\n    \"samples\": {}\n  }\n}\n```\n\nFiles are matched to samples using the `meta.id` map used by [nf-core formatted modules][nf-core-meta-map]. The matching key (`id` in `meta.id`) can be overridden by setting:\n\n```conf\niridanext.output.files.idkey = \"newkey\"\n```\n\n## Scenario 3: Including metadata\n\nMetadata associated with samples can be included by filling in the the `iridanext.output.metadata.samples` section, like below:\n\n**nextflow.config**\n\n```conf\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\nThis will parse a CSV file for metadata. The `csv.path` keyword specifies the file to parse. The `csv.idcol` defines the column that should match to the sample identifiers.\n\nIf there exists an example CSV file like the following:\n\n**output.csv**\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 | 2 | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\nThen running the pipeline will produce an output like the following:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b\": \"2\", \"c\": \"3\" },\n      \"SAMPLE2\": { \"b\": \"4\", \"c\": \"5\" },\n      \"SAMPLE3\": { \"b\": \"6\", \"c\": \"7\" }\n    }\n  }\n}\n```\n\nThe CSV parser will only include metadata in the final output JSON for sample identifiers in the CSV file (defined in the column specified by `csv.idcol`) that match to sample identifiers in the pipeline [meta map][nf-core-meta-map] (the key in the meta map defined using `iridanext.output.files.idkey`).\n\n### JSON metadata\n\nIf, instead of parsing a CSV file, you wish to parse metadata from a JSON file, then you can replace the `csv {}` configuration section above with:\n\n```conf\njson {\n    path = \"**/output.json\"\n}\n```\n\nFor example, a JSON file like the following:\n\n**output.json**\n\n```json\n{\n  \"SAMPLE1\": {\n    \"key1\": \"value1\",\n    \"key2\": [\"a\", \"b\"]\n  },\n  \"SAMPLE2\": {\n    \"key1\": \"value2\"\n  }\n}\n```\n\nWould result in the following output:\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"key1\": \"value1\" },\n      \"SAMPLE2\": { \"key2\": [\"a\", \"b\"] }\n    }\n  }\n}\n```\n\n### Flatten metadata\n\nSetting the configuration value `iridanext.output.metadata.samples.flatten = true` will flatten the metadata JSON to a single level of key/value pairs (using dot `.` notation for keys).\n\nThe two scenarios show the difference between `flatten = false` (default) and `flatten = true`.\n\n#### flatten = false\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": {\n        \"key1\": {\n          \"subkey1\": \"value1\",\n          \"subkey2\": \"value2\"\n        }\n      },\n      \"SAMPLE2\": {\n        \"key2\": [\"a\", \"b\"]\n      }\n    }\n  }\n}\n```\n\n#### flatten = true\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": {\n        \"key1.subkey1\": \"value1\",\n        \"key1.subkey2\": \"value2\"\n      },\n      \"SAMPLE2\": {\n        \"key2.1\": \"a\",\n        \"key2.2\": \"b\"\n      }\n    }\n  }\n}\n```\n\n### Adjust saved metadata\n\nThe `iridanext.output.metadata.samples.{ignore,keep,rename}` configuration options can be used to adjust what is stored within the metadata JSON structure.\n\n_Note: If `flatten=true` is enabled, then the metadata key names here refer to the flattened names._\n\n#### ignore\n\nSetting `iridanext.output.metadata.samples.ignore = [\"b\"]` in the config (like below) will cause the metadata with the key _b_ to be ignored in the final IRIDA Next output JSON file.\n\nFor example, in the config below:\n\n**nextflow.config**\n\n```config\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                ignore = [\"b\"]\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\nIf this used to load the below CSV file.\n\n**output.csv**\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 | 2 | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\nThen an output like below is produced (that is, the _b_ column is ignored).\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"c\": \"3\" },\n      \"SAMPLE2\": { \"c\": \"5\" },\n      \"SAMPLE3\": { \"c\": \"7\" }\n    }\n  }\n}\n```\n\n#### keep\n\nSetting `iridanext.output.metadata.samples.keep = [\"b\"]` is similar to the ignore case, except the listed columns will be kept.\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b\": \"2\" },\n      \"SAMPLE2\": { \"b\": \"4\" },\n      \"SAMPLE3\": { \"b\": \"6\" }\n    }\n  }\n}\n```\n\n#### rename\n\nSetting `iridanext.output.metadata.samples.rename` will rename the listed keys to new key names (specified as a Map). For example:\n\n**nextflow.config**\n\n```config\nplugins {\n    id 'nf-iridanext'\n}\n\niridanext {\n    enabled = true\n    output {\n        path = \"${params.outdir}/iridanext.output.json.gz\"\n        overwrite = true\n        metadata {\n            samples {\n                rename = [\"b\": \"b_col\"]\n                csv {\n                    path = \"**/output.csv\"\n                    idcol = \"column1\"\n                }\n            }\n        }\n    }\n}\n```\n\n**iridanext.output.json.gz**\n\n```json\n{\n  \"files\": {\n    \"global\": [],\n    \"samples\": {}\n  },\n  \"metadata\": {\n    \"samples\": {\n      \"SAMPLE1\": { \"b_col\": \"2\", \"c\": \"3\" },\n      \"SAMPLE2\": { \"b_col\": \"4\", \"c\": \"5\" },\n      \"SAMPLE3\": { \"b_col\": \"6\", \"c\": \"7\" }\n    }\n  }\n}\n```\n\n### Missing values in metadata\n\nThere are two different scenarios where metadata key/value pairs could be missing for a sample, which result in different behaviours in IRIDA Next.\n\n1. **Ignore key**: If the `key` is left out of the samples metadata in the IRIDA Next JSON, then nothing is written for that `key` for the sample. Any existing metadata under that `key` will remain in IRIDA Next.\n\n2. **Delete key**: If a metadata value is an empty string (`\"key\": \"\"`) or null (`\"key\": null`), then IRIDA Next will remove that particular metadata key/value pair from the sample metadata if it exists. This is the expected scenario if pipeline results contain missing (or N/A) values (deleting older metadata keys prevents mixing up old and new pipeline analysis results in the metadata table).\n\nThe following are the expectations for writing missing values in the final IRIDA Next JSON file (in order to delete the key/value pairs in IRIDA Next).\n\n#### Encoding missing metadata values using JSON\n\nIf the metadata key `b` for **SAMPLE1** is encoded as an empty string `\"\"` or `null` in the JSON file like the below example:\n\n**output.json**\n```json\n{\n  \"SAMPLE1\": {\n    \"a\": \"value1\",\n    \"b\": \"\"\n  }\n}\n```\n\nThen the final IRIDA Next JSON file will preserve the empty string/null value in the samples metadata section:\n\n**iridanext.output.json.gz**\n```json\n\"metadata\": {\n  \"samples\": {\n    \"SAMPLE1\": { \"a\": \"value1\", \"b\": \"\" }\n  }\n}\n```\n\n#### Encoding missing metadata values using CSV\n\nIf the metadata key `b` for **SAMPLE1** is left empty in the CSV file like the below two examples:\n\n**output.csv** as table\n| column1 | b | c |\n|--|--|--|\n| SAMPLE1 |  | 3 |\n| SAMPLE2 | 4 | 5 |\n| SAMPLE3 | 6 | 7 |\n\n**output.csv** as CSV\n```\ncolumn1,b,c\nSAMPLE1,,3\nSAMPLE2,4,5\nSample3,6,7\n```\n\nThen the value for `b` for **SAMPLE1** will be written as an empty string in the IRIDA Next JSON file:\n\n**iridanext.output.json.gz**\n```json\n\"metadata\": {\n  \"samples\": {\n    \"SAMPLE1\": { \"b\": \"\", \"c\": \"3\" },\n    \"SAMPLE2\": { \"b\": \"4\", \"c\": \"5\" },\n    \"SAMPLE3\": { \"b\": \"6\", \"c\": \"7\" }\n  }\n}\n```\n\n### Manually loading sample IDs\n\nThe default behaviour of the plugin is to automatically observe completed tasks and identify the sample ID of the `meta` object associated with it. This sample ID is recorded and used when producing the metadata section in the `iridanext.output.json.gz` output.\n\nThis process will fail to load any sample IDs that were not submitted to a task individually. For example, if a sample is submitted to an assembly task in the following way, then it will be included as a valid sample ID for the whole workflow:\n\nWorkflow:\n```\n// input: tuple(meta, [ file(fastq_1), file(fastq_2) ])\nASSEMBLY (input)\n```\n\nProcess:\n```\nprocess ASSEMBLY {\n    input:\n    tuple val(meta), path(reads)\n    (...)\n}\n```\n\nHowever, if samples are only ever submitted to a process in a way similar to as follows, then these sample IDs will not be automatically detected:\n\nWorkflow:\n```\n// input: tuple(meta, [ file(fastq_1), file(fastq_2) ])\n\nmetadata = input.map {\n    meta, reads ->\n    tuple(meta.id, meta.metadata_1, meta.metadata_2)}\n\nREPORT(metadata.toList())\n```\n\nProcess:\n```\nprocess REPORT {\n    input:\n    val metadata\n    (...)\n}\n```\n\nIn this situation, the solution is to use the provided `loadIridaSampleIds()` method in the workflow as follows:\n\n```\n// input: tuple(meta, [ file(fastq_1), file(fastq_2) ])\nloaded_input = input.loadIridaSampleIds()\n```\n\nOr when using the `nf-validation` plugin, in a manner similar to the following:\n\n```\ninput = Channel.fromSamplesheet(\"input\")\n               .loadIridaSampleIds()\n```\n\nHowever, be careful not to use the function in a way that would create a race condition, as the sample IDs may not be loaded correctly:\n\n```\ninput = Channel.fromSamplesheet(\"input\")\ninput = input.map { ... } // some input transformation\ninput.loadIridaSampleIds()\n```\n\nSince Nextflow tries to parallelize as much as possible, this will cause `input = input.map { ... }` and `input.loadIridaSampleIds()` to be run simultaneously, which will create a race condition and possibly undesirable behaviour.\n\n# Development\n\nIn order to build this plugin you will need a Java Development Kit (such as [OpenJDK](https://openjdk.org/)) and [Groovy](https://groovy-lang.org/index.html). For Ubuntu, this can be installed with:\n\n```bash\nsudo apt install default-jdk groovy\n```\n\n## Build and install from source\n\nIn order to build and install the plugin from source, please do the following:\n\n### 1. Build\n\n```bash\ngit clone https://github.com/phac-nml/nf-iridanext.git\ncd nf-iridanext\nmake buildPlugins\n```\n\nPlease see the [Nextflow plugins documentation][nextflow-develop-plugins] and the [nf-hello][] example plugin for more details.\n\n### 2. Install\n\n```bash\ncp -r build/plugins/nf-iridanext-0.3.0 ~/.nextflow/plugins\n```\n\nThis copies the compiled plugin files into the Nextflow plugin cache (default `~/.nextflow/plugins`). Please change the version `0.3.0` to the version of the plugin built from source.\n\n### 3. Use\n\nIn order to use the built plugin, you have to specify the exact version in the Nextflow configuration so that Nextflow does not try to update the plugin. That is, in the configuration use:\n\n```conf\nplugins {\n    id 'nf-iridanext@0.3.0'\n}\n```\n\n## Run unit/integration tests\n\nIn order to run the test cases, please clone this repository and run the following command:\n\n```bash\n./gradlew check\n```\n\nTo get more information for any failed tests, please run:\n\n```bash\n./gradlew check --info\n```\n\n# Example: nf-core/fetchngs\n\nOne use case of this plugin is to structure reads and metadata downloaded from NCBI/ENA for storage in IRIDA Next by making use of the [nf-core/fetchngs][nf-core/fetchngs] pipeline. The example configuration [fetchngs.conf][] can be used for this purpose. To test, please run the following (using [ids.csv][fetchngs-ids.csv] as example data accessions):\n\n```bash\n# Download config and SRA accessions\nwget https://raw.githubusercontent.com/phac-nml/nf-iridanext/main/docs/examples/fetchngs/fetchngs.conf\nwget https://raw.githubusercontent.com/phac-nml/nf-iridanext/main/docs/examples/fetchngs/ids.csv\n\nnextflow run nf-core/fetchngs -profile singularity --outdir results --input ids.csv -c fetchngs.conf\n```\n\nThis will produce the following output: [iridanext.output.json][fetchngs-out].\n\n# Credits\n\nThis plugin was developed based on the `nf-hello` Nextflow plugin template <https://github.com/nextflow-io/nf-hello>. Other sources of information for development include the [nf-prov][] and [nf-validation][] Nextflow plugins, as well as the [Nextflow documentation][nextflow-docs].\n\n# Legal\n\nCopyright 2023 Government of Canada\n\nOriginal nf-hello project Copyright to respective authors\n\nLicensed under the Apache License, Version 2.0 (the \"License\"); you may not use\nthis work except in compliance with the License. You may obtain a copy of the\nLicense at:\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed\nunder the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR\nCONDITIONS OF ANY KIND, either express or implied. See the License for the\nspecific language governing permissions and limitations under the License.\n\n[irida-next]: https://github.com/phac-nml/irida-next\n[pipeline standards]: https://github.com/phac-nml/pipeline-standards\n[nf-prov]: https://github.com/nextflow-io/nf-prov\n[nf-validation]: https://github.com/nextflow-io/nf-validation\n[nextflow-docs]: https://www.nextflow.io/docs/latest/index.html\n[iridanext-pipeline-standards]: https://github.com/phac-nml/pipeline-standards?tab=readme-ov-file#4-output\n[iridanextexample]: https://github.com/phac-nml/iridanextexample\n[nf-core-meta-map]: https://nf-co.re/docs/contributing/modules#what-is-the-meta-map\n[nf-core/fetchngs]: https://nf-co.re/fetchngs\n[fetchngs.conf]: docs/examples/fetchngs/fetchngs.conf\n[fetchngs-ids.csv]: docs/examples/fetchngs/ids.csv\n[fetchngs-out]: docs/examples/fetchngs/iridanext.output.json\n[nextflow-develop-plugins]: https://www.nextflow.io/docs/latest/developer/plugins.html\n[nf-hello]: https://github.com/nextflow-io/nf-hello\n"
     },
     {
         "id": "nf-jarvice",
@@ -2077,14 +2105,14 @@
             },
             {
                 "name": "0.6.0",
-                "count": 140,
+                "count": 142,
                 "author": "oxedions",
                 "avatar": "https://avatars.githubusercontent.com/u/15154435?v=4",
                 "published_at": "2023-04-19T12:46:04Z"
             },
             {
                 "name": "0.7.0",
-                "count": 143,
+                "count": 145,
                 "author": "oxedions",
                 "avatar": "https://avatars.githubusercontent.com/u/15154435?v=4",
                 "published_at": "2023-05-09T17:27:27Z"
@@ -2112,14 +2140,14 @@
             },
             {
                 "name": "Version 0.1.0",
-                "count": 132,
+                "count": 135,
                 "author": "abhi18av",
                 "avatar": "https://avatars.githubusercontent.com/u/12799326?v=4",
                 "published_at": "2024-06-26T11:22:26Z"
             },
             {
                 "name": "0.1.1",
-                "count": 138,
+                "count": 140,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2024-07-02T17:45:10Z"
@@ -2147,7 +2175,7 @@
             },
             {
                 "name": "0.1.2",
-                "count": 133,
+                "count": 135,
                 "author": "abhi18av",
                 "avatar": "https://avatars.githubusercontent.com/u/12799326?v=4",
                 "published_at": "2024-07-29T09:15:12Z"
@@ -2175,7 +2203,7 @@
             },
             {
                 "name": "0.2.0",
-                "count": 138,
+                "count": 140,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2024-08-28T16:24:26Z"
@@ -2196,7 +2224,7 @@
             },
             {
                 "name": "0.3.0",
-                "count": 113,
+                "count": 115,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2024-09-20T12:00:03Z"
@@ -2217,7 +2245,7 @@
             },
             {
                 "name": "0.3.1",
-                "count": 46,
+                "count": 60,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2024-12-08T19:12:15Z"
@@ -2238,7 +2266,7 @@
         "releases": [
             {
                 "name": "Version 0.2.0",
-                "count": 47,
+                "count": 52,
                 "author": "jagedn",
                 "avatar": "https://avatars.githubusercontent.com/u/2102730?v=4",
                 "published_at": "2024-12-11T07:42:17Z"
@@ -2266,7 +2294,7 @@
             },
             {
                 "name": "Release v1.0.0",
-                "count": 1,
+                "count": 3,
                 "author": "github-actions[bot]",
                 "avatar": "https://avatars.githubusercontent.com/in/15368?v=4",
                 "published_at": "2025-01-28T11:09:11Z"
@@ -2280,62 +2308,69 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 503,
+                "count": 505,
                 "author": "BrunoGrandePhD",
                 "avatar": "https://avatars.githubusercontent.com/u/740725?v=4",
                 "published_at": "2022-12-19T22:05:11Z"
             },
             {
                 "name": "Version 1.1.0",
-                "count": 1682,
+                "count": 1689,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-09-28T13:27:47Z"
             },
             {
                 "name": "Version 1.2.0",
-                "count": 147,
+                "count": 149,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-10-27T17:40:06Z"
             },
             {
                 "name": "Version 1.2.1",
-                "count": 16479,
+                "count": 16482,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-10-27T19:32:54Z"
             },
             {
                 "name": "Version 1.2.2",
-                "count": 84086,
+                "count": 87435,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-03-27T20:36:32Z"
             },
             {
                 "name": "Version 1.2.3",
-                "count": 2843,
+                "count": 2850,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-07-03T16:32:45Z"
             },
             {
                 "name": "Version 1.2.4",
-                "count": 9515,
+                "count": 9787,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-08-01T15:20:35Z"
             },
             {
                 "name": "Version 1.3.0",
-                "count": 1279,
+                "count": 1343,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2024-11-05T18:18:39Z"
+            },
+            {
+                "name": "Version 1.4.0",
+                "count": 374,
+                "author": "bentsherman",
+                "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
+                "published_at": "2025-02-06T16:13:04Z"
             }
         ],
-        "readme": "# nf-prov\n\nNextflow plugin to render provenance reports for pipeline runs. Now supporting [BioCompute Object](https://biocomputeobject.org/)!\n\n## Getting Started\n\nThe `nf-prov` plugin requires Nextflow version `23.04.0` or later.\n\n*New in version 1.3.0: requires Nextflow 24.10.0 or later.*\n\nTo enable and configure `nf-prov`, include the following snippet to your Nextflow config and update as needed.\n\n```groovy\nplugins {\n  id 'nf-prov'\n}\n\nprov {\n  enabled = true\n  formats {\n    legacy {\n      file = 'manifest.json'\n      overwrite = true\n    }\n  }\n}\n```\n\nFinally, run your Nextflow pipeline. You do not need to modify your pipeline script in order to use the `nf-prov` plugin. The plugin will automatically generate a JSON file with provenance information.\n\n## Configuration\n\n*The `file`, `format`, and `overwrite` options have been deprecated since version 1.2.0. Use `formats` instead.*\n\nThe following options are available:\n\n`prov.enabled`\n\nCreate the provenance report (default: `true` if plugin is loaded).\n\n`prov.formats`\n\n*New in version 1.2.0*\n\nConfiguration scope for the desired output formats. The following formats are available:\n\n- `bco`: Render a [BioCompute Object](https://biocomputeobject.org/). Supports the `file` and `overwrite` options.\n\n  *New in version 1.3.0*: additional \"pass-through\" options are available for BCO fields that can't be inferred from the pipeline. See [BCO.md](./BCO.md) for more information.\n\n- `dag`: Render the task graph as a Mermaid diagram embedded in an HTML document. Supports the `file` and `overwrite` options.\n\n- `legacy`: Render the legacy format originally defined in this plugin (default). Supports the `file` and `overwrite` options.\n\nAny number of formats can be specified, for example:\n\n```groovy\nprov {\n  formats {\n    bco {\n      file = 'bco.json'\n      overwrite = true\n    }\n    legacy {\n      file = 'manifest.json'\n      overwrite = true\n    }\n  }\n}\n```\n\n`prov.patterns`\n\nList of file patterns to include in the provenance report, from the set of published files. By default, all published files are included.\n\n## Development\n\nRun the following commands to build and test the nf-prov Nextflow plugin. Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for additional instructions (_e.g._ for publishing the plugin).\n\n```bash\n# (Optional) Checkout relevant feature branch\n# git checkout <branch>\n\n# Create an empty folder for nf-prov and nextflow repos\ngit clone --depth 1 -b STABLE-23.10.x https://github.com/nextflow-io/nextflow ../nextflow\n\n# Prepare the nextflow repo\ncd ../nextflow && ./gradlew compile exportClasspath && cd -\n\n# Prepare the nf-prov repo\ngrep -v 'includeBuild' settings.gradle > settings.gradle.bkp\necho \"includeBuild('../nextflow')\" >> settings.gradle.bkp\nmv -f settings.gradle.bkp settings.gradle\n./gradlew assemble\n\n# Launch\n./launch.sh run test.nf -plugins nf-prov\n```\n\n## Package, Upload, and Publish\n\nThe project should hosted in a GitHub repository whose name should match the name of the plugin,\nthat is the name of the directory in the `plugins` folder e.g. `nf-prov` in this project.\n\nFollowing these step to package, upload and publish the plugin:\n\n1. Create a file named `gradle.properties` in the project root containing the following attributes\n   (this file should not be committed in the project repository):\n\n  * `github_organization`: the GitHub organisation the plugin project is hosted\n  * `github_username` The GitHub username granting access to the plugin project.\n  * `github_access_token`:  The GitHub access token required to upload and commit changes in the plugin repository.\n  * `github_commit_email`:  The email address associated with your GitHub account.\n\n2. Update the `Plugin-Version` field in the following file with the release version:\n\n    ```bash\n    plugins/nf-prov/src/resources/META-INF/MANIFEST.MF\n    ```\n\n3. Run the following command to package and upload the plugin in the GitHub project releases page:\n\n    ```bash\n    ./gradlew :plugins:nf-prov:upload\n    ```\n\n4. Create a pull request against the [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) \n  project to make the plugin public accessible to Nextflow app. \n\n"
+        "readme": "# nf-prov\n\nNextflow plugin to render provenance reports for pipeline runs. Now supporting [BioCompute Object](https://biocomputeobject.org/)!\n\n## Getting Started\n\nTo enable and configure `nf-prov`, include the following snippet to your Nextflow config and update as needed.\n\n```groovy\nplugins {\n  id 'nf-prov'\n}\n\nprov {\n  enabled = true\n  formats {\n    legacy {\n      file = 'manifest.json'\n      overwrite = true\n    }\n  }\n}\n```\n\nFinally, run your Nextflow pipeline. You do not need to modify your pipeline script in order to use the `nf-prov` plugin. The plugin will automatically produce the specified provenance reports at the end of the workflow run.\n\n## Configuration\n\n*The `file`, `format`, and `overwrite` options have been deprecated since version 1.2.0. Use `formats` instead.*\n\nThe following options are available:\n\n`prov.enabled`\n\nCreate the provenance report (default: `true` if plugin is loaded).\n\n`prov.formats`\n\nConfiguration scope for the desired output formats. The following formats are available:\n\n- `bco`: Render a [BioCompute Object](https://biocomputeobject.org/). Supports the `file` and `overwrite` options. See [BCO.md](docs/BCO.md) for more information about the additional config options for BCO.\n\n- `dag`: Render the task graph as a Mermaid diagram embedded in an HTML document. Supports the `file` and `overwrite` options.\n\n*Deprecated in version 1.4.0*\n\n- `legacy`: Render the legacy format originally defined in this plugin (default). Supports the `file` and `overwrite` options.\n\n*New in version 1.4.0*\n\n- `wrroc`: Render a [Workflow Run RO-Crate](https://www.researchobject.org/workflow-run-crate/). Includes all three profiles (Process, Workflow, and Provenance). See [WRROC.md](docs/WRROC.md) for more information about the additional config options for WRROC.\n\nAny number of formats can be specified, for example:\n\n```groovy\nprov {\n  formats {\n    bco {\n      file = 'bco.json'\n      overwrite = true\n    }\n    legacy {\n      file = 'manifest.json'\n      overwrite = true\n    }\n  }\n}\n```\n\nSee the [nf-prov-test](./nf-prov-test) directory for an example pipeline that produces every provenance format.\n\n`prov.patterns`\n\nList of file patterns to include in the provenance report, from the set of published files. By default, all published files are included.\n\n## Development\n\nRun the following commands to build and test the nf-prov Nextflow plugin. Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for additional instructions (_e.g._ for publishing the plugin).\n\n```bash\n# (Optional) Checkout relevant feature branch\n# git checkout <branch>\n\n# Create an empty folder for nf-prov and nextflow repos\ngit clone --depth 1 -b STABLE-23.10.x https://github.com/nextflow-io/nextflow ../nextflow\n\n# Prepare the nextflow repo\ncd ../nextflow && ./gradlew compile exportClasspath && cd -\n\n# Prepare the nf-prov repo\ngrep -v 'includeBuild' settings.gradle > settings.gradle.bkp\necho \"includeBuild('../nextflow')\" >> settings.gradle.bkp\nmv -f settings.gradle.bkp settings.gradle\n./gradlew assemble\n\n# Launch\n./launch.sh run nf-prov-test\n```\n\nAn alternative method to build and test the plugin for development purposes:\n\n```bash\n# build the plugin and install it to ${HOME}/.nextflow/plugins\n# overwrites any previous installation with the same version\nmake install\n\n# run with regular nextflow install\nnextflow run nf-prov-test -plugins nf-prov@<version>\n```\n\n## Package, Upload, and Publish\n\nThe project should hosted in a GitHub repository whose name should match the name of the plugin,\nthat is the name of the directory in the `plugins` folder e.g. `nf-prov` in this project.\n\nFollowing these step to package, upload and publish the plugin:\n\n1. Create a file named `gradle.properties` in the project root containing the following attributes\n   (this file should not be committed in the project repository):\n\n  * `github_organization`: the GitHub organisation the plugin project is hosted\n  * `github_username` The GitHub username granting access to the plugin project.\n  * `github_access_token`:  The GitHub access token required to upload and commit changes in the plugin repository.\n  * `github_commit_email`:  The email address associated with your GitHub account.\n\n2. Update the `Plugin-Version` field in the [manifest](./plugins/nf-prov/src/resources/META-INF/MANIFEST.MF) with the release version.\n\n3. Update the [changelog](./CHANGELOG.md).\n\n4. Build and publish the plugin to the GitHub repository:\n\n   ```bash\n   make upload\n   ```\n\n5. Create a pull request against the [nextflow-io/plugins](https://github.com/nextflow-io/plugins/blob/main/plugins.json) repository to make the plugin publicly accessible.\n"
     },
     {
         "id": "nf-quilt",
@@ -2364,56 +2399,56 @@
         "releases": [
             {
                 "name": "Version 2.0.0 - Kagoshima",
-                "count": 12663,
+                "count": 13048,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-04-22T11:19:38Z"
             },
             {
                 "name": "Version 2.0.1",
-                "count": 1106,
+                "count": 1172,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-07-04T09:26:11Z"
             },
             {
                 "name": "Version 2.1.0 - Tantanmen",
-                "count": 8272,
+                "count": 8425,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-08-20T12:37:31Z"
             },
             {
                 "name": "Version 2.1.1",
-                "count": 69121,
+                "count": 72392,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-09-19T09:03:46Z"
             },
             {
                 "name": "Version 2.1.2",
-                "count": 7201,
+                "count": 7363,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-10-18T09:53:06Z"
             },
             {
                 "name": "Version 2.2.0 - Kitakata",
-                "count": 7294,
+                "count": 7934,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-10-30T10:22:33Z"
             },
             {
                 "name": "Version 2.2.1",
-                "count": 2603,
+                "count": 2946,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2024-12-03T12:04:09Z"
             },
             {
                 "name": "Version 2.3.0 - Hakodate",
-                "count": 7591,
+                "count": 12302,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2025-01-13T15:33:34Z"
@@ -2427,7 +2462,7 @@
         "releases": [
             {
                 "name": "Version 0.6.0",
-                "count": 96,
+                "count": 103,
                 "author": "sfc-gh-hyu",
                 "avatar": "https://avatars.githubusercontent.com/u/65315747?v=4",
                 "published_at": "2024-10-13T18:07:43Z"
@@ -2441,7 +2476,7 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 408,
+                "count": 409,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-09-01T15:36:29Z"
@@ -2469,14 +2504,14 @@
             },
             {
                 "name": "Version 0.4.1",
-                "count": 705,
+                "count": 707,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-05-25T17:57:10Z"
             },
             {
                 "name": "Version 0.5.0",
-                "count": 1882,
+                "count": 1922,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-08-30T19:40:03Z"
@@ -2547,7 +2582,7 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 73,
+                "count": 74,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-01-04T16:49:29Z"
@@ -2568,7 +2603,7 @@
             },
             {
                 "name": "Version 1.1.0",
-                "count": 9426,
+                "count": 9427,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2021-03-24T09:24:45Z"
@@ -2596,7 +2631,7 @@
             },
             {
                 "name": "Version 1.4.0",
-                "count": 12074,
+                "count": 12245,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-02-07T11:17:54Z"
@@ -2638,14 +2673,14 @@
             },
             {
                 "name": "Version 1.5.5",
-                "count": 9028,
+                "count": 9037,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-10-03T14:41:50Z"
             },
             {
                 "name": "Version 1.5.6",
-                "count": 10452,
+                "count": 10454,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-11-13T19:10:14Z"
@@ -2680,7 +2715,7 @@
             },
             {
                 "name": "Version 1.5.11",
-                "count": 705,
+                "count": 706,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-01T21:34:28Z"
@@ -2694,14 +2729,14 @@
             },
             {
                 "name": "Version 1.5.7-patch0",
-                "count": 692,
+                "count": 697,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-13T15:14:42Z"
             },
             {
                 "name": "Version 1.5.12",
-                "count": 11932,
+                "count": 12075,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-15T06:34:42Z"
@@ -2736,7 +2771,7 @@
             },
             {
                 "name": "Version 1.6.1",
-                "count": 4470,
+                "count": 4483,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:33:01Z"
@@ -2750,21 +2785,21 @@
             },
             {
                 "name": "Version 1.6.3",
-                "count": 21288,
+                "count": 21578,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-10T10:05:46Z"
             },
             {
                 "name": "Version 1.7.0",
-                "count": 3869,
+                "count": 3876,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:36Z"
             },
             {
                 "name": "Version 1.8.0",
-                "count": 3529,
+                "count": 3537,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:31:27Z"
@@ -2778,21 +2813,21 @@
             },
             {
                 "name": "Version 1.9.0",
-                "count": 1393,
+                "count": 1394,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:39:32Z"
             },
             {
                 "name": "Version 1.9.1",
-                "count": 17385,
+                "count": 18019,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-13T09:49:36Z"
             },
             {
                 "name": "Version 1.6.3-patch1",
-                "count": 802,
+                "count": 820,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:11:44Z"
@@ -2806,17 +2841,24 @@
             },
             {
                 "name": "Version 1.9.3",
-                "count": 6363,
+                "count": 7391,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-27T20:20:45Z"
             },
             {
                 "name": "Version 1.9.4",
-                "count": 40,
+                "count": 44,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2025-01-20T16:15:31Z"
+            },
+            {
+                "name": "Version 1.10.0",
+                "count": 11,
+                "author": "pditommaso",
+                "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
+                "published_at": "2025-02-12T14:08:06Z"
             }
         ],
         "readme": "# nf-tower plugin\n\nNextflow plugin implementing the support for [Nextflow Tower](https://tower.nf/). \n\nThis repository only holds plugin artefacts. Source code is available at [this link](https://github.com/nextflow-io/nextflow/tree/master/plugins/nf-tower). \n"
@@ -2827,49 +2869,49 @@
         "releases": [
             {
                 "name": "Version 0.1.0",
-                "count": 1346,
+                "count": 1349,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-05-05T13:07:30Z"
             },
             {
                 "name": "Version 0.2.0",
-                "count": 236,
+                "count": 238,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-06-06T08:07:48Z"
             },
             {
                 "name": "Version 0.2.1",
-                "count": 11396,
+                "count": 11530,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-06-06T12:54:51Z"
             },
             {
                 "name": "Version 0.3.0",
-                "count": 655,
+                "count": 657,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-07-10T12:53:39Z"
             },
             {
                 "name": "Version 0.3.1",
-                "count": 17316,
+                "count": 17327,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-07-12T09:10:39Z"
             },
             {
                 "name": "Version 0.3.2",
-                "count": 10280,
+                "count": 10282,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-09-19T08:38:34Z"
             },
             {
                 "name": "Version 0.3.3",
-                "count": 1330,
+                "count": 1357,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-10-10T10:36:55Z"
@@ -2883,42 +2925,42 @@
             },
             {
                 "name": "Version 1.0.0 - Tonkotsu",
-                "count": 2865,
+                "count": 2867,
                 "author": "mirpedrol",
                 "avatar": "https://avatars.githubusercontent.com/u/8224255?v=4",
                 "published_at": "2023-10-12T09:03:58Z"
             },
             {
                 "name": "Version 1.1.0 - Miso",
-                "count": 1881,
+                "count": 1883,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-10-18T09:42:22Z"
             },
             {
                 "name": "Version 1.1.1 - Shoyu",
-                "count": 14014,
+                "count": 14022,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-10-23T11:36:49Z"
             },
             {
                 "name": "Version 1.1.2 - Wakayama",
-                "count": 3229,
+                "count": 3232,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-11-16T12:24:26Z"
             },
             {
                 "name": "Version 1.1.3 - Asahikawa",
-                "count": 332682,
+                "count": 341010,
                 "author": "nvnieuwk",
                 "avatar": "https://avatars.githubusercontent.com/u/101190534?v=4",
                 "published_at": "2023-11-21T10:34:50Z"
             },
             {
                 "name": "Version 1.1.4 - Kushiro",
-                "count": 35287,
+                "count": 37471,
                 "author": "adamrtalbot",
                 "avatar": "https://avatars.githubusercontent.com/u/12817534?v=4",
                 "published_at": "2024-08-07T15:51:09Z"
@@ -3016,7 +3058,7 @@
             },
             {
                 "name": "Version 0.5.2",
-                "count": 1916,
+                "count": 1920,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-10-11T16:38:20Z"
@@ -3100,7 +3142,7 @@
             },
             {
                 "name": "Version 0.5.5",
-                "count": 320,
+                "count": 426,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-04-13T14:36:17Z"
@@ -3149,14 +3191,14 @@
             },
             {
                 "name": "Version 0.8.4",
-                "count": 3766,
+                "count": 3769,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-11T18:26:35Z"
             },
             {
                 "name": "Version 0.11.2",
-                "count": 2519,
+                "count": 2532,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T15:33:25Z"
@@ -3184,35 +3226,35 @@
             },
             {
                 "name": "Version 1.0.0",
-                "count": 4979,
+                "count": 5018,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-10-15T15:15:33Z"
             },
             {
                 "name": "Version 1.1.0",
-                "count": 1668,
+                "count": 1675,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-11-24T21:40:42Z"
             },
             {
                 "name": "Version 1.2.0",
-                "count": 1809,
+                "count": 1822,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-12-20T11:10:40Z"
             },
             {
                 "name": "Version 1.0.1",
-                "count": 15467,
+                "count": 15697,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-01-12T23:25:55Z"
             },
             {
                 "name": "Version 1.3.0",
-                "count": 1152,
+                "count": 1153,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:32:16Z"
@@ -3226,7 +3268,7 @@
             },
             {
                 "name": "Version 1.4.0",
-                "count": 798,
+                "count": 810,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-04-15T09:39:39Z"
@@ -3240,21 +3282,21 @@
             },
             {
                 "name": "Version 1.4.2",
-                "count": 4475,
+                "count": 4577,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-20T09:06:12Z"
             },
             {
                 "name": "Version 1.0.1-patch1",
-                "count": 888,
+                "count": 909,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-28T14:11:50Z"
             },
             {
                 "name": "Version 1.4.3",
-                "count": 1494,
+                "count": 1529,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-06-17T20:47:09Z"
@@ -3268,7 +3310,7 @@
             },
             {
                 "name": "Version 1.4.2-patch1",
-                "count": 6780,
+                "count": 7125,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-08-01T08:45:23Z"
@@ -3289,7 +3331,7 @@
             },
             {
                 "name": "Version 1.6.0",
-                "count": 1356,
+                "count": 1435,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-02T13:37:49Z"
@@ -3310,38 +3352,45 @@
             },
             {
                 "name": "Version 1.7.2",
-                "count": 1635,
+                "count": 1751,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-10-27T20:20:56Z"
             },
             {
                 "name": "Version 1.7.3",
-                "count": 255,
+                "count": 258,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-18T14:12:51Z"
             },
             {
                 "name": "Version 1.7.4",
-                "count": 5101,
+                "count": 5858,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-11-27T21:37:15Z"
             },
             {
                 "name": "Version 1.8.0",
-                "count": 698,
+                "count": 847,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-12-03T10:38:36Z"
             },
             {
                 "name": "Version 1.9.0",
-                "count": 9,
+                "count": 12,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2025-01-20T16:15:38Z"
+            },
+            {
+                "name": "Version 1.10.0",
+                "count": 8,
+                "author": "pditommaso",
+                "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
+                "published_at": "2025-02-12T14:07:59Z"
             }
         ],
         "readme": "# Wave containers plugin for Nextflow \n\nNext generation container provisioning for cloud-native data analysis pieplines \n\n### Rationale\n\nContainers are an essential part of data analysis in the cloud. Building and delivering optimized, context-aware container images slows down development. Wave is a container provisioning service designed for use with data analysis applications such as Nextflow. It allows for the on-demand assembly, augmentation, and deployment of containerized images based on task requirements.\n\n\n### More links \n\n- [Wave containers website](https://seqera.io/wave/)\n- [Wave documentation](https://www.nextflow.io/docs/latest/wave.html)\n- [Wave usage examples](https://github.com/seqeralabs/wave-showcase)\n\n\nWave containers plugin code is hosted in the [Nextflow repository](https://github.com/nextflow-io/nextflow/tree/master/plugins/nf-wave)"
@@ -3352,28 +3401,28 @@
         "releases": [
             {
                 "name": "Version 1.0.0",
-                "count": 144,
+                "count": 146,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-08-17T10:44:14Z"
             },
             {
                 "name": "Version 1.1.0",
-                "count": 649,
+                "count": 651,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-08-29T13:12:49Z"
             },
             {
                 "name": "Version 1.1.1",
-                "count": 1507,
+                "count": 1509,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-11-08T23:08:17Z"
             },
             {
                 "name": "Version 1.1.2",
-                "count": 37899,
+                "count": 39340,
                 "author": "bentsherman",
                 "avatar": "https://avatars.githubusercontent.com/u/7884825?v=4",
                 "published_at": "2023-11-22T15:27:47Z"
@@ -3492,14 +3541,14 @@
             },
             {
                 "name": "Version 1.2.0",
-                "count": 29039,
+                "count": 29040,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2022-07-25T16:29:35Z"
             },
             {
                 "name": "Version 1.2.1",
-                "count": 2248,
+                "count": 2249,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2023-01-14T19:03:04Z"
@@ -3527,21 +3576,21 @@
             },
             {
                 "name": "Version 1.5.0",
-                "count": 264,
+                "count": 282,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:46:53Z"
             },
             {
                 "name": "Version 1.6.0",
-                "count": 4987,
+                "count": 5133,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-14T08:26:05Z"
             },
             {
                 "name": "Version 1.3.2",
-                "count": 33776,
+                "count": 35223,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-07-30T20:41:12Z"
@@ -3590,14 +3639,14 @@
             },
             {
                 "name": "Version 1.2.0",
-                "count": 194,
+                "count": 233,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-02-05T23:46:56Z"
             },
             {
                 "name": "Version 1.3.0",
-                "count": 119,
+                "count": 123,
                 "author": "pditommaso",
                 "avatar": "https://avatars.githubusercontent.com/u/816968?v=4",
                 "published_at": "2024-05-14T08:26:13Z"
@@ -3618,14 +3667,14 @@
             },
             {
                 "name": "1.0.0",
-                "count": 138,
+                "count": 140,
                 "author": "YellowDogMachine",
                 "avatar": "https://avatars.githubusercontent.com/u/33691422?v=4",
                 "published_at": "2024-02-08T14:36:11Z"
             },
             {
                 "name": "1.0.1",
-                "count": 155,
+                "count": 157,
                 "author": "YellowDogMachine",
                 "avatar": "https://avatars.githubusercontent.com/u/33691422?v=4",
                 "published_at": "2024-03-15T17:39:24Z"
