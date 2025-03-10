@@ -303,7 +303,7 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2023-08-17                                          | 146                                                | pditommaso                                         |
- |  1.1.0                                               | 2023-08-29                                          | 651                                                | bentsherman                                        |
- |  1.1.1                                               | 2023-11-08                                          | 1509                                               | bentsherman                                        |
- |  1.1.2                                               | 2023-11-22                                          | 39340                                              | bentsherman                                        |
+ |  1.0.0                                               | 2023-08-17                                          | 151                                                | pditommaso                                         |
+ |  1.1.0                                               | 2023-08-29                                          | 656                                                | bentsherman                                        |
+ |  1.1.1                                               | 2023-11-08                                          | 1529                                               | bentsherman                                        |
+ |  1.1.2                                               | 2023-11-22                                          | 42016                                              | bentsherman                                        |

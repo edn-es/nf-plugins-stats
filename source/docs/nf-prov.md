@@ -154,12 +154,12 @@ Following these step to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2022-12-19                                          | 505                                                | BrunoGrandePhD                                     |
- |  1.1.0                                               | 2023-09-28                                          | 1689                                               | bentsherman                                        |
- |  1.2.0                                               | 2023-10-27                                          | 149                                                | bentsherman                                        |
- |  1.2.1                                               | 2023-10-27                                          | 16482                                              | bentsherman                                        |
- |  1.2.2                                               | 2024-03-27                                          | 87435                                              | bentsherman                                        |
- |  1.2.3                                               | 2024-07-03                                          | 2850                                               | bentsherman                                        |
- |  1.2.4                                               | 2024-08-01                                          | 9787                                               | bentsherman                                        |
- |  1.3.0                                               | 2024-11-05                                          | 1343                                               | bentsherman                                        |
- |  1.4.0                                               | 2025-02-06                                          | 374                                                | bentsherman                                        |
+ |  1.0.0                                               | 2022-12-19                                          | 510                                                | BrunoGrandePhD                                     |
+ |  1.1.0                                               | 2023-09-28                                          | 1694                                               | bentsherman                                        |
+ |  1.2.0                                               | 2023-10-27                                          | 154                                                | bentsherman                                        |
+ |  1.2.1                                               | 2023-10-27                                          | 16490                                              | bentsherman                                        |
+ |  1.2.2                                               | 2024-03-27                                          | 93012                                              | bentsherman                                        |
+ |  1.2.3                                               | 2024-07-03                                          | 2865                                               | bentsherman                                        |
+ |  1.2.4                                               | 2024-08-01                                          | 10802                                              | bentsherman                                        |
+ |  1.3.0                                               | 2024-11-05                                          | 1411                                               | bentsherman                                        |
+ |  1.4.0                                               | 2025-02-06                                          | 1424                                               | bentsherman                                        |
