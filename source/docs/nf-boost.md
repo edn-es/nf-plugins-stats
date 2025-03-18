@@ -38,8 +38,6 @@ Currently includes the following features:
 
 - `template` function for rendering templates
 
-- `exec` operator for creating an inline native (i.e. `exec`) process
-
 - `scan` operator for, well, scan operations
 
 - `then` operator for defining custom operators in your pipeline
@@ -61,6 +59,8 @@ boost {
 The plugin requires Nextflow version `23.10.0` or later.
 
 *New in version `0.4.0`: requires Nextflow `24.04.0` or later.*
+
+*New in version `0.5.0`: requires Nextflow `24.10.0` or later.*
 
 If a release hasn't been published to the main registry yet, you can still use it by specifying the following environment variable so that Nextflow can find the plugin:
 
@@ -119,7 +119,7 @@ Specify how often to scan for cleanup (default: `'60s'`).
 
 Load a value from JSON.
 
-**`toJson( value, pretty = false ) -> String`**
+**`toJson( value, pretty: boolean = false ) -> String`**
 
 Convert a value to JSON.
 
@@ -131,27 +131,37 @@ Load a value from YAML.
 
 Convert a value to YAML.
 
-**`mergeCsv( records, path, [opts] )`**
+**`mergeCsv( records: List, path: Path, [opts] )`**
 
 Save a list of records (i.e. tuples or maps) to a CSV file.
 
 Available options:
 
-- `header`: When `true`, the keys of the first record are used as the column names (default: `false`). Can also be a list of column names.
+- `header: boolean | List<String>`
 
-- `sep`: The character used to separate values (default: `','`).
+  When `true`, the keys of the first record are used as the column names (default: `false`). Can also be a list of column names.
 
-**`mergeText( items, path, [opts] )`**
+- `sep: String`
+
+  The character used to separate values (default: `','`).
+
+**`mergeText( items: List<Path> | List<String>, path: Path, [opts] )`**
 
 Save a list of items (i.e. files or strings) to a text file.
 
 Available options:
 
-- `keepHeader`: Prepend the resulting file with the header of the first file (default: `false`). The number of header lines can be specified using the `skip` option, to determine how many lines to remove from each file.
+- `keepHeader: boolean`
 
-- `newLine`: Append a newline character after each entry (default: `false`).
+  Prepend the resulting file with the header of the first file (default: `false`). The number of header lines can be specified using the `skip` option, to determine how many lines to remove from each file.
 
-- `skip`: The number of lines to skip at the beginning of each entry (default: `1` when `keepHeader` is true, `0` otherwise).
+- `newLine: boolean`
+
+  Append a newline character after each entry (default: `false`).
+
+- `skip: int`
+
+  The number of lines to skip at the beginning of each entry (default: `1` when `keepHeader` is true, `0` otherwise).
 
 **`request( url: String, [opts] )`**
 
@@ -179,15 +189,7 @@ Render a template with the given binding.
 
 **`exec( name, body )`**
 
-The `exec` operator creates and invokes an inline native (i.e. `exec`) process with the given name, as well as a closure which corresponds to the `exec:` section of a native process.
-
-The inline process can be configured from the config file like any other process, including the use of process selectors (i.e. `withName`).
-
-Limitations:
-
-- Inline process directives are not supported yet.
-
-- The inline exec body should accept a single value and return a single value. Multiple inputs/outputs are not supported yet.
+The `exec` operator was removed in version 0.5.0. Use an `exec` process instead.
 
 **`scan( [seed], accumulator )`**
 
@@ -221,18 +223,27 @@ Available options:
 
 ## Development
 
-The easiest way to build and test nf-boost locally is to run `make install`. This will build the plugin and install it to your Nextflow plugins directory (e.g. `~/.nextflow/plugins`), using the version defined in `MANIFEST.MF`. Finally, specify the plugin in your Nextflow config with this exact version. You can then use it locally like a regular plugin.
+Build and install the plugin to your local environment:
 
-Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for more information about building and publishing Nextflow plugins.
+```bash
+make install
+```
+
+Run with Nextflow as usual:
+
+```bash
+nextflow run hello -plugins nf-boost@<version>
+```
 
 
 ## Releases
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2024-03-24                                          | 133                                                | bentsherman                                        |
- |  0.2.0                                               | 2024-03-26                                          | 136                                                | bentsherman                                        |
- |  0.3.0                                               | 2024-04-09                                          | 136                                                | bentsherman                                        |
- |  0.3.1                                               | 2024-04-14                                          | 165                                                | bentsherman                                        |
- |  0.3.2                                               | 2024-04-19                                          | 927                                                | bentsherman                                        |
- |  0.4.0                                               | 2024-10-08                                          | 3784                                               | bentsherman                                        |
+ |  0.1.0                                               | 2024-03-24                                          | 138                                                | bentsherman                                        |
+ |  0.2.0                                               | 2024-03-26                                          | 140                                                | bentsherman                                        |
+ |  0.3.0                                               | 2024-04-09                                          | 140                                                | bentsherman                                        |
+ |  0.3.1                                               | 2024-04-14                                          | 169                                                | bentsherman                                        |
+ |  0.3.2                                               | 2024-04-19                                          | 933                                                | bentsherman                                        |
+ |  0.4.0                                               | 2024-10-08                                          | 3806                                               | bentsherman                                        |
+ |  0.5.0                                               | 2025-03-13                                          | 57                                                 | bentsherman                                        |

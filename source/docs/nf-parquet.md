@@ -63,4 +63,4 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for inst
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.2.0                                               | 2024-12-11                                          | 58                                                 | jagedn                                             |
+ |  0.2.0                                               | 2024-12-11                                          | 63                                                 | jagedn                                             |

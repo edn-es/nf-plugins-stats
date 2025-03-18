@@ -4,37 +4,37 @@
 
         {
             date: `2023-05-05`,
-            count: 1354,
+            count: 1358,
             y: '0.1.0' },
 
         {
             date: `2023-06-06`,
-            count: 243,
+            count: 247,
             y: '0.2.0' },
 
         {
             date: `2023-06-06`,
-            count: 12080,
+            count: 12245,
             y: '0.2.1' },
 
         {
             date: `2023-07-10`,
-            count: 662,
+            count: 666,
             y: '0.3.0' },
 
         {
             date: `2023-07-12`,
-            count: 17371,
+            count: 17378,
             y: '0.3.1' },
 
         {
             date: `2023-09-19`,
-            count: 10288,
+            count: 10293,
             y: '0.3.2' },
 
         {
             date: `2023-10-10`,
-            count: 1387,
+            count: 1391,
             y: '0.3.3' },
 
         {
@@ -44,32 +44,32 @@
 
         {
             date: `2023-10-12`,
-            count: 2874,
+            count: 2878,
             y: 'Tonkotsu' },
 
         {
             date: `2023-10-18`,
-            count: 1890,
+            count: 1895,
             y: 'Miso' },
 
         {
             date: `2023-10-23`,
-            count: 14028,
+            count: 14032,
             y: 'Shoyu' },
 
         {
             date: `2023-11-16`,
-            count: 3240,
+            count: 3244,
             y: 'Wakayama' },
 
         {
             date: `2023-11-21`,
-            count: 348193,
+            count: 350101,
             y: 'Asahikawa' },
 
         {
             date: `2024-08-07`,
-            count: 41706,
+            count: 43428,
             y: 'Kushiro' },
 
     ];
