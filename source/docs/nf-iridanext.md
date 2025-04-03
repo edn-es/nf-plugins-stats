@@ -644,6 +644,6 @@ specific language governing permissions and limitations under the License.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2023-12-15                                          | 238                                                | apetkau                                            |
- |  0.2.0                                               | 2024-01-22                                          | 7048                                               | apetkau                                            |
- |  0.3.0                                               | 2025-02-17                                          | 248                                                | emarinier                                          |
+ |  0.1.0                                               | 2023-12-15                                          | 252                                                | apetkau                                            |
+ |  0.2.0                                               | 2024-01-22                                          | 7435                                               | apetkau                                            |
+ |  0.3.0                                               | 2025-02-17                                          | 351                                                | emarinier                                          |

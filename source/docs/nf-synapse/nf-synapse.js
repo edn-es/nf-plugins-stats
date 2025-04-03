@@ -2,6 +2,11 @@
 (async function() {
     const data = [
 
+        {
+            date: `2025-04-03`,
+            count: 0,
+            y: '0.1.0' },
+
     ];
 
     new Chart(

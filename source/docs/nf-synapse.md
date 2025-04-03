@@ -200,3 +200,4 @@ At present, it is not possible for `NF_SYNINDEX` to be run outside of Nextflow T
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
+ |  0.1.0                                               | 2025-04-03                                          | 0                                                  | BWMac                                              |

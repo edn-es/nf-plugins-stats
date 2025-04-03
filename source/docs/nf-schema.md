@@ -39,7 +39,7 @@ Declare the plugin in your Nextflow pipeline configuration file:
 
 ```groovy title="nextflow.config"
 plugins {
-  id 'nf-schema@2.2.0'
+  id 'nf-schema@2.4.0'
 }
 ```
 
@@ -79,7 +79,7 @@ validation {
 
 - Java 11 or later
 - <https://github.com/harrel56/json-schema>
-- Nextflow 23.10.0 or later
+- Nextflow 24.10.0 or later
 
 ## Slack channel
 
@@ -103,11 +103,12 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  Kagoshima                                           | 2024-04-22                                          | 13629                                              | nvnieuwk                                           |
- |  2.0.1                                               | 2024-07-04                                          | 1239                                               | nvnieuwk                                           |
- |  Tantanmen                                           | 2024-08-20                                          | 9732                                               | nvnieuwk                                           |
- |  2.1.1                                               | 2024-09-19                                          | 80160                                              | nvnieuwk                                           |
- |  2.1.2                                               | 2024-10-18                                          | 8128                                               | nvnieuwk                                           |
- |  Kitakata                                            | 2024-10-30                                          | 8926                                               | nvnieuwk                                           |
- |  2.2.1                                               | 2024-12-03                                          | 6408                                               | nvnieuwk                                           |
- |  Hakodate                                            | 2025-01-13                                          | 28466                                              | nvnieuwk                                           |
+ |  Kagoshima                                           | 2024-04-22                                          | 14401                                              | nvnieuwk                                           |
+ |  2.0.1                                               | 2024-07-04                                          | 1300                                               | nvnieuwk                                           |
+ |  Tantanmen                                           | 2024-08-20                                          | 10051                                              | nvnieuwk                                           |
+ |  2.1.1                                               | 2024-09-19                                          | 83611                                              | nvnieuwk                                           |
+ |  2.1.2                                               | 2024-10-18                                          | 8309                                               | nvnieuwk                                           |
+ |  Kitakata                                            | 2024-10-30                                          | 9461                                               | nvnieuwk                                           |
+ |  2.2.1                                               | 2024-12-03                                          | 8046                                               | nvnieuwk                                           |
+ |  Hakodate                                            | 2025-01-13                                          | 46150                                              | nvnieuwk                                           |
+ |  2.4.0                                               | 2025-04-03                                          | 15                                                 | nvnieuwk                                           |
