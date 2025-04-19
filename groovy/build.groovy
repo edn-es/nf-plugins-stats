@@ -1,6 +1,8 @@
 import groovy.json.JsonSlurper
 import groovy.text.StreamingTemplateEngine
 
+basePath = args.length > 0 ? args[0] : ''
+
 groups = [
         "Cloud Integration"                     : [
                 "nf-amazon",
@@ -62,14 +64,16 @@ stats.each{ plugin->
     def md = new File("source/docs/${plugin.id}.md")
     md.parentFile.mkdirs()
     def binding = [
-            plugin: plugin
+            plugin: plugin,
+            baseUrl: basePath
     ]
     md.text = template.make(binding)
 
     def js = new File("source/docs/${plugin.id}/${plugin.id}.js")
     js.parentFile.mkdirs()
     def jsbinding = [
-            plugin: plugin
+            plugin: plugin,
+            baseUrl: basePath
     ]
     js.text = jstemplate.make(jsbinding)
 

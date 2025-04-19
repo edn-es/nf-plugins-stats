@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugins-stats/docs/nf-jarvice/nf-jarvice.js"></script>
+<script type="module" src="/docs/nf-jarvice/nf-jarvice.js"></script>
 
 # nf-jarvice
 

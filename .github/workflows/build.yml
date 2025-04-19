@@ -21,7 +21,7 @@ jobs:
       - name: Download
         run: groovy groovy/download.groovy ${{ secrets.GITHUB_TOKEN }}
       - name: Build
-        run: groovy groovy/build.groovy
+        run: groovy groovy/build.groovy 'nf-plugin-stats'
       - name: upload
         id: vars
         shell: bash
