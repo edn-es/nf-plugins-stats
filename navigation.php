@@ -83,6 +83,9 @@ return [
 
             'Others' => [
                 'children' => [
+'nf-datatrail' => 'docs/nf-datatrail' ,
+'nf-k8s' => 'docs/nf-k8s' ,
+'nf-lamin' => 'docs/nf-lamin' ,
 'nf-synapse' => 'docs/nf-synapse' ,
 'xpack-amzn' => 'docs/xpack-amzn' ,
 'xpack-google' => 'docs/xpack-google' ,

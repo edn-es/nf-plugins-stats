@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-tencentcloud/nf-tencentcloud.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-tencentcloud/nf-tencentcloud.js"></script>
 
 English | [简体中文](./README_ZH.md)
 
@@ -126,9 +126,9 @@ For inquiries about product testing and usage, please contact via email: omics@t
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2024-09-04                                          | 114                                                | lalalacampanella                                   |
- |  2.0.0                                               | 2024-09-04                                          | 128                                                | lalalacampanella                                   |
- |  1.0.1                                               | 2024-12-04                                          | 30                                                 | lalalacampanella                                   |
- |  2.0.1                                               | 2024-12-04                                          | 26                                                 | lalalacampanella                                   |
+ |  1.0.0                                               | 2024-09-04                                          | 121                                                | lalalacampanella                                   |
+ |  2.0.0                                               | 2024-09-04                                          | 129                                                | lalalacampanella                                   |
+ |  1.0.1                                               | 2024-12-04                                          | 37                                                 | lalalacampanella                                   |
+ |  2.0.1                                               | 2024-12-04                                          | 27                                                 | lalalacampanella                                   |
  |  1.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |
  |  2.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |

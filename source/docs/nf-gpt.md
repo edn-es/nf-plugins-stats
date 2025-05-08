@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-gpt/nf-gpt.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-gpt/nf-gpt.js"></script>
 
 # nf-gpt plugin
  
@@ -186,7 +186,7 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2024-03-19                                          | 146                                                | pditommaso                                         |
+ |  0.1.0                                               | 2024-03-19                                          | 150                                                | pditommaso                                         |
  |  0.2.0                                               | 2024-03-20                                          | 1                                                  | pditommaso                                         |
- |  0.3.0                                               | 2024-04-05                                          | 145                                                | pditommaso                                         |
- |  0.4.0                                               | 2024-04-15                                          | 358                                                | pditommaso                                         |
+ |  0.3.0                                               | 2024-04-05                                          | 149                                                | pditommaso                                         |
+ |  0.4.0                                               | 2024-04-15                                          | 362                                                | pditommaso                                         |

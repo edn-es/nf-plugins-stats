@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-sqldb/nf-sqldb.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-sqldb/nf-sqldb.js"></script>
 
 # SQL DB plugin for Nextflow
 
@@ -180,9 +180,9 @@ In particular, data inserted using the `sqlInsert` operator is *not* guaranteed 
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2021-09-01                                          | 425                                                | pditommaso                                         |
- |  0.2.0                                               | 2021-10-10                                          | 315                                                | pditommaso                                         |
- |  0.3.0                                               | 2022-02-07                                          | 189                                                | pditommaso                                         |
- |  0.4.0                                               | 2022-04-11                                          | 276                                                | pditommaso                                         |
- |  0.4.1                                               | 2022-05-25                                          | 716                                                | pditommaso                                         |
- |  0.5.0                                               | 2022-08-30                                          | 2010                                               | pditommaso                                         |
+ |  0.1.0                                               | 2021-09-01                                          | 432                                                | pditommaso                                         |
+ |  0.2.0                                               | 2021-10-10                                          | 322                                                | pditommaso                                         |
+ |  0.3.0                                               | 2022-02-07                                          | 196                                                | pditommaso                                         |
+ |  0.4.0                                               | 2022-04-11                                          | 283                                                | pditommaso                                         |
+ |  0.4.1                                               | 2022-05-25                                          | 727                                                | pditommaso                                         |
+ |  0.5.0                                               | 2022-08-30                                          | 2062                                               | pditommaso                                         |

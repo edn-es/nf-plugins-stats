@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-hello/nf-hello.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-hello/nf-hello.js"></script>
 
 # nf-hello plugin 
  
@@ -132,7 +132,7 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2021-07-25                                          | 354                                                | pditommaso                                         |
- |  0.2.0                                               | 2022-05-03                                          | 252                                                | pditommaso                                         |
- |  0.3.0                                               | 2022-08-30                                          | 355                                                | pditommaso                                         |
- |  0.5.0                                               | 2024-03-06                                          | 232                                                | pditommaso                                         |
+ |  0.1.0                                               | 2021-07-25                                          | 366                                                | pditommaso                                         |
+ |  0.2.0                                               | 2022-05-03                                          | 263                                                | pditommaso                                         |
+ |  0.3.0                                               | 2022-08-30                                          | 368                                                | pditommaso                                         |
+ |  0.5.0                                               | 2024-03-06                                          | 239                                                | pditommaso                                         |

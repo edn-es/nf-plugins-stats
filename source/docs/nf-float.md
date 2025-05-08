@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-float/nf-float.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-float/nf-float.js"></script>
 
 # nf-float plugin<!-- omit in toc -->
 
@@ -638,15 +638,15 @@ The output is available at `./plugins/nf-float/build/libs/`
  |  0.1.4                                               | 2023-05-18                                          | 0                                                  | jealous                                            |
  |  0.1.5                                               | 2023-05-19                                          | 0                                                  | jealous                                            |
  |  0.1.6                                               | 2023-05-21                                          | 0                                                  | jealous                                            |
- |  0.1.7                                               | 2023-05-25                                          | 288                                                | jealous                                            |
- |  0.1.8                                               | 2023-07-17                                          | 280                                                | jealous                                            |
- |  0.2.0                                               | 2023-07-26                                          | 178                                                | jealous                                            |
- |  0.3.0                                               | 2023-08-09                                          | 185                                                | jealous                                            |
- |  0.3.1                                               | 2023-08-21                                          | 241                                                | jealous                                            |
- |  0.4.0                                               | 2023-10-12                                          | 436                                                | jealous                                            |
- |  0.4.1                                               | 2024-01-11                                          | 1353                                               | jealous                                            |
- |  0.4.2                                               | 2024-07-24                                          | 359                                                | jealous                                            |
- |  0.4.3                                               | 2024-08-15                                          | 342                                                | jealous                                            |
- |  0.4.4                                               | 2024-09-12                                          | 196                                                | jealous                                            |
- |  0.4.5                                               | 2024-09-19                                          | 256                                                | jealous                                            |
- |  0.4.6                                               | 2024-09-26                                          | 1888                                               | jealous                                            |
+ |  0.1.7                                               | 2023-05-25                                          | 298                                                | jealous                                            |
+ |  0.1.8                                               | 2023-07-17                                          | 290                                                | jealous                                            |
+ |  0.2.0                                               | 2023-07-26                                          | 182                                                | jealous                                            |
+ |  0.3.0                                               | 2023-08-09                                          | 189                                                | jealous                                            |
+ |  0.3.1                                               | 2023-08-21                                          | 246                                                | jealous                                            |
+ |  0.4.0                                               | 2023-10-12                                          | 440                                                | jealous                                            |
+ |  0.4.1                                               | 2024-01-11                                          | 1357                                               | jealous                                            |
+ |  0.4.2                                               | 2024-07-24                                          | 363                                                | jealous                                            |
+ |  0.4.3                                               | 2024-08-15                                          | 346                                                | jealous                                            |
+ |  0.4.4                                               | 2024-09-12                                          | 200                                                | jealous                                            |
+ |  0.4.5                                               | 2024-09-19                                          | 260                                                | jealous                                            |
+ |  0.4.6                                               | 2024-09-26                                          | 2212                                               | jealous                                            |

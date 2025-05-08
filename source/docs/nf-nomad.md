@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-nomad/nf-nomad.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-nomad/nf-nomad.js"></script>
 
 # nf-nomad plugin
 
@@ -128,20 +128,20 @@ Follow these steps to package, upload and publish the plugin:
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  0.0.1                                               | 2024-02-20                                          | 28                                                 | abhi18av                                           |
  |  0.0.2                                               | 2024-03-08                                          | 10                                                 | abhi18av                                           |
- |  0.1.0                                               | 2024-06-26                                          | 151                                                | abhi18av                                           |
- |  0.1.1                                               | 2024-07-02                                          | 156                                                | github-actions[bot]                                |
+ |  0.1.0                                               | 2024-06-26                                          | 155                                                | abhi18av                                           |
+ |  0.1.1                                               | 2024-07-02                                          | 164                                                | github-actions[bot]                                |
  |  0.1.2-beta1                                         | 2024-07-08                                          | 5                                                  | jagedn                                             |
  |  0.1.2-beta2                                         | 2024-07-09                                          | 4                                                  | jagedn                                             |
  |  0.1.2-edge3                                         | 2024-07-16                                          | 3                                                  | jagedn                                             |
- |  0.1.2                                               | 2024-07-29                                          | 151                                                | abhi18av                                           |
+ |  0.1.2                                               | 2024-07-29                                          | 155                                                | abhi18av                                           |
  |  0.2.0-edge1                                         | 2024-07-29                                          | 1                                                  | github-actions[bot]                                |
  |  0.2.0-edge2                                         | 2024-08-28                                          | 2                                                  | jagedn                                             |
  |  0.2.0-edge3                                         | 2024-08-28                                          | 1                                                  | github-actions[bot]                                |
- |  0.2.0                                               | 2024-08-28                                          | 156                                                | github-actions[bot]                                |
+ |  0.2.0                                               | 2024-08-28                                          | 160                                                | github-actions[bot]                                |
  |  0.3.0-edge1                                         | 2024-09-18                                          | 0                                                  | jagedn                                             |
  |  0.3.0-edge2                                         | 2024-09-18                                          | 0                                                  | github-actions[bot]                                |
- |  0.3.0                                               | 2024-09-20                                          | 131                                                | github-actions[bot]                                |
+ |  0.3.0                                               | 2024-09-20                                          | 135                                                | github-actions[bot]                                |
  |  0.3.1-edge1                                         | 2024-09-23                                          | 1                                                  | github-actions[bot]                                |
  |  0.3.2-edge2                                         | 2024-11-18                                          | 0                                                  | jagedn                                             |
- |  0.3.1                                               | 2024-12-08                                          | 80                                                 | github-actions[bot]                                |
+ |  0.3.1                                               | 2024-12-08                                          | 91                                                 | github-actions[bot]                                |
  |  0.3.2-edge1                                         | 2024-12-10                                          | 1                                                  | github-actions[bot]                                |

@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-ga4gh/nf-ga4gh.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-ga4gh/nf-ga4gh.js"></script>
 
 # nf-ga4gh plugin 
  
@@ -162,14 +162,14 @@ Follow these steps to package, upload and publish the plugin:
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  1.0.0                                               | 2021-01-04                                          | 19                                                 | pditommaso                                         |
- |  1.0.1                                               | 2021-01-15                                          | 39                                                 | pditommaso                                         |
- |  1.0.2                                               | 2021-03-05                                          | 33                                                 | pditommaso                                         |
- |  1.0.3                                               | 2021-05-28                                          | 122                                                | pditommaso                                         |
- |  1.0.4                                               | 2022-09-19                                          | 138                                                | pditommaso                                         |
- |  1.0.5                                               | 2023-04-13                                          | 307                                                | pditommaso                                         |
+ |  1.0.1                                               | 2021-01-15                                          | 46                                                 | pditommaso                                         |
+ |  1.0.2                                               | 2021-03-05                                          | 40                                                 | pditommaso                                         |
+ |  1.0.3                                               | 2021-05-28                                          | 129                                                | pditommaso                                         |
+ |  1.0.4                                               | 2022-09-19                                          | 145                                                | pditommaso                                         |
+ |  1.0.5                                               | 2023-04-13                                          | 314                                                | pditommaso                                         |
  |  1.0.6                                               | 2023-05-15                                          | 123                                                | pditommaso                                         |
  |  1.1.0                                               | 2023-07-22                                          | 109                                                | pditommaso                                         |
  |  1.1.1                                               | 2023-11-24                                          | 30                                                 | pditommaso                                         |
  |  1.2.0                                               | 2024-02-05                                          | 18                                                 | pditommaso                                         |
- |  1.3.0                                               | 2024-05-13                                          | 472                                                | pditommaso                                         |
+ |  1.3.0                                               | 2024-05-13                                          | 514                                                | pditommaso                                         |
  |  1.1.0-patch1                                        | 2024-05-28                                          | 24                                                 | pditommaso                                         |

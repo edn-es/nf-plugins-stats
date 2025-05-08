@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-quilt/nf-quilt.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-quilt/nf-quilt.js"></script>
 
 # nf-quilt
 
@@ -84,5 +84,5 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for inst
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2022-08-12                                          | 152                                                | pditommaso                                         |
- |  0.2.0                                               | 2022-08-23                                          | 182                                                | pditommaso                                         |
+ |  0.1.0                                               | 2022-08-12                                          | 159                                                | pditommaso                                         |
+ |  0.2.0                                               | 2022-08-23                                          | 189                                                | pditommaso                                         |

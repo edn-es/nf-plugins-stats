@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-jarvice/nf-jarvice.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-jarvice/nf-jarvice.js"></script>
 
 # nf-jarvice
 
@@ -123,5 +123,5 @@ Jarvice plugin will automatically be downloaded and used as executor. Jobs can b
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  0.5.0                                               | 2023-04-05                                          | 10                                                 | oxedions                                           |
- |  0.6.0                                               | 2023-04-19                                          | 158                                                | oxedions                                           |
- |  0.7.0                                               | 2023-05-09                                          | 161                                                | oxedions                                           |
+ |  0.6.0                                               | 2023-04-19                                          | 162                                                | oxedions                                           |
+ |  0.7.0                                               | 2023-05-09                                          | 165                                                | oxedions                                           |

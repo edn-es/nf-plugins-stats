@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-dotenv/nf-dotenv.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-dotenv/nf-dotenv.js"></script>
 
 # nf-dotenv
 
@@ -21,7 +21,7 @@ section: content
 Automatically source [dotenv](https://hexdocs.pm/dotenvy/dotenv-file-format.html) files into your Nextflow scope.
 
 <p>
-<a href float="left"="https://fulcrumgenomics.com"><img src=".github/logos/fulcrumgenomics.svg" alt="Fulcrum Genomics" height="100"/></a>
+<a href="https://fulcrumgenomics.com"><img src=".github/logos/fulcrumgenomics.svg" alt="Fulcrum Genomics" height="100"/></a>
 </p>
 
 [Visit us at Fulcrum Genomics](https://www.fulcrumgenomics.com) to learn more about how we can power your Bioinformatics with nf-dotenv and beyond.
@@ -183,4 +183,4 @@ GITHUB_TOKEN=... GITHUB_USERNAME=... GITHUB_COMMIT_EMAIL=... make publish-to-git
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2023-11-22                                          | 2379                                               | clintval                                           |
+ |  1.0.0                                               | 2023-11-22                                          | 2567                                               | clintval                                           |

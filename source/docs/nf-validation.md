@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-validation/nf-validation.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-validation/nf-validation.js"></script>
 
 # ![nf-validation](docs/images/nf-validation.svg)
 
@@ -107,17 +107,17 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2023-05-05                                          | 1373                                               | mirpedrol                                          |
- |  0.2.0                                               | 2023-06-06                                          | 261                                                | nvnieuwk                                           |
- |  0.2.1                                               | 2023-06-06                                          | 12608                                              | nvnieuwk                                           |
- |  0.3.0                                               | 2023-07-10                                          | 680                                                | mirpedrol                                          |
- |  0.3.1                                               | 2023-07-12                                          | 17397                                              | mirpedrol                                          |
- |  0.3.2                                               | 2023-09-19                                          | 10307                                              | nvnieuwk                                           |
- |  0.3.3                                               | 2023-10-10                                          | 1405                                               | mirpedrol                                          |
+ |  0.1.0                                               | 2023-05-05                                          | 1384                                               | mirpedrol                                          |
+ |  0.2.0                                               | 2023-06-06                                          | 271                                                | nvnieuwk                                           |
+ |  0.2.1                                               | 2023-06-06                                          | 13902                                              | nvnieuwk                                           |
+ |  0.3.0                                               | 2023-07-10                                          | 690                                                | mirpedrol                                          |
+ |  0.3.1                                               | 2023-07-12                                          | 17441                                              | mirpedrol                                          |
+ |  0.3.2                                               | 2023-09-19                                          | 10317                                              | nvnieuwk                                           |
+ |  0.3.3                                               | 2023-10-10                                          | 1415                                               | mirpedrol                                          |
  |  0.3.4                                               | 2023-10-10                                          | 60                                                 | mirpedrol                                          |
- |  Tonkotsu                                            | 2023-10-12                                          | 2892                                               | mirpedrol                                          |
- |  Miso                                                | 2023-10-18                                          | 1909                                               | nvnieuwk                                           |
- |  Shoyu                                               | 2023-10-23                                          | 14046                                              | nvnieuwk                                           |
- |  Wakayama                                            | 2023-11-16                                          | 3269                                               | nvnieuwk                                           |
- |  Asahikawa                                           | 2023-11-21                                          | 355750                                             | nvnieuwk                                           |
- |  Kushiro                                             | 2024-08-07                                          | 46818                                              | adamrtalbot                                        |
+ |  Tonkotsu                                            | 2023-10-12                                          | 2902                                               | mirpedrol                                          |
+ |  Miso                                                | 2023-10-18                                          | 1920                                               | nvnieuwk                                           |
+ |  Shoyu                                               | 2023-10-23                                          | 14056                                              | nvnieuwk                                           |
+ |  Wakayama                                            | 2023-11-16                                          | 3283                                               | nvnieuwk                                           |
+ |  Asahikawa                                           | 2023-11-21                                          | 372061                                             | nvnieuwk                                           |
+ |  Kushiro                                             | 2024-08-07                                          | 52998                                              | adamrtalbot                                        |

@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-weblog/nf-weblog.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-weblog/nf-weblog.js"></script>
 
 # nf-weblog plugin 
    
@@ -303,7 +303,7 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2023-08-17                                          | 162                                                | pditommaso                                         |
- |  1.1.0                                               | 2023-08-29                                          | 667                                                | bentsherman                                        |
- |  1.1.1                                               | 2023-11-08                                          | 1541                                               | bentsherman                                        |
- |  1.1.2                                               | 2023-11-22                                          | 45001                                              | bentsherman                                        |
+ |  1.0.0                                               | 2023-08-17                                          | 166                                                | pditommaso                                         |
+ |  1.1.0                                               | 2023-08-29                                          | 671                                                | bentsherman                                        |
+ |  1.1.1                                               | 2023-11-08                                          | 1629                                               | bentsherman                                        |
+ |  1.1.2                                               | 2023-11-22                                          | 49629                                              | bentsherman                                        |

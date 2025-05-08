@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-schema/nf-schema.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-schema/nf-schema.js"></script>
 
 # ![nf-schema](docs/images/nf-schema.png)
 
@@ -39,7 +39,7 @@ Declare the plugin in your Nextflow pipeline configuration file:
 
 ```groovy title="nextflow.config"
 plugins {
-  id 'nf-schema@2.4.0'
+  id 'nf-schema@2.4.1'
 }
 ```
 
@@ -103,12 +103,14 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  Kagoshima                                           | 2024-04-22                                          | 14401                                              | nvnieuwk                                           |
- |  2.0.1                                               | 2024-07-04                                          | 1300                                               | nvnieuwk                                           |
- |  Tantanmen                                           | 2024-08-20                                          | 10051                                              | nvnieuwk                                           |
- |  2.1.1                                               | 2024-09-19                                          | 83611                                              | nvnieuwk                                           |
- |  2.1.2                                               | 2024-10-18                                          | 8309                                               | nvnieuwk                                           |
- |  Kitakata                                            | 2024-10-30                                          | 9461                                               | nvnieuwk                                           |
- |  2.2.1                                               | 2024-12-03                                          | 8046                                               | nvnieuwk                                           |
- |  Hakodate                                            | 2025-01-13                                          | 46150                                              | nvnieuwk                                           |
- |  2.4.0                                               | 2025-04-03                                          | 15                                                 | nvnieuwk                                           |
+ |  Kagoshima                                           | 2024-04-22                                          | 15962                                              | nvnieuwk                                           |
+ |  2.0.1                                               | 2024-07-04                                          | 1365                                               | nvnieuwk                                           |
+ |  Tantanmen                                           | 2024-08-20                                          | 10323                                              | nvnieuwk                                           |
+ |  2.1.1                                               | 2024-09-19                                          | 89581                                              | nvnieuwk                                           |
+ |  2.1.2                                               | 2024-10-18                                          | 8452                                               | nvnieuwk                                           |
+ |  Kitakata                                            | 2024-10-30                                          | 16835                                              | nvnieuwk                                           |
+ |  2.2.1                                               | 2024-12-03                                          | 10810                                              | nvnieuwk                                           |
+ |  Hakodate                                            | 2025-01-13                                          | 64626                                              | nvnieuwk                                           |
+ |  2.4.0                                               | 2025-04-03                                          | 382                                                | nvnieuwk                                           |
+ |  2.4.1                                               | 2025-04-10                                          | 725                                                | nvnieuwk                                           |
+ |  2.4.2                                               | 2025-05-07                                          | 61                                                 | nvnieuwk                                           |

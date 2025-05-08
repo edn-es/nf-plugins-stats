@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-ignite/nf-ignite.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-ignite/nf-ignite.js"></script>
 
 # nf-ignite
 
@@ -215,6 +215,6 @@ command line options.
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  1.2.0                                               | 2021-01-04                                          | 25                                                 | pditommaso                                         |
- |  1.2.1                                               | 2021-01-15                                          | 211                                                | pditommaso                                         |
- |  1.2.2                                               | 2021-03-05                                          | 253                                                | pditommaso                                         |
- |  1.2.3                                               | 2021-05-28                                          | 1003                                               | pditommaso                                         |
+ |  1.2.1                                               | 2021-01-15                                          | 219                                                | pditommaso                                         |
+ |  1.2.2                                               | 2021-03-05                                          | 261                                                | pditommaso                                         |
+ |  1.2.3                                               | 2021-05-28                                          | 1011                                               | pditommaso                                         |

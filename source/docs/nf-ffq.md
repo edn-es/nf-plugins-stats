@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-ffq/nf-ffq.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-ffq/nf-ffq.js"></script>
 
 # nf-ffq
 
@@ -142,4 +142,4 @@ Following these step to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.2.0                                               | 2024-03-06                                          | 151                                                | pditommaso                                         |
+ |  0.2.0                                               | 2024-03-06                                          | 155                                                | pditommaso                                         |

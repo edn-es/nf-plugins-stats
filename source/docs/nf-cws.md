@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-cws/nf-cws.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-cws/nf-cws.js"></script>
 
 # nf-cws plugin 
 
@@ -126,9 +126,10 @@ The following fields can be used:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2023-03-20                                          | 222                                                | Lehmann-Fabian                                     |
- |  1.0.1                                               | 2023-06-09                                          | 210                                                | Lehmann-Fabian                                     |
- |  1.0.2                                               | 2023-07-25                                          | 288                                                | Lehmann-Fabian                                     |
- |  1.0.3                                               | 2023-10-02                                          | 165                                                | Lehmann-Fabian                                     |
- |  1.0.4                                               | 2023-11-02                                          | 182                                                | Lehmann-Fabian                                     |
- |  1.0.5                                               | 2024-07-22                                          | 271                                                | Lehmann-Fabian                                     |
+ |  1.0.0                                               | 2023-03-20                                          | 226                                                | Lehmann-Fabian                                     |
+ |  1.0.1                                               | 2023-06-09                                          | 214                                                | Lehmann-Fabian                                     |
+ |  1.0.2                                               | 2023-07-25                                          | 292                                                | Lehmann-Fabian                                     |
+ |  1.0.3                                               | 2023-10-02                                          | 169                                                | Lehmann-Fabian                                     |
+ |  1.0.4                                               | 2023-11-02                                          | 186                                                | Lehmann-Fabian                                     |
+ |  1.0.5                                               | 2024-07-22                                          | 276                                                | Lehmann-Fabian                                     |
+ |  1.0.6                                               | 2025-04-23                                          | 3                                                  | Lehmann-Fabian                                     |

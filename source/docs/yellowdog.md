@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/yellowdog/yellowdog.js"></script>
+<script type="module" src="nf-plugin-stats/docs/yellowdog/yellowdog.js"></script>
 
 # YellowDog NextFlow plugin
 
@@ -19,5 +19,5 @@ section: content
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  0.1.0                                               | 2024-02-08                                          | 1                                                  | YellowDogMachine                                   |
- |  1.0.0                                               | 2024-02-08                                          | 156                                                | YellowDogMachine                                   |
- |  1.0.1                                               | 2024-03-15                                          | 174                                                | YellowDogMachine                                   |
+ |  1.0.0                                               | 2024-02-08                                          | 160                                                | YellowDogMachine                                   |
+ |  1.0.1                                               | 2024-03-15                                          | 178                                                | YellowDogMachine                                   |

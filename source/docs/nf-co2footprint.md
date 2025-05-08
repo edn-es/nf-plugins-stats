@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-co2footprint/nf-co2footprint.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-co2footprint/nf-co2footprint.js"></script>
 
 # nf-co2footprint plugin [WIP]
 
@@ -49,8 +49,10 @@ This is all that is needed. Run your pipeline with the usual command.
 
 You can find more information on plugins in the [Nextflow documentation](https://www.nextflow.io/docs/latest/plugins.html#plugins).
 
-> [!NOTE]
-> To test the plugin prior to its first release, refer to the [contributing documentation](contributing/setup.md).
+## Contributing
+Before contributing, please read the [contribution guidelines](contributing/guidelines.md) carefully. You may also find the recommended [testing setup](contributing/setup.md) helpful.
+
+After your changes are accepted. maintainers may then [publish](contributing/publishing.md) a new version along with your contribution.
 
 ## Credits
 
@@ -65,5 +67,5 @@ We thank the following people for their extensive assistance in the development 
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0-beta                                          | 2024-01-19                                          | 2521                                               | skrakau                                            |
- |  1.0.0-beta1                                         | 2025-01-23                                          | 68                                                 | Bastian-Eisenmann                                  |
+ |  1.0.0-beta                                          | 2024-01-19                                          | 2644                                               | skrakau                                            |
+ |  1.0.0-beta1                                         | 2025-01-23                                          | 78                                                 | Bastian-Eisenmann                                  |

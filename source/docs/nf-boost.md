@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-boost/nf-boost.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-boost/nf-boost.js"></script>
 
 # nf-boost
 
@@ -240,10 +240,10 @@ nextflow run hello -plugins nf-boost@<version>
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2024-03-24                                          | 145                                                | bentsherman                                        |
- |  0.2.0                                               | 2024-03-26                                          | 147                                                | bentsherman                                        |
- |  0.3.0                                               | 2024-04-09                                          | 147                                                | bentsherman                                        |
- |  0.3.1                                               | 2024-04-14                                          | 177                                                | bentsherman                                        |
- |  0.3.2                                               | 2024-04-19                                          | 942                                                | bentsherman                                        |
- |  0.4.0                                               | 2024-10-08                                          | 3815                                               | bentsherman                                        |
- |  0.5.0                                               | 2025-03-13                                          | 211                                                | bentsherman                                        |
+ |  0.1.0                                               | 2024-03-24                                          | 149                                                | bentsherman                                        |
+ |  0.2.0                                               | 2024-03-26                                          | 151                                                | bentsherman                                        |
+ |  0.3.0                                               | 2024-04-09                                          | 151                                                | bentsherman                                        |
+ |  0.3.1                                               | 2024-04-14                                          | 181                                                | bentsherman                                        |
+ |  0.3.2                                               | 2024-04-19                                          | 948                                                | bentsherman                                        |
+ |  0.4.0                                               | 2024-10-08                                          | 3826                                               | bentsherman                                        |
+ |  0.5.0                                               | 2025-03-13                                          | 472                                                | bentsherman                                        |

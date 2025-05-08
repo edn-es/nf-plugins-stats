@@ -10,7 +10,7 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="/docs/nf-parquet/nf-parquet.js"></script>
+<script type="module" src="nf-plugin-stats/docs/nf-parquet/nf-parquet.js"></script>
 
 # nf-parquet
 
@@ -63,4 +63,4 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for inst
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.2.0                                               | 2024-12-11                                          | 70                                                 | jagedn                                             |
+ |  0.2.0                                               | 2024-12-11                                          | 74                                                 | jagedn                                             |
