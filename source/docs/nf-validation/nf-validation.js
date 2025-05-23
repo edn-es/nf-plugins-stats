@@ -64,12 +64,12 @@
 
         {
             date: `2023-11-21`,
-            count: 379432,
+            count: 379442,
             y: 'Asahikawa' },
 
         {
             date: `2024-08-07`,
-            count: 55917,
+            count: 55918,
             y: 'Kushiro' },
 
     ];

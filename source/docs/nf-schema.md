@@ -103,14 +103,14 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  Kagoshima                                           | 2024-04-22                                          | 16352                                              | nvnieuwk                                           |
+ |  Kagoshima                                           | 2024-04-22                                          | 16353                                              | nvnieuwk                                           |
  |  2.0.1                                               | 2024-07-04                                          | 1402                                               | nvnieuwk                                           |
- |  Tantanmen                                           | 2024-08-20                                          | 10605                                              | nvnieuwk                                           |
- |  2.1.1                                               | 2024-09-19                                          | 92051                                              | nvnieuwk                                           |
+ |  Tantanmen                                           | 2024-08-20                                          | 10606                                              | nvnieuwk                                           |
+ |  2.1.1                                               | 2024-09-19                                          | 92053                                              | nvnieuwk                                           |
  |  2.1.2                                               | 2024-10-18                                          | 8487                                               | nvnieuwk                                           |
  |  Kitakata                                            | 2024-10-30                                          | 23701                                              | nvnieuwk                                           |
- |  2.2.1                                               | 2024-12-03                                          | 11790                                              | nvnieuwk                                           |
- |  Hakodate                                            | 2025-01-13                                          | 68886                                              | nvnieuwk                                           |
+ |  2.2.1                                               | 2024-12-03                                          | 11792                                              | nvnieuwk                                           |
+ |  Hakodate                                            | 2025-01-13                                          | 68888                                              | nvnieuwk                                           |
  |  2.4.0                                               | 2025-04-03                                          | 403                                                | nvnieuwk                                           |
  |  2.4.1                                               | 2025-04-10                                          | 1120                                               | nvnieuwk                                           |
- |  2.4.2                                               | 2025-05-07                                          | 1054                                               | nvnieuwk                                           |
+ |  2.4.2                                               | 2025-05-07                                          | 1068                                               | nvnieuwk                                           |

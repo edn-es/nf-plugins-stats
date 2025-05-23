@@ -306,4 +306,4 @@ Follow these steps to package, upload and publish the plugin:
  |  1.0.0                                               | 2023-08-17                                          | 170                                                | pditommaso                                         |
  |  1.1.0                                               | 2023-08-29                                          | 676                                                | bentsherman                                        |
  |  1.1.1                                               | 2023-11-08                                          | 1746                                               | bentsherman                                        |
- |  1.1.2                                               | 2023-11-22                                          | 51194                                              | bentsherman                                        |
+ |  1.1.2                                               | 2023-11-22                                          | 51195                                              | bentsherman                                        |

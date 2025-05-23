@@ -75,5 +75,5 @@ See the license link for full terms and conditions.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0-beta                                          | 2024-01-19                                          | 3177                                               | skrakau                                            |
+ |  1.0.0-beta                                          | 2024-01-19                                          | 3178                                               | skrakau                                            |
  |  1.0.0-beta1                                         | 2025-01-23                                          | 87                                                 | Bastian-Eisenmann                                  |
