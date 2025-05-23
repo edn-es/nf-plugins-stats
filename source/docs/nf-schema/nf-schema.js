@@ -4,57 +4,57 @@
 
         {
             date: `2024-04-22`,
-            count: 15962,
+            count: 16352,
             y: 'Kagoshima' },
 
         {
             date: `2024-07-04`,
-            count: 1365,
+            count: 1402,
             y: '2.0.1' },
 
         {
             date: `2024-08-20`,
-            count: 10323,
+            count: 10605,
             y: 'Tantanmen' },
 
         {
             date: `2024-09-19`,
-            count: 89581,
+            count: 92051,
             y: '2.1.1' },
 
         {
             date: `2024-10-18`,
-            count: 8452,
+            count: 8487,
             y: '2.1.2' },
 
         {
             date: `2024-10-30`,
-            count: 16835,
+            count: 23701,
             y: 'Kitakata' },
 
         {
             date: `2024-12-03`,
-            count: 10810,
+            count: 11790,
             y: '2.2.1' },
 
         {
             date: `2025-01-13`,
-            count: 64626,
+            count: 68886,
             y: 'Hakodate' },
 
         {
             date: `2025-04-03`,
-            count: 382,
+            count: 403,
             y: '2.4.0' },
 
         {
             date: `2025-04-10`,
-            count: 725,
+            count: 1120,
             y: '2.4.1' },
 
         {
             date: `2025-05-07`,
-            count: 61,
+            count: 1054,
             y: '2.4.2' },
 
     ];

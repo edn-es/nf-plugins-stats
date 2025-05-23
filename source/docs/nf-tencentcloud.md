@@ -126,9 +126,9 @@ For inquiries about product testing and usage, please contact via email: omics@t
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2024-09-04                                          | 121                                                | lalalacampanella                                   |
- |  2.0.0                                               | 2024-09-04                                          | 129                                                | lalalacampanella                                   |
- |  1.0.1                                               | 2024-12-04                                          | 37                                                 | lalalacampanella                                   |
- |  2.0.1                                               | 2024-12-04                                          | 27                                                 | lalalacampanella                                   |
+ |  1.0.0                                               | 2024-09-04                                          | 128                                                | lalalacampanella                                   |
+ |  2.0.0                                               | 2024-09-04                                          | 133                                                | lalalacampanella                                   |
+ |  1.0.1                                               | 2024-12-04                                          | 45                                                 | lalalacampanella                                   |
+ |  2.0.1                                               | 2024-12-04                                          | 31                                                 | lalalacampanella                                   |
  |  1.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |
  |  2.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |

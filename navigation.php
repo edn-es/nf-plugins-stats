@@ -84,6 +84,7 @@ return [
             'Others' => [
                 'children' => [
 'nf-datatrail' => 'docs/nf-datatrail' ,
+'nf-fgbio' => 'docs/nf-fgbio' ,
 'nf-k8s' => 'docs/nf-k8s' ,
 'nf-lamin' => 'docs/nf-lamin' ,
 'nf-synapse' => 'docs/nf-synapse' ,
