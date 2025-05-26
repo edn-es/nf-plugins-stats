@@ -649,4 +649,5 @@ The output is available at `./plugins/nf-float/build/libs/`
  |  0.4.3                                               | 2024-08-15                                          | 350                                                | jealous                                            |
  |  0.4.4                                               | 2024-09-12                                          | 204                                                | jealous                                            |
  |  0.4.5                                               | 2024-09-19                                          | 264                                                | jealous                                            |
- |  0.4.6                                               | 2024-09-26                                          | 2232                                               | jealous                                            |
+ |  0.4.6                                               | 2024-09-26                                          | 2259                                               | jealous                                            |
+ |  0.4.7                                               | 2025-05-24                                          | 2                                                  | GallVp                                             |

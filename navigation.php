@@ -83,6 +83,7 @@ return [
 
             'Others' => [
                 'children' => [
+'nf-cachebrowser' => 'docs/nf-cachebrowser' ,
 'nf-datatrail' => 'docs/nf-datatrail' ,
 'nf-fgbio' => 'docs/nf-fgbio' ,
 'nf-k8s' => 'docs/nf-k8s' ,

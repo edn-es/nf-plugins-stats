@@ -143,5 +143,5 @@ Follow these steps to package, upload and publish the plugin:
  |  0.3.0                                               | 2024-09-20                                          | 141                                                | github-actions[bot]                                |
  |  0.3.1-edge1                                         | 2024-09-23                                          | 1                                                  | github-actions[bot]                                |
  |  0.3.2-edge2                                         | 2024-11-18                                          | 0                                                  | jagedn                                             |
- |  0.3.1                                               | 2024-12-08                                          | 97                                                 | github-actions[bot]                                |
+ |  0.3.1                                               | 2024-12-08                                          | 98                                                 | github-actions[bot]                                |
  |  0.3.2-edge1                                         | 2024-12-10                                          | 1                                                  | github-actions[bot]                                |

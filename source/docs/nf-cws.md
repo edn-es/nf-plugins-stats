@@ -220,4 +220,4 @@ Scientific Data Analysis."
  |  1.0.4                                               | 2023-11-02                                          | 190                                                | Lehmann-Fabian                                     |
  |  1.0.5                                               | 2024-07-22                                          | 280                                                | Lehmann-Fabian                                     |
  |  1.0.6                                               | 2025-04-23                                          | 7                                                  | Lehmann-Fabian                                     |
- |  2.0.0                                               | 2025-05-16                                          | 5                                                  | Lehmann-Fabian                                     |
+ |  2.0.0                                               | 2025-05-16                                          | 6                                                  | Lehmann-Fabian                                     |

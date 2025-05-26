@@ -172,4 +172,4 @@ Follow these steps to package, upload and publish the plugin:
  |  1.1.1                                               | 2023-11-24                                          | 35                                                 | pditommaso                                         |
  |  1.2.0                                               | 2024-02-05                                          | 23                                                 | pditommaso                                         |
  |  1.3.0                                               | 2024-05-13                                          | 527                                                | pditommaso                                         |
- |  1.1.0-patch1                                        | 2024-05-28                                          | 29                                                 | pditommaso                                         |
+ |  1.1.0-patch1                                        | 2024-05-28                                          | 30                                                 | pditommaso                                         |

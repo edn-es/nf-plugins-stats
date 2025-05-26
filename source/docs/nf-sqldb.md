@@ -176,6 +176,17 @@ Like all dataflow operators in Nextflow, the operators provided by this plugin a
 In particular, data inserted using the `sqlInsert` operator is *not* guaranteed to be available to any subsequent queries using the `fromQuery` operator, as it is not possible to make a channel factory operation dependent on some upstream operation.
 
 
+## Developtment 
+
+#### Publish artifacts to Maven repo 
+
+Use the following command: 
+
+```
+./gradlew plugins:nf-sqldb:publishMavenPublicationToMavenRepository
+```
+
+
 ## Releases
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
@@ -184,5 +195,6 @@ In particular, data inserted using the `sqlInsert` operator is *not* guaranteed 
  |  0.2.0                                               | 2021-10-10                                          | 330                                                | pditommaso                                         |
  |  0.3.0                                               | 2022-02-07                                          | 204                                                | pditommaso                                         |
  |  0.4.0                                               | 2022-04-11                                          | 291                                                | pditommaso                                         |
- |  0.4.1                                               | 2022-05-25                                          | 735                                                | pditommaso                                         |
- |  0.5.0                                               | 2022-08-30                                          | 2123                                               | pditommaso                                         |
+ |  0.4.1                                               | 2022-05-25                                          | 736                                                | pditommaso                                         |
+ |  0.5.0                                               | 2022-08-30                                          | 2124                                               | pditommaso                                         |
+ |  0.6.0                                               | 2025-05-23                                          | 4                                                  | pditommaso                                         |

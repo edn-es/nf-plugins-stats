@@ -217,4 +217,4 @@ command line options.
  |  1.2.0                                               | 2021-01-04                                          | 31                                                 | pditommaso                                         |
  |  1.2.1                                               | 2021-01-15                                          | 227                                                | pditommaso                                         |
  |  1.2.2                                               | 2021-03-05                                          | 269                                                | pditommaso                                         |
- |  1.2.3                                               | 2021-05-28                                          | 1019                                               | pditommaso                                         |
+ |  1.2.3                                               | 2021-05-28                                          | 1020                                               | pditommaso                                         |
