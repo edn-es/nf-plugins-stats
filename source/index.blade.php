@@ -20,27 +20,9 @@
 
             <div class="flex my-10">
                 <a href="{{ $page->baseUrl }}/docs/getting-started" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Get Started</a>
+                <a href="{{ $page->baseUrl }}/docs/about" title="{{ $page->siteName }} about" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">About this site</a>
             </div>
-            <div class="flex my-10">
-                <style>
-                    .libutton {
-                        display: flex;
-                        flex-direction: column;
-                        justify-content: center;
-                        padding: 7px;
-                        text-align: center;
-                        outline: none;
-                        text-decoration: none !important;
-                        color: #ffffff !important;
-                        width: 200px;
-                        height: 32px;
-                        border-radius: 16px;
-                        background-color: #0A66C2;
-                        font-family: "SF Pro Text", Helvetica, sans-serif;
-                    }
-                </style>
-                <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jagedn" target="_blank">Follow me on LinkedIn</a>
-            </div>
+
         </div>
 
     </div>
