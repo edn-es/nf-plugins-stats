@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-boost/nf-boost.js"></script>
 
 # nf-boost
 
@@ -240,10 +239,100 @@ nextflow run hello -plugins nf-boost@<version>
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2024-03-24                                          | 153                                                | bentsherman                                        |
- |  0.2.0                                               | 2024-03-26                                          | 155                                                | bentsherman                                        |
- |  0.3.0                                               | 2024-04-09                                          | 155                                                | bentsherman                                        |
- |  0.3.1                                               | 2024-04-14                                          | 186                                                | bentsherman                                        |
- |  0.3.2                                               | 2024-04-19                                          | 953                                                | bentsherman                                        |
- |  0.4.0                                               | 2024-10-08                                          | 3834                                               | bentsherman                                        |
  |  0.5.0                                               | 2025-03-13                                          | 569                                                | bentsherman                                        |
+ |  0.4.0                                               | 2024-10-08                                          | 3834                                               | bentsherman                                        |
+ |  0.3.2                                               | 2024-04-19                                          | 953                                                | bentsherman                                        |
+ |  0.3.1                                               | 2024-04-14                                          | 186                                                | bentsherman                                        |
+ |  0.3.0                                               | 2024-04-09                                          | 155                                                | bentsherman                                        |
+ |  0.2.0                                               | 2024-03-26                                          | 155                                                | bentsherman                                        |
+ |  0.1.0                                               | 2024-03-24                                          | 153                                                | bentsherman                                        |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2024-03-24`,
+            count: 153,
+            y: '0.1.0' },
+
+        {
+            date: `2024-03-26`,
+            count: 155,
+            y: '0.2.0' },
+
+        {
+            date: `2024-04-09`,
+            count: 155,
+            y: '0.3.0' },
+
+        {
+            date: `2024-04-14`,
+            count: 186,
+            y: '0.3.1' },
+
+        {
+            date: `2024-04-19`,
+            count: 953,
+            y: '0.3.2' },
+
+        {
+            date: `2024-10-08`,
+            count: 3834,
+            y: '0.4.0' },
+
+        {
+            date: `2025-03-13`,
+            count: 569,
+            y: '0.5.0' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

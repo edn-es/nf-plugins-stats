@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-ffq/nf-ffq.js"></script>
 
 # nf-ffq
 
@@ -143,3 +142,63 @@ Following these step to package, upload and publish the plugin:
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  0.2.0                                               | 2024-03-06                                          | 160                                                | pditommaso                                         |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2024-03-06`,
+            count: 160,
+            y: '0.2.0' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

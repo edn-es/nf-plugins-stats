@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-ignite/nf-ignite.js"></script>
 
 # nf-ignite
 
@@ -214,7 +213,82 @@ command line options.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.2.0                                               | 2021-01-04                                          | 31                                                 | pditommaso                                         |
- |  1.2.1                                               | 2021-01-15                                          | 227                                                | pditommaso                                         |
- |  1.2.2                                               | 2021-03-05                                          | 269                                                | pditommaso                                         |
  |  1.2.3                                               | 2021-05-28                                          | 1020                                               | pditommaso                                         |
+ |  1.2.2                                               | 2021-03-05                                          | 269                                                | pditommaso                                         |
+ |  1.2.1                                               | 2021-01-15                                          | 227                                                | pditommaso                                         |
+ |  1.2.0                                               | 2021-01-04                                          | 31                                                 | pditommaso                                         |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2021-01-04`,
+            count: 31,
+            y: '1.2.0' },
+
+        {
+            date: `2021-01-15`,
+            count: 227,
+            y: '1.2.1' },
+
+        {
+            date: `2021-03-05`,
+            count: 269,
+            y: '1.2.2' },
+
+        {
+            date: `2021-05-28`,
+            count: 1020,
+            y: '1.2.3' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

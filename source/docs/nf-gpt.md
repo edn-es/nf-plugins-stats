@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-gpt/nf-gpt.js"></script>
 
 # nf-gpt plugin
  
@@ -186,7 +185,82 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2024-03-19                                          | 154                                                | pditommaso                                         |
- |  0.2.0                                               | 2024-03-20                                          | 1                                                  | pditommaso                                         |
- |  0.3.0                                               | 2024-04-05                                          | 153                                                | pditommaso                                         |
  |  0.4.0                                               | 2024-04-15                                          | 492                                                | pditommaso                                         |
+ |  0.3.0                                               | 2024-04-05                                          | 153                                                | pditommaso                                         |
+ |  0.2.0                                               | 2024-03-20                                          | 1                                                  | pditommaso                                         |
+ |  0.1.0                                               | 2024-03-19                                          | 154                                                | pditommaso                                         |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2024-03-19`,
+            count: 154,
+            y: '0.1.0' },
+
+        {
+            date: `2024-03-20`,
+            count: 1,
+            y: '0.2.0' },
+
+        {
+            date: `2024-04-05`,
+            count: 153,
+            y: '0.3.0' },
+
+        {
+            date: `2024-04-15`,
+            count: 492,
+            y: '0.4.0' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

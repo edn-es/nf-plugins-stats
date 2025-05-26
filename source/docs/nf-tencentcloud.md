@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-tencentcloud/nf-tencentcloud.js"></script>
 
 English | [简体中文](./README_ZH.md)
 
@@ -126,9 +125,94 @@ For inquiries about product testing and usage, please contact via email: omics@t
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2024-09-04                                          | 128                                                | lalalacampanella                                   |
- |  2.0.0                                               | 2024-09-04                                          | 133                                                | lalalacampanella                                   |
- |  1.0.1                                               | 2024-12-04                                          | 45                                                 | lalalacampanella                                   |
- |  2.0.1                                               | 2024-12-04                                          | 32                                                 | lalalacampanella                                   |
- |  1.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |
  |  2.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |
+ |  1.0.2                                               | 2024-12-12                                          | 0                                                  | lalalacampanella                                   |
+ |  2.0.1                                               | 2024-12-04                                          | 32                                                 | lalalacampanella                                   |
+ |  1.0.1                                               | 2024-12-04                                          | 45                                                 | lalalacampanella                                   |
+ |  2.0.0                                               | 2024-09-04                                          | 133                                                | lalalacampanella                                   |
+ |  1.0.0                                               | 2024-09-04                                          | 128                                                | lalalacampanella                                   |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2024-09-04`,
+            count: 128,
+            y: '1.0.0' },
+
+        {
+            date: `2024-09-04`,
+            count: 133,
+            y: '2.0.0' },
+
+        {
+            date: `2024-12-04`,
+            count: 45,
+            y: '1.0.1' },
+
+        {
+            date: `2024-12-04`,
+            count: 32,
+            y: '2.0.1' },
+
+        {
+            date: `2024-12-12`,
+            count: 0,
+            y: '1.0.2' },
+
+        {
+            date: `2024-12-12`,
+            count: 0,
+            y: '2.0.2' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

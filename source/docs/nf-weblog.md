@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-weblog/nf-weblog.js"></script>
 
 # nf-weblog plugin 
    
@@ -303,7 +302,82 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2023-08-17                                          | 170                                                | pditommaso                                         |
- |  1.1.0                                               | 2023-08-29                                          | 676                                                | bentsherman                                        |
- |  1.1.1                                               | 2023-11-08                                          | 1757                                               | bentsherman                                        |
  |  1.1.2                                               | 2023-11-22                                          | 51391                                              | bentsherman                                        |
+ |  1.1.1                                               | 2023-11-08                                          | 1757                                               | bentsherman                                        |
+ |  1.1.0                                               | 2023-08-29                                          | 676                                                | bentsherman                                        |
+ |  1.0.0                                               | 2023-08-17                                          | 170                                                | pditommaso                                         |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2023-08-17`,
+            count: 170,
+            y: '1.0.0' },
+
+        {
+            date: `2023-08-29`,
+            count: 676,
+            y: '1.1.0' },
+
+        {
+            date: `2023-11-08`,
+            count: 1757,
+            y: '1.1.1' },
+
+        {
+            date: `2023-11-22`,
+            count: 51391,
+            y: '1.1.2' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

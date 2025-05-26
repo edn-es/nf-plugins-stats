@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-iridanext/nf-iridanext.js"></script>
 
 # nf-iridanext plugin
 
@@ -644,6 +643,76 @@ specific language governing permissions and limitations under the License.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2023-12-15                                          | 269                                                | apetkau                                            |
- |  0.2.0                                               | 2024-01-22                                          | 8714                                               | apetkau                                            |
  |  0.3.0                                               | 2025-02-17                                          | 1085                                               | emarinier                                          |
+ |  0.2.0                                               | 2024-01-22                                          | 8714                                               | apetkau                                            |
+ |  0.1.0                                               | 2023-12-15                                          | 269                                                | apetkau                                            |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2023-12-15`,
+            count: 269,
+            y: '0.1.0' },
+
+        {
+            date: `2024-01-22`,
+            count: 8714,
+            y: '0.2.0' },
+
+        {
+            date: `2025-02-17`,
+            count: 1085,
+            y: '0.3.0' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

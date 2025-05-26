@@ -22,6 +22,7 @@ return [
             'Executors and Orchestration' => [
                 'children' => [
 'nf-ignite' => 'docs/nf-ignite' ,
+'nf-k8s' => 'docs/nf-k8s' ,
 'nf-nomad' => 'docs/nf-nomad' ,
 'nf-jarvice' => 'docs/nf-jarvice' ,
 'nf-wr' => 'docs/nf-wr' ,
@@ -55,8 +56,10 @@ return [
 
             'Development and Debugging Support' => [
                 'children' => [
+'nf-cachebrowser' => 'docs/nf-cachebrowser' ,
 'nf-console' => 'docs/nf-console' ,
 'nf-dotenv' => 'docs/nf-dotenv' ,
+'nf-datatrail' => 'docs/nf-datatrail' ,
 'nf-hello' => 'docs/nf-hello' ,
 
                 ],
@@ -83,10 +86,7 @@ return [
 
             'Others' => [
                 'children' => [
-'nf-cachebrowser' => 'docs/nf-cachebrowser' ,
-'nf-datatrail' => 'docs/nf-datatrail' ,
 'nf-fgbio' => 'docs/nf-fgbio' ,
-'nf-k8s' => 'docs/nf-k8s' ,
 'nf-lamin' => 'docs/nf-lamin' ,
 'nf-synapse' => 'docs/nf-synapse' ,
 'xpack-amzn' => 'docs/xpack-amzn' ,

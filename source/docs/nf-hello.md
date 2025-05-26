@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-hello/nf-hello.js"></script>
 
 # nf-hello plugin 
  
@@ -132,7 +131,82 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2021-07-25                                          | 377                                                | pditommaso                                         |
- |  0.2.0                                               | 2022-05-03                                          | 272                                                | pditommaso                                         |
- |  0.3.0                                               | 2022-08-30                                          | 376                                                | pditommaso                                         |
  |  0.5.0                                               | 2024-03-06                                          | 246                                                | pditommaso                                         |
+ |  0.3.0                                               | 2022-08-30                                          | 376                                                | pditommaso                                         |
+ |  0.2.0                                               | 2022-05-03                                          | 272                                                | pditommaso                                         |
+ |  0.1.0                                               | 2021-07-25                                          | 377                                                | pditommaso                                         |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2021-07-25`,
+            count: 377,
+            y: '0.1.0' },
+
+        {
+            date: `2022-05-03`,
+            count: 272,
+            y: '0.2.0' },
+
+        {
+            date: `2022-08-30`,
+            count: 376,
+            y: '0.3.0' },
+
+        {
+            date: `2024-03-06`,
+            count: 246,
+            y: '0.5.0' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

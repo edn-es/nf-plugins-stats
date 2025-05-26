@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-pgcache/nf-pgcache.js"></script>
 
 # Nextflow PostgreSQL cache
 
@@ -39,6 +38,76 @@ https://edn-es.github.io/ng-pgcache/index.html
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  v0.0.1-rc3                                          | 2025-01-01                                          | 8                                                  | github-actions[bot]                                |
- |  v0.0.1                                              | 2025-01-28                                          | 1                                                  | github-actions[bot]                                |
  |  v1.0.0                                              | 2025-01-28                                          | 14                                                 | github-actions[bot]                                |
+ |  v0.0.1                                              | 2025-01-28                                          | 1                                                  | github-actions[bot]                                |
+ |  v0.0.1-rc3                                          | 2025-01-01                                          | 8                                                  | github-actions[bot]                                |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2025-01-01`,
+            count: 8,
+            y: 'v0.0.1-rc3' },
+
+        {
+            date: `2025-01-28`,
+            count: 1,
+            y: 'v0.0.1' },
+
+        {
+            date: `2025-01-28`,
+            count: 14,
+            y: 'v1.0.0' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

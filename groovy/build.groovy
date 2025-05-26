@@ -16,6 +16,7 @@ groups = [
         ],
         "Executors and Orchestration"           : [
                 "nf-ignite",
+                "nf-k8s",
                 "nf-nomad",
                 "nf-jarvice",
                 "nf-wr",
@@ -37,8 +38,10 @@ groups = [
                 "nf-ga4gh"
         ],
         "Development and Debugging Support"     : [
+                "nf-cachebrowser",
                 "nf-console",
                 "nf-dotenv",
+                "nf-datatrail",
                 "nf-hello"
         ],
         "Sustainability and Environment"        : [
@@ -59,7 +62,6 @@ groups = [
 stats = new JsonSlurper().parse(new File("groovy/last.json"))
 
 template = new StreamingTemplateEngine().createTemplate(new File("groovy/template.md").text)
-jstemplate = new StreamingTemplateEngine().createTemplate(new File("groovy/template.js").text)
 stats.each{ plugin->
     def md = new File("source/docs/${plugin.id}.md")
     md.parentFile.mkdirs()
@@ -68,14 +70,6 @@ stats.each{ plugin->
             baseUrl: basePath
     ]
     md.text = template.make(binding)
-
-    def js = new File("source/docs/${plugin.id}/${plugin.id}.js")
-    js.parentFile.mkdirs()
-    def jsbinding = [
-            plugin: plugin,
-            baseUrl: basePath
-    ]
-    js.text = jstemplate.make(jsbinding)
 
     def founded = groups.find { it.value.contains(plugin.id) }
     if( !founded ){

@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-validation/nf-validation.js"></script>
 
 # ![nf-validation](docs/images/nf-validation.svg)
 
@@ -107,17 +106,142 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2023-05-05                                          | 1392                                               | mirpedrol                                          |
- |  0.2.0                                               | 2023-06-06                                          | 278                                                | nvnieuwk                                           |
- |  0.2.1                                               | 2023-06-06                                          | 15144                                              | nvnieuwk                                           |
- |  0.3.0                                               | 2023-07-10                                          | 699                                                | mirpedrol                                          |
- |  0.3.1                                               | 2023-07-12                                          | 17484                                              | mirpedrol                                          |
- |  0.3.2                                               | 2023-09-19                                          | 10325                                              | nvnieuwk                                           |
- |  0.3.3                                               | 2023-10-10                                          | 1422                                               | mirpedrol                                          |
- |  0.3.4                                               | 2023-10-10                                          | 60                                                 | mirpedrol                                          |
- |  Tonkotsu                                            | 2023-10-12                                          | 2909                                               | mirpedrol                                          |
- |  Miso                                                | 2023-10-18                                          | 1927                                               | nvnieuwk                                           |
- |  Shoyu                                               | 2023-10-23                                          | 14064                                              | nvnieuwk                                           |
- |  Wakayama                                            | 2023-11-16                                          | 3291                                               | nvnieuwk                                           |
- |  Asahikawa                                           | 2023-11-21                                          | 380506                                             | nvnieuwk                                           |
  |  Kushiro                                             | 2024-08-07                                          | 56184                                              | adamrtalbot                                        |
+ |  Asahikawa                                           | 2023-11-21                                          | 380506                                             | nvnieuwk                                           |
+ |  Wakayama                                            | 2023-11-16                                          | 3291                                               | nvnieuwk                                           |
+ |  Shoyu                                               | 2023-10-23                                          | 14064                                              | nvnieuwk                                           |
+ |  Miso                                                | 2023-10-18                                          | 1927                                               | nvnieuwk                                           |
+ |  Tonkotsu                                            | 2023-10-12                                          | 2909                                               | mirpedrol                                          |
+ |  0.3.4                                               | 2023-10-10                                          | 60                                                 | mirpedrol                                          |
+ |  0.3.3                                               | 2023-10-10                                          | 1422                                               | mirpedrol                                          |
+ |  0.3.2                                               | 2023-09-19                                          | 10325                                              | nvnieuwk                                           |
+ |  0.3.1                                               | 2023-07-12                                          | 17484                                              | mirpedrol                                          |
+ |  0.3.0                                               | 2023-07-10                                          | 699                                                | mirpedrol                                          |
+ |  0.2.1                                               | 2023-06-06                                          | 15144                                              | nvnieuwk                                           |
+ |  0.2.0                                               | 2023-06-06                                          | 278                                                | nvnieuwk                                           |
+ |  0.1.0                                               | 2023-05-05                                          | 1392                                               | mirpedrol                                          |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2023-05-05`,
+            count: 1392,
+            y: '0.1.0' },
+
+        {
+            date: `2023-06-06`,
+            count: 278,
+            y: '0.2.0' },
+
+        {
+            date: `2023-06-06`,
+            count: 15144,
+            y: '0.2.1' },
+
+        {
+            date: `2023-07-10`,
+            count: 699,
+            y: '0.3.0' },
+
+        {
+            date: `2023-07-12`,
+            count: 17484,
+            y: '0.3.1' },
+
+        {
+            date: `2023-09-19`,
+            count: 10325,
+            y: '0.3.2' },
+
+        {
+            date: `2023-10-10`,
+            count: 1422,
+            y: '0.3.3' },
+
+        {
+            date: `2023-10-10`,
+            count: 60,
+            y: '0.3.4' },
+
+        {
+            date: `2023-10-12`,
+            count: 2909,
+            y: 'Tonkotsu' },
+
+        {
+            date: `2023-10-18`,
+            count: 1927,
+            y: 'Miso' },
+
+        {
+            date: `2023-10-23`,
+            count: 14064,
+            y: 'Shoyu' },
+
+        {
+            date: `2023-11-16`,
+            count: 3291,
+            y: 'Wakayama' },
+
+        {
+            date: `2023-11-21`,
+            count: 380506,
+            y: 'Asahikawa' },
+
+        {
+            date: `2024-08-07`,
+            count: 56184,
+            y: 'Kushiro' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

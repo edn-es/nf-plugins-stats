@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-co2footprint/nf-co2footprint.js"></script>
 
 # nf-co2footprint plugin [WIP]
 
@@ -80,5 +79,70 @@ You are free to use, share, and adapt the data under the terms of the ODbL. For 
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0-beta                                          | 2024-01-19                                          | 3223                                               | skrakau                                            |
  |  1.0.0-beta1                                         | 2025-01-23                                          | 91                                                 | Bastian-Eisenmann                                  |
+ |  1.0.0-beta                                          | 2024-01-19                                          | 3223                                               | skrakau                                            |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2024-01-19`,
+            count: 3223,
+            y: '1.0.0-beta' },
+
+        {
+            date: `2025-01-23`,
+            count: 91,
+            y: '1.0.0-beta1' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

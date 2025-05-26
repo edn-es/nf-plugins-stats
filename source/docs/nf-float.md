@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-float/nf-float.js"></script>
 
 # nf-float plugin<!-- omit in toc -->
 
@@ -635,19 +634,154 @@ The output is available at `./plugins/nf-float/build/libs/`
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.4                                               | 2023-05-18                                          | 0                                                  | jealous                                            |
- |  0.1.5                                               | 2023-05-19                                          | 0                                                  | jealous                                            |
- |  0.1.6                                               | 2023-05-21                                          | 0                                                  | jealous                                            |
- |  0.1.7                                               | 2023-05-25                                          | 305                                                | jealous                                            |
- |  0.1.8                                               | 2023-07-17                                          | 297                                                | jealous                                            |
- |  0.2.0                                               | 2023-07-26                                          | 186                                                | jealous                                            |
- |  0.3.0                                               | 2023-08-09                                          | 193                                                | jealous                                            |
- |  0.3.1                                               | 2023-08-21                                          | 250                                                | jealous                                            |
- |  0.4.0                                               | 2023-10-12                                          | 445                                                | jealous                                            |
- |  0.4.1                                               | 2024-01-11                                          | 1361                                               | jealous                                            |
- |  0.4.2                                               | 2024-07-24                                          | 367                                                | jealous                                            |
- |  0.4.3                                               | 2024-08-15                                          | 350                                                | jealous                                            |
- |  0.4.4                                               | 2024-09-12                                          | 204                                                | jealous                                            |
- |  0.4.5                                               | 2024-09-19                                          | 264                                                | jealous                                            |
- |  0.4.6                                               | 2024-09-26                                          | 2259                                               | jealous                                            |
  |  0.4.7                                               | 2025-05-24                                          | 2                                                  | GallVp                                             |
+ |  0.4.6                                               | 2024-09-26                                          | 2259                                               | jealous                                            |
+ |  0.4.5                                               | 2024-09-19                                          | 264                                                | jealous                                            |
+ |  0.4.4                                               | 2024-09-12                                          | 204                                                | jealous                                            |
+ |  0.4.3                                               | 2024-08-15                                          | 350                                                | jealous                                            |
+ |  0.4.2                                               | 2024-07-24                                          | 367                                                | jealous                                            |
+ |  0.4.1                                               | 2024-01-11                                          | 1361                                               | jealous                                            |
+ |  0.4.0                                               | 2023-10-12                                          | 445                                                | jealous                                            |
+ |  0.3.1                                               | 2023-08-21                                          | 250                                                | jealous                                            |
+ |  0.3.0                                               | 2023-08-09                                          | 193                                                | jealous                                            |
+ |  0.2.0                                               | 2023-07-26                                          | 186                                                | jealous                                            |
+ |  0.1.8                                               | 2023-07-17                                          | 297                                                | jealous                                            |
+ |  0.1.7                                               | 2023-05-25                                          | 305                                                | jealous                                            |
+ |  0.1.6                                               | 2023-05-21                                          | 0                                                  | jealous                                            |
+ |  0.1.5                                               | 2023-05-19                                          | 0                                                  | jealous                                            |
+ |  0.1.4                                               | 2023-05-18                                          | 0                                                  | jealous                                            |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2023-05-18`,
+            count: 0,
+            y: '0.1.4' },
+
+        {
+            date: `2023-05-19`,
+            count: 0,
+            y: '0.1.5' },
+
+        {
+            date: `2023-05-21`,
+            count: 0,
+            y: '0.1.6' },
+
+        {
+            date: `2023-05-25`,
+            count: 305,
+            y: '0.1.7' },
+
+        {
+            date: `2023-07-17`,
+            count: 297,
+            y: '0.1.8' },
+
+        {
+            date: `2023-07-26`,
+            count: 186,
+            y: '0.2.0' },
+
+        {
+            date: `2023-08-09`,
+            count: 193,
+            y: '0.3.0' },
+
+        {
+            date: `2023-08-21`,
+            count: 250,
+            y: '0.3.1' },
+
+        {
+            date: `2023-10-12`,
+            count: 445,
+            y: '0.4.0' },
+
+        {
+            date: `2024-01-11`,
+            count: 1361,
+            y: '0.4.1' },
+
+        {
+            date: `2024-07-24`,
+            count: 367,
+            y: '0.4.2' },
+
+        {
+            date: `2024-08-15`,
+            count: 350,
+            y: '0.4.3' },
+
+        {
+            date: `2024-09-12`,
+            count: 204,
+            y: '0.4.4' },
+
+        {
+            date: `2024-09-19`,
+            count: 264,
+            y: '0.4.5' },
+
+        {
+            date: `2024-09-26`,
+            count: 2259,
+            y: '0.4.6' },
+
+        {
+            date: `2025-05-24`,
+            count: 2,
+            y: '0.4.7' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

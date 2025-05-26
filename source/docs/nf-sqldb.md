@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-sqldb/nf-sqldb.js"></script>
 
 # SQL DB plugin for Nextflow
 
@@ -191,10 +190,100 @@ Use the following command:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.1.0                                               | 2021-09-01                                          | 441                                                | pditommaso                                         |
- |  0.2.0                                               | 2021-10-10                                          | 330                                                | pditommaso                                         |
- |  0.3.0                                               | 2022-02-07                                          | 204                                                | pditommaso                                         |
- |  0.4.0                                               | 2022-04-11                                          | 291                                                | pditommaso                                         |
- |  0.4.1                                               | 2022-05-25                                          | 736                                                | pditommaso                                         |
- |  0.5.0                                               | 2022-08-30                                          | 2124                                               | pditommaso                                         |
  |  0.6.0                                               | 2025-05-23                                          | 4                                                  | pditommaso                                         |
+ |  0.5.0                                               | 2022-08-30                                          | 2124                                               | pditommaso                                         |
+ |  0.4.1                                               | 2022-05-25                                          | 736                                                | pditommaso                                         |
+ |  0.4.0                                               | 2022-04-11                                          | 291                                                | pditommaso                                         |
+ |  0.3.0                                               | 2022-02-07                                          | 204                                                | pditommaso                                         |
+ |  0.2.0                                               | 2021-10-10                                          | 330                                                | pditommaso                                         |
+ |  0.1.0                                               | 2021-09-01                                          | 441                                                | pditommaso                                         |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2021-09-01`,
+            count: 441,
+            y: '0.1.0' },
+
+        {
+            date: `2021-10-10`,
+            count: 330,
+            y: '0.2.0' },
+
+        {
+            date: `2022-02-07`,
+            count: 204,
+            y: '0.3.0' },
+
+        {
+            date: `2022-04-11`,
+            count: 291,
+            y: '0.4.0' },
+
+        {
+            date: `2022-05-25`,
+            count: 736,
+            y: '0.4.1' },
+
+        {
+            date: `2022-08-30`,
+            count: 2124,
+            y: '0.5.0' },
+
+        {
+            date: `2025-05-23`,
+            count: 4,
+            y: '0.6.0' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

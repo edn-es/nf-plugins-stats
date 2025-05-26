@@ -10,7 +10,6 @@ section: content
 <div style="position: relative; height:40vh; width:80vw">
     <canvas id="releases"></canvas>
 </div>
-<script type="module" src="nf-plugin-stats/docs/nf-jarvice/nf-jarvice.js"></script>
 
 # nf-jarvice
 
@@ -122,6 +121,76 @@ Jarvice plugin will automatically be downloaded and used as executor. Jobs can b
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.5.0                                               | 2023-04-05                                          | 10                                                 | oxedions                                           |
- |  0.6.0                                               | 2023-04-19                                          | 166                                                | oxedions                                           |
  |  0.7.0                                               | 2023-05-09                                          | 170                                                | oxedions                                           |
+ |  0.6.0                                               | 2023-04-19                                          | 166                                                | oxedions                                           |
+ |  0.5.0                                               | 2023-04-05                                          | 10                                                 | oxedions                                           |
+
+
+<script>
+
+(async function() {
+    const data = [
+
+        {
+            date: `2023-04-05`,
+            count: 10,
+            y: '0.5.0' },
+
+        {
+            date: `2023-04-19`,
+            count: 166,
+            y: '0.6.0' },
+
+        {
+            date: `2023-05-09`,
+            count: 170,
+            y: '0.7.0' },
+
+    ];
+
+    new Chart(
+        document.getElementById('releases'),
+        {
+            type: 'bar',
+            data: {
+                labels: data.map(row => row.y),
+                datasets: [
+                    {
+                        label: 'Donwloads',
+                        data: data,
+                        parsing: {
+                            xAxisKey: 'count'
+                        }
+                    }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                plugins: {
+                    tooltip:{
+                        enabled: true,
+                        callbacks: {
+                            beforeLabel: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `Released (${values.date})`;
+                            },
+                            label: function (tooltipData) {
+                                const labels =
+                                    tooltipData.dataset.label.toString();
+                                const values =
+                                    tooltipData.dataset.data[tooltipData.dataIndex];
+
+                                return `${labels} : ${values.count}`;
+                            },
+                        },
+                    }                    
+                }
+            },
+        }
+    );
+})();
+</script>

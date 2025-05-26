@@ -6,7 +6,7 @@ return [
     'baseUrl' => 'http://localhost:8000',
     'production' => false,
     'siteName' => 'Nexflow Plugin Stats',
-    'siteDescription' => 'A compilation of all the official Nextflow plugins and their stats',
+    'siteDescription' => 'A compilation of (almost) all the official Nextflow plugins and their stats',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => env('DOCSEARCH_KEY'),
