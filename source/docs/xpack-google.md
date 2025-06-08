@@ -145,13 +145,13 @@ Copyright 2021-2023, Seqera Labs, S.L. All Rights Reserved.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.3.0                                               | 2024-05-14                                          | 178                                                | pditommaso                                         |
- |  1.2.0                                               | 2024-02-05                                          | 425                                                | pditommaso                                         |
- |  1.1.0                                               | 2023-12-26                                          | 23                                                 | pditommaso                                         |
- |  1.0.0                                               | 2023-08-09                                          | 100                                                | pditommaso                                         |
- |  1.0.0-beta.3                                        | 2023-04-09                                          | 56                                                 | pditommaso                                         |
- |  1.0.0-beta.2                                        | 2023-01-14                                          | 46                                                 | pditommaso                                         |
- |  1.0.0-beta.1                                        | 2021-07-08                                          | 159                                                | pditommaso                                         |
+ |  1.3.0                                               | 2024-05-14                                          | 188                                                | pditommaso                                         |
+ |  1.2.0                                               | 2024-02-05                                          | 459                                                | pditommaso                                         |
+ |  1.1.0                                               | 2023-12-26                                          | 25                                                 | pditommaso                                         |
+ |  1.0.0                                               | 2023-08-09                                          | 102                                                | pditommaso                                         |
+ |  1.0.0-beta.3                                        | 2023-04-09                                          | 57                                                 | pditommaso                                         |
+ |  1.0.0-beta.2                                        | 2023-01-14                                          | 48                                                 | pditommaso                                         |
+ |  1.0.0-beta.1                                        | 2021-07-08                                          | 162                                                | pditommaso                                         |
 
 
 <script>
@@ -161,37 +161,37 @@ Copyright 2021-2023, Seqera Labs, S.L. All Rights Reserved.
 
         {
             date: `2021-07-08`,
-            count: 159,
+            count: 162,
             y: '1.0.0-beta.1' },
 
         {
             date: `2023-01-14`,
-            count: 46,
+            count: 48,
             y: '1.0.0-beta.2' },
 
         {
             date: `2023-04-09`,
-            count: 56,
+            count: 57,
             y: '1.0.0-beta.3' },
 
         {
             date: `2023-08-09`,
-            count: 100,
+            count: 102,
             y: '1.0.0' },
 
         {
             date: `2023-12-26`,
-            count: 23,
+            count: 25,
             y: '1.1.0' },
 
         {
             date: `2024-02-05`,
-            count: 425,
+            count: 459,
             y: '1.2.0' },
 
         {
             date: `2024-05-14`,
-            count: 178,
+            count: 188,
             y: '1.3.0' },
 
     ];

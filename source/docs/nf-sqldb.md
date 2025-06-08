@@ -17,13 +17,13 @@ This plugin provides support for interacting with SQL databases in Nextflow scri
 
 The following databases are currently supported:
 
-* [AWS Athena](https://aws.amazon.com/athena/) (Setup guide [here](docs/aws-athena.md))
-* [DuckDB](https://duckdb.org/)
-* [H2](https://www.h2database.com)
-* [MySQL](https://www.mysql.com/)
-* [MariaDB](https://mariadb.org/)
-* [PostgreSQL](https://www.postgresql.org/)
-* [SQLite](https://www.sqlite.org/index.html)
+- [AWS Athena](https://aws.amazon.com/athena/) (Setup guide [here](docs/aws-athena.md))
+- [DuckDB](https://duckdb.org/)
+- [H2](https://www.h2database.com)
+- [MySQL](https://www.mysql.com/)
+- [MariaDB](https://mariadb.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 
 NOTE: THIS IS A PREVIEW TECHNOLOGY, FEATURES AND CONFIGURATION SETTINGS CAN CHANGE IN FUTURE RELEASES.
 
@@ -36,7 +36,6 @@ plugins {
     id 'nf-sqldb'
 }
 ```
-
 
 ## Configuration
 
@@ -92,7 +91,7 @@ The following options are available:
 
 `batchSize`
 : Query the data in batches of the given size. This option is recommended for queries that may return large a large result set, so that the entire result set is not loaded into memory at once.
-: *NOTE:* this feature requires that the underlying SQL database supports `LIMIT` and `OFFSET`.
+: _NOTE:_ this feature requires that the underlying SQL database supports `LIMIT` and `OFFSET`.
 
 `emitColumns`
 : When `true`, the column names in the `SELECT` statement are emitted as the first tuple in the resulting channel.
@@ -117,7 +116,7 @@ INSERT INTO SAMPLE (NAME, LEN) VALUES ('HELLO', 5);
 INSERT INTO SAMPLE (NAME, LEN) VALUES ('WORLD!', 6);
 ```
 
-*NOTE:* the target table (e.g. `SAMPLE` in the above example) must be created beforehand.
+_NOTE:_ the target table (e.g. `SAMPLE` in the above example) must be created beforehand.
 
 The following options are available:
 
@@ -138,7 +137,87 @@ The following options are available:
 
 `setup`
 : A SQL statement that is executed before inserting the data, e.g. to create the target table.
-: *NOTE:* the underlying database should support the *create table if not exist* idiom, as the plugin will execute this statement every time the script is run.
+: _NOTE:_ the underlying database should support the _create table if not exist_ idiom, as the plugin will execute this statement every time the script is run.
+
+## SQL Execution Functions
+
+This plugin provides the following function for executing SQL statements that don't return data, such as DDL (Data Definition Language) and DML (Data Manipulation Language) operations.
+
+### sqlExecute
+
+The `sqlExecute` function executes a SQL statement that doesn't return a result set, such as `CREATE`, `ALTER`, `DROP`, `INSERT`, `UPDATE`, or `DELETE` statements. For DML statements (`INSERT`, `UPDATE`, `DELETE`), it returns a Map with `success: true` and `result` set to the number of rows affected. For DDL statements (`CREATE`, `ALTER`, `DROP`), it returns a Map with `success: true` and `result: null`.
+
+For example:
+
+```nextflow
+include { sqlExecute } from 'plugin/nf-sqldb'
+
+// Create a table (returns Map with result: null for DDL operations)
+def createResult = sqlExecute(
+    db: 'foo',
+    statement: '''
+        CREATE TABLE IF NOT EXISTS sample_table (
+            id INTEGER PRIMARY KEY,
+            name VARCHAR(100),
+            value DOUBLE
+        )
+    '''
+)
+println "Create result: $createResult" // [success: true, result: null]
+
+// Insert data (returns Map with result: 1 for number of rows affected)
+def insertedRows = sqlExecute(
+    db: 'foo',
+    statement: "INSERT INTO sample_table (id, name, value) VALUES (1, 'alpha', 10.5)"
+)
+println "Inserted $insertedRows.row(s)" // [success: true, result: 1]
+
+// Update data (returns Map with result: number of rows updated)
+def updatedRows = sqlExecute(
+    db: 'foo',
+    statement: "UPDATE sample_table SET value = 30.5 WHERE name = 'alpha'"
+)
+println "Updated $updatedRows.row(s)" // [success: true, result: <number>]
+
+// Delete data (returns Map with result: number of rows deleted)
+def deletedRows = sqlExecute(
+    db: 'foo',
+    statement: "DELETE FROM sample_table WHERE value > 25"
+)
+println "Deleted $deletedRows.row(s)" // [success: true, result: <number>]
+```
+
+The following options are available:
+
+`db`
+: The database handle. It must be defined under `sql.db` in the Nextflow configuration.
+
+`statement`
+: The SQL statement to execute. This can be any DDL or DML statement that doesn't return a result set.
+
+## Differences Between Dataflow Operators and Execution Function
+
+The plugin provides two different ways to interact with databases:
+
+1. **Dataflow Operators** (`fromQuery` and `sqlInsert`): These are designed to integrate with Nextflow's dataflow programming model, operating on channels.
+
+   - `fromQuery`: Queries data from a database and returns a channel that emits the results.
+   - `sqlInsert`: Takes data from a channel and inserts it into a database.
+
+2. **Execution Function** (`sqlExecute`): This is designed for direct SQL statement execution that doesn't require channel integration.
+   - `sqlExecute`: Executes a SQL statement. For DML operations, it returns the count of affected rows. For DDL operations, it returns null.
+
+Use **Dataflow Operators** when you need to:
+
+- Query data that will flow into your pipeline processing
+- Insert data from your pipeline processing into a database
+
+Use **Execution Function** when you need to:
+
+- Perform database setup (creating tables, schemas, etc.)
+- Execute administrative commands
+- Perform one-off operations (deleting all records, truncating a table, etc.)
+- Execute statements where you don't need the results as part of your dataflow
 
 ## Querying CSV files
 
@@ -172,31 +251,21 @@ The `CSVREAD` function provided by the H2 database engine allows you to query an
 
 Like all dataflow operators in Nextflow, the operators provided by this plugin are executed asynchronously.
 
-In particular, data inserted using the `sqlInsert` operator is *not* guaranteed to be available to any subsequent queries using the `fromQuery` operator, as it is not possible to make a channel factory operation dependent on some upstream operation.
-
-
-## Developtment 
-
-#### Publish artifacts to Maven repo 
-
-Use the following command: 
-
-```
-./gradlew plugins:nf-sqldb:publishMavenPublicationToMavenRepository
-```
+In particular, data inserted using the `sqlInsert` operator is _not_ guaranteed to be available to any subsequent queries using the `fromQuery` operator, as it is not possible to make a channel factory operation dependent on some upstream operation.
 
 
 ## Releases
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.6.0                                               | 2025-05-23                                          | 4                                                  | pditommaso                                         |
- |  0.5.0                                               | 2022-08-30                                          | 2124                                               | pditommaso                                         |
- |  0.4.1                                               | 2022-05-25                                          | 736                                                | pditommaso                                         |
- |  0.4.0                                               | 2022-04-11                                          | 291                                                | pditommaso                                         |
- |  0.3.0                                               | 2022-02-07                                          | 204                                                | pditommaso                                         |
- |  0.2.0                                               | 2021-10-10                                          | 330                                                | pditommaso                                         |
- |  0.1.0                                               | 2021-09-01                                          | 441                                                | pditommaso                                         |
+ |  0.7.0                                               | 2025-05-28                                          | 8                                                  | pditommaso                                         |
+ |  0.6.0                                               | 2025-05-23                                          | 11                                                 | pditommaso                                         |
+ |  0.5.0                                               | 2022-08-30                                          | 2151                                               | pditommaso                                         |
+ |  0.4.1                                               | 2022-05-25                                          | 738                                                | pditommaso                                         |
+ |  0.4.0                                               | 2022-04-11                                          | 292                                                | pditommaso                                         |
+ |  0.3.0                                               | 2022-02-07                                          | 211                                                | pditommaso                                         |
+ |  0.2.0                                               | 2021-10-10                                          | 333                                                | pditommaso                                         |
+ |  0.1.0                                               | 2021-09-01                                          | 443                                                | pditommaso                                         |
 
 
 <script>
@@ -206,38 +275,43 @@ Use the following command:
 
         {
             date: `2021-09-01`,
-            count: 441,
+            count: 443,
             y: '0.1.0' },
 
         {
             date: `2021-10-10`,
-            count: 330,
+            count: 333,
             y: '0.2.0' },
 
         {
             date: `2022-02-07`,
-            count: 204,
+            count: 211,
             y: '0.3.0' },
 
         {
             date: `2022-04-11`,
-            count: 291,
+            count: 292,
             y: '0.4.0' },
 
         {
             date: `2022-05-25`,
-            count: 736,
+            count: 738,
             y: '0.4.1' },
 
         {
             date: `2022-08-30`,
-            count: 2124,
+            count: 2151,
             y: '0.5.0' },
 
         {
             date: `2025-05-23`,
-            count: 4,
+            count: 11,
             y: '0.6.0' },
+
+        {
+            date: `2025-05-28`,
+            count: 8,
+            y: '0.7.0' },
 
     ];
 

@@ -38,9 +38,9 @@ https://edn-es.github.io/ng-pgcache/index.html
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  v1.0.0                                              | 2025-01-28                                          | 14                                                 | github-actions[bot]                                |
+ |  v1.0.0                                              | 2025-01-28                                          | 16                                                 | github-actions[bot]                                |
  |  v0.0.1                                              | 2025-01-28                                          | 1                                                  | github-actions[bot]                                |
- |  v0.0.1-rc3                                          | 2025-01-01                                          | 8                                                  | github-actions[bot]                                |
+ |  v0.0.1-rc3                                          | 2025-01-01                                          | 11                                                 | github-actions[bot]                                |
 
 
 <script>
@@ -50,7 +50,7 @@ https://edn-es.github.io/ng-pgcache/index.html
 
         {
             date: `2025-01-01`,
-            count: 8,
+            count: 11,
             y: 'v0.0.1-rc3' },
 
         {
@@ -60,7 +60,7 @@ https://edn-es.github.io/ng-pgcache/index.html
 
         {
             date: `2025-01-28`,
-            count: 14,
+            count: 16,
             y: 'v1.0.0' },
 
     ];

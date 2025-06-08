@@ -182,7 +182,7 @@ GITHUB_TOKEN=... GITHUB_USERNAME=... GITHUB_COMMIT_EMAIL=... make publish-to-git
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2023-11-22                                          | 2628                                               | clintval                                           |
+ |  1.0.0                                               | 2023-11-22                                          | 2666                                               | clintval                                           |
 
 
 <script>
@@ -192,7 +192,7 @@ GITHUB_TOKEN=... GITHUB_USERNAME=... GITHUB_COMMIT_EMAIL=... make publish-to-git
 
         {
             date: `2023-11-22`,
-            count: 2628,
+            count: 2666,
             y: '1.0.0' },
 
     ];

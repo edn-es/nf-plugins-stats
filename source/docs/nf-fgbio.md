@@ -144,7 +144,7 @@ GITHUB_TOKEN=... GITHUB_USERNAME=... GITHUB_COMMIT_EMAIL=... make publish-to-git
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.0                                               | 2025-05-17                                          | 50                                                 | nh13                                               |
+ |  1.0.0                                               | 2025-05-17                                          | 116                                                | nh13                                               |
 
 
 <script>
@@ -154,7 +154,7 @@ GITHUB_TOKEN=... GITHUB_USERNAME=... GITHUB_COMMIT_EMAIL=... make publish-to-git
 
         {
             date: `2025-05-17`,
-            count: 50,
+            count: 116,
             y: '1.0.0' },
 
     ];

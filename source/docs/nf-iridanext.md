@@ -643,9 +643,9 @@ specific language governing permissions and limitations under the License.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.3.0                                               | 2025-02-17                                          | 1085                                               | emarinier                                          |
- |  0.2.0                                               | 2024-01-22                                          | 8714                                               | apetkau                                            |
- |  0.1.0                                               | 2023-12-15                                          | 269                                                | apetkau                                            |
+ |  0.3.0                                               | 2025-02-17                                          | 1445                                               | emarinier                                          |
+ |  0.2.0                                               | 2024-01-22                                          | 9024                                               | apetkau                                            |
+ |  0.1.0                                               | 2023-12-15                                          | 277                                                | apetkau                                            |
 
 
 <script>
@@ -655,17 +655,17 @@ specific language governing permissions and limitations under the License.
 
         {
             date: `2023-12-15`,
-            count: 269,
+            count: 277,
             y: '0.1.0' },
 
         {
             date: `2024-01-22`,
-            count: 8714,
+            count: 9024,
             y: '0.2.0' },
 
         {
             date: `2025-02-17`,
-            count: 1085,
+            count: 1445,
             y: '0.3.0' },
 
     ];

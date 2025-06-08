@@ -88,6 +88,7 @@ return [
                 'children' => [
 'nf-fgbio' => 'docs/nf-fgbio' ,
 'nf-lamin' => 'docs/nf-lamin' ,
+'nf-nextpie' => 'docs/nf-nextpie' ,
 'nf-synapse' => 'docs/nf-synapse' ,
 'xpack-amzn' => 'docs/xpack-amzn' ,
 'xpack-google' => 'docs/xpack-google' ,

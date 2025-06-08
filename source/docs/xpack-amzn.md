@@ -67,25 +67,25 @@ Copyright 2021-2024, Seqera Labs, S.L. All Rights Reserved.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.3.2                                               | 2024-07-30                                          | 42374                                              | pditommaso                                         |
- |  1.6.0                                               | 2024-05-14                                          | 6832                                               | pditommaso                                         |
- |  1.5.0                                               | 2024-02-05                                          | 1298                                               | pditommaso                                         |
- |  1.4.0                                               | 2023-12-26                                          | 513                                                | pditommaso                                         |
- |  1.3.1                                               | 2023-08-09                                          | 6430                                               | pditommaso                                         |
- |  1.3.0                                               | 2023-05-19                                          | 1141                                               | pditommaso                                         |
- |  1.2.1                                               | 2023-01-14                                          | 2340                                               | pditommaso                                         |
- |  1.2.0                                               | 2022-07-25                                          | 29151                                              | pditommaso                                         |
- |  1.2.0-rc.5                                          | 2022-05-06                                          | 3590                                               | pditommaso                                         |
- |  1.2.0-rc.4                                          | 2022-03-26                                          | 599                                                | pditommaso                                         |
- |  1.2.0-rc.3                                          | 2022-03-19                                          | 363                                                | pditommaso                                         |
- |  1.2.0-rc.2                                          | 2022-03-17                                          | 151                                                | pditommaso                                         |
- |  1.2.0-rc.1                                          | 2022-02-12                                          | 1033                                               | pditommaso                                         |
- |  1.2.0-rc.0                                          | 2022-01-22                                          | 59                                                 | pditommaso                                         |
- |  1.1.0                                               | 2021-07-30                                          | 2413                                               | pditommaso                                         |
- |  1.0.1                                               | 2021-03-09                                          | 4418                                               | pditommaso                                         |
- |  1.0.0                                               | 2021-01-15                                          | 42                                                 | pditommaso                                         |
+ |  1.3.2                                               | 2024-07-30                                          | 43094                                              | pditommaso                                         |
+ |  1.6.0                                               | 2024-05-14                                          | 6862                                               | pditommaso                                         |
+ |  1.5.0                                               | 2024-02-05                                          | 1538                                               | pditommaso                                         |
+ |  1.4.0                                               | 2023-12-26                                          | 515                                                | pditommaso                                         |
+ |  1.3.1                                               | 2023-08-09                                          | 6432                                               | pditommaso                                         |
+ |  1.3.0                                               | 2023-05-19                                          | 1143                                               | pditommaso                                         |
+ |  1.2.1                                               | 2023-01-14                                          | 2356                                               | pditommaso                                         |
+ |  1.2.0                                               | 2022-07-25                                          | 29156                                              | pditommaso                                         |
+ |  1.2.0-rc.5                                          | 2022-05-06                                          | 3593                                               | pditommaso                                         |
+ |  1.2.0-rc.4                                          | 2022-03-26                                          | 601                                                | pditommaso                                         |
+ |  1.2.0-rc.3                                          | 2022-03-19                                          | 364                                                | pditommaso                                         |
+ |  1.2.0-rc.2                                          | 2022-03-17                                          | 153                                                | pditommaso                                         |
+ |  1.2.0-rc.1                                          | 2022-02-12                                          | 1035                                               | pditommaso                                         |
+ |  1.2.0-rc.0                                          | 2022-01-22                                          | 61                                                 | pditommaso                                         |
+ |  1.1.0                                               | 2021-07-30                                          | 2414                                               | pditommaso                                         |
+ |  1.0.1                                               | 2021-03-09                                          | 4421                                               | pditommaso                                         |
+ |  1.0.0                                               | 2021-01-15                                          | 43                                                 | pditommaso                                         |
  |  1.0.0-rc1                                           | 2021-01-15                                          | 7                                                  | pditommaso                                         |
- |  1.0.0-rc0                                           | 2021-01-05                                          | 44                                                 | pditommaso                                         |
+ |  1.0.0-rc0                                           | 2021-01-05                                          | 45                                                 | pditommaso                                         |
 
 
 <script>
@@ -95,7 +95,7 @@ Copyright 2021-2024, Seqera Labs, S.L. All Rights Reserved.
 
         {
             date: `2021-01-05`,
-            count: 44,
+            count: 45,
             y: '1.0.0-rc0' },
 
         {
@@ -105,87 +105,87 @@ Copyright 2021-2024, Seqera Labs, S.L. All Rights Reserved.
 
         {
             date: `2021-01-15`,
-            count: 42,
+            count: 43,
             y: '1.0.0' },
 
         {
             date: `2021-03-09`,
-            count: 4418,
+            count: 4421,
             y: '1.0.1' },
 
         {
             date: `2021-07-30`,
-            count: 2413,
+            count: 2414,
             y: '1.1.0' },
 
         {
             date: `2022-01-22`,
-            count: 59,
+            count: 61,
             y: '1.2.0-rc.0' },
 
         {
             date: `2022-02-12`,
-            count: 1033,
+            count: 1035,
             y: '1.2.0-rc.1' },
 
         {
             date: `2022-03-17`,
-            count: 151,
+            count: 153,
             y: '1.2.0-rc.2' },
 
         {
             date: `2022-03-19`,
-            count: 363,
+            count: 364,
             y: '1.2.0-rc.3' },
 
         {
             date: `2022-03-26`,
-            count: 599,
+            count: 601,
             y: '1.2.0-rc.4' },
 
         {
             date: `2022-05-06`,
-            count: 3590,
+            count: 3593,
             y: '1.2.0-rc.5' },
 
         {
             date: `2022-07-25`,
-            count: 29151,
+            count: 29156,
             y: '1.2.0' },
 
         {
             date: `2023-01-14`,
-            count: 2340,
+            count: 2356,
             y: '1.2.1' },
 
         {
             date: `2023-05-19`,
-            count: 1141,
+            count: 1143,
             y: '1.3.0' },
 
         {
             date: `2023-08-09`,
-            count: 6430,
+            count: 6432,
             y: '1.3.1' },
 
         {
             date: `2023-12-26`,
-            count: 513,
+            count: 515,
             y: '1.4.0' },
 
         {
             date: `2024-02-05`,
-            count: 1298,
+            count: 1538,
             y: '1.5.0' },
 
         {
             date: `2024-05-14`,
-            count: 6832,
+            count: 6862,
             y: '1.6.0' },
 
         {
             date: `2024-07-30`,
-            count: 42374,
+            count: 43094,
             y: '1.3.2' },
 
     ];

@@ -62,7 +62,7 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for inst
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.2.0                                               | 2024-12-11                                          | 79                                                 | jagedn                                             |
+ |  0.2.0                                               | 2024-12-11                                          | 92                                                 | jagedn                                             |
 
 
 <script>
@@ -72,7 +72,7 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for inst
 
         {
             date: `2024-12-11`,
-            count: 79,
+            count: 92,
             y: '0.2.0' },
 
     ];

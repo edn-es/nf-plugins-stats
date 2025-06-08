@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.0.1-rc1                                           | 2025-05-25                                          | 8                                                  | github-actions[bot]                                |
+ |  0.0.1-rc1                                           | 2025-05-25                                          | 19                                                 | github-actions[bot]                                |
 
 
 <script>
@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
         {
             date: `2025-05-25`,
-            count: 8,
+            count: 19,
             y: '0.0.1-rc1' },
 
     ];

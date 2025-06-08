@@ -131,10 +131,10 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.5.0                                               | 2024-03-06                                          | 246                                                | pditommaso                                         |
- |  0.3.0                                               | 2022-08-30                                          | 376                                                | pditommaso                                         |
- |  0.2.0                                               | 2022-05-03                                          | 272                                                | pditommaso                                         |
- |  0.1.0                                               | 2021-07-25                                          | 377                                                | pditommaso                                         |
+ |  0.5.0                                               | 2024-03-06                                          | 253                                                | pditommaso                                         |
+ |  0.3.0                                               | 2022-08-30                                          | 383                                                | pditommaso                                         |
+ |  0.2.0                                               | 2022-05-03                                          | 280                                                | pditommaso                                         |
+ |  0.1.0                                               | 2021-07-25                                          | 384                                                | pditommaso                                         |
 
 
 <script>
@@ -144,22 +144,22 @@ Follow these steps to package, upload and publish the plugin:
 
         {
             date: `2021-07-25`,
-            count: 377,
+            count: 384,
             y: '0.1.0' },
 
         {
             date: `2022-05-03`,
-            count: 272,
+            count: 280,
             y: '0.2.0' },
 
         {
             date: `2022-08-30`,
-            count: 376,
+            count: 383,
             y: '0.3.0' },
 
         {
             date: `2024-03-06`,
-            count: 246,
+            count: 253,
             y: '0.5.0' },
 
     ];

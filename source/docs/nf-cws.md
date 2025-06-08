@@ -30,8 +30,7 @@ see the [scheduler repository](https://github.com/CommonWorkflowScheduler/Kubern
 
 ### How to use
 
-To run Nextflow with this plugin, you need version >=`24.04.0` and <=`25.02.3-edge`
-(because Nextflow's Kubernetes refactor in `25.03.0-edge` is not supported *yet*).
+To run Nextflow with this plugin, you need version >=`24.04.0`.
 To activate the plugin, add `-plugins nf-cws` to your `nextflow` call or add the following to your `nextflow.config`:
 
 ```
@@ -212,14 +211,15 @@ Scientific Data Analysis."
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  2.0.0                                               | 2025-05-16                                          | 6                                                  | Lehmann-Fabian                                     |
- |  1.0.6                                               | 2025-04-23                                          | 7                                                  | Lehmann-Fabian                                     |
- |  1.0.5                                               | 2024-07-22                                          | 280                                                | Lehmann-Fabian                                     |
- |  1.0.4                                               | 2023-11-02                                          | 190                                                | Lehmann-Fabian                                     |
- |  1.0.3                                               | 2023-10-02                                          | 173                                                | Lehmann-Fabian                                     |
- |  1.0.2                                               | 2023-07-25                                          | 296                                                | Lehmann-Fabian                                     |
- |  1.0.1                                               | 2023-06-09                                          | 218                                                | Lehmann-Fabian                                     |
- |  1.0.0                                               | 2023-03-20                                          | 230                                                | Lehmann-Fabian                                     |
+ |  2.0.1                                               | 2025-05-28                                          | 18                                                 | Lehmann-Fabian                                     |
+ |  2.0.0                                               | 2025-05-16                                          | 17                                                 | Lehmann-Fabian                                     |
+ |  1.0.6                                               | 2025-04-23                                          | 14                                                 | Lehmann-Fabian                                     |
+ |  1.0.5                                               | 2024-07-22                                          | 287                                                | Lehmann-Fabian                                     |
+ |  1.0.4                                               | 2023-11-02                                          | 197                                                | Lehmann-Fabian                                     |
+ |  1.0.3                                               | 2023-10-02                                          | 180                                                | Lehmann-Fabian                                     |
+ |  1.0.2                                               | 2023-07-25                                          | 304                                                | Lehmann-Fabian                                     |
+ |  1.0.1                                               | 2023-06-09                                          | 226                                                | Lehmann-Fabian                                     |
+ |  1.0.0                                               | 2023-03-20                                          | 238                                                | Lehmann-Fabian                                     |
 
 
 <script>
@@ -229,43 +229,48 @@ Scientific Data Analysis."
 
         {
             date: `2023-03-20`,
-            count: 230,
+            count: 238,
             y: '1.0.0' },
 
         {
             date: `2023-06-09`,
-            count: 218,
+            count: 226,
             y: '1.0.1' },
 
         {
             date: `2023-07-25`,
-            count: 296,
+            count: 304,
             y: '1.0.2' },
 
         {
             date: `2023-10-02`,
-            count: 173,
+            count: 180,
             y: '1.0.3' },
 
         {
             date: `2023-11-02`,
-            count: 190,
+            count: 197,
             y: '1.0.4' },
 
         {
             date: `2024-07-22`,
-            count: 280,
+            count: 287,
             y: '1.0.5' },
 
         {
             date: `2025-04-23`,
-            count: 7,
+            count: 14,
             y: '1.0.6' },
 
         {
             date: `2025-05-16`,
-            count: 6,
+            count: 17,
             y: '2.0.0' },
+
+        {
+            date: `2025-05-28`,
+            count: 18,
+            y: '2.0.1' },
 
     ];
 

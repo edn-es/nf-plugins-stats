@@ -106,20 +106,20 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  Kushiro                                             | 2024-08-07                                          | 56184                                              | adamrtalbot                                        |
- |  Asahikawa                                           | 2023-11-21                                          | 380506                                             | nvnieuwk                                           |
- |  Wakayama                                            | 2023-11-16                                          | 3291                                               | nvnieuwk                                           |
- |  Shoyu                                               | 2023-10-23                                          | 14064                                              | nvnieuwk                                           |
- |  Miso                                                | 2023-10-18                                          | 1927                                               | nvnieuwk                                           |
- |  Tonkotsu                                            | 2023-10-12                                          | 2909                                               | mirpedrol                                          |
- |  0.3.4                                               | 2023-10-10                                          | 60                                                 | mirpedrol                                          |
- |  0.3.3                                               | 2023-10-10                                          | 1422                                               | mirpedrol                                          |
- |  0.3.2                                               | 2023-09-19                                          | 10325                                              | nvnieuwk                                           |
- |  0.3.1                                               | 2023-07-12                                          | 17484                                              | mirpedrol                                          |
- |  0.3.0                                               | 2023-07-10                                          | 699                                                | mirpedrol                                          |
- |  0.2.1                                               | 2023-06-06                                          | 15144                                              | nvnieuwk                                           |
- |  0.2.0                                               | 2023-06-06                                          | 278                                                | nvnieuwk                                           |
- |  0.1.0                                               | 2023-05-05                                          | 1392                                               | mirpedrol                                          |
+ |  Kushiro                                             | 2024-08-07                                          | 58462                                              | adamrtalbot                                        |
+ |  Asahikawa                                           | 2023-11-21                                          | 383245                                             | nvnieuwk                                           |
+ |  Wakayama                                            | 2023-11-16                                          | 3300                                               | nvnieuwk                                           |
+ |  Shoyu                                               | 2023-10-23                                          | 14072                                              | nvnieuwk                                           |
+ |  Miso                                                | 2023-10-18                                          | 1936                                               | nvnieuwk                                           |
+ |  Tonkotsu                                            | 2023-10-12                                          | 2916                                               | mirpedrol                                          |
+ |  0.3.4                                               | 2023-10-10                                          | 61                                                 | mirpedrol                                          |
+ |  0.3.3                                               | 2023-10-10                                          | 1432                                               | mirpedrol                                          |
+ |  0.3.2                                               | 2023-09-19                                          | 10334                                              | nvnieuwk                                           |
+ |  0.3.1                                               | 2023-07-12                                          | 17506                                              | mirpedrol                                          |
+ |  0.3.0                                               | 2023-07-10                                          | 707                                                | mirpedrol                                          |
+ |  0.2.1                                               | 2023-06-06                                          | 16093                                              | nvnieuwk                                           |
+ |  0.2.0                                               | 2023-06-06                                          | 285                                                | nvnieuwk                                           |
+ |  0.1.0                                               | 2023-05-05                                          | 1400                                               | mirpedrol                                          |
 
 
 <script>
@@ -129,72 +129,72 @@ We would like to thank the key contributors who include (but are not limited to)
 
         {
             date: `2023-05-05`,
-            count: 1392,
+            count: 1400,
             y: '0.1.0' },
 
         {
             date: `2023-06-06`,
-            count: 278,
+            count: 285,
             y: '0.2.0' },
 
         {
             date: `2023-06-06`,
-            count: 15144,
+            count: 16093,
             y: '0.2.1' },
 
         {
             date: `2023-07-10`,
-            count: 699,
+            count: 707,
             y: '0.3.0' },
 
         {
             date: `2023-07-12`,
-            count: 17484,
+            count: 17506,
             y: '0.3.1' },
 
         {
             date: `2023-09-19`,
-            count: 10325,
+            count: 10334,
             y: '0.3.2' },
 
         {
             date: `2023-10-10`,
-            count: 1422,
+            count: 1432,
             y: '0.3.3' },
 
         {
             date: `2023-10-10`,
-            count: 60,
+            count: 61,
             y: '0.3.4' },
 
         {
             date: `2023-10-12`,
-            count: 2909,
+            count: 2916,
             y: 'Tonkotsu' },
 
         {
             date: `2023-10-18`,
-            count: 1927,
+            count: 1936,
             y: 'Miso' },
 
         {
             date: `2023-10-23`,
-            count: 14064,
+            count: 14072,
             y: 'Shoyu' },
 
         {
             date: `2023-11-16`,
-            count: 3291,
+            count: 3300,
             y: 'Wakayama' },
 
         {
             date: `2023-11-21`,
-            count: 380506,
+            count: 383245,
             y: 'Asahikawa' },
 
         {
             date: `2024-08-07`,
-            count: 56184,
+            count: 58462,
             y: 'Kushiro' },
 
     ];

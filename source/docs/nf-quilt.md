@@ -83,8 +83,8 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for inst
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.2.0                                               | 2022-08-23                                          | 196                                                | pditommaso                                         |
- |  0.1.0                                               | 2022-08-12                                          | 166                                                | pditommaso                                         |
+ |  0.2.0                                               | 2022-08-23                                          | 197                                                | pditommaso                                         |
+ |  0.1.0                                               | 2022-08-12                                          | 167                                                | pditommaso                                         |
 
 
 <script>
@@ -94,12 +94,12 @@ Refer to the [nf-hello](https://github.com/nextflow-io/nf-hello) README for inst
 
         {
             date: `2022-08-12`,
-            count: 166,
+            count: 167,
             y: '0.1.0' },
 
         {
             date: `2022-08-23`,
-            count: 196,
+            count: 197,
             y: '0.2.0' },
 
     ];

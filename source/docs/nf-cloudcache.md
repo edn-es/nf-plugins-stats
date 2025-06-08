@@ -19,15 +19,15 @@ Plugin implementing a cache metadata DB over cloud object storage
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.4.3                                               | 2025-01-20                                          | 905                                                | pditommaso                                         |
- |  0.4.2                                               | 2024-08-05                                          | 18469                                              | pditommaso                                         |
- |  0.3.0-patch1                                        | 2024-05-28                                          | 1109                                               | pditommaso                                         |
- |  0.4.1                                               | 2024-03-10                                          | 18910                                              | pditommaso                                         |
- |  0.4.0                                               | 2024-02-05                                          | 201                                                | pditommaso                                         |
- |  0.3.1                                               | 2023-11-24                                          | 1469                                               | pditommaso                                         |
- |  0.3.0                                               | 2023-10-10                                          | 15928                                              | pditommaso                                         |
- |  0.2.0                                               | 2023-08-17                                          | 1932                                               | pditommaso                                         |
- |  0.1.0                                               | 2023-07-22                                          | 172                                                | pditommaso                                         |
+ |  0.4.3                                               | 2025-01-20                                          | 1242                                               | pditommaso                                         |
+ |  0.4.2                                               | 2024-08-05                                          | 19261                                              | pditommaso                                         |
+ |  0.3.0-patch1                                        | 2024-05-28                                          | 1137                                               | pditommaso                                         |
+ |  0.4.1                                               | 2024-03-10                                          | 19472                                              | pditommaso                                         |
+ |  0.4.0                                               | 2024-02-05                                          | 209                                                | pditommaso                                         |
+ |  0.3.1                                               | 2023-11-24                                          | 1479                                               | pditommaso                                         |
+ |  0.3.0                                               | 2023-10-10                                          | 16264                                              | pditommaso                                         |
+ |  0.2.0                                               | 2023-08-17                                          | 1967                                               | pditommaso                                         |
+ |  0.1.0                                               | 2023-07-22                                          | 181                                                | pditommaso                                         |
 
 
 <script>
@@ -37,47 +37,47 @@ Plugin implementing a cache metadata DB over cloud object storage
 
         {
             date: `2023-07-22`,
-            count: 172,
+            count: 181,
             y: '0.1.0' },
 
         {
             date: `2023-08-17`,
-            count: 1932,
+            count: 1967,
             y: '0.2.0' },
 
         {
             date: `2023-10-10`,
-            count: 15928,
+            count: 16264,
             y: '0.3.0' },
 
         {
             date: `2023-11-24`,
-            count: 1469,
+            count: 1479,
             y: '0.3.1' },
 
         {
             date: `2024-02-05`,
-            count: 201,
+            count: 209,
             y: '0.4.0' },
 
         {
             date: `2024-03-10`,
-            count: 18910,
+            count: 19472,
             y: '0.4.1' },
 
         {
             date: `2024-05-28`,
-            count: 1109,
+            count: 1137,
             y: '0.3.0-patch1' },
 
         {
             date: `2024-08-05`,
-            count: 18469,
+            count: 19261,
             y: '0.4.2' },
 
         {
             date: `2025-01-20`,
-            count: 905,
+            count: 1242,
             y: '0.4.3' },
 
     ];

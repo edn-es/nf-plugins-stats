@@ -17,8 +17,8 @@ section: content
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.0.1                                               | 2024-03-15                                          | 183                                                | YellowDogMachine                                   |
- |  1.0.0                                               | 2024-02-08                                          | 164                                                | YellowDogMachine                                   |
+ |  1.0.1                                               | 2024-03-15                                          | 191                                                | YellowDogMachine                                   |
+ |  1.0.0                                               | 2024-02-08                                          | 173                                                | YellowDogMachine                                   |
  |  0.1.0                                               | 2024-02-08                                          | 1                                                  | YellowDogMachine                                   |
 
 
@@ -34,12 +34,12 @@ section: content
 
         {
             date: `2024-02-08`,
-            count: 164,
+            count: 173,
             y: '1.0.0' },
 
         {
             date: `2024-03-15`,
-            count: 183,
+            count: 191,
             y: '1.0.1' },
 
     ];

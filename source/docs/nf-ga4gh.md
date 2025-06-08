@@ -160,18 +160,18 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.1.0-patch1                                        | 2024-05-28                                          | 30                                                 | pditommaso                                         |
- |  1.3.0                                               | 2024-05-13                                          | 527                                                | pditommaso                                         |
- |  1.2.0                                               | 2024-02-05                                          | 23                                                 | pditommaso                                         |
- |  1.1.1                                               | 2023-11-24                                          | 35                                                 | pditommaso                                         |
- |  1.1.0                                               | 2023-07-22                                          | 114                                                | pditommaso                                         |
- |  1.0.6                                               | 2023-05-15                                          | 128                                                | pditommaso                                         |
- |  1.0.5                                               | 2023-04-13                                          | 322                                                | pditommaso                                         |
- |  1.0.4                                               | 2022-09-19                                          | 153                                                | pditommaso                                         |
- |  1.0.3                                               | 2021-05-28                                          | 137                                                | pditommaso                                         |
- |  1.0.2                                               | 2021-03-05                                          | 48                                                 | pditommaso                                         |
- |  1.0.1                                               | 2021-01-15                                          | 54                                                 | pditommaso                                         |
- |  1.0.0                                               | 2021-01-04                                          | 25                                                 | pditommaso                                         |
+ |  1.1.0-patch1                                        | 2024-05-28                                          | 31                                                 | pditommaso                                         |
+ |  1.3.0                                               | 2024-05-13                                          | 535                                                | pditommaso                                         |
+ |  1.2.0                                               | 2024-02-05                                          | 26                                                 | pditommaso                                         |
+ |  1.1.1                                               | 2023-11-24                                          | 38                                                 | pditommaso                                         |
+ |  1.1.0                                               | 2023-07-22                                          | 116                                                | pditommaso                                         |
+ |  1.0.6                                               | 2023-05-15                                          | 131                                                | pditommaso                                         |
+ |  1.0.5                                               | 2023-04-13                                          | 327                                                | pditommaso                                         |
+ |  1.0.4                                               | 2022-09-19                                          | 155                                                | pditommaso                                         |
+ |  1.0.3                                               | 2021-05-28                                          | 138                                                | pditommaso                                         |
+ |  1.0.2                                               | 2021-03-05                                          | 50                                                 | pditommaso                                         |
+ |  1.0.1                                               | 2021-01-15                                          | 55                                                 | pditommaso                                         |
+ |  1.0.0                                               | 2021-01-04                                          | 27                                                 | pditommaso                                         |
 
 
 <script>
@@ -181,62 +181,62 @@ Follow these steps to package, upload and publish the plugin:
 
         {
             date: `2021-01-04`,
-            count: 25,
+            count: 27,
             y: '1.0.0' },
 
         {
             date: `2021-01-15`,
-            count: 54,
+            count: 55,
             y: '1.0.1' },
 
         {
             date: `2021-03-05`,
-            count: 48,
+            count: 50,
             y: '1.0.2' },
 
         {
             date: `2021-05-28`,
-            count: 137,
+            count: 138,
             y: '1.0.3' },
 
         {
             date: `2022-09-19`,
-            count: 153,
+            count: 155,
             y: '1.0.4' },
 
         {
             date: `2023-04-13`,
-            count: 322,
+            count: 327,
             y: '1.0.5' },
 
         {
             date: `2023-05-15`,
-            count: 128,
+            count: 131,
             y: '1.0.6' },
 
         {
             date: `2023-07-22`,
-            count: 114,
+            count: 116,
             y: '1.1.0' },
 
         {
             date: `2023-11-24`,
-            count: 35,
+            count: 38,
             y: '1.1.1' },
 
         {
             date: `2024-02-05`,
-            count: 23,
+            count: 26,
             y: '1.2.0' },
 
         {
             date: `2024-05-13`,
-            count: 527,
+            count: 535,
             y: '1.3.0' },
 
         {
             date: `2024-05-28`,
-            count: 30,
+            count: 31,
             y: '1.1.0-patch1' },
 
     ];

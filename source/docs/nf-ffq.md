@@ -141,7 +141,7 @@ Following these step to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.2.0                                               | 2024-03-06                                          | 160                                                | pditommaso                                         |
+ |  0.2.0                                               | 2024-03-06                                          | 168                                                | pditommaso                                         |
 
 
 <script>
@@ -151,7 +151,7 @@ Following these step to package, upload and publish the plugin:
 
         {
             date: `2024-03-06`,
-            count: 160,
+            count: 168,
             y: '0.2.0' },
 
     ];

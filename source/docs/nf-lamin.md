@@ -139,7 +139,7 @@ contributing to this repository.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.0.1                                               | 2025-04-24                                          | 15                                                 | rcannood                                           |
+ |  0.0.1                                               | 2025-04-24                                          | 17                                                 | rcannood                                           |
 
 
 <script>
@@ -149,7 +149,7 @@ contributing to this repository.
 
         {
             date: `2025-04-24`,
-            count: 15,
+            count: 17,
             y: '0.0.1' },
 
     ];

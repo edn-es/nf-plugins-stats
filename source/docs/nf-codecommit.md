@@ -19,19 +19,19 @@ Amazon CodeCommit plugin for Nextflow
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.2.3                                               | 2025-01-20                                          | 38                                                 | pditommaso                                         |
- |  0.2.2                                               | 2024-08-05                                          | 1926                                               | pditommaso                                         |
- |  0.2.1                                               | 2024-08-01                                          | 238                                                | pditommaso                                         |
- |  0.1.5-patch2                                        | 2024-07-30                                          | 160                                                | pditommaso                                         |
- |  0.1.5-patch1                                        | 2024-05-28                                          | 171                                                | pditommaso                                         |
- |  0.2.0                                               | 2024-02-05                                          | 214                                                | pditommaso                                         |
- |  0.1.6                                               | 2023-11-24                                          | 204                                                | pditommaso                                         |
- |  0.1.5                                               | 2023-05-15                                          | 5399                                               | pditommaso                                         |
- |  0.1.4                                               | 2023-04-15                                          | 5986                                               | pditommaso                                         |
- |  0.1.3                                               | 2023-01-14                                          | 966                                                | pditommaso                                         |
- |  0.1.2                                               | 2022-06-17                                          | 6640                                               | pditommaso                                         |
+ |  0.2.3                                               | 2025-01-20                                          | 46                                                 | pditommaso                                         |
+ |  0.2.2                                               | 2024-08-05                                          | 2106                                               | pditommaso                                         |
+ |  0.2.1                                               | 2024-08-01                                          | 255                                                | pditommaso                                         |
+ |  0.1.5-patch2                                        | 2024-07-30                                          | 169                                                | pditommaso                                         |
+ |  0.1.5-patch1                                        | 2024-05-28                                          | 178                                                | pditommaso                                         |
+ |  0.2.0                                               | 2024-02-05                                          | 222                                                | pditommaso                                         |
+ |  0.1.6                                               | 2023-11-24                                          | 212                                                | pditommaso                                         |
+ |  0.1.5                                               | 2023-05-15                                          | 5407                                               | pditommaso                                         |
+ |  0.1.4                                               | 2023-04-15                                          | 6021                                               | pditommaso                                         |
+ |  0.1.3                                               | 2023-01-14                                          | 974                                                | pditommaso                                         |
+ |  0.1.2                                               | 2022-06-17                                          | 6649                                               | pditommaso                                         |
  |  0.1.1                                               | 2022-06-16                                          | 2                                                  | pditommaso                                         |
- |  0.1.0                                               | 2022-06-09                                          | 269                                                | pditommaso                                         |
+ |  0.1.0                                               | 2022-06-09                                          | 277                                                | pditommaso                                         |
 
 
 <script>
@@ -41,7 +41,7 @@ Amazon CodeCommit plugin for Nextflow
 
         {
             date: `2022-06-09`,
-            count: 269,
+            count: 277,
             y: '0.1.0' },
 
         {
@@ -51,57 +51,57 @@ Amazon CodeCommit plugin for Nextflow
 
         {
             date: `2022-06-17`,
-            count: 6640,
+            count: 6649,
             y: '0.1.2' },
 
         {
             date: `2023-01-14`,
-            count: 966,
+            count: 974,
             y: '0.1.3' },
 
         {
             date: `2023-04-15`,
-            count: 5986,
+            count: 6021,
             y: '0.1.4' },
 
         {
             date: `2023-05-15`,
-            count: 5399,
+            count: 5407,
             y: '0.1.5' },
 
         {
             date: `2023-11-24`,
-            count: 204,
+            count: 212,
             y: '0.1.6' },
 
         {
             date: `2024-02-05`,
-            count: 214,
+            count: 222,
             y: '0.2.0' },
 
         {
             date: `2024-05-28`,
-            count: 171,
+            count: 178,
             y: '0.1.5-patch1' },
 
         {
             date: `2024-07-30`,
-            count: 160,
+            count: 169,
             y: '0.1.5-patch2' },
 
         {
             date: `2024-08-01`,
-            count: 238,
+            count: 255,
             y: '0.2.1' },
 
         {
             date: `2024-08-05`,
-            count: 1926,
+            count: 2106,
             y: '0.2.2' },
 
         {
             date: `2025-01-20`,
-            count: 38,
+            count: 46,
             y: '0.2.3' },
 
     ];

@@ -185,10 +185,10 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.4.0                                               | 2024-04-15                                          | 492                                                | pditommaso                                         |
- |  0.3.0                                               | 2024-04-05                                          | 153                                                | pditommaso                                         |
+ |  0.4.0                                               | 2024-04-15                                          | 558                                                | pditommaso                                         |
+ |  0.3.0                                               | 2024-04-05                                          | 162                                                | pditommaso                                         |
  |  0.2.0                                               | 2024-03-20                                          | 1                                                  | pditommaso                                         |
- |  0.1.0                                               | 2024-03-19                                          | 154                                                | pditommaso                                         |
+ |  0.1.0                                               | 2024-03-19                                          | 162                                                | pditommaso                                         |
 
 
 <script>
@@ -198,7 +198,7 @@ Follow these steps to package, upload and publish the plugin:
 
         {
             date: `2024-03-19`,
-            count: 154,
+            count: 162,
             y: '0.1.0' },
 
         {
@@ -208,12 +208,12 @@ Follow these steps to package, upload and publish the plugin:
 
         {
             date: `2024-04-05`,
-            count: 153,
+            count: 162,
             y: '0.3.0' },
 
         {
             date: `2024-04-15`,
-            count: 492,
+            count: 558,
             y: '0.4.0' },
 
     ];
