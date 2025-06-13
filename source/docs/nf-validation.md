@@ -106,18 +106,18 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  Kushiro                                             | 2024-08-07                                          | 58462                                              | adamrtalbot                                        |
- |  Asahikawa                                           | 2023-11-21                                          | 383245                                             | nvnieuwk                                           |
- |  Wakayama                                            | 2023-11-16                                          | 3300                                               | nvnieuwk                                           |
+ |  Kushiro                                             | 2024-08-07                                          | 59300                                              | adamrtalbot                                        |
+ |  Asahikawa                                           | 2023-11-21                                          | 384265                                             | nvnieuwk                                           |
+ |  Wakayama                                            | 2023-11-16                                          | 3301                                               | nvnieuwk                                           |
  |  Shoyu                                               | 2023-10-23                                          | 14072                                              | nvnieuwk                                           |
- |  Miso                                                | 2023-10-18                                          | 1936                                               | nvnieuwk                                           |
- |  Tonkotsu                                            | 2023-10-12                                          | 2916                                               | mirpedrol                                          |
+ |  Miso                                                | 2023-10-18                                          | 1941                                               | nvnieuwk                                           |
+ |  Tonkotsu                                            | 2023-10-12                                          | 2918                                               | mirpedrol                                          |
  |  0.3.4                                               | 2023-10-10                                          | 61                                                 | mirpedrol                                          |
  |  0.3.3                                               | 2023-10-10                                          | 1432                                               | mirpedrol                                          |
- |  0.3.2                                               | 2023-09-19                                          | 10334                                              | nvnieuwk                                           |
- |  0.3.1                                               | 2023-07-12                                          | 17506                                              | mirpedrol                                          |
+ |  0.3.2                                               | 2023-09-19                                          | 10349                                              | nvnieuwk                                           |
+ |  0.3.1                                               | 2023-07-12                                          | 17509                                              | mirpedrol                                          |
  |  0.3.0                                               | 2023-07-10                                          | 707                                                | mirpedrol                                          |
- |  0.2.1                                               | 2023-06-06                                          | 16093                                              | nvnieuwk                                           |
+ |  0.2.1                                               | 2023-06-06                                          | 17173                                              | nvnieuwk                                           |
  |  0.2.0                                               | 2023-06-06                                          | 285                                                | nvnieuwk                                           |
  |  0.1.0                                               | 2023-05-05                                          | 1400                                               | mirpedrol                                          |
 
@@ -139,7 +139,7 @@ We would like to thank the key contributors who include (but are not limited to)
 
         {
             date: `2023-06-06`,
-            count: 16093,
+            count: 17173,
             y: '0.2.1' },
 
         {
@@ -149,12 +149,12 @@ We would like to thank the key contributors who include (but are not limited to)
 
         {
             date: `2023-07-12`,
-            count: 17506,
+            count: 17509,
             y: '0.3.1' },
 
         {
             date: `2023-09-19`,
-            count: 10334,
+            count: 10349,
             y: '0.3.2' },
 
         {
@@ -169,12 +169,12 @@ We would like to thank the key contributors who include (but are not limited to)
 
         {
             date: `2023-10-12`,
-            count: 2916,
+            count: 2918,
             y: 'Tonkotsu' },
 
         {
             date: `2023-10-18`,
-            count: 1936,
+            count: 1941,
             y: 'Miso' },
 
         {
@@ -184,17 +184,17 @@ We would like to thank the key contributors who include (but are not limited to)
 
         {
             date: `2023-11-16`,
-            count: 3300,
+            count: 3301,
             y: 'Wakayama' },
 
         {
             date: `2023-11-21`,
-            count: 383245,
+            count: 384265,
             y: 'Asahikawa' },
 
         {
             date: `2024-08-07`,
-            count: 58462,
+            count: 59300,
             y: 'Kushiro' },
 
     ];

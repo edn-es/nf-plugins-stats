@@ -22,29 +22,29 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.17.0                                              | 2025-06-02                                          | 2                                                  | pditommaso                                         |
- |  1.16.0                                              | 2025-05-08                                          | 235                                                | pditommaso                                         |
+ |  1.17.0                                              | 2025-06-02                                          | 21                                                 | pditommaso                                         |
+ |  1.16.0                                              | 2025-05-08                                          | 279                                                | pditommaso                                         |
  |  1.15.0                                              | 2025-04-23                                          | 167                                                | pditommaso                                         |
  |  1.14.1                                              | 2025-03-19                                          | 131                                                | pditommaso                                         |
  |  1.14.0                                              | 2025-03-18                                          | 14                                                 | pditommaso                                         |
  |  1.13.0                                              | 2025-02-12                                          | 166                                                | pditommaso                                         |
  |  1.12.0                                              | 2025-01-20                                          | 83                                                 | pditommaso                                         |
  |  1.11.0                                              | 2024-12-03                                          | 166                                                | pditommaso                                         |
- |  1.10.2                                              | 2024-11-18                                          | 5246                                               | pditommaso                                         |
- |  1.10.1                                              | 2024-10-27                                          | 492                                                | pditommaso                                         |
+ |  1.10.2                                              | 2024-11-18                                          | 5368                                               | pditommaso                                         |
+ |  1.10.1                                              | 2024-10-27                                          | 493                                                | pditommaso                                         |
  |  1.10.0                                              | 2024-10-02                                          | 294                                                | pditommaso                                         |
  |  1.9.0                                               | 2024-09-04                                          | 312                                                | pditommaso                                         |
  |  1.8.1                                               | 2024-08-05                                          | 788                                                | pditommaso                                         |
- |  1.6.1                                               | 2024-08-01                                          | 10231                                              | pditommaso                                         |
+ |  1.6.1                                               | 2024-08-01                                          | 10319                                              | pditommaso                                         |
  |  1.3.3-patch3                                        | 2024-07-31                                          | 155                                                | pditommaso                                         |
- |  1.8.0                                               | 2024-07-08                                          | 1059                                               | pditommaso                                         |
+ |  1.8.0                                               | 2024-07-08                                          | 1063                                               | pditommaso                                         |
  |  1.7.0                                               | 2024-06-17                                          | 786                                                | pditommaso                                         |
  |  1.3.3-patch2                                        | 2024-06-11                                          | 226                                                | pditommaso                                         |
- |  1.3.3-patch1                                        | 2024-05-28                                          | 199                                                | pditommaso                                         |
- |  1.6.0                                               | 2024-04-15                                          | 10503                                              | pditommaso                                         |
+ |  1.3.3-patch1                                        | 2024-05-28                                          | 200                                                | pditommaso                                         |
+ |  1.6.0                                               | 2024-04-15                                          | 10530                                              | pditommaso                                         |
  |  1.5.1                                               | 2024-03-10                                          | 877                                                | pditommaso                                         |
  |  1.5.0                                               | 2024-02-05                                          | 566                                                | pditommaso                                         |
- |  1.3.3                                               | 2024-01-12                                          | 4161                                               | pditommaso                                         |
+ |  1.3.3                                               | 2024-01-12                                          | 4169                                               | pditommaso                                         |
  |  1.4.0                                               | 2023-11-24                                          | 488                                                | pditommaso                                         |
  |  1.3.2                                               | 2023-09-27                                          | 4105                                               | pditommaso                                         |
  |  1.3.1                                               | 2023-09-10                                          | 213                                                | pditommaso                                         |
@@ -55,13 +55,13 @@ This repository only holds plugin artefacts. Source code is available at [this l
  |  1.1.2                                               | 2023-06-19                                          | 123                                                | pditommaso                                         |
  |  1.1.1                                               | 2023-06-14                                          | 2199                                               | pditommaso                                         |
  |  1.1.0                                               | 2023-05-15                                          | 2172                                               | pditommaso                                         |
- |  1.0.1                                               | 2023-04-15                                          | 4113                                               | pditommaso                                         |
+ |  1.0.1                                               | 2023-04-15                                          | 4192                                               | pditommaso                                         |
  |  0.14.3                                              | 2023-04-13                                          | 309                                                | pditommaso                                         |
  |  1.0.0                                               | 2023-04-01                                          | 208                                                | pditommaso                                         |
  |  0.16.0                                              | 2023-03-19                                          | 170                                                | pditommaso                                         |
  |  0.15.1                                              | 2023-01-14                                          | 139                                                | pditommaso                                         |
  |  0.15.0                                              | 2022-11-23                                          | 281                                                | pditommaso                                         |
- |  0.14.2                                              | 2022-09-19                                          | 7476                                               | pditommaso                                         |
+ |  0.14.2                                              | 2022-09-19                                          | 7480                                               | pditommaso                                         |
  |  0.14.1                                              | 2022-09-10                                          | 219                                                | pditommaso                                         |
  |  0.14.0                                              | 2022-09-07                                          | 218                                                | pditommaso                                         |
  |  0.13.5                                              | 2022-09-01                                          | 214                                                | pditommaso                                         |
@@ -203,7 +203,7 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
         {
             date: `2022-09-19`,
-            count: 7476,
+            count: 7480,
             y: '0.14.2' },
 
         {
@@ -233,7 +233,7 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
         {
             date: `2023-04-15`,
-            count: 4113,
+            count: 4192,
             y: '1.0.1' },
 
         {
@@ -288,7 +288,7 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
         {
             date: `2024-01-12`,
-            count: 4161,
+            count: 4169,
             y: '1.3.3' },
 
         {
@@ -303,12 +303,12 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
         {
             date: `2024-04-15`,
-            count: 10503,
+            count: 10530,
             y: '1.6.0' },
 
         {
             date: `2024-05-28`,
-            count: 199,
+            count: 200,
             y: '1.3.3-patch1' },
 
         {
@@ -323,7 +323,7 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
         {
             date: `2024-07-08`,
-            count: 1059,
+            count: 1063,
             y: '1.8.0' },
 
         {
@@ -333,7 +333,7 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
         {
             date: `2024-08-01`,
-            count: 10231,
+            count: 10319,
             y: '1.6.1' },
 
         {
@@ -353,12 +353,12 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
         {
             date: `2024-10-27`,
-            count: 492,
+            count: 493,
             y: '1.10.1' },
 
         {
             date: `2024-11-18`,
-            count: 5246,
+            count: 5368,
             y: '1.10.2' },
 
         {
@@ -393,12 +393,12 @@ This repository only holds plugin artefacts. Source code is available at [this l
 
         {
             date: `2025-05-08`,
-            count: 235,
+            count: 279,
             y: '1.16.0' },
 
         {
             date: `2025-06-02`,
-            count: 2,
+            count: 21,
             y: '1.17.0' },
 
     ];

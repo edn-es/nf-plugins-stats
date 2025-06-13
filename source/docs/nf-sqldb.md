@@ -258,14 +258,14 @@ In particular, data inserted using the `sqlInsert` operator is _not_ guaranteed 
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.7.0                                               | 2025-05-28                                          | 8                                                  | pditommaso                                         |
+ |  0.7.0                                               | 2025-05-28                                          | 9                                                  | pditommaso                                         |
  |  0.6.0                                               | 2025-05-23                                          | 11                                                 | pditommaso                                         |
- |  0.5.0                                               | 2022-08-30                                          | 2151                                               | pditommaso                                         |
+ |  0.5.0                                               | 2022-08-30                                          | 2155                                               | pditommaso                                         |
  |  0.4.1                                               | 2022-05-25                                          | 738                                                | pditommaso                                         |
  |  0.4.0                                               | 2022-04-11                                          | 292                                                | pditommaso                                         |
  |  0.3.0                                               | 2022-02-07                                          | 211                                                | pditommaso                                         |
  |  0.2.0                                               | 2021-10-10                                          | 333                                                | pditommaso                                         |
- |  0.1.0                                               | 2021-09-01                                          | 443                                                | pditommaso                                         |
+ |  0.1.0                                               | 2021-09-01                                          | 447                                                | pditommaso                                         |
 
 
 <script>
@@ -275,7 +275,7 @@ In particular, data inserted using the `sqlInsert` operator is _not_ guaranteed 
 
         {
             date: `2021-09-01`,
-            count: 443,
+            count: 447,
             y: '0.1.0' },
 
         {
@@ -300,7 +300,7 @@ In particular, data inserted using the `sqlInsert` operator is _not_ guaranteed 
 
         {
             date: `2022-08-30`,
-            count: 2151,
+            count: 2155,
             y: '0.5.0' },
 
         {
@@ -310,7 +310,7 @@ In particular, data inserted using the `sqlInsert` operator is _not_ guaranteed 
 
         {
             date: `2025-05-28`,
-            count: 8,
+            count: 9,
             y: '0.7.0' },
 
     ];

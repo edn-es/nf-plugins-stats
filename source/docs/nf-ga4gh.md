@@ -161,12 +161,12 @@ Follow these steps to package, upload and publish the plugin:
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  1.1.0-patch1                                        | 2024-05-28                                          | 31                                                 | pditommaso                                         |
- |  1.3.0                                               | 2024-05-13                                          | 535                                                | pditommaso                                         |
+ |  1.3.0                                               | 2024-05-13                                          | 536                                                | pditommaso                                         |
  |  1.2.0                                               | 2024-02-05                                          | 26                                                 | pditommaso                                         |
  |  1.1.1                                               | 2023-11-24                                          | 38                                                 | pditommaso                                         |
  |  1.1.0                                               | 2023-07-22                                          | 116                                                | pditommaso                                         |
  |  1.0.6                                               | 2023-05-15                                          | 131                                                | pditommaso                                         |
- |  1.0.5                                               | 2023-04-13                                          | 327                                                | pditommaso                                         |
+ |  1.0.5                                               | 2023-04-13                                          | 330                                                | pditommaso                                         |
  |  1.0.4                                               | 2022-09-19                                          | 155                                                | pditommaso                                         |
  |  1.0.3                                               | 2021-05-28                                          | 138                                                | pditommaso                                         |
  |  1.0.2                                               | 2021-03-05                                          | 50                                                 | pditommaso                                         |
@@ -206,7 +206,7 @@ Follow these steps to package, upload and publish the plugin:
 
         {
             date: `2023-04-13`,
-            count: 327,
+            count: 330,
             y: '1.0.5' },
 
         {
@@ -231,7 +231,7 @@ Follow these steps to package, upload and publish the plugin:
 
         {
             date: `2024-05-13`,
-            count: 535,
+            count: 536,
             y: '1.3.0' },
 
         {

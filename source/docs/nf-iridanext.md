@@ -643,8 +643,8 @@ specific language governing permissions and limitations under the License.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.3.0                                               | 2025-02-17                                          | 1445                                               | emarinier                                          |
- |  0.2.0                                               | 2024-01-22                                          | 9024                                               | apetkau                                            |
+ |  0.3.0                                               | 2025-02-17                                          | 1547                                               | emarinier                                          |
+ |  0.2.0                                               | 2024-01-22                                          | 9057                                               | apetkau                                            |
  |  0.1.0                                               | 2023-12-15                                          | 277                                                | apetkau                                            |
 
 
@@ -660,12 +660,12 @@ specific language governing permissions and limitations under the License.
 
         {
             date: `2024-01-22`,
-            count: 9024,
+            count: 9057,
             y: '0.2.0' },
 
         {
             date: `2025-02-17`,
-            count: 1445,
+            count: 1547,
             y: '0.3.0' },
 
     ];

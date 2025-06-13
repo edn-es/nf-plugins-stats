@@ -239,7 +239,7 @@ nextflow run hello -plugins nf-boost@<version>
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.5.0                                               | 2025-03-13                                          | 681                                                | bentsherman                                        |
+ |  0.5.0                                               | 2025-03-13                                          | 743                                                | bentsherman                                        |
  |  0.4.0                                               | 2024-10-08                                          | 3847                                               | bentsherman                                        |
  |  0.3.2                                               | 2024-04-19                                          | 961                                                | bentsherman                                        |
  |  0.3.1                                               | 2024-04-14                                          | 194                                                | bentsherman                                        |
@@ -285,7 +285,7 @@ nextflow run hello -plugins nf-boost@<version>
 
         {
             date: `2025-03-13`,
-            count: 681,
+            count: 743,
             y: '0.5.0' },
 
     ];

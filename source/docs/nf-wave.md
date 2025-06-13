@@ -33,43 +33,43 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.4.2-patch2                                        | 2025-06-06                                          | 3                                                  | pditommaso                                         |
- |  1.7.5-patch1                                        | 2025-06-06                                          | 5                                                  | pditommaso                                         |
+ |  1.4.2-patch2                                        | 2025-06-06                                          | 15                                                 | pditommaso                                         |
+ |  1.7.5-patch1                                        | 2025-06-06                                          | 6                                                  | pditommaso                                         |
  |  1.13.0                                              | 2025-06-02                                          | 1                                                  | pditommaso                                         |
- |  1.12.1                                              | 2025-05-12                                          | 608                                                | pditommaso                                         |
- |  1.7.5                                               | 2025-04-23                                          | 868                                                | pditommaso                                         |
+ |  1.12.1                                              | 2025-05-12                                          | 681                                                | pditommaso                                         |
+ |  1.7.5                                               | 2025-04-23                                          | 1044                                               | pditommaso                                         |
  |  1.12.0                                              | 2025-04-23                                          | 81                                                 | pditommaso                                         |
  |  1.11.1                                              | 2025-04-05                                          | 27                                                 | pditommaso                                         |
  |  1.11.0                                              | 2025-03-18                                          | 26                                                 | pditommaso                                         |
  |  1.10.0                                              | 2025-02-12                                          | 271                                                | pditommaso                                         |
  |  1.9.0                                               | 2025-01-20                                          | 24                                                 | pditommaso                                         |
- |  1.8.0                                               | 2024-12-03                                          | 1291                                               | pditommaso                                         |
- |  1.7.4                                               | 2024-11-27                                          | 13004                                              | pditommaso                                         |
+ |  1.8.0                                               | 2024-12-03                                          | 1309                                               | pditommaso                                         |
+ |  1.7.4                                               | 2024-11-27                                          | 13114                                              | pditommaso                                         |
  |  1.7.3                                               | 2024-11-18                                          | 273                                                | pditommaso                                         |
  |  1.7.2                                               | 2024-10-27                                          | 2715                                               | pditommaso                                         |
  |  1.7.1                                               | 2024-10-14                                          | 201                                                | pditommaso                                         |
  |  1.7.0                                               | 2024-10-13                                          | 92                                                 | pditommaso                                         |
- |  1.6.0                                               | 2024-10-02                                          | 1943                                               | pditommaso                                         |
+ |  1.6.0                                               | 2024-10-02                                          | 1956                                               | pditommaso                                         |
  |  1.5.1                                               | 2024-09-04                                          | 176                                                | pditommaso                                         |
  |  1.5.0                                               | 2024-08-05                                          | 161                                                | pditommaso                                         |
- |  1.4.2-patch1                                        | 2024-08-01                                          | 10541                                              | pditommaso                                         |
+ |  1.4.2-patch1                                        | 2024-08-01                                          | 10680                                              | pditommaso                                         |
  |  1.4.4                                               | 2024-07-08                                          | 468                                                | pditommaso                                         |
- |  1.4.3                                               | 2024-06-17                                          | 1881                                               | pditommaso                                         |
+ |  1.4.3                                               | 2024-06-17                                          | 1908                                               | pditommaso                                         |
  |  1.0.1-patch1                                        | 2024-05-28                                          | 1082                                               | pditommaso                                         |
- |  1.4.2                                               | 2024-05-20                                          | 5531                                               | pditommaso                                         |
+ |  1.4.2                                               | 2024-05-20                                          | 5595                                               | pditommaso                                         |
  |  1.4.1                                               | 2024-05-13                                          | 238                                                | pditommaso                                         |
  |  1.4.0                                               | 2024-04-15                                          | 928                                                | pditommaso                                         |
  |  1.3.1                                               | 2024-03-10                                          | 174                                                | pditommaso                                         |
  |  1.3.0                                               | 2024-02-05                                          | 1164                                               | pditommaso                                         |
- |  1.0.1                                               | 2024-01-12                                          | 18578                                              | pditommaso                                         |
- |  1.2.0                                               | 2023-12-20                                          | 1854                                               | pditommaso                                         |
- |  1.1.0                                               | 2023-11-24                                          | 1756                                               | pditommaso                                         |
- |  1.0.0                                               | 2023-10-15                                          | 5505                                               | pditommaso                                         |
+ |  1.0.1                                               | 2024-01-12                                          | 18681                                              | pditommaso                                         |
+ |  1.2.0                                               | 2023-12-20                                          | 1878                                               | pditommaso                                         |
+ |  1.1.0                                               | 2023-11-24                                          | 1760                                               | pditommaso                                         |
+ |  1.0.0                                               | 2023-10-15                                          | 5554                                               | pditommaso                                         |
  |  0.14.0                                              | 2023-10-10                                          | 205                                                | pditommaso                                         |
  |  0.13.0                                              | 2023-09-27                                          | 373                                                | pditommaso                                         |
  |  0.12.0                                              | 2023-09-10                                          | 684                                                | pditommaso                                         |
- |  0.11.2                                              | 2023-08-17                                          | 2898                                               | pditommaso                                         |
- |  0.8.4                                               | 2023-08-11                                          | 3887                                               | pditommaso                                         |
+ |  0.11.2                                              | 2023-08-17                                          | 2906                                               | pditommaso                                         |
+ |  0.8.4                                               | 2023-08-11                                          | 3890                                               | pditommaso                                         |
  |  0.11.1                                              | 2023-08-05                                          | 992                                                | pditommaso                                         |
  |  0.11.0                                              | 2023-07-22                                          | 194                                                | pditommaso                                         |
  |  0.10.0                                              | 2023-06-14                                          | 1024                                               | pditommaso                                         |
@@ -88,7 +88,7 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
  |  0.6.2                                               | 2022-12-08                                          | 229                                                | pditommaso                                         |
  |  0.6.1                                               | 2022-11-29                                          | 254                                                | pditommaso                                         |
  |  0.6.0                                               | 2022-11-23                                          | 232                                                | pditommaso                                         |
- |  0.5.2                                               | 2022-10-11                                          | 1978                                               | pditommaso                                         |
+ |  0.5.2                                               | 2022-10-11                                          | 1979                                               | pditommaso                                         |
  |  0.5.1                                               | 2022-10-07                                          | 241                                                | pditommaso                                         |
  |  0.5.0                                               | 2022-10-03                                          | 240                                                | pditommaso                                         |
  |  0.4.5                                               | 2022-09-29                                          | 281                                                | pditommaso                                         |
@@ -170,7 +170,7 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2022-10-11`,
-            count: 1978,
+            count: 1979,
             y: '0.5.2' },
 
         {
@@ -265,12 +265,12 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2023-08-11`,
-            count: 3887,
+            count: 3890,
             y: '0.8.4' },
 
         {
             date: `2023-08-17`,
-            count: 2898,
+            count: 2906,
             y: '0.11.2' },
 
         {
@@ -290,22 +290,22 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2023-10-15`,
-            count: 5505,
+            count: 5554,
             y: '1.0.0' },
 
         {
             date: `2023-11-24`,
-            count: 1756,
+            count: 1760,
             y: '1.1.0' },
 
         {
             date: `2023-12-20`,
-            count: 1854,
+            count: 1878,
             y: '1.2.0' },
 
         {
             date: `2024-01-12`,
-            count: 18578,
+            count: 18681,
             y: '1.0.1' },
 
         {
@@ -330,7 +330,7 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2024-05-20`,
-            count: 5531,
+            count: 5595,
             y: '1.4.2' },
 
         {
@@ -340,7 +340,7 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2024-06-17`,
-            count: 1881,
+            count: 1908,
             y: '1.4.3' },
 
         {
@@ -350,7 +350,7 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2024-08-01`,
-            count: 10541,
+            count: 10680,
             y: '1.4.2-patch1' },
 
         {
@@ -365,7 +365,7 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2024-10-02`,
-            count: 1943,
+            count: 1956,
             y: '1.6.0' },
 
         {
@@ -390,12 +390,12 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2024-11-27`,
-            count: 13004,
+            count: 13114,
             y: '1.7.4' },
 
         {
             date: `2024-12-03`,
-            count: 1291,
+            count: 1309,
             y: '1.8.0' },
 
         {
@@ -425,12 +425,12 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2025-04-23`,
-            count: 868,
+            count: 1044,
             y: '1.7.5' },
 
         {
             date: `2025-05-12`,
-            count: 608,
+            count: 681,
             y: '1.12.1' },
 
         {
@@ -440,12 +440,12 @@ Wave containers plugin code is hosted in the [Nextflow repository](https://githu
 
         {
             date: `2025-06-06`,
-            count: 5,
+            count: 6,
             y: '1.7.5-patch1' },
 
         {
             date: `2025-06-06`,
-            count: 3,
+            count: 15,
             y: '1.4.2-patch2' },
 
     ];

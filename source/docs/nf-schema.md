@@ -102,17 +102,17 @@ We would like to thank the key contributors who include (but are not limited to)
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  2.4.2                                               | 2025-05-07                                          | 2218                                               | nvnieuwk                                           |
- |  2.4.1                                               | 2025-04-10                                          | 1366                                               | nvnieuwk                                           |
- |  2.4.0                                               | 2025-04-03                                          | 413                                                | nvnieuwk                                           |
- |  Hakodate                                            | 2025-01-13                                          | 74811                                              | nvnieuwk                                           |
- |  2.2.1                                               | 2024-12-03                                          | 12985                                              | nvnieuwk                                           |
- |  Kitakata                                            | 2024-10-30                                          | 28196                                              | nvnieuwk                                           |
- |  2.1.2                                               | 2024-10-18                                          | 8539                                               | nvnieuwk                                           |
- |  2.1.1                                               | 2024-09-19                                          | 94298                                              | nvnieuwk                                           |
- |  Tantanmen                                           | 2024-08-20                                          | 10755                                              | nvnieuwk                                           |
- |  2.0.1                                               | 2024-07-04                                          | 1427                                               | nvnieuwk                                           |
- |  Kagoshima                                           | 2024-04-22                                          | 16686                                              | nvnieuwk                                           |
+ |  2.4.2                                               | 2025-05-07                                          | 2729                                               | nvnieuwk                                           |
+ |  2.4.1                                               | 2025-04-10                                          | 1459                                               | nvnieuwk                                           |
+ |  2.4.0                                               | 2025-04-03                                          | 417                                                | nvnieuwk                                           |
+ |  Hakodate                                            | 2025-01-13                                          | 77906                                              | nvnieuwk                                           |
+ |  2.2.1                                               | 2024-12-03                                          | 13463                                              | nvnieuwk                                           |
+ |  Kitakata                                            | 2024-10-30                                          | 28939                                              | nvnieuwk                                           |
+ |  2.1.2                                               | 2024-10-18                                          | 8555                                               | nvnieuwk                                           |
+ |  2.1.1                                               | 2024-09-19                                          | 95140                                              | nvnieuwk                                           |
+ |  Tantanmen                                           | 2024-08-20                                          | 10842                                              | nvnieuwk                                           |
+ |  2.0.1                                               | 2024-07-04                                          | 1432                                               | nvnieuwk                                           |
+ |  Kagoshima                                           | 2024-04-22                                          | 16888                                              | nvnieuwk                                           |
 
 
 <script>
@@ -122,57 +122,57 @@ We would like to thank the key contributors who include (but are not limited to)
 
         {
             date: `2024-04-22`,
-            count: 16686,
+            count: 16888,
             y: 'Kagoshima' },
 
         {
             date: `2024-07-04`,
-            count: 1427,
+            count: 1432,
             y: '2.0.1' },
 
         {
             date: `2024-08-20`,
-            count: 10755,
+            count: 10842,
             y: 'Tantanmen' },
 
         {
             date: `2024-09-19`,
-            count: 94298,
+            count: 95140,
             y: '2.1.1' },
 
         {
             date: `2024-10-18`,
-            count: 8539,
+            count: 8555,
             y: '2.1.2' },
 
         {
             date: `2024-10-30`,
-            count: 28196,
+            count: 28939,
             y: 'Kitakata' },
 
         {
             date: `2024-12-03`,
-            count: 12985,
+            count: 13463,
             y: '2.2.1' },
 
         {
             date: `2025-01-13`,
-            count: 74811,
+            count: 77906,
             y: 'Hakodate' },
 
         {
             date: `2025-04-03`,
-            count: 413,
+            count: 417,
             y: '2.4.0' },
 
         {
             date: `2025-04-10`,
-            count: 1366,
+            count: 1459,
             y: '2.4.1' },
 
         {
             date: `2025-05-07`,
-            count: 2218,
+            count: 2729,
             y: '2.4.2' },
 
     ];

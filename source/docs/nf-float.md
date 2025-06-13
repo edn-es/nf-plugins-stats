@@ -634,7 +634,7 @@ The output is available at `./plugins/nf-float/build/libs/`
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  0.4.7                                               | 2025-05-24                                          | 53                                                 | GallVp                                             |
+ |  0.4.7                                               | 2025-05-24                                          | 72                                                 | GallVp                                             |
  |  0.4.6                                               | 2024-09-26                                          | 2270                                               | jealous                                            |
  |  0.4.5                                               | 2024-09-19                                          | 272                                                | jealous                                            |
  |  0.4.4                                               | 2024-09-12                                          | 211                                                | jealous                                            |
@@ -734,7 +734,7 @@ The output is available at `./plugins/nf-float/build/libs/`
 
         {
             date: `2025-05-24`,
-            count: 53,
+            count: 72,
             y: '0.4.7' },
 
     ];

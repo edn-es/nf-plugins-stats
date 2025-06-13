@@ -67,13 +67,13 @@ Copyright 2021-2024, Seqera Labs, S.L. All Rights Reserved.
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.3.2                                               | 2024-07-30                                          | 43094                                              | pditommaso                                         |
- |  1.6.0                                               | 2024-05-14                                          | 6862                                               | pditommaso                                         |
- |  1.5.0                                               | 2024-02-05                                          | 1538                                               | pditommaso                                         |
- |  1.4.0                                               | 2023-12-26                                          | 515                                                | pditommaso                                         |
+ |  1.3.2                                               | 2024-07-30                                          | 43360                                              | pditommaso                                         |
+ |  1.6.0                                               | 2024-05-14                                          | 6864                                               | pditommaso                                         |
+ |  1.5.0                                               | 2024-02-05                                          | 1596                                               | pditommaso                                         |
+ |  1.4.0                                               | 2023-12-26                                          | 539                                                | pditommaso                                         |
  |  1.3.1                                               | 2023-08-09                                          | 6432                                               | pditommaso                                         |
  |  1.3.0                                               | 2023-05-19                                          | 1143                                               | pditommaso                                         |
- |  1.2.1                                               | 2023-01-14                                          | 2356                                               | pditommaso                                         |
+ |  1.2.1                                               | 2023-01-14                                          | 2361                                               | pditommaso                                         |
  |  1.2.0                                               | 2022-07-25                                          | 29156                                              | pditommaso                                         |
  |  1.2.0-rc.5                                          | 2022-05-06                                          | 3593                                               | pditommaso                                         |
  |  1.2.0-rc.4                                          | 2022-03-26                                          | 601                                                | pditommaso                                         |
@@ -155,7 +155,7 @@ Copyright 2021-2024, Seqera Labs, S.L. All Rights Reserved.
 
         {
             date: `2023-01-14`,
-            count: 2356,
+            count: 2361,
             y: '1.2.1' },
 
         {
@@ -170,22 +170,22 @@ Copyright 2021-2024, Seqera Labs, S.L. All Rights Reserved.
 
         {
             date: `2023-12-26`,
-            count: 515,
+            count: 539,
             y: '1.4.0' },
 
         {
             date: `2024-02-05`,
-            count: 1538,
+            count: 1596,
             y: '1.5.0' },
 
         {
             date: `2024-05-14`,
-            count: 6862,
+            count: 6864,
             y: '1.6.0' },
 
         {
             date: `2024-07-30`,
-            count: 43094,
+            count: 43360,
             y: '1.3.2' },
 
     ];

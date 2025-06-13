@@ -130,13 +130,13 @@ Following these step to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.4.0                                               | 2025-02-06                                          | 4664                                               | bentsherman                                        |
- |  1.3.0                                               | 2024-11-05                                          | 1519                                               | bentsherman                                        |
- |  1.2.4                                               | 2024-08-01                                          | 14002                                              | bentsherman                                        |
+ |  1.4.0                                               | 2025-02-06                                          | 4801                                               | bentsherman                                        |
+ |  1.3.0                                               | 2024-11-05                                          | 1521                                               | bentsherman                                        |
+ |  1.2.4                                               | 2024-08-01                                          | 14109                                              | bentsherman                                        |
  |  1.2.3                                               | 2024-07-03                                          | 2940                                               | bentsherman                                        |
- |  1.2.2                                               | 2024-03-27                                          | 120143                                             | bentsherman                                        |
- |  1.2.1                                               | 2023-10-27                                          | 16537                                              | bentsherman                                        |
- |  1.2.0                                               | 2023-10-27                                          | 181                                                | bentsherman                                        |
+ |  1.2.2                                               | 2024-03-27                                          | 120841                                             | bentsherman                                        |
+ |  1.2.1                                               | 2023-10-27                                          | 16538                                              | bentsherman                                        |
+ |  1.2.0                                               | 2023-10-27                                          | 182                                                | bentsherman                                        |
  |  1.1.0                                               | 2023-09-28                                          | 1720                                               | bentsherman                                        |
  |  1.0.0                                               | 2022-12-19                                          | 553                                                | BrunoGrandePhD                                     |
 
@@ -158,17 +158,17 @@ Following these step to package, upload and publish the plugin:
 
         {
             date: `2023-10-27`,
-            count: 181,
+            count: 182,
             y: '1.2.0' },
 
         {
             date: `2023-10-27`,
-            count: 16537,
+            count: 16538,
             y: '1.2.1' },
 
         {
             date: `2024-03-27`,
-            count: 120143,
+            count: 120841,
             y: '1.2.2' },
 
         {
@@ -178,17 +178,17 @@ Following these step to package, upload and publish the plugin:
 
         {
             date: `2024-08-01`,
-            count: 14002,
+            count: 14109,
             y: '1.2.4' },
 
         {
             date: `2024-11-05`,
-            count: 1519,
+            count: 1521,
             y: '1.3.0' },
 
         {
             date: `2025-02-06`,
-            count: 4664,
+            count: 4801,
             y: '1.4.0' },
 
     ];

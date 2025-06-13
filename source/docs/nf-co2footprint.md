@@ -80,7 +80,7 @@ You are free to use, share, and adapt the data under the terms of the ODbL. For 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  1.0.0-beta1                                         | 2025-01-23                                          | 103                                                | Bastian-Eisenmann                                  |
- |  1.0.0-beta                                          | 2024-01-19                                          | 3382                                               | skrakau                                            |
+ |  1.0.0-beta                                          | 2024-01-19                                          | 3385                                               | skrakau                                            |
 
 
 <script>
@@ -90,7 +90,7 @@ You are free to use, share, and adapt the data under the terms of the ODbL. For 
 
         {
             date: `2024-01-19`,
-            count: 3382,
+            count: 3385,
             y: '1.0.0-beta' },
 
         {

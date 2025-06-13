@@ -302,8 +302,8 @@ Follow these steps to package, upload and publish the plugin:
 
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
- |  1.1.2                                               | 2023-11-22                                          | 53367                                              | bentsherman                                        |
- |  1.1.1                                               | 2023-11-08                                          | 1780                                               | bentsherman                                        |
+ |  1.1.2                                               | 2023-11-22                                          | 54361                                              | bentsherman                                        |
+ |  1.1.1                                               | 2023-11-08                                          | 1788                                               | bentsherman                                        |
  |  1.1.0                                               | 2023-08-29                                          | 683                                                | bentsherman                                        |
  |  1.0.0                                               | 2023-08-17                                          | 178                                                | pditommaso                                         |
 
@@ -325,12 +325,12 @@ Follow these steps to package, upload and publish the plugin:
 
         {
             date: `2023-11-08`,
-            count: 1780,
+            count: 1788,
             y: '1.1.1' },
 
         {
             date: `2023-11-22`,
-            count: 53367,
+            count: 54361,
             y: '1.1.2' },
 
     ];

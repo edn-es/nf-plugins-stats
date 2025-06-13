@@ -146,7 +146,7 @@ Copyright 2021-2023, Seqera Labs, S.L. All Rights Reserved.
 | Release                               |                       Date                       |                   Downloads                    |                           Author |
 | :------------ |:------------------------------------------------:|:----------------------------------------------:|---------------------------------:|
  |  1.3.0                                               | 2024-05-14                                          | 188                                                | pditommaso                                         |
- |  1.2.0                                               | 2024-02-05                                          | 459                                                | pditommaso                                         |
+ |  1.2.0                                               | 2024-02-05                                          | 461                                                | pditommaso                                         |
  |  1.1.0                                               | 2023-12-26                                          | 25                                                 | pditommaso                                         |
  |  1.0.0                                               | 2023-08-09                                          | 102                                                | pditommaso                                         |
  |  1.0.0-beta.3                                        | 2023-04-09                                          | 57                                                 | pditommaso                                         |
@@ -186,7 +186,7 @@ Copyright 2021-2023, Seqera Labs, S.L. All Rights Reserved.
 
         {
             date: `2024-02-05`,
-            count: 459,
+            count: 461,
             y: '1.2.0' },
 
         {
