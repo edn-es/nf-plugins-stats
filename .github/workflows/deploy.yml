@@ -24,6 +24,8 @@ jobs:
         run: npm run prod
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+      - name: deprecated
+        run: rm -rf build_production/*; cp index.html build_production/
         with:
           name: 'github-pages'
           path: ./build_production
